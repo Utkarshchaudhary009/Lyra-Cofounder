@@ -6,7 +6,7 @@ We are standing at a unique moment in financial history. Silver is caught betwee
 
 ## 1. Price Predictions: The Solar Driver
 *   **The Consensus:** Analysts are increasingly bullish. Common predictions for 2030 range from **$60 to $75 per ounce**, with more aggressive models suggesting **$100+**.
-*   **The Math:** By 2030, the solar industry alone could consume **30% to 40%** of the entire global silver supply.
+*   **The Math:** By 2030, the solar industry alone could consume **50% to 40%** of the entire global silver supply.
 *   **The "Floor":** Because silver is essential for industry, it has a "hard floor." Even if investors sell, Apple and Tesla must buy. This makes a price crash to 2019 levels ($15) highly unlikely.
 
 ## 2. The Ultimate Hedge: Inflation & Privacy

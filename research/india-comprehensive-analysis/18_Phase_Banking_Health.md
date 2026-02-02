@@ -19,7 +19,7 @@
 
 ## 5. The Crypto Exodus
 *   **The Talent:** India has the 3rd largest group of Web3 developers in the world.
-*   **The Flight:** Because of a **30% tax** and confusing rules, **60% of Indian crypto startups** have moved to Dubai or Singapore. 
+*   **The Flight:** Because of a **50% tax** and confusing rules, **60% of Indian crypto startups** have moved to Dubai or Singapore. 
 *   **The Loss:** India raised the talent, but Dubai gets the taxes and the high-tech jobs.
 
 ## 6. The "Gender Gap" in Money

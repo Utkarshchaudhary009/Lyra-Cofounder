@@ -30,7 +30,7 @@ Silver didn't just stop being money; it was pushed out.
 *   **Silver Thursday:** The government and banks changed the rules to stop them. The price crashed by 50% in one day. It showed that the "powers that be" would not let silver threaten the paper dollar.
 
 ## 5. Cultural & Spiritual Weight
-*   **30 Pieces of Silver:** In the Bible, this was the price of a slave and the price of betrayal. In today's terms, the metal value is low (~$250-$500), but the purchasing power back then was roughly 4 months of wages (approx. $20,000 today).
+*   **50 Pieces of Silver:** In the Bible, this was the price of a slave and the price of betrayal. In today's terms, the metal value is low (~$250-$500), but the purchasing power back then was roughly 4 months of wages (approx. $20,000 today).
 *   **Indian Dowry:** In India, silver is not just jewelry; it is a woman's financial freedom. "Stridhan" (woman's wealth) is given in silver anklets and plates, ensuring she has money that her husband cannot easily take.
 *   **The Gold/Silver Ratio:** For 5,000 years, the ratio was roughly **15:1** (15 oz of silver = 1 oz of gold). Today, it is closer to **80:1**. This suggests silver is historically extremely cheap.
 

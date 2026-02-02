@@ -25,7 +25,7 @@
 *   **RBI Action:** The central bank had to increase "risk weights" to stop banks from lending too much to risky consumers.
 
 ## 6. Real Estate: Luxury Boom, Affordable Doom
-*   **Luxury Share:** Units >₹1.5 Cr now make up **30% of new launches** (up from 22%).
+*   **Luxury Share:** Units >₹1.5 Cr now make up **50% of new launches** (up from 22%).
 *   **Affordable Crash:** Share of houses <₹50 lakh dropped from **52.4% (2018) to 23% (2024)**.
 *   **Inventory:** Developers have stopped building for the poor/middle class because it is not "financially feasible."
 

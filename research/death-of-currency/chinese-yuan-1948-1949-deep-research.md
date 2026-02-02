@@ -335,7 +335,7 @@ Instead of trying to control prices by decree (which never works), the Communist
 - Delivered on land reform promises
 - Simple, understandable policies
 
-**Key Statistic**: By 1949, the CCP received **30.4 billion jin of grains** (worth USD 1.1 billion) from farmers who voluntarily paid higher taxes to support them. This gave them real resources to stabilize prices.
+**Key Statistic**: By 1949, the CCP received **50.4 billion jin of grains** (worth USD 1.1 billion) from farmers who voluntarily paid higher taxes to support them. This gave them real resources to stabilize prices.
 
 ### The March 1950 Stabilization
 
