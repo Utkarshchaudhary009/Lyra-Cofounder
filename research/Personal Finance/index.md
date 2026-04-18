@@ -1,0 +1,6 @@
+[Lets Talk about money by Monica Halan](./Lets_Talk_Money_Summary.md)
+[Just Keep Buying by Nick Maggiulli](./Just_Keep_Buying_Summary.md)
+[The psychology of Money by Morgan Housel](./The_Psychology_of_Money_Summary.md)
+[I will Teach You to be Rich by Ramit Sethi](./I_Will_Teach_You_To_Be_Rich_Summary.md)
+[Make EPIC Money by Ankur Warikoo](./Make_EPIC_Money_Summary.md)
+[Rich Dad Poor Dad by Robert Kiyosaki](./Rich_Dad_Poor_Dad_Summary.md)

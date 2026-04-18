@@ -1,1 +1,0 @@
-After completing any task, always use the `say` CLI to speak the result aloud (e.g., `say "Task completed successfully"`). Keep spoken output concise and informative.
