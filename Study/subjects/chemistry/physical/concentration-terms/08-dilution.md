@@ -115,10 +115,21 @@ Answer: 0.4 M
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-8.1a"></span>[8.1a](./answer-key.md#ans-8.1a) | 50 mL of 4 M NaOH diluted to 200 mL. Find M₂. | 🟢 |
-| <span id="q-8.1b"></span>[8.1b](./answer-key.md#ans-8.1b) | 250 mL of 0.5 M glucose diluted to 1 L. Find M₂. | 🟢 |
-| <span id="q-8.1c"></span>[8.1c](./answer-key.md#ans-8.1c) | 10 mL of 12 M HCl diluted to 500 mL. Find M₂. | 🟢 |
-| <span id="q-8.1d"></span>[8.1d](./answer-key.md#ans-8.1d) | 25 mL of 0.1 M KMnO₄ diluted to 250 mL. Find M₂. | 🟢 |
+| <span id="q-8.1a"></span>8.1a | 50 mL of 4 M NaOH diluted to 200 mL. Find M₂. | 🟢 |
+| <span id="q-8.1b"></span>8.1b | 250 mL of 0.5 M glucose diluted to 1 L. Find M₂. | 🟢 |
+| <span id="q-8.1c"></span>8.1c | 10 mL of 12 M HCl diluted to 500 mL. Find M₂. | 🟢 |
+| <span id="q-8.1d"></span>8.1d | 25 mL of 0.1 M KMnO₄ diluted to 250 mL. Find M₂. | 🟢 |
+
+<details>
+<summary>View Answers</summary>
+
+**8.1a**: 1 M
+**8.1b**: 0.125 M
+**8.1c**: Answer not found.
+**8.1d**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -147,10 +158,21 @@ Answer: 41.67 mL
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-8.2a"></span>[8.2a](./answer-key.md#ans-8.2a) | Volume of 18 M H₂SO₄ needed to make 1 L of 0.5 M H₂SO₄? ⭐ | 🟡 |
-| <span id="q-8.2b"></span>[8.2b](./answer-key.md#ans-8.2b) | Volume of 15 M HNO₃ to make 250 mL of 3 M HNO₃? | 🟡 |
-| <span id="q-8.2c"></span>[8.2c](./answer-key.md#ans-8.2c) | Volume of 12 M HCl to make 2 L of 0.1 M HCl? ⭐ | 🟡 |
-| <span id="q-8.2d"></span>[8.2d](./answer-key.md#ans-8.2d) | You need 100 mL of 0.01 M KMnO₄. You have 0.1 M KMnO₄. How much? | 🟡 |
+| <span id="q-8.2a"></span>8.2a | Volume of 18 M H₂SO₄ needed to make 1 L of 0.5 M H₂SO₄? ⭐ | 🟡 |
+| <span id="q-8.2b"></span>8.2b | Volume of 15 M HNO₃ to make 250 mL of 3 M HNO₃? | 🟡 |
+| <span id="q-8.2c"></span>8.2c | Volume of 12 M HCl to make 2 L of 0.1 M HCl? ⭐ | 🟡 |
+| <span id="q-8.2d"></span>8.2d | You need 100 mL of 0.01 M KMnO₄. You have 0.1 M KMnO₄. How much? | 🟡 |
+
+<details>
+<summary>View Answers</summary>
+
+**8.2a**: 27.78 mL
+**8.2b**: 50 mL
+**8.2c**: 16.67 mL
+**8.2d**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -180,9 +202,19 @@ Answer: 400 mL of water was added.
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-8.3a"></span>[8.3a](./answer-key.md#ans-8.3a) | 100 mL of 5 M HCl diluted to 2 M. How much water added? | 🟢 |
-| <span id="q-8.3b"></span>[8.3b](./answer-key.md#ans-8.3b) | 500 mL of 0.2 M NaOH diluted to 0.05 M. Volume of water added? | 🟡 |
-| <span id="q-8.3c"></span>[8.3c](./answer-key.md#ans-8.3c) | 50 mL of 10 M H₂SO₄ needs to become 1 M. Water needed? | 🟡 |
+| <span id="q-8.3a"></span>8.3a | 100 mL of 5 M HCl diluted to 2 M. How much water added? | 🟢 |
+| <span id="q-8.3b"></span>8.3b | 500 mL of 0.2 M NaOH diluted to 0.05 M. Volume of water added? | 🟡 |
+| <span id="q-8.3c"></span>8.3c | 50 mL of 10 M H₂SO₄ needs to become 1 M. Water needed? | 🟡 |
+
+<details>
+<summary>View Answers</summary>
+
+**8.3a**: 150 mL
+**8.3b**: Answer not found.
+**8.3c**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -219,9 +251,19 @@ Two 10× dilutions = 100× total dilution: 10 M → 0.1 M ✅
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-8.4a"></span>[8.4a](./answer-key.md#ans-8.4a) | 5 mL of 6 M HCl → diluted to 50 mL (A). 5 mL of A → diluted to 50 mL (B). Find M_B. | 🟡 |
-| <span id="q-8.4b"></span>[8.4b](./answer-key.md#ans-8.4b) | Three successive 2× dilutions on a 8 M solution. Final molarity? | 🟡 |
-| <span id="q-8.4c"></span>[8.4c](./answer-key.md#ans-8.4c) | You need a 10⁻⁵ M solution from 0.1 M stock. Design a serial dilution protocol (suggest number of steps and volumes). | 🔴 |
+| <span id="q-8.4a"></span>8.4a | 5 mL of 6 M HCl → diluted to 50 mL (A). 5 mL of A → diluted to 50 mL (B). Find M_B. | 🟡 |
+| <span id="q-8.4b"></span>8.4b | Three successive 2× dilutions on a 8 M solution. Final molarity? | 🟡 |
+| <span id="q-8.4c"></span>8.4c | You need a 10⁻⁵ M solution from 0.1 M stock. Design a serial dilution protocol (suggest number of steps and volumes). | 🔴 |
+
+<details>
+<summary>View Answers</summary>
+
+**8.4a**: 0.06 M
+**8.4b**: 1 M
+**8.4c**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -258,9 +300,19 @@ Answer: Take 54.35 mL of conc. H₂SO₄ and dilute to 1 L.
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-8.5a"></span>[8.5a](./answer-key.md#ans-8.5a) | Prepare 500 mL of 0.1 M HCl from conc. HCl (37%, d = 1.19, M = 36.5). ⭐ | 🟡 |
-| <span id="q-8.5b"></span>[8.5b](./answer-key.md#ans-8.5b) | Prepare 2 L of 0.5 M HNO₃ from conc. HNO₃ (68%, d = 1.41, M = 63). | 🟡 |
-| <span id="q-8.5c"></span>[8.5c](./answer-key.md#ans-8.5c) | A lab needs 250 mL of 2 M H₂SO₄. How much conc. H₂SO₄ (98%, d=1.84)? | 🟡 |
+| <span id="q-8.5a"></span>8.5a | Prepare 500 mL of 0.1 M HCl from conc. HCl (37%, d = 1.19, M = 36.5). ⭐ | 🟡 |
+| <span id="q-8.5b"></span>8.5b | Prepare 2 L of 0.5 M HNO₃ from conc. HNO₃ (68%, d = 1.41, M = 63). | 🟡 |
+| <span id="q-8.5c"></span>8.5c | A lab needs 250 mL of 2 M H₂SO₄. How much conc. H₂SO₄ (98%, d=1.84)? | 🟡 |
+
+<details>
+<summary>View Answers</summary>
+
+**8.5a**: 4.14 mL
+**8.5b**: Answer not found.
+**8.5c**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -290,10 +342,21 @@ Answer: 0.5 M
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-8.6a"></span>[8.6a](./answer-key.md#ans-8.6a) | 1 L of 0.1 M NaCl is boiled until volume = 250 mL. Find M₂. | 🟡 |
-| <span id="q-8.6b"></span>[8.6b](./answer-key.md#ans-8.6b) | 200 mL of 2 M sugar solution evaporates to 50 mL. Find M₂. | 🟡 |
-| <span id="q-8.6c"></span>[8.6c](./answer-key.md#ans-8.6c) | A 500 mL solution is 0.4 M. After evaporation, it's 1.0 M. How much water was lost? | 🟡 |
-| <span id="q-8.6d"></span>[8.6d](./answer-key.md#ans-8.6d) | Why can't you use this method to concentrate an ethanol-water solution? | 🟡 |
+| <span id="q-8.6a"></span>8.6a | 1 L of 0.1 M NaCl is boiled until volume = 250 mL. Find M₂. | 🟡 |
+| <span id="q-8.6b"></span>8.6b | 200 mL of 2 M sugar solution evaporates to 50 mL. Find M₂. | 🟡 |
+| <span id="q-8.6c"></span>8.6c | A 500 mL solution is 0.4 M. After evaporation, it's 1.0 M. How much water was lost? | 🟡 |
+| <span id="q-8.6d"></span>8.6d | Why can't you use this method to concentrate an ethanol-water solution? | 🟡 |
+
+<details>
+<summary>View Answers</summary>
+
+**8.6a**: Answer not found.
+**8.6b**: Answer not found.
+**8.6c**: Answer not found.
+**8.6d**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -338,8 +401,17 @@ Example:
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-8.7a"></span>[8.7a](./answer-key.md#ans-8.7a) | A 3 m solution has 200 g of water. 300 g of water is added. Find new molality. | 🟡 |
-| <span id="q-8.7b"></span>[8.7b](./answer-key.md#ans-8.7b) | A 1 m aqueous glucose solution (M=180). 18 g of glucose is in 1 kg of water. If 500 g of water is added, find (a) new molality (b) new mole fraction. | 🟡 |
+| <span id="q-8.7a"></span>8.7a | A 3 m solution has 200 g of water. 300 g of water is added. Find new molality. | 🟡 |
+| <span id="q-8.7b"></span>8.7b | A 1 m aqueous glucose solution (M=180). 18 g of glucose is in 1 kg of water. If 500 g of water is added, find (a) new molality (b) new mole fraction. | 🟡 |
+
+<details>
+<summary>View Answers</summary>
+
+**8.7a**: Answer not found.
+**8.7b**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -370,9 +442,19 @@ Alternatively: Dilution factor = V₂/V₁ = 400/100 = 4×
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-8.8a"></span>[8.8a](./answer-key.md#ans-8.8a) | 50 mL of 6 M HCl diluted to 300 mL. % decrease in molarity? | 🟡 |
-| <span id="q-8.8b"></span>[8.8b](./answer-key.md#ans-8.8b) | A solution's concentration drops by 90%. What was the dilution factor? | 🟡 |
-| <span id="q-8.8c"></span>[8.8c](./answer-key.md#ans-8.8c) | After a 5× dilution, the concentration is 0.3 M. What was the original M? | 🟢 |
+| <span id="q-8.8a"></span>8.8a | 50 mL of 6 M HCl diluted to 300 mL. % decrease in molarity? | 🟡 |
+| <span id="q-8.8b"></span>8.8b | A solution's concentration drops by 90%. What was the dilution factor? | 🟡 |
+| <span id="q-8.8c"></span>8.8c | After a 5× dilution, the concentration is 0.3 M. What was the original M? | 🟢 |
+
+<details>
+<summary>View Answers</summary>
+
+**8.8a**: Answer not found.
+**8.8b**: Answer not found.
+**8.8c**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -380,10 +462,21 @@ Alternatively: Dilution factor = V₂/V₁ = 400/100 = 4×
 
 | # | Question | Types Used | Difficulty |
 |---|----------|------------|------------|
-| <span id="q-8.M1"></span>[8.M1](./answer-key.md#ans-8.M1) | You have conc. H₂SO₄ (18.4 M). (a) Find volume needed for 500 mL of 2 M. (b) If you accidentally dilute to 600 mL instead of 500 mL, what's the actual M? (c) To fix it, how much water must you evaporate? | T2 + T1 + T6 | 🟡 |
-| <span id="q-8.M2"></span>[8.M2](./answer-key.md#ans-8.M2) | 10 mL of 12 M HCl is diluted to 100 mL (A), then 20 mL of A is diluted to 200 mL (B), then 50 mL of B is diluted to 500 mL (C). Find M of C. Verify using the total dilution factor. | T4 | 🟡 |
-| <span id="q-8.M3"></span>[8.M3](./answer-key.md#ans-8.M3) | A 2 m glucose solution (M=180) has 1 kg of water. (a) Find moles of glucose. (b) If you add 500 g of water, find new molality. (c) If the new solution has d = 1.03 g/mL, find the new molarity. | T7 + Ch5 + Ch6 | 🔴 |
-| <span id="q-8.M4"></span>[8.M4](./answer-key.md#ans-8.M4) | 100 mL of 0.5 N H₂SO₄ is diluted to 500 mL. (a) Find new N. (b) Convert to M. (c) What volume of this diluted solution neutralises 25 mL of 0.1 N NaOH? | T1 + Ch7-T2 + Ch7-T5 | 🟡 |
+| <span id="q-8.M1"></span>8.M1 | You have conc. H₂SO₄ (18.4 M). (a) Find volume needed for 500 mL of 2 M. (b) If you accidentally dilute to 600 mL instead of 500 mL, what's the actual M? (c) To fix it, how much water must you evaporate? | T2 + T1 + T6 | 🟡 |
+| <span id="q-8.M2"></span>8.M2 | 10 mL of 12 M HCl is diluted to 100 mL (A), then 20 mL of A is diluted to 200 mL (B), then 50 mL of B is diluted to 500 mL (C). Find M of C. Verify using the total dilution factor. | T4 | 🟡 |
+| <span id="q-8.M3"></span>8.M3 | A 2 m glucose solution (M=180) has 1 kg of water. (a) Find moles of glucose. (b) If you add 500 g of water, find new molality. (c) If the new solution has d = 1.03 g/mL, find the new molarity. | T7 + Ch5 + Ch6 | 🔴 |
+| <span id="q-8.M4"></span>8.M4 | 100 mL of 0.5 N H₂SO₄ is diluted to 500 mL. (a) Find new N. (b) Convert to M. (c) What volume of this diluted solution neutralises 25 mL of 0.1 N NaOH? | T1 + Ch7-T2 + Ch7-T5 | 🟡 |
+
+<details>
+<summary>View Answers</summary>
+
+**8.M1**: Answer not found.
+**8.M2**: Answer not found.
+**8.M3**: Answer not found.
+**8.M4**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -391,9 +484,19 @@ Alternatively: Dilution factor = V₂/V₁ = 400/100 = 4×
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-8.B1"></span>[8.B1](./answer-key.md#ans-8.B1) | How many mL of 0.1 M NaOH solution are needed to neutralise 50 mL of 0.05 M H₂SO₄? (First approach using dilution concept + stoichiometry.) ⭐ | 🟡 |
-| <span id="q-8.B2"></span>[8.B2](./answer-key.md#ans-8.B2) | 10 mL of concentrated H₂SO₄ (18 M) is diluted to 1 L. What is the molarity of the diluted solution? | 🟢 |
-| <span id="q-8.B3"></span>[8.B3](./answer-key.md#ans-8.B3) | What volume of 12.1 M HCl must be diluted to get 1 L of 1 M HCl for a lab experiment? ⭐ | 🟡 |
+| <span id="q-8.B1"></span>8.B1 | How many mL of 0.1 M NaOH solution are needed to neutralise 50 mL of 0.05 M H₂SO₄? (First approach using dilution concept + stoichiometry.) ⭐ | 🟡 |
+| <span id="q-8.B2"></span>8.B2 | 10 mL of concentrated H₂SO₄ (18 M) is diluted to 1 L. What is the molarity of the diluted solution? | 🟢 |
+| <span id="q-8.B3"></span>8.B3 | What volume of 12.1 M HCl must be diluted to get 1 L of 1 M HCl for a lab experiment? ⭐ | 🟡 |
+
+<details>
+<summary>View Answers</summary>
+
+**8.B1**: Answer not found.
+**8.B2**: Answer not found.
+**8.B3**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -401,10 +504,21 @@ Alternatively: Dilution factor = V₂/V₁ = 400/100 = 4×
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-8.J1"></span>[8.J1](./answer-key.md#ans-8.J1) | 100 mL of 0.5 M H₂SO₄ is diluted with water to make it 0.1 M. Find the volume of water added. Then find how many moles of NaOH are needed to neutralise this diluted solution completely. ⭐ | 🟡 |
-| <span id="q-8.J2"></span>[8.J2](./answer-key.md#ans-8.J2) | A concentrated solution of HCl (37%, d = 1.19 g/mL) needs three serial 10× dilutions to reach the desired lab concentration. (a) Find starting M. (b) Find final M. (c) Total volume if you start with 1 mL. | 🔴 |
-| <span id="q-8.J3"></span>[8.J3](./answer-key.md#ans-8.J3) | 50 mL of 2 M NaCl is heated. Water evaporates until the volume is 20 mL. (a) New M. (b) New mass %. (Assume d = 1.08 g/mL for the concentrated solution.) ⭐ | 🔴 |
-| <span id="q-8.J4"></span>[8.J4](./answer-key.md#ans-8.J4) | A student has a 5 m glucose solution in water. They add 200 mL of water (d = 1 g/mL). If the original solution had 500 g of water, find (a) new molality (b) why M₁V₁ = M₂V₂ gives a different (wrong) answer. | 🔴 |
+| <span id="q-8.J1"></span>8.J1 | 100 mL of 0.5 M H₂SO₄ is diluted with water to make it 0.1 M. Find the volume of water added. Then find how many moles of NaOH are needed to neutralise this diluted solution completely. ⭐ | 🟡 |
+| <span id="q-8.J2"></span>8.J2 | A concentrated solution of HCl (37%, d = 1.19 g/mL) needs three serial 10× dilutions to reach the desired lab concentration. (a) Find starting M. (b) Find final M. (c) Total volume if you start with 1 mL. | 🔴 |
+| <span id="q-8.J3"></span>8.J3 | 50 mL of 2 M NaCl is heated. Water evaporates until the volume is 20 mL. (a) New M. (b) New mass %. (Assume d = 1.08 g/mL for the concentrated solution.) ⭐ | 🔴 |
+| <span id="q-8.J4"></span>8.J4 | A student has a 5 m glucose solution in water. They add 200 mL of water (d = 1 g/mL). If the original solution had 500 g of water, find (a) new molality (b) why M₁V₁ = M₂V₂ gives a different (wrong) answer. | 🔴 |
+
+<details>
+<summary>View Answers</summary>
+
+**8.J1**: Answer not found.
+**8.J2**: Answer not found.
+**8.J3**: Answer not found.
+**8.J4**: Answer not found.
+
+</details>
+
 
 ---
 

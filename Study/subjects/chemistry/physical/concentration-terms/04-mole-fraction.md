@@ -104,10 +104,21 @@ Answer: χ_ethanol = 0.3, χ_water = 0.7
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-4.1a"></span>[4.1a](./answer-key.md#ans-4.1a) | A solution has 2 mol of sugar and 8 mol of water. Find χ_sugar and χ_water. | 🟢 |
-| <span id="q-4.1b"></span>[4.1b](./answer-key.md#ans-4.1b) | 0.5 mol acetone is mixed with 4.5 mol chloroform. Find χ of each. | 🟢 |
-| <span id="q-4.1c"></span>[4.1c](./answer-key.md#ans-4.1c) | 1.5 mol NaCl is dissolved in 53.5 mol of water. Find χ_NaCl. | 🟢 |
-| <span id="q-4.1d"></span>[4.1d](./answer-key.md#ans-4.1d) | A solution has χ_A = 0.35. If n_A = 7 mol, find n_B and χ_B. | 🟡 |
+| <span id="q-4.1a"></span>4.1a | A solution has 2 mol of sugar and 8 mol of water. Find χ_sugar and χ_water. | 🟢 |
+| <span id="q-4.1b"></span>4.1b | 0.5 mol acetone is mixed with 4.5 mol chloroform. Find χ of each. | 🟢 |
+| <span id="q-4.1c"></span>4.1c | 1.5 mol NaCl is dissolved in 53.5 mol of water. Find χ_NaCl. | 🟢 |
+| <span id="q-4.1d"></span>4.1d | A solution has χ_A = 0.35. If n_A = 7 mol, find n_B and χ_B. | 🟡 |
+
+<details>
+<summary>View Answers</summary>
+
+**4.1a**: χ_sugar = 0.2, χ_water = 0.8 *(Key Step: 2/10, 8/10)*
+**4.1b**: χ_acetone = 0.1, χ_chloroform = 0.9 *(Key Step: 0.5/5, 4.5/5)*
+**4.1c**: χ_NaCl = 1.5/55 ≈ 0.0273 *(Key Step: 1.5/(1.5+53.5))*
+**4.1d**: n_B = 13, χ_B = 0.65 *(Key Step: χ_A = 7/20 → n_total = 20 → n_B = 13)*
+
+</details>
+
 
 ---
 
@@ -167,11 +178,23 @@ Answer: χ_Na = 0.667
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-4.2a"></span>[4.2a](./answer-key.md#ans-4.2a) | 60 g of urea (NH₂CONH₂, M = 60) in 360 g water. Find χ_urea. ⭐ | 🟢 |
-| <span id="q-4.2b"></span>[4.2b](./answer-key.md#ans-4.2b) | 11.7 g of NaCl (M = 58.5) in 90 g of water. Find χ_NaCl. | 🟡 |
-| <span id="q-4.2c"></span>[4.2c](./answer-key.md#ans-4.2c) | 92 g of ethanol (M = 46) in 144 g of water. Find χ of each. | 🟢 |
-| <span id="q-4.2d"></span>[4.2d](./answer-key.md#ans-4.2d) | 34.2 g of sucrose (C₁₂H₂₂O₁₁, M = 342) in 100 g of water. Find χ_sucrose. | 🟡 |
-| <span id="q-4.2e"></span>[4.2e](./answer-key.md#ans-4.2e) | A solution has 10 g of methanol (CH₃OH, M = 32) and 40 g of ethanol (C₂H₅OH, M = 46). Find χ of each. | 🟡 |
+| <span id="q-4.2a"></span>4.2a | 60 g of urea (NH₂CONH₂, M = 60) in 360 g water. Find χ_urea. ⭐ | 🟢 |
+| <span id="q-4.2b"></span>4.2b | 11.7 g of NaCl (M = 58.5) in 90 g of water. Find χ_NaCl. | 🟡 |
+| <span id="q-4.2c"></span>4.2c | 92 g of ethanol (M = 46) in 144 g of water. Find χ of each. | 🟢 |
+| <span id="q-4.2d"></span>4.2d | 34.2 g of sucrose (C₁₂H₂₂O₁₁, M = 342) in 100 g of water. Find χ_sucrose. | 🟡 |
+| <span id="q-4.2e"></span>4.2e | A solution has 10 g of methanol (CH₃OH, M = 32) and 40 g of ethanol (C₂H₅OH, M = 46). Find χ of each. | 🟡 |
+
+<details>
+<summary>View Answers</summary>
+
+**4.2a**: χ_urea = 1/21 ≈ 0.0476 *(Key Step: n_urea=1, n_water=20)*
+**4.2b**: χ_NaCl = 0.2/5.2 ≈ 0.038 *(Key Step: n_NaCl=0.2, n_water=5)*
+**4.2c**: χ_eth = 2/10 = 0.2, χ_water = 8/10 = 0.8 *(Key Step: n_eth=2, n_water=8)*
+**4.2d**: χ_sucrose = 0.1/5.656 ≈ 0.0177 *(Key Step: n_suc=0.1, n_water=5.556)*
+**4.2e**: χ_methanol = 0.3125/1.182 ≈ 0.264 *(Key Step: n_m=0.3125, n_e=0.8696)*
+
+</details>
+
 
 ---
 
@@ -203,9 +226,19 @@ Answer: For every 1 mole of glucose, there are 49 moles of water.
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-4.3a"></span>[4.3a](./answer-key.md#ans-4.3a) | χ_solute = 0.1. Find the mole ratio of solute to solvent. | 🟢 |
-| <span id="q-4.3b"></span>[4.3b](./answer-key.md#ans-4.3b) | χ_ethanol = 0.2 in an ethanol-water solution. If 10 moles of water are present, how many moles of ethanol? | 🟡 |
-| <span id="q-4.3c"></span>[4.3c](./answer-key.md#ans-4.3c) | χ_NaCl = 0.05 in a saline solution. If the total moles in solution = 200, find the moles of NaCl and water. | 🟡 |
+| <span id="q-4.3a"></span>4.3a | χ_solute = 0.1. Find the mole ratio of solute to solvent. | 🟢 |
+| <span id="q-4.3b"></span>4.3b | χ_ethanol = 0.2 in an ethanol-water solution. If 10 moles of water are present, how many moles of ethanol? | 🟡 |
+| <span id="q-4.3c"></span>4.3c | χ_NaCl = 0.05 in a saline solution. If the total moles in solution = 200, find the moles of NaCl and water. | 🟡 |
+
+<details>
+<summary>View Answers</summary>
+
+**4.3a**: 1:9 *(Key Step: 0.1/0.9 = 1/9)*
+**4.3b**: 2.5 mol ethanol *(Key Step: 0.2/0.8 = n_e/10 → n_e = 2.5)*
+**4.3c**: n_NaCl = 10, n_water = 190 *(Key Step: 0.05 × 200 = 10)*
+
+</details>
+
 
 ---
 
@@ -229,9 +262,19 @@ This seems trivially easy — and it is. But this rule becomes critical when com
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-4.4a"></span>[4.4a](./answer-key.md#ans-4.4a) | χ_A = 0.3 in a binary mixture. Find χ_B. | 🟢 |
-| <span id="q-4.4b"></span>[4.4b](./answer-key.md#ans-4.4b) | χ_water = 0.95. What is χ_solute? If the solute is NaCl, how many moles of NaCl per 100 moles of water? | 🟡 |
-| <span id="q-4.4c"></span>[4.4c](./answer-key.md#ans-4.4c) | Is it possible for both χ_A > 0.5 and χ_B > 0.5 in a binary mixture? Justify your answer. | 🟡 |
+| <span id="q-4.4a"></span>4.4a | χ_A = 0.3 in a binary mixture. Find χ_B. | 🟢 |
+| <span id="q-4.4b"></span>4.4b | χ_water = 0.95. What is χ_solute? If the solute is NaCl, how many moles of NaCl per 100 moles of water? | 🟡 |
+| <span id="q-4.4c"></span>4.4c | Is it possible for both χ_A > 0.5 and χ_B > 0.5 in a binary mixture? Justify your answer. | 🟡 |
+
+<details>
+<summary>View Answers</summary>
+
+**4.4a**: χ_B = 0.7 *(Key Step: 1 - 0.3)*
+**4.4b**: χ_solute = 0.05; ~5.26 mol NaCl per 100 mol water *(Key Step: 0.05/0.95 × 100)*
+**4.4c**: No — impossible. χ_A + χ_B = 1, so both > 0.5 would give sum > 1. *(Key Step: Logic)*
+
+</details>
+
 
 ---
 
@@ -262,9 +305,19 @@ Answer: χ_N₂ = 0.769, χ_O₂ = 0.192, χ_CO₂ = 0.038
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-4.5a"></span>[4.5a](./answer-key.md#ans-4.5a) | A solution has 1 mol glucose, 0.5 mol sucrose, and 50 mol water. Find χ of each. | 🟡 |
-| <span id="q-4.5b"></span>[4.5b](./answer-key.md#ans-4.5b) | Air is approximately 78% N₂, 21% O₂, and 1% Ar by moles. Find χ of each gas. | 🟢 |
-| <span id="q-4.5c"></span>[4.5c](./answer-key.md#ans-4.5c) | A mixture of 5 g methanol (M=32), 10 g ethanol (M=46), and 85 g water. Find χ of each. | 🟡 |
+| <span id="q-4.5a"></span>4.5a | A solution has 1 mol glucose, 0.5 mol sucrose, and 50 mol water. Find χ of each. | 🟡 |
+| <span id="q-4.5b"></span>4.5b | Air is approximately 78% N₂, 21% O₂, and 1% Ar by moles. Find χ of each gas. | 🟢 |
+| <span id="q-4.5c"></span>4.5c | A mixture of 5 g methanol (M=32), 10 g ethanol (M=46), and 85 g water. Find χ of each. | 🟡 |
+
+<details>
+<summary>View Answers</summary>
+
+**4.5a**: χ_glu ≈ 0.0194, χ_suc ≈ 0.0097, χ_water ≈ 0.9709 *(Key Step: Totals: 51.5 mol)*
+**4.5b**: χ_N₂ = 0.78, χ_O₂ = 0.21, χ_Ar = 0.01 *(Key Step: Already in mole %)*
+**4.5c**: n_m=0.156, n_e=0.217, n_w=4.722; total=5.095 *(Key Step: Calculate each)*
+
+</details>
+
 
 ---
 
@@ -320,9 +373,19 @@ Answer: P_H₂ = 1.5 atm, P_N₂ = 0.5 atm
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-4.6a"></span>[4.6a](./answer-key.md#ans-4.6a) | A gas cylinder contains 8 g of O₂ (M=32) and 7 g of N₂ (M=28). Total pressure is 3 atm. Find the partial pressure of each gas. ⭐ | 🟡 |
-| <span id="q-4.6b"></span>[4.6b](./answer-key.md#ans-4.6b) | The partial pressure of water vapour in air at 25°C is 23.8 mmHg. Atmospheric pressure is 760 mmHg. Find χ of water vapour. | 🟢 |
-| <span id="q-4.6c"></span>[4.6c](./answer-key.md#ans-4.6c) | A 10 L container at 300 K holds a mixture of gases with P_total = 5 atm. If χ_He = 0.40, find the partial pressure and moles of He. (R = 0.082 L·atm/mol·K) | 🔴 |
+| <span id="q-4.6a"></span>4.6a | A gas cylinder contains 8 g of O₂ (M=32) and 7 g of N₂ (M=28). Total pressure is 3 atm. Find the partial pressure of each gas. ⭐ | 🟡 |
+| <span id="q-4.6b"></span>4.6b | The partial pressure of water vapour in air at 25°C is 23.8 mmHg. Atmospheric pressure is 760 mmHg. Find χ of water vapour. | 🟢 |
+| <span id="q-4.6c"></span>4.6c | A 10 L container at 300 K holds a mixture of gases with P_total = 5 atm. If χ_He = 0.40, find the partial pressure and moles of He. (R = 0.082 L·atm/mol·K) | 🔴 |
+
+<details>
+<summary>View Answers</summary>
+
+**4.6a**: P_O₂ = 1.5 atm, P_N₂ = 1.5 atm *(Key Step: n_O₂=0.25, n_N₂=0.25; equal → equal P)*
+**4.6b**: χ_water vapour = 23.8/760 ≈ 0.0313 *(Key Step: Direct ratio)*
+**4.6c**: P_He = 2 atm; n_He = 2×10/(0.082×300) ≈ 0.813 mol *(Key Step: χ×P_total; PV=nRT)*
+
+</details>
+
 
 ---
 
@@ -387,10 +450,21 @@ Rearranging:
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-4.7a"></span>[4.7a](./answer-key.md#ans-4.7a) | χ_urea = 0.05 in an aqueous solution. Find molality. (M_water = 18) ⭐ | 🟡 |
-| <span id="q-4.7b"></span>[4.7b](./answer-key.md#ans-4.7b) | The molality of a sucrose solution is 0.5 m. Find χ_sucrose. (M_water = 18) | 🟡 |
-| <span id="q-4.7c"></span>[4.7c](./answer-key.md#ans-4.7c) | χ_NaCl = 0.1 in water. Find (a) molality (b) mass of NaCl in 500 g of water. (M_NaCl = 58.5, M_water = 18) ⭐ | 🔴 |
-| <span id="q-4.7d"></span>[4.7d](./answer-key.md#ans-4.7d) | A solution has molality 2 m with solvent methanol (M = 32). Find χ_solute. | 🟡 |
+| <span id="q-4.7a"></span>4.7a | χ_urea = 0.05 in an aqueous solution. Find molality. (M_water = 18) ⭐ | 🟡 |
+| <span id="q-4.7b"></span>4.7b | The molality of a sucrose solution is 0.5 m. Find χ_sucrose. (M_water = 18) | 🟡 |
+| <span id="q-4.7c"></span>4.7c | χ_NaCl = 0.1 in water. Find (a) molality (b) mass of NaCl in 500 g of water. (M_NaCl = 58.5, M_water = 18) ⭐ | 🔴 |
+| <span id="q-4.7d"></span>4.7d | A solution has molality 2 m with solvent methanol (M = 32). Find χ_solute. | 🟡 |
+
+<details>
+<summary>View Answers</summary>
+
+**4.7a**: m ≈ 2.92 mol/kg *(Key Step: (1000×0.05)/(0.95×18))*
+**4.7b**: χ_sucrose = 0.5×18/(1000+0.5×18) = 9/1009 ≈ 0.00892 *(Key Step: Reverse formula)*
+**4.7c**: (a) m = 6.17 (b) mass NaCl = 6.17×0.5×58.5 = 180.5 g *(Key Step: m=(1000×0.1)/(0.9×18))*
+**4.7d**: χ = 2×32/(1000+2×32) = 64/1064 ≈ 0.0602 *(Key Step: m×M_solvent/(1000+m×M_solvent))*
+
+</details>
+
 
 ---
 
@@ -450,9 +524,19 @@ Answer: Molarity ≈ 8.14 M
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-4.8a"></span>[4.8a](./answer-key.md#ans-4.8a) | χ_glucose = 0.05 in aqueous solution, d = 1.04 g/mL. Find molarity. (M_glucose = 180, M_water = 18) ⭐ | 🔴 |
-| <span id="q-4.8b"></span>[4.8b](./answer-key.md#ans-4.8b) | An ethanol-water solution has χ_ethanol = 0.15, d = 0.97 g/mL. Find M. (M_ethanol = 46, M_water = 18) | 🔴 |
-| <span id="q-4.8c"></span>[4.8c](./answer-key.md#ans-4.8c) | Given: Molarity of a solution = 5 M, d = 1.2 g/mL, M_solute = 60, M_solvent = 18. Find χ_solute. (Reverse problem) ⭐ | 🔴 |
+| <span id="q-4.8a"></span>4.8a | χ_glucose = 0.05 in aqueous solution, d = 1.04 g/mL. Find molarity. (M_glucose = 180, M_water = 18) ⭐ | 🔴 |
+| <span id="q-4.8b"></span>4.8b | An ethanol-water solution has χ_ethanol = 0.15, d = 0.97 g/mL. Find M. (M_ethanol = 46, M_water = 18) | 🔴 |
+| <span id="q-4.8c"></span>4.8c | Given: Molarity of a solution = 5 M, d = 1.2 g/mL, M_solute = 60, M_solvent = 18. Find χ_solute. (Reverse problem) ⭐ | 🔴 |
+
+<details>
+<summary>View Answers</summary>
+
+**4.8a**: M ≈ 2.79 M *(Key Step: (0.05×1.04×1000)/(0.05×180+0.95×18))*
+**4.8b**: M ≈ 7.16 M *(Key Step: Calculate M_avg then apply)*
+**4.8c**: Work backwards from M formula to find χ *(Key Step: Algebraic rearrangement)*
+
+</details>
+
 
 ---
 
@@ -506,8 +590,17 @@ Similarly:
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-4.9a"></span>[4.9a](./answer-key.md#ans-4.9a) | A solution has χ_solute = 0.1 at 25°C. What will be its mole fraction at 50°C? Justify. | 🟢 |
-| <span id="q-4.9b"></span>[4.9b](./answer-key.md#ans-4.9b) | Arrange the following in order of increasing sensitivity to temperature change: molality, molarity, mole fraction, mass percent. | 🟡 |
+| <span id="q-4.9a"></span>4.9a | A solution has χ_solute = 0.1 at 25°C. What will be its mole fraction at 50°C? Justify. | 🟢 |
+| <span id="q-4.9b"></span>4.9b | Arrange the following in order of increasing sensitivity to temperature change: molality, molarity, mole fraction, mass percent. | 🟡 |
+
+<details>
+<summary>View Answers</summary>
+
+**4.9a**: Still 0.1 — unchanged *(Key Step: T-independent)*
+**4.9b**: All equally T-independent (m, χ, w/w%). Molarity is T-sensitive. *(Key Step: Conceptual)*
+
+</details>
+
 
 ---
 
@@ -563,11 +656,23 @@ Answer: (a) χ_glucose = 0.01  (b) P = 23.562 mmHg  (c) ΔP = 0.238 mmHg
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-4.10a"></span>[4.10a](./answer-key.md#ans-4.10a) | P° of water = 23.8 mmHg at 25°C. χ_solute = 0.05. Find P_solution and ΔP. | 🟡 |
-| <span id="q-4.10b"></span>[4.10b](./answer-key.md#ans-4.10b) | A solution has VP = 22.5 mmHg and P° = 23.8 mmHg. Find χ_solute. ⭐ | 🟡 |
-| <span id="q-4.10c"></span>[4.10c](./answer-key.md#ans-4.10c) | 30 g of urea (M=60) is dissolved in 270 g of water (M=18). P° of water = 31.82 mmHg. Find VP of solution. ⭐ | 🟡 |
-| <span id="q-4.10d"></span>[4.10d](./answer-key.md#ans-4.10d) | The VP of a solution is 95% of pure solvent's VP. Find χ_solute and χ_solvent. | 🟢 |
-| <span id="q-4.10e"></span>[4.10e](./answer-key.md#ans-4.10e) | 6 g of a non-volatile solute is dissolved in 180 g of water. VP of solution = 23.4 mmHg, P° = 23.8 mmHg. Find the molar mass of the solute. ⭐⭐ | 🔴 |
+| <span id="q-4.10a"></span>4.10a | P° of water = 23.8 mmHg at 25°C. χ_solute = 0.05. Find P_solution and ΔP. | 🟡 |
+| <span id="q-4.10b"></span>4.10b | A solution has VP = 22.5 mmHg and P° = 23.8 mmHg. Find χ_solute. ⭐ | 🟡 |
+| <span id="q-4.10c"></span>4.10c | 30 g of urea (M=60) is dissolved in 270 g of water (M=18). P° of water = 31.82 mmHg. Find VP of solution. ⭐ | 🟡 |
+| <span id="q-4.10d"></span>4.10d | The VP of a solution is 95% of pure solvent's VP. Find χ_solute and χ_solvent. | 🟢 |
+| <span id="q-4.10e"></span>4.10e | 6 g of a non-volatile solute is dissolved in 180 g of water. VP of solution = 23.4 mmHg, P° = 23.8 mmHg. Find the molar mass of the solute. ⭐⭐ | 🔴 |
+
+<details>
+<summary>View Answers</summary>
+
+**4.10a**: P = 0.95 × 23.8 = 22.61 mmHg; ΔP = 1.19 mmHg *(Key Step: Raoult's Law)*
+**4.10b**: χ_solute = (23.8-22.5)/23.8 ≈ 0.0546 *(Key Step: ΔP/P° = χ)*
+**4.10c**: n_urea=0.5, n_water=15; χ_water=15/15.5; P=15/15.5×31.82≈30.79 mmHg *(Key Step: Raoult's)*
+**4.10d**: χ_solute = 0.05, χ_solvent = 0.95 *(Key Step: P=0.95P° means χ_solvent=0.95)*
+**4.10e**: M_solute ≈ 179 g/mol (≈ glucose) *(Key Step: χ_solute=0.4/23.8≈0.0168; n_solute=n_water×χ/(1-χ))*
+
+</details>
+
 
 ---
 
@@ -575,11 +680,23 @@ Answer: (a) χ_glucose = 0.01  (b) P = 23.562 mmHg  (c) ΔP = 0.238 mmHg
 
 | # | Question | Types Used | Difficulty |
 |---|----------|------------|------------|
-| <span id="q-4.M1"></span>[4.M1](./answer-key.md#ans-4.M1) | 9.2 g of ethanol (M=46) is mixed with 36 g of water. Find: (a) χ_ethanol (b) molality (c) VP of solution if P° of water = 23.8 mmHg. | T2 + T7 + T10 | 🟡 |
-| <span id="q-4.M2"></span>[4.M2](./answer-key.md#ans-4.M2) | A gas mixture has χ_O₂ = 0.21 at 5 atm total pressure. (a) Find partial pressure of O₂. (b) If the remaining gas is N₂, find χ_N₂ and P_N₂. (c) If total moles = 10, find individual moles. | T6 + T4 + T1 | 🟡 |
-| <span id="q-4.M3"></span>[4.M3](./answer-key.md#ans-4.M3) | An aqueous solution has molality = 2.78 m. Find: (a) χ_solute (b) If the solute is NaCl (M=58.5) and d = 1.08 g/mL, find molarity. | T7 + T8 | 🔴 |
-| <span id="q-4.M4"></span>[4.M4](./answer-key.md#ans-4.M4) | χ_A = 0.1 in a solution where A has M = 100 and the solvent (water) has M = 18. (a) Find molality. (b) If d = 1.05 g/mL, find molarity. (c) Express as mass percent. | T7 + T8 + new | 🔴 |
-| <span id="q-4.M5"></span>[4.M5](./answer-key.md#ans-4.M5) | 5 g of a non-volatile, non-electrolyte solute is dissolved in 100 g of water. The VP of the solution is 17.7 mmHg at 20°C (P° = 17.5 mmHg — wait, that can't be right: VP of solution should be LESS than P°). Corrected: P° = 17.8 mmHg, P_solution = 17.7 mmHg. Find the molar mass of the solute. | T10 + T2 (reverse) | 🔴 |
+| <span id="q-4.M1"></span>4.M1 | 9.2 g of ethanol (M=46) is mixed with 36 g of water. Find: (a) χ_ethanol (b) molality (c) VP of solution if P° of water = 23.8 mmHg. | T2 + T7 + T10 | 🟡 |
+| <span id="q-4.M2"></span>4.M2 | A gas mixture has χ_O₂ = 0.21 at 5 atm total pressure. (a) Find partial pressure of O₂. (b) If the remaining gas is N₂, find χ_N₂ and P_N₂. (c) If total moles = 10, find individual moles. | T6 + T4 + T1 | 🟡 |
+| <span id="q-4.M3"></span>4.M3 | An aqueous solution has molality = 2.78 m. Find: (a) χ_solute (b) If the solute is NaCl (M=58.5) and d = 1.08 g/mL, find molarity. | T7 + T8 | 🔴 |
+| <span id="q-4.M4"></span>4.M4 | χ_A = 0.1 in a solution where A has M = 100 and the solvent (water) has M = 18. (a) Find molality. (b) If d = 1.05 g/mL, find molarity. (c) Express as mass percent. | T7 + T8 + new | 🔴 |
+| <span id="q-4.M5"></span>4.M5 | 5 g of a non-volatile, non-electrolyte solute is dissolved in 100 g of water. The VP of the solution is 17.7 mmHg at 20°C (P° = 17.5 mmHg — wait, that can't be right: VP of solution should be LESS than P°). Corrected: P° = 17.8 mmHg, P_solution = 17.7 mmHg. Find the molar mass of the solute. | T10 + T2 (reverse) | 🔴 |
+
+<details>
+<summary>View Answers</summary>
+
+**4.M1**: Answer not found.
+**4.M2**: Answer not found.
+**4.M3**: Answer not found.
+**4.M4**: Answer not found.
+**4.M5**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -587,10 +704,21 @@ Answer: (a) χ_glucose = 0.01  (b) P = 23.562 mmHg  (c) ΔP = 0.238 mmHg
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-4.B1"></span>[4.B1](./answer-key.md#ans-4.B1) | Calculate the mole fraction of benzene in a solution containing 30% by mass of benzene in carbon tetrachloride. (M_benzene = 78, M_CCl₄ = 154) ⭐ | 🟡 |
-| <span id="q-4.B2"></span>[4.B2](./answer-key.md#ans-4.B2) | The mole fraction of a solute in an aqueous solution is 0.1. Calculate the molality of the solution. (M_water = 18) ⭐ | 🟡 |
-| <span id="q-4.B3"></span>[4.B3](./answer-key.md#ans-4.B3) | Calculate the mole fraction of H₂SO₄ in a solution containing 98% H₂SO₄ by mass. (M_H₂SO₄ = 98, M_H₂O = 18) ⭐ | 🟡 |
-| <span id="q-4.B4"></span>[4.B4](./answer-key.md#ans-4.B4) | A solution of glucose in water has concentration 10% by mass. Find (a) mole fraction of glucose (b) molality. (M_glucose = 180) | 🟡 |
+| <span id="q-4.B1"></span>4.B1 | Calculate the mole fraction of benzene in a solution containing 30% by mass of benzene in carbon tetrachloride. (M_benzene = 78, M_CCl₄ = 154) ⭐ | 🟡 |
+| <span id="q-4.B2"></span>4.B2 | The mole fraction of a solute in an aqueous solution is 0.1. Calculate the molality of the solution. (M_water = 18) ⭐ | 🟡 |
+| <span id="q-4.B3"></span>4.B3 | Calculate the mole fraction of H₂SO₄ in a solution containing 98% H₂SO₄ by mass. (M_H₂SO₄ = 98, M_H₂O = 18) ⭐ | 🟡 |
+| <span id="q-4.B4"></span>4.B4 | A solution of glucose in water has concentration 10% by mass. Find (a) mole fraction of glucose (b) molality. (M_glucose = 180) | 🟡 |
+
+<details>
+<summary>View Answers</summary>
+
+**4.B1**: Answer not found.
+**4.B2**: Answer not found.
+**4.B3**: Answer not found.
+**4.B4**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -598,11 +726,23 @@ Answer: (a) χ_glucose = 0.01  (b) P = 23.562 mmHg  (c) ΔP = 0.238 mmHg
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-4.J1"></span>[4.J1](./answer-key.md#ans-4.J1) | An aqueous solution contains 3% urea (M=60) and 7.45% KCl (M=74.5) by mass. Calculate the mole fraction of urea in the solution. (Consider KCl as a molecular solute for this problem.) ⭐ | 🔴 |
-| <span id="q-4.J2"></span>[4.J2](./answer-key.md#ans-4.J2) | The mole fraction of a solute in a solution is 0.1. The solution's density is 1.2 g/mL and the molar mass of solute = 100 g/mol (solvent = water, M = 18). Calculate the molarity. ⭐ | 🔴 |
-| <span id="q-4.J3"></span>[4.J3](./answer-key.md#ans-4.J3) | A mixture of He and Ne has an average molar mass of 10 g/mol. Find the mole fraction of each gas. (M_He = 4, M_Ne = 20) ⭐ | 🟡 |
-| <span id="q-4.J4"></span>[4.J4](./answer-key.md#ans-4.J4) | 100 g of liquid A (M = 40) is dissolved in 1000 g of liquid B (M = 80). The vapour pressure of pure A = 400 mmHg and of pure B = 200 mmHg. Assuming ideal behaviour, find the total vapour pressure of the solution. (Both are volatile.) ⭐⭐ | 🔴 |
-| <span id="q-4.J5"></span>[4.J5](./answer-key.md#ans-4.J5) | Given: 10% (w/w) NaOH solution, d = 1.2 g/mL, M = 40. Find (a) mole fraction of NaOH (b) molality (c) molarity. (Multi-step interconversion preview.) ⭐ | 🔴 |
+| <span id="q-4.J1"></span>4.J1 | An aqueous solution contains 3% urea (M=60) and 7.45% KCl (M=74.5) by mass. Calculate the mole fraction of urea in the solution. (Consider KCl as a molecular solute for this problem.) ⭐ | 🔴 |
+| <span id="q-4.J2"></span>4.J2 | The mole fraction of a solute in a solution is 0.1. The solution's density is 1.2 g/mL and the molar mass of solute = 100 g/mol (solvent = water, M = 18). Calculate the molarity. ⭐ | 🔴 |
+| <span id="q-4.J3"></span>4.J3 | A mixture of He and Ne has an average molar mass of 10 g/mol. Find the mole fraction of each gas. (M_He = 4, M_Ne = 20) ⭐ | 🟡 |
+| <span id="q-4.J4"></span>4.J4 | 100 g of liquid A (M = 40) is dissolved in 1000 g of liquid B (M = 80). The vapour pressure of pure A = 400 mmHg and of pure B = 200 mmHg. Assuming ideal behaviour, find the total vapour pressure of the solution. (Both are volatile.) ⭐⭐ | 🔴 |
+| <span id="q-4.J5"></span>4.J5 | Given: 10% (w/w) NaOH solution, d = 1.2 g/mL, M = 40. Find (a) mole fraction of NaOH (b) molality (c) molarity. (Multi-step interconversion preview.) ⭐ | 🔴 |
+
+<details>
+<summary>View Answers</summary>
+
+**4.J1**: Answer not found.
+**4.J2**: Answer not found.
+**4.J3**: Answer not found.
+**4.J4**: Answer not found.
+**4.J5**: Answer not found.
+
+</details>
+
 
 ---
 

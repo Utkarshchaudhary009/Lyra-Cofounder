@@ -109,11 +109,23 @@ Answer: 15%
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-1.1a"></span>[1.1a](./answer-key.md#ans-1.1a) | 25 g of sugar is dissolved in 475 g of water. Find mass percent of sugar. | 🟢 |
-| <span id="q-1.1b"></span>[1.1b](./answer-key.md#ans-1.1b) | 4 g of NaOH is dissolved in 96 g of water. Find mass percent. | 🟢 |
-| <span id="q-1.1c"></span>[1.1c](./answer-key.md#ans-1.1c) | A solution contains 12 g of urea (NH₂CONH₂) in 188 g of water. Find mass percent of urea. | 🟢 |
-| <span id="q-1.1d"></span>[1.1d](./answer-key.md#ans-1.1d) | 30 g of ethanol is mixed with 70 g of water. What is the mass percent of ethanol? | 🟢 |
-| <span id="q-1.1e"></span>[1.1e](./answer-key.md#ans-1.1e) | A solution is prepared by dissolving 5.3 g of Na₂CO₃ in 94.7 g of water. Find w/w% of Na₂CO₃. | 🟢 |
+| <span id="q-1.1a"></span>1.1a | 25 g of sugar is dissolved in 475 g of water. Find mass percent of sugar. | 🟢 |
+| <span id="q-1.1b"></span>1.1b | 4 g of NaOH is dissolved in 96 g of water. Find mass percent. | 🟢 |
+| <span id="q-1.1c"></span>1.1c | A solution contains 12 g of urea (NH₂CONH₂) in 188 g of water. Find mass percent of urea. | 🟢 |
+| <span id="q-1.1d"></span>1.1d | 30 g of ethanol is mixed with 70 g of water. What is the mass percent of ethanol? | 🟢 |
+| <span id="q-1.1e"></span>1.1e | A solution is prepared by dissolving 5.3 g of Na₂CO₃ in 94.7 g of water. Find w/w% of Na₂CO₃. | 🟢 |
+
+<details>
+<summary>View Answers</summary>
+
+**1.1a**: 20% *(Key Step: (10/50) × 100)*
+**1.1b**: 16.67% *(Key Step: (50/300) × 100)*
+**1.1c**: 5% *(Key Step: (25/500) × 100)*
+**1.1d**: Answer not found.
+**1.1e**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -146,10 +158,21 @@ Answer: 90 g of glucose
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-1.2a"></span>[1.2a](./answer-key.md#ans-1.2a) | Find the mass of KCl in 250 g of a 12% (w/w) KCl solution. | 🟢 |
-| <span id="q-1.2b"></span>[1.2b](./answer-key.md#ans-1.2b) | How much NaOH is present in 2 kg of a 5% NaOH solution? | 🟢 |
-| <span id="q-1.2c"></span>[1.2c](./answer-key.md#ans-1.2c) | A 400 g solution is 35% H₂SO₄ by mass. Find mass of H₂SO₄ and mass of water. | 🟡 |
-| <span id="q-1.2d"></span>[1.2d](./answer-key.md#ans-1.2d) | A bottle contains 1.5 kg of 10% (w/w) acetic acid solution. How many grams of acetic acid are present? | 🟢 |
+| <span id="q-1.2a"></span>1.2a | Find the mass of KCl in 250 g of a 12% (w/w) KCl solution. | 🟢 |
+| <span id="q-1.2b"></span>1.2b | How much NaOH is present in 2 kg of a 5% NaOH solution? | 🟢 |
+| <span id="q-1.2c"></span>1.2c | A 400 g solution is 35% H₂SO₄ by mass. Find mass of H₂SO₄ and mass of water. | 🟡 |
+| <span id="q-1.2d"></span>1.2d | A bottle contains 1.5 kg of 10% (w/w) acetic acid solution. How many grams of acetic acid are present? | 🟢 |
+
+<details>
+<summary>View Answers</summary>
+
+**1.2a**: 100 g *(Key Step: (20/100) × 500)*
+**1.2b**: 75 g *(Key Step: (30/100) × 250)*
+**1.2c**: 300 g *(Key Step: (15/100) × 2000)*
+**1.2d**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -176,9 +199,19 @@ Answer: 240 g of water
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-1.3a"></span>[1.3a](./answer-key.md#ans-1.3a) | A 15% sugar solution weighs 600 g. Find mass of water. | 🟢 |
-| <span id="q-1.3b"></span>[1.3b](./answer-key.md#ans-1.3b) | In a 40% (w/w) H₂SO₄ solution of 250 g, find mass of solvent. | 🟢 |
-| <span id="q-1.3c"></span>[1.3c](./answer-key.md#ans-1.3c) | A solution is 8% NaCl by mass. If it contains 24 g of NaCl, what is the total mass of solvent? | 🟡 |
+| <span id="q-1.3a"></span>1.3a | A 15% sugar solution weighs 600 g. Find mass of water. | 🟢 |
+| <span id="q-1.3b"></span>1.3b | In a 40% (w/w) H₂SO₄ solution of 250 g, find mass of solvent. | 🟢 |
+| <span id="q-1.3c"></span>1.3c | A solution is 8% NaCl by mass. If it contains 24 g of NaCl, what is the total mass of solvent? | 🟡 |
+
+<details>
+<summary>View Answers</summary>
+
+**1.3a**: 170 g *(Key Step: 200 - (15/100 × 200) = 200 - 30 = 170)*
+**1.3b**: 90 g *(Key Step: (100 - 10)/100 × 100 = 90)*
+**1.3c**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -207,9 +240,19 @@ Answer: Dissolve 50 g NaOH in 450 g water
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-1.4a"></span>[1.4a](./answer-key.md#ans-1.4a) | How would you prepare 200 g of 25% (w/w) glucose solution? State mass of glucose and water needed. | 🟢 |
-| <span id="q-1.4b"></span>[1.4b](./answer-key.md#ans-1.4b) | A lab needs 1 kg of 5% KMnO₄ solution. How much KMnO₄ and how much water? | 🟢 |
-| <span id="q-1.4c"></span>[1.4c](./answer-key.md#ans-1.4c) | You need 2.5 kg of 8% NaCl solution for an experiment. Calculate the required masses. | 🟡 |
+| <span id="q-1.4a"></span>1.4a | How would you prepare 200 g of 25% (w/w) glucose solution? State mass of glucose and water needed. | 🟢 |
+| <span id="q-1.4b"></span>1.4b | A lab needs 1 kg of 5% KMnO₄ solution. How much KMnO₄ and how much water? | 🟢 |
+| <span id="q-1.4c"></span>1.4c | You need 2.5 kg of 8% NaCl solution for an experiment. Calculate the required masses. | 🟡 |
+
+<details>
+<summary>View Answers</summary>
+
+**1.4a**: 75 g *(Key Step: (25/100) × 300 = 75 g NaOH)*
+**1.4b**: 10 g solute + 90 g water *(Key Step: (10/100) × 100 = 10)*
+**1.4c**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -239,10 +282,21 @@ Answer: 4%
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-1.5a"></span>[1.5a](./answer-key.md#ans-1.5a) | 10 g of Na₂SO₄ is dissolved in 90 g of water. Find w/w%. | 🟢 |
-| <span id="q-1.5b"></span>[1.5b](./answer-key.md#ans-1.5b) | 45 g of urea is dissolved in 255 g of water. Find mass percent. | 🟢 |
-| <span id="q-1.5c"></span>[1.5c](./answer-key.md#ans-1.5c) | 7.5 g of KCl is added to 392.5 g of water. Find mass percent. | 🟡 |
-| <span id="q-1.5d"></span>[1.5d](./answer-key.md#ans-1.5d) | A student dissolves 16 g of CH₃OH (methanol) in 184 g of water. Calculate the mass percent of methanol. | 🟢 |
+| <span id="q-1.5a"></span>1.5a | 10 g of Na₂SO₄ is dissolved in 90 g of water. Find w/w%. | 🟢 |
+| <span id="q-1.5b"></span>1.5b | 45 g of urea is dissolved in 255 g of water. Find mass percent. | 🟢 |
+| <span id="q-1.5c"></span>1.5c | 7.5 g of KCl is added to 392.5 g of water. Find mass percent. | 🟡 |
+| <span id="q-1.5d"></span>1.5d | A student dissolves 16 g of CH₃OH (methanol) in 184 g of water. Calculate the mass percent of methanol. | 🟢 |
+
+<details>
+<summary>View Answers</summary>
+
+**1.5a**: 5% *(Key Step: 5/(5+95) × 100 = 5/100 × 100)*
+**1.5b**: 2.5% *(Key Step: 10/(10+390) × 100)*
+**1.5c**: Answer not found.
+**1.5d**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -273,10 +327,21 @@ Answer: 343 g of H₂SO₄
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-1.6a"></span>[1.6a](./answer-key.md#ans-1.6a) | A 37% HCl solution has density 1.19 g/mL. Find mass of HCl in 1 litre of this solution. | 🟡 |
-| <span id="q-1.6b"></span>[1.6b](./answer-key.md#ans-1.6b) | A 20% NaOH solution has density 1.22 g/mL. Find mass of NaOH in 250 mL. | 🟡 |
-| <span id="q-1.6c"></span>[1.6c](./answer-key.md#ans-1.6c) | A 10% Na₂CO₃ solution has density 1.1 g/mL. How much Na₂CO₃ is in 2 litres? | 🟡 |
-| <span id="q-1.6d"></span>[1.6d](./answer-key.md#ans-1.6d) | Concentrated H₂SO₄ is 98% by mass with density 1.84 g/mL. Find mass of H₂SO₄ in 100 mL. ⭐ | 🟡 |
+| <span id="q-1.6a"></span>1.6a | A 37% HCl solution has density 1.19 g/mL. Find mass of HCl in 1 litre of this solution. | 🟡 |
+| <span id="q-1.6b"></span>1.6b | A 20% NaOH solution has density 1.22 g/mL. Find mass of NaOH in 250 mL. | 🟡 |
+| <span id="q-1.6c"></span>1.6c | A 10% Na₂CO₃ solution has density 1.1 g/mL. How much Na₂CO₃ is in 2 litres? | 🟡 |
+| <span id="q-1.6d"></span>1.6d | Concentrated H₂SO₄ is 98% by mass with density 1.84 g/mL. Find mass of H₂SO₄ in 100 mL. ⭐ | 🟡 |
+
+<details>
+<summary>View Answers</summary>
+
+**1.6a**: In 100 mL: mass = 100 × 1.2 = 120 g. Mass solute = 0.3 × 120 = 36 g per 100 mL *(Key Step: density bridge)*
+**1.6b**: Answer not found.
+**1.6c**: Answer not found.
+**1.6d**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -320,9 +385,19 @@ Answer: Measure out 27.17 mL of concentrated H₂SO₄
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-1.7a"></span>[1.7a](./answer-key.md#ans-1.7a) | A bottle reads "68% HNO₃, d = 1.41 g/mL". What mass of HNO₃ is in 1 L? | 🟡 |
-| <span id="q-1.7b"></span>[1.7b](./answer-key.md#ans-1.7b) | "40% formaldehyde solution (formalin), d = 1.09 g/mL". Find mass of HCHO in 500 mL. | 🟡 |
-| <span id="q-1.7c"></span>[1.7c](./answer-key.md#ans-1.7c) | Concentrated H₂SO₄ (98%, d = 1.84 g/mL). A student needs exactly 196 g of H₂SO₄. What volume of conc. acid is needed? ⭐ | 🟡 |
+| <span id="q-1.7a"></span>1.7a | A bottle reads "68% HNO₃, d = 1.41 g/mL". What mass of HNO₃ is in 1 L? | 🟡 |
+| <span id="q-1.7b"></span>1.7b | "40% formaldehyde solution (formalin), d = 1.09 g/mL". Find mass of HCHO in 500 mL. | 🟡 |
+| <span id="q-1.7c"></span>1.7c | Concentrated H₂SO₄ (98%, d = 1.84 g/mL). A student needs exactly 196 g of H₂SO₄. What volume of conc. acid is needed? ⭐ | 🟡 |
+
+<details>
+<summary>View Answers</summary>
+
+**1.7a**: 37% HCl: 37 g HCl per 100 g solution *(Key Step: label reading)*
+**1.7b**: Answer not found.
+**1.7c**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -356,9 +431,19 @@ Therefore:
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-1.8a"></span>[1.8a](./answer-key.md#ans-1.8a) | A 15% NaCl solution is heated from 25°C to 75°C. Does the mass percent change? Explain. | 🟢 |
-| <span id="q-1.8b"></span>[1.8b](./answer-key.md#ans-1.8b) | Classify these as temperature-dependent or independent: w/w%, v/v%, molarity, molality, mole fraction, ppm. | 🟡 |
-| <span id="q-1.8c"></span>[1.8c](./answer-key.md#ans-1.8c) | A student argues: "If I heat a solution, water evaporates, so mass percent changes." Is this argument valid? Under what conditions? | 🔴 |
+| <span id="q-1.8a"></span>1.8a | A 15% NaCl solution is heated from 25°C to 75°C. Does the mass percent change? Explain. | 🟢 |
+| <span id="q-1.8b"></span>1.8b | Classify these as temperature-dependent or independent: w/w%, v/v%, molarity, molality, mole fraction, ppm. | 🟡 |
+| <span id="q-1.8c"></span>1.8c | A student argues: "If I heat a solution, water evaporates, so mass percent changes." Is this argument valid? Under what conditions? | 🔴 |
+
+<details>
+<summary>View Answers</summary>
+
+**1.8a**: Unchanged. Mass doesn't change with T. *(Key Step: conceptual)*
+**1.8b**: Answer not found.
+**1.8c**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -368,11 +453,23 @@ These problems combine multiple types. **Identify which types are being used bef
 
 | # | Question | Types Used | Difficulty |
 |---|----------|------------|------------|
-| <span id="q-1.M1"></span>[1.M1](./answer-key.md#ans-1.M1) | A 20% (w/w) NaCl solution has density 1.15 g/mL. Find (a) mass of NaCl in 500 mL (b) mass of water in 500 mL. | T6 + T3 | 🟡 |
-| <span id="q-1.M2"></span>[1.M2](./answer-key.md#ans-1.M2) | How would you prepare 2 L of 15% H₂SO₄ solution (d = 1.10 g/mL) from pure H₂SO₄ and water? State masses of each. | T4 + T6 | 🟡 |
-| <span id="q-1.M3"></span>[1.M3](./answer-key.md#ans-1.M3) | A commercial HCl solution is 37% by mass (d = 1.19 g/mL). If a student takes 200 mL of this solution, find (a) mass of HCl (b) mass of water (c) mass percent of water. | T7 + T6 + T3 | 🟡 |
-| <span id="q-1.M4"></span>[1.M4](./answer-key.md#ans-1.M4) | 40 g of NaOH is dissolved in 360 g of water. (a) Find w/w%. (b) If the density of this solution is 1.11 g/mL, find the volume of this solution. | T5 + T6 (reverse) | 🟡 |
-| <span id="q-1.M5"></span>[1.M5](./answer-key.md#ans-1.M5) | A solution of urea has mass percent 10%. If someone adds 50 g more water to 200 g of this solution, what is the new mass percent? | T2 + T5 | 🔴 |
+| <span id="q-1.M1"></span>1.M1 | A 20% (w/w) NaCl solution has density 1.15 g/mL. Find (a) mass of NaCl in 500 mL (b) mass of water in 500 mL. | T6 + T3 | 🟡 |
+| <span id="q-1.M2"></span>1.M2 | How would you prepare 2 L of 15% H₂SO₄ solution (d = 1.10 g/mL) from pure H₂SO₄ and water? State masses of each. | T4 + T6 | 🟡 |
+| <span id="q-1.M3"></span>1.M3 | A commercial HCl solution is 37% by mass (d = 1.19 g/mL). If a student takes 200 mL of this solution, find (a) mass of HCl (b) mass of water (c) mass percent of water. | T7 + T6 + T3 | 🟡 |
+| <span id="q-1.M4"></span>1.M4 | 40 g of NaOH is dissolved in 360 g of water. (a) Find w/w%. (b) If the density of this solution is 1.11 g/mL, find the volume of this solution. | T5 + T6 (reverse) | 🟡 |
+| <span id="q-1.M5"></span>1.M5 | A solution of urea has mass percent 10%. If someone adds 50 g more water to 200 g of this solution, what is the new mass percent? | T2 + T5 | 🔴 |
+
+<details>
+<summary>View Answers</summary>
+
+**1.M1**: Answer not found.
+**1.M2**: Answer not found.
+**1.M3**: Answer not found.
+**1.M4**: Answer not found.
+**1.M5**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -382,11 +479,23 @@ These problems combine multiple types. **Identify which types are being used bef
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-1.B1"></span>[1.B1](./answer-key.md#ans-1.B1) | A solution is prepared by adding 2 g of a substance A to 18 g of water. Calculate the mass percent of the solute. *(NCERT)* | 🟢 |
-| <span id="q-1.B2"></span>[1.B2](./answer-key.md#ans-1.B2) | Calculate the mass percent of benzene (C₆H₆) in solution containing 80 g of benzene in 320 g of carbon tetrachloride (CCl₄). | 🟢 |
-| <span id="q-1.B3"></span>[1.B3](./answer-key.md#ans-1.B3) | A solution of glucose has a mass percentage of 36%. Calculate the mass of glucose to be dissolved in 800 g of water to prepare this solution. ⭐ | 🟡 |
-| <span id="q-1.B4"></span>[1.B4](./answer-key.md#ans-1.B4) | If 20 mL of ethanol (d = 0.789 g/mL) is dissolved in 80 mL of water (d = 1.0 g/mL), calculate the mass percent of ethanol. | 🟡 |
-| <span id="q-1.B5"></span>[1.B5](./answer-key.md#ans-1.B5) | Concentrated nitric acid has a mass percentage of 68% and density 1.41 g/mL. What mass of HNO₃ is present in 500 mL of this acid? | 🟡 |
+| <span id="q-1.B1"></span>1.B1 | A solution is prepared by adding 2 g of a substance A to 18 g of water. Calculate the mass percent of the solute. *(NCERT)* | 🟢 |
+| <span id="q-1.B2"></span>1.B2 | Calculate the mass percent of benzene (C₆H₆) in solution containing 80 g of benzene in 320 g of carbon tetrachloride (CCl₄). | 🟢 |
+| <span id="q-1.B3"></span>1.B3 | A solution of glucose has a mass percentage of 36%. Calculate the mass of glucose to be dissolved in 800 g of water to prepare this solution. ⭐ | 🟡 |
+| <span id="q-1.B4"></span>1.B4 | If 20 mL of ethanol (d = 0.789 g/mL) is dissolved in 80 mL of water (d = 1.0 g/mL), calculate the mass percent of ethanol. | 🟡 |
+| <span id="q-1.B5"></span>1.B5 | Concentrated nitric acid has a mass percentage of 68% and density 1.41 g/mL. What mass of HNO₃ is present in 500 mL of this acid? | 🟡 |
+
+<details>
+<summary>View Answers</summary>
+
+**1.B1**: Answer not found.
+**1.B2**: Answer not found.
+**1.B3**: Answer not found.
+**1.B4**: Answer not found.
+**1.B5**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -396,11 +505,23 @@ These problems combine multiple types. **Identify which types are being used bef
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-1.J1"></span>[1.J1](./answer-key.md#ans-1.J1) | A 62% (w/w) H₂SO₄ solution has density 1.52 g/mL. Calculate the mass of water in 1.5 L of this solution. | 🟡 |
-| <span id="q-1.J2"></span>[1.J2](./answer-key.md#ans-1.J2) | 10 g of glucose is dissolved in 90 g of water. If the density of the solution is 1.02 g/mL, express the concentration in (a) mass percent (b) grams per litre. ⭐ | 🟡 |
-| <span id="q-1.J3"></span>[1.J3](./answer-key.md#ans-1.J3) | A solution is prepared by mixing 100 g of 30% NaCl solution with 200 g of 15% NaCl solution. What is the mass percent of the resulting solution? | 🔴 |
-| <span id="q-1.J4"></span>[1.J4](./answer-key.md#ans-1.J4) | Commercial sulphuric acid is 98% by mass (d = 1.84 g/mL). If 50 mL of this acid is diluted with water to make 1 L of solution (d = 1.07 g/mL), find the mass percent of the diluted solution. ⭐ | 🔴 |
-| <span id="q-1.J5"></span>[1.J5](./answer-key.md#ans-1.J5) | An aqueous solution contains 36% HCl by mass. If 1 mole of HCl weighs 36.5 g and the density of the solution is 1.18 g/mL, find the mass of solution that contains exactly 1 mole of HCl. | 🔴 |
+| <span id="q-1.J1"></span>1.J1 | A 62% (w/w) H₂SO₄ solution has density 1.52 g/mL. Calculate the mass of water in 1.5 L of this solution. | 🟡 |
+| <span id="q-1.J2"></span>1.J2 | 10 g of glucose is dissolved in 90 g of water. If the density of the solution is 1.02 g/mL, express the concentration in (a) mass percent (b) grams per litre. ⭐ | 🟡 |
+| <span id="q-1.J3"></span>1.J3 | A solution is prepared by mixing 100 g of 30% NaCl solution with 200 g of 15% NaCl solution. What is the mass percent of the resulting solution? | 🔴 |
+| <span id="q-1.J4"></span>1.J4 | Commercial sulphuric acid is 98% by mass (d = 1.84 g/mL). If 50 mL of this acid is diluted with water to make 1 L of solution (d = 1.07 g/mL), find the mass percent of the diluted solution. ⭐ | 🔴 |
+| <span id="q-1.J5"></span>1.J5 | An aqueous solution contains 36% HCl by mass. If 1 mole of HCl weighs 36.5 g and the density of the solution is 1.18 g/mL, find the mass of solution that contains exactly 1 mole of HCl. | 🔴 |
+
+<details>
+<summary>View Answers</summary>
+
+**1.J1**: Answer not found.
+**1.J2**: Answer not found.
+**1.J3**: Answer not found.
+**1.J4**: Answer not found.
+**1.J5**: Answer not found.
+
+</details>
+
 
 ---
 

@@ -104,8 +104,17 @@ Answer: 2 M (unchanged — obviously!)
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-9.1a"></span>[9.1a](./answer-key.md#ans-9.1a) | 50 mL + 150 mL of 0.5 M HCl. Final M? Final total moles? | 🟢 |
-| <span id="q-9.1b"></span>[9.1b](./answer-key.md#ans-9.1b) | 1 L + 2 L of 1 M NaOH. Final M? Total moles? | 🟢 |
+| <span id="q-9.1a"></span>9.1a | 50 mL + 150 mL of 0.5 M HCl. Final M? Final total moles? | 🟢 |
+| <span id="q-9.1b"></span>9.1b | 1 L + 2 L of 1 M NaOH. Final M? Total moles? | 🟢 |
+
+<details>
+<summary>View Answers</summary>
+
+**9.1a**: Answer not found.
+**9.1b**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -135,10 +144,21 @@ Answer: 1.8 M
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-9.2a"></span>[9.2a](./answer-key.md#ans-9.2a) | 100 mL of 4 M NaOH + 100 mL of 2 M NaOH. Find M_f. | 🟢 |
-| <span id="q-9.2b"></span>[9.2b](./answer-key.md#ans-9.2b) | 50 mL of 0.1 M HCl + 150 mL of 0.3 M HCl. Find M_f. ⭐ | 🟡 |
-| <span id="q-9.2c"></span>[9.2c](./answer-key.md#ans-9.2c) | 400 mL of 5 M H₂SO₄ + 600 mL of 2 M H₂SO₄. Find M_f. | 🟡 |
-| <span id="q-9.2d"></span>[9.2d](./answer-key.md#ans-9.2d) | 250 mL of 1 M KCl + 750 mL of 3 M KCl. Find M_f and total moles. | 🟡 |
+| <span id="q-9.2a"></span>9.2a | 100 mL of 4 M NaOH + 100 mL of 2 M NaOH. Find M_f. | 🟢 |
+| <span id="q-9.2b"></span>9.2b | 50 mL of 0.1 M HCl + 150 mL of 0.3 M HCl. Find M_f. ⭐ | 🟡 |
+| <span id="q-9.2c"></span>9.2c | 400 mL of 5 M H₂SO₄ + 600 mL of 2 M H₂SO₄. Find M_f. | 🟡 |
+| <span id="q-9.2d"></span>9.2d | 250 mL of 1 M KCl + 750 mL of 3 M KCl. Find M_f and total moles. | 🟡 |
+
+<details>
+<summary>View Answers</summary>
+
+**9.2a**: 3 M
+**9.2b**: 0.25 M
+**9.2c**: Answer not found.
+**9.2d**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -170,8 +190,17 @@ Key rule: The final M is a weighted average.
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-9.3a"></span>[9.3a](./answer-key.md#ans-9.3a) | 10 mL of 10 M + 990 mL of 0.1 M. Is final M closer to 10 or to 0.1? Estimate before calculating. | 🟡 |
-| <span id="q-9.3b"></span>[9.3b](./answer-key.md#ans-9.3b) | Equal volumes of 2 M and 8 M. What will the final M be? | 🟢 |
+| <span id="q-9.3a"></span>9.3a | 10 mL of 10 M + 990 mL of 0.1 M. Is final M closer to 10 or to 0.1? Estimate before calculating. | 🟡 |
+| <span id="q-9.3b"></span>9.3b | Equal volumes of 2 M and 8 M. What will the final M be? | 🟢 |
+
+<details>
+<summary>View Answers</summary>
+
+**9.3a**: Answer not found.
+**9.3b**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -231,10 +260,21 @@ Verification:
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-9.4a"></span>[9.4a](./answer-key.md#ans-9.4a) | Mix 10 M and 2 M NaOH to get 4 M. Find V₁:V₂. ⭐ | 🟡 |
-| <span id="q-9.4b"></span>[9.4b](./answer-key.md#ans-9.4b) | You have 0.1 M and 1 M HCl. What ratio gives 0.4 M? | 🟡 |
-| <span id="q-9.4c"></span>[9.4c](./answer-key.md#ans-9.4c) | Mix 18 M conc. H₂SO₄ with 0 M (water) to get 3 M. Ratio? (Note: M₂ = 0 for water!) ⭐ | 🟡 |
-| <span id="q-9.4d"></span>[9.4d](./answer-key.md#ans-9.4d) | Is it possible to get 12 M by mixing 5 M and 8 M solutions? Why or why not? | 🟡 |
+| <span id="q-9.4a"></span>9.4a | Mix 10 M and 2 M NaOH to get 4 M. Find V₁:V₂. ⭐ | 🟡 |
+| <span id="q-9.4b"></span>9.4b | You have 0.1 M and 1 M HCl. What ratio gives 0.4 M? | 🟡 |
+| <span id="q-9.4c"></span>9.4c | Mix 18 M conc. H₂SO₄ with 0 M (water) to get 3 M. Ratio? (Note: M₂ = 0 for water!) ⭐ | 🟡 |
+| <span id="q-9.4d"></span>9.4d | Is it possible to get 12 M by mixing 5 M and 8 M solutions? Why or why not? | 🟡 |
+
+<details>
+<summary>View Answers</summary>
+
+**9.4a**: V₁:V₂ = 1:3
+**9.4b**: Answer not found.
+**9.4c**: Answer not found.
+**9.4d**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -279,10 +319,21 @@ Answer: The resulting solution contains 0.1 M HCl (acidic)
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-9.5a"></span>[9.5a](./answer-key.md#ans-9.5a) | 50 mL of 1 M HCl + 50 mL of 1 M NaOH. What's left? | 🟢 |
-| <span id="q-9.5b"></span>[9.5b](./answer-key.md#ans-9.5b) | 100 mL of 0.2 M H₂SO₄ + 100 mL of 0.3 M NaOH. Which is excess? Find its final concentration. (H₂SO₄ + 2NaOH → Na₂SO₄ + 2H₂O) ⭐⭐ | 🔴 |
-| <span id="q-9.5c"></span>[9.5c](./answer-key.md#ans-9.5c) | 200 mL of 0.1 M NaOH + 300 mL of 0.05 M HCl. Excess and final concentration? | 🟡 |
-| <span id="q-9.5d"></span>[9.5d](./answer-key.md#ans-9.5d) | 25 mL of 0.5 M Ba(OH)₂ + 25 mL of 0.5 M HCl. Ba(OH)₂ + 2HCl → BaCl₂ + 2H₂O. Which is excess? ⭐ | 🔴 |
+| <span id="q-9.5a"></span>9.5a | 50 mL of 1 M HCl + 50 mL of 1 M NaOH. What's left? | 🟢 |
+| <span id="q-9.5b"></span>9.5b | 100 mL of 0.2 M H₂SO₄ + 100 mL of 0.3 M NaOH. Which is excess? Find its final concentration. (H₂SO₄ + 2NaOH → Na₂SO₄ + 2H₂O) ⭐⭐ | 🔴 |
+| <span id="q-9.5c"></span>9.5c | 200 mL of 0.1 M NaOH + 300 mL of 0.05 M HCl. Excess and final concentration? | 🟡 |
+| <span id="q-9.5d"></span>9.5d | 25 mL of 0.5 M Ba(OH)₂ + 25 mL of 0.5 M HCl. Ba(OH)₂ + 2HCl → BaCl₂ + 2H₂O. Which is excess? ⭐ | 🔴 |
+
+<details>
+<summary>View Answers</summary>
+
+**9.5a**: Neutral — nothing left (all NaCl + H₂O)
+**9.5b**: mmol H⁺ = 0.2×100×2 = 40; mmol OH⁻ = 0.3×100 = 30; H⁺ excess = 10 mmol in 200 mL → 0.05 M H⁺
+**9.5c**: Answer not found.
+**9.5d**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -313,8 +364,17 @@ Answer: 1.2 M
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-9.6a"></span>[9.6a](./answer-key.md#ans-9.6a) | 100 mL of 5 M HCl + 400 mL of water. Find M_f. | 🟢 |
-| <span id="q-9.6b"></span>[9.6b](./answer-key.md#ans-9.6b) | 50 mL of solution + 950 mL of water gives M_f = 0.05 M. Find M₁. | 🟡 |
+| <span id="q-9.6a"></span>9.6a | 100 mL of 5 M HCl + 400 mL of water. Find M_f. | 🟢 |
+| <span id="q-9.6b"></span>9.6b | 50 mL of solution + 950 mL of water gives M_f = 0.05 M. Find M₁. | 🟡 |
+
+<details>
+<summary>View Answers</summary>
+
+**9.6a**: Answer not found.
+**9.6b**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -347,9 +407,19 @@ Answer: 2.6 M
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-9.7a"></span>[9.7a](./answer-key.md#ans-9.7a) | 50 mL of 1 M + 50 mL of 3 M + 100 mL of 2 M HCl. Find M_f. | 🟡 |
-| <span id="q-9.7b"></span>[9.7b](./answer-key.md#ans-9.7b) | 100 mL of 0.5 M NaOH + 200 mL of 0.2 M NaOH + 200 mL of water. Find M_f. | 🟡 |
-| <span id="q-9.7c"></span>[9.7c](./answer-key.md#ans-9.7c) | Equal volumes of 1 M, 2 M, 3 M, and 4 M solutions. Find M_f. (No calculation needed!) | 🟢 |
+| <span id="q-9.7a"></span>9.7a | 50 mL of 1 M + 50 mL of 3 M + 100 mL of 2 M HCl. Find M_f. | 🟡 |
+| <span id="q-9.7b"></span>9.7b | 100 mL of 0.5 M NaOH + 200 mL of 0.2 M NaOH + 200 mL of water. Find M_f. | 🟡 |
+| <span id="q-9.7c"></span>9.7c | Equal volumes of 1 M, 2 M, 3 M, and 4 M solutions. Find M_f. (No calculation needed!) | 🟢 |
+
+<details>
+<summary>View Answers</summary>
+
+**9.7a**: Answer not found.
+**9.7b**: Answer not found.
+**9.7c**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -381,8 +451,17 @@ the actual volume is LESS than expected.
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-9.8a"></span>[9.8a](./answer-key.md#ans-9.8a) | 50 mL of methanol + 50 mL of water → 97 mL total. If methanol was 1 M in solute X, actual vs predicted M of X? | 🔴 |
-| <span id="q-9.8b"></span>[9.8b](./answer-key.md#ans-9.8b) | Why does this problem not arise significantly with dilute aqueous solutions? | 🟡 |
+| <span id="q-9.8a"></span>9.8a | 50 mL of methanol + 50 mL of water → 97 mL total. If methanol was 1 M in solute X, actual vs predicted M of X? | 🔴 |
+| <span id="q-9.8b"></span>9.8b | Why does this problem not arise significantly with dilute aqueous solutions? | 🟡 |
+
+<details>
+<summary>View Answers</summary>
+
+**9.8a**: Answer not found.
+**9.8b**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -434,8 +513,17 @@ Answer: ~1.46 m
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-9.9a"></span>[9.9a](./answer-key.md#ans-9.9a) | 200 g of 1 m urea + 300 g of 3 m urea (both aqueous). Find final molality. (M_urea = 60) | 🔴 |
-| <span id="q-9.9b"></span>[9.9b](./answer-key.md#ans-9.9b) | Why is mixing in molality harder than mixing in molarity? | 🟡 |
+| <span id="q-9.9a"></span>9.9a | 200 g of 1 m urea + 300 g of 3 m urea (both aqueous). Find final molality. (M_urea = 60) | 🔴 |
+| <span id="q-9.9b"></span>9.9b | Why is mixing in molality harder than mixing in molarity? | 🟡 |
+
+<details>
+<summary>View Answers</summary>
+
+**9.9a**: Answer not found.
+**9.9b**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -467,8 +555,17 @@ Answer: (a) 2 M  (b) 0.8 M
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-9.10a"></span>[9.10a](./answer-key.md#ans-9.10a) | Mix 50 mL of 4 M and 50 mL of 2 M NaOH. Dilute to 500 mL. Final M? | 🟡 |
-| <span id="q-9.10b"></span>[9.10b](./answer-key.md#ans-9.10b) | Mix 100 mL of 0.5 M HCl, 200 mL of 0.3 M HCl, and 200 mL of water. Then dilute to 1 L. Final M? | 🟡 |
+| <span id="q-9.10a"></span>9.10a | Mix 50 mL of 4 M and 50 mL of 2 M NaOH. Dilute to 500 mL. Final M? | 🟡 |
+| <span id="q-9.10b"></span>9.10b | Mix 100 mL of 0.5 M HCl, 200 mL of 0.3 M HCl, and 200 mL of water. Then dilute to 1 L. Final M? | 🟡 |
+
+<details>
+<summary>View Answers</summary>
+
+**9.10a**: Answer not found.
+**9.10b**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -476,9 +573,19 @@ Answer: (a) 2 M  (b) 0.8 M
 
 | # | Question | Types Used | Difficulty |
 |---|----------|------------|------------|
-| <span id="q-9.M1"></span>[9.M1](./answer-key.md#ans-9.M1) | 200 mL of 0.5 M H₂SO₄ + 300 mL of 0.2 M NaOH. (a) Which is excess? (Use stoichiometry!) (b) Find [excess] after mixing. (c) What volume of 0.1 M NaOH to fully neutralise the excess? | T5 + Ch8 | 🔴 |
-| <span id="q-9.M2"></span>[9.M2](./answer-key.md#ans-9.M2) | You need 500 mL of 0.6 M NaCl. You have 2 M and 0.1 M stock. (a) Find V₁ and V₂. (b) If total V must be exactly 500 mL, solve the system. | T4 + algebra | 🔴 |
-| <span id="q-9.M3"></span>[9.M3](./answer-key.md#ans-9.M3) | 100 mL of 1 M HCl, 100 mL of 2 M NaOH, and 100 mL of 1 M HCl are all mixed. (a) Total mmol HCl and NaOH. (b) Which is excess? (c) Final concentration. | T7 + T5 | 🟡 |
+| <span id="q-9.M1"></span>9.M1 | 200 mL of 0.5 M H₂SO₄ + 300 mL of 0.2 M NaOH. (a) Which is excess? (Use stoichiometry!) (b) Find [excess] after mixing. (c) What volume of 0.1 M NaOH to fully neutralise the excess? | T5 + Ch8 | 🔴 |
+| <span id="q-9.M2"></span>9.M2 | You need 500 mL of 0.6 M NaCl. You have 2 M and 0.1 M stock. (a) Find V₁ and V₂. (b) If total V must be exactly 500 mL, solve the system. | T4 + algebra | 🔴 |
+| <span id="q-9.M3"></span>9.M3 | 100 mL of 1 M HCl, 100 mL of 2 M NaOH, and 100 mL of 1 M HCl are all mixed. (a) Total mmol HCl and NaOH. (b) Which is excess? (c) Final concentration. | T7 + T5 | 🟡 |
+
+<details>
+<summary>View Answers</summary>
+
+**9.M1**: Answer not found.
+**9.M2**: Answer not found.
+**9.M3**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -486,9 +593,19 @@ Answer: (a) 2 M  (b) 0.8 M
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-9.B1"></span>[9.B1](./answer-key.md#ans-9.B1) | 100 mL of 0.5 M NaCl is mixed with 200 mL of 0.3 M NaCl. Find the final molarity. ⭐ | 🟡 |
-| <span id="q-9.B2"></span>[9.B2](./answer-key.md#ans-9.B2) | Equal volumes of 1 M HCl and 1 M NaOH are mixed. What is in the resulting solution? | 🟢 |
-| <span id="q-9.B3"></span>[9.B3](./answer-key.md#ans-9.B3) | 50 mL of 0.2 M H₂SO₄ + 50 mL of 0.2 M NaOH. Is the final solution acidic, basic, or neutral? (H₂SO₄ is diprotic!) ⭐ | 🟡 |
+| <span id="q-9.B1"></span>9.B1 | 100 mL of 0.5 M NaCl is mixed with 200 mL of 0.3 M NaCl. Find the final molarity. ⭐ | 🟡 |
+| <span id="q-9.B2"></span>9.B2 | Equal volumes of 1 M HCl and 1 M NaOH are mixed. What is in the resulting solution? | 🟢 |
+| <span id="q-9.B3"></span>9.B3 | 50 mL of 0.2 M H₂SO₄ + 50 mL of 0.2 M NaOH. Is the final solution acidic, basic, or neutral? (H₂SO₄ is diprotic!) ⭐ | 🟡 |
+
+<details>
+<summary>View Answers</summary>
+
+**9.B1**: Answer not found.
+**9.B2**: Answer not found.
+**9.B3**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -496,11 +613,23 @@ Answer: (a) 2 M  (b) 0.8 M
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-9.J1"></span>[9.J1](./answer-key.md#ans-9.J1) | 200 mL of 0.2 M HCl + 300 mL of 0.1 M NaOH + 100 mL of 0.3 M HCl. Find final [H⁺] or [OH⁻], whichever is in excess. ⭐ | 🔴 |
-| <span id="q-9.J2"></span>[9.J2](./answer-key.md#ans-9.J2) | Mix V₁ mL of C₁ M and V₂ mL of C₂ M of the same solute. If M_f = (C₁ + C₂)/2, prove that V₁ = V₂. | 🟡 |
-| <span id="q-9.J3"></span>[9.J3](./answer-key.md#ans-9.J3) | 100 mL of 0.1 M AgNO₃ + 100 mL of 0.2 M NaCl. AgNO₃ + NaCl → AgCl↓ + NaNO₃. Find: (a) moles of AgCl formed (b) concentration of excess reagent (c) [Na⁺], [NO₃⁻], [Cl⁻] in final solution. ⭐⭐ | 🔴 |
-| <span id="q-9.J4"></span>[9.J4](./answer-key.md#ans-9.J4) | 50 mL of 0.5 M Ba(OH)₂ is mixed with 100 mL of 0.3 M HCl. Ba(OH)₂ + 2HCl → BaCl₂ + 2H₂O. Find the concentration of excess reagent and all ions present. ⭐ | 🔴 |
-| <span id="q-9.J5"></span>[9.J5](./answer-key.md#ans-9.J5) | Three solutions: 100 mL of 3 M, 200 mL of x M, and 100 mL of 1 M (all same solute). If M_f = 2 M, find x. ⭐ | 🟡 |
+| <span id="q-9.J1"></span>9.J1 | 200 mL of 0.2 M HCl + 300 mL of 0.1 M NaOH + 100 mL of 0.3 M HCl. Find final [H⁺] or [OH⁻], whichever is in excess. ⭐ | 🔴 |
+| <span id="q-9.J2"></span>9.J2 | Mix V₁ mL of C₁ M and V₂ mL of C₂ M of the same solute. If M_f = (C₁ + C₂)/2, prove that V₁ = V₂. | 🟡 |
+| <span id="q-9.J3"></span>9.J3 | 100 mL of 0.1 M AgNO₃ + 100 mL of 0.2 M NaCl. AgNO₃ + NaCl → AgCl↓ + NaNO₃. Find: (a) moles of AgCl formed (b) concentration of excess reagent (c) [Na⁺], [NO₃⁻], [Cl⁻] in final solution. ⭐⭐ | 🔴 |
+| <span id="q-9.J4"></span>9.J4 | 50 mL of 0.5 M Ba(OH)₂ is mixed with 100 mL of 0.3 M HCl. Ba(OH)₂ + 2HCl → BaCl₂ + 2H₂O. Find the concentration of excess reagent and all ions present. ⭐ | 🔴 |
+| <span id="q-9.J5"></span>9.J5 | Three solutions: 100 mL of 3 M, 200 mL of x M, and 100 mL of 1 M (all same solute). If M_f = 2 M, find x. ⭐ | 🟡 |
+
+<details>
+<summary>View Answers</summary>
+
+**9.J1**: Answer not found.
+**9.J2**: Answer not found.
+**9.J3**: Answer not found.
+**9.J4**: Answer not found.
+**9.J5**: x = 2 M (solve: 300+200x+100=800 → 200x=400 → x=2)
+
+</details>
+
 
 ---
 

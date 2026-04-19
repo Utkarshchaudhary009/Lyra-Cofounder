@@ -118,10 +118,21 @@ Answer: 0.2 M
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-6.1a"></span>[6.1a](./answer-key.md#ans-6.1a) | 5.85 g of NaCl (M = 58.5) in 250 mL of solution. Find M. | 🟢 |
-| <span id="q-6.1b"></span>[6.1b](./answer-key.md#ans-6.1b) | 9.8 g of H₂SO₄ (M = 98) in 500 mL of solution. Find M. ⭐ | 🟢 |
-| <span id="q-6.1c"></span>[6.1c](./answer-key.md#ans-6.1c) | 1.06 g of Na₂CO₃ (M = 106) in 100 mL of solution. Find M. | 🟢 |
-| <span id="q-6.1d"></span>[6.1d](./answer-key.md#ans-6.1d) | 36 g of glucose (M = 180) dissolved to make 2 L of solution. Find M. | 🟢 |
+| <span id="q-6.1a"></span>6.1a | 5.85 g of NaCl (M = 58.5) in 250 mL of solution. Find M. | 🟢 |
+| <span id="q-6.1b"></span>6.1b | 9.8 g of H₂SO₄ (M = 98) in 500 mL of solution. Find M. ⭐ | 🟢 |
+| <span id="q-6.1c"></span>6.1c | 1.06 g of Na₂CO₃ (M = 106) in 100 mL of solution. Find M. | 🟢 |
+| <span id="q-6.1d"></span>6.1d | 36 g of glucose (M = 180) dissolved to make 2 L of solution. Find M. | 🟢 |
+
+<details>
+<summary>View Answers</summary>
+
+**6.1a**: 0.4 M
+**6.1b**: 0.2 M
+**6.1c**: Answer not found.
+**6.1d**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -147,10 +158,21 @@ Answer: 3.65 g of HCl
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-6.2a"></span>[6.2a](./answer-key.md#ans-6.2a) | How many grams of NaOH (M=40) in 100 mL of 2 M NaOH? | 🟢 |
-| <span id="q-6.2b"></span>[6.2b](./answer-key.md#ans-6.2b) | Find the mass of KMnO₄ (M=158) in 250 mL of 0.02 M solution. | 🟡 |
-| <span id="q-6.2c"></span>[6.2c](./answer-key.md#ans-6.2c) | A 3 M glucose (M=180) solution: how many grams in 500 mL? | 🟢 |
-| <span id="q-6.2d"></span>[6.2d](./answer-key.md#ans-6.2d) | How much Na₂CO₃ (M=106) is needed to prepare 2 L of 0.1 M solution? | 🟡 |
+| <span id="q-6.2a"></span>6.2a | How many grams of NaOH (M=40) in 100 mL of 2 M NaOH? | 🟢 |
+| <span id="q-6.2b"></span>6.2b | Find the mass of KMnO₄ (M=158) in 250 mL of 0.02 M solution. | 🟡 |
+| <span id="q-6.2c"></span>6.2c | A 3 M glucose (M=180) solution: how many grams in 500 mL? | 🟢 |
+| <span id="q-6.2d"></span>6.2d | How much Na₂CO₃ (M=106) is needed to prepare 2 L of 0.1 M solution? | 🟡 |
+
+<details>
+<summary>View Answers</summary>
+
+**6.2a**: Answer not found.
+**6.2b**: Answer not found.
+**6.2c**: Answer not found.
+**6.2d**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -174,9 +196,19 @@ Answer: 500 mL
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-6.3a"></span>[6.3a](./answer-key.md#ans-6.3a) | What volume of 2 M NaOH contains 0.1 mol NaOH? | 🟢 |
-| <span id="q-6.3b"></span>[6.3b](./answer-key.md#ans-6.3b) | You need 0.005 mol of AgNO₃. You have a 0.1 M solution. What volume do you take? | 🟡 |
-| <span id="q-6.3c"></span>[6.3c](./answer-key.md#ans-6.3c) | What volume of 0.02 M KMnO₄ contains 1 millimole of KMnO₄? | 🟡 |
+| <span id="q-6.3a"></span>6.3a | What volume of 2 M NaOH contains 0.1 mol NaOH? | 🟢 |
+| <span id="q-6.3b"></span>6.3b | You need 0.005 mol of AgNO₃. You have a 0.1 M solution. What volume do you take? | 🟡 |
+| <span id="q-6.3c"></span>6.3c | What volume of 0.02 M KMnO₄ contains 1 millimole of KMnO₄? | 🟡 |
+
+<details>
+<summary>View Answers</summary>
+
+**6.3a**: Answer not found.
+**6.3b**: Answer not found.
+**6.3c**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -237,11 +269,23 @@ Answer: M ≈ 18.4 M
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-6.4a"></span>[6.4a](./answer-key.md#ans-6.4a) | Concentrated HCl is 37% by mass, d = 1.19 g/mL, M = 36.5. Find molarity. ⭐⭐ | 🟡 |
-| <span id="q-6.4b"></span>[6.4b](./answer-key.md#ans-6.4b) | Concentrated HNO₃ is 68% by mass, d = 1.41 g/mL, M = 63. Find molarity. ⭐ | 🟡 |
-| <span id="q-6.4c"></span>[6.4c](./answer-key.md#ans-6.4c) | 10% NaOH solution, d = 1.11 g/mL, M = 40. Find molarity. | 🟡 |
-| <span id="q-6.4d"></span>[6.4d](./answer-key.md#ans-6.4d) | An H₃PO₄ solution is 85% by mass, d = 1.69 g/mL, M = 98. Find molarity. | 🟡 |
-| <span id="q-6.4e"></span>[6.4e](./answer-key.md#ans-6.4e) | A sucrose solution has M = 2.5 M and d = 1.15 g/mL (M_sucrose = 342). Find w/w%. (Reverse) ⭐ | 🔴 |
+| <span id="q-6.4a"></span>6.4a | Concentrated HCl is 37% by mass, d = 1.19 g/mL, M = 36.5. Find molarity. ⭐⭐ | 🟡 |
+| <span id="q-6.4b"></span>6.4b | Concentrated HNO₃ is 68% by mass, d = 1.41 g/mL, M = 63. Find molarity. ⭐ | 🟡 |
+| <span id="q-6.4c"></span>6.4c | 10% NaOH solution, d = 1.11 g/mL, M = 40. Find molarity. | 🟡 |
+| <span id="q-6.4d"></span>6.4d | An H₃PO₄ solution is 85% by mass, d = 1.69 g/mL, M = 98. Find molarity. | 🟡 |
+| <span id="q-6.4e"></span>6.4e | A sucrose solution has M = 2.5 M and d = 1.15 g/mL (M_sucrose = 342). Find w/w%. (Reverse) ⭐ | 🔴 |
+
+<details>
+<summary>View Answers</summary>
+
+**6.4a**: 12.06 M
+**6.4b**: 15.24 M
+**6.4c**: 2.775 M
+**6.4d**: Answer not found.
+**6.4e**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -284,9 +328,19 @@ Answer: M ≈ 0.28 M
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-6.5a"></span>[6.5a](./answer-key.md#ans-6.5a) | 10% w/v NaCl (M = 58.5). Find M. | 🟢 |
-| <span id="q-6.5b"></span>[6.5b](./answer-key.md#ans-6.5b) | 0.9% w/v NaCl (physiological saline). Find M. ⭐ | 🟢 |
-| <span id="q-6.5c"></span>[6.5c](./answer-key.md#ans-6.5c) | 5% w/v dextrose (M = 180) — used in IV drips. Find M. | 🟢 |
+| <span id="q-6.5a"></span>6.5a | 10% w/v NaCl (M = 58.5). Find M. | 🟢 |
+| <span id="q-6.5b"></span>6.5b | 0.9% w/v NaCl (physiological saline). Find M. ⭐ | 🟢 |
+| <span id="q-6.5c"></span>6.5c | 5% w/v dextrose (M = 180) — used in IV drips. Find M. | 🟢 |
+
+<details>
+<summary>View Answers</summary>
+
+**6.5a**: Answer not found.
+**6.5b**: Answer not found.
+**6.5c**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -333,9 +387,19 @@ Answer: M ≈ 4.15 M
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-6.6a"></span>[6.6a](./answer-key.md#ans-6.6a) | m = 2, d = 1.05 g/mL, M_solute = 40 (NaOH). Find M. | 🟡 |
-| <span id="q-6.6b"></span>[6.6b](./answer-key.md#ans-6.6b) | m = 0.5, d = 1.02 g/mL, M_solute = 180 (glucose). Find M. | 🟡 |
-| <span id="q-6.6c"></span>[6.6c](./answer-key.md#ans-6.6c) | m = 10, d = 1.3 g/mL, M_solute = 60 (urea). Find M. | 🔴 |
+| <span id="q-6.6a"></span>6.6a | m = 2, d = 1.05 g/mL, M_solute = 40 (NaOH). Find M. | 🟡 |
+| <span id="q-6.6b"></span>6.6b | m = 0.5, d = 1.02 g/mL, M_solute = 180 (glucose). Find M. | 🟡 |
+| <span id="q-6.6c"></span>6.6c | m = 10, d = 1.3 g/mL, M_solute = 60 (urea). Find M. | 🔴 |
+
+<details>
+<summary>View Answers</summary>
+
+**6.6a**: Answer not found.
+**6.6b**: Answer not found.
+**6.6c**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -371,8 +435,17 @@ Answer: M ≈ 10.71 M
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-6.7a"></span>[6.7a](./answer-key.md#ans-6.7a) | χ_NaOH = 0.15 in water, d = 1.18 g/mL. Find M. (M_NaOH = 40) | 🔴 |
-| <span id="q-6.7b"></span>[6.7b](./answer-key.md#ans-6.7b) | χ_ethanol = 0.2, d = 0.96 g/mL. Find M. (M_ethanol = 46, M_water = 18) | 🔴 |
+| <span id="q-6.7a"></span>6.7a | χ_NaOH = 0.15 in water, d = 1.18 g/mL. Find M. (M_NaOH = 40) | 🔴 |
+| <span id="q-6.7b"></span>6.7b | χ_ethanol = 0.2, d = 0.96 g/mL. Find M. (M_ethanol = 46, M_water = 18) | 🔴 |
+
+<details>
+<summary>View Answers</summary>
+
+**6.7a**: Answer not found.
+**6.7b**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -401,8 +474,17 @@ Answer: Pure water has a "molarity" of 55.55 M
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-6.8a"></span>[6.8a](./answer-key.md#ans-6.8a) | Find the "molarity" of pure ethanol. (d = 0.789 g/mL, M = 46) | 🟡 |
-| <span id="q-6.8b"></span>[6.8b](./answer-key.md#ans-6.8b) | Find the "molarity" of pure acetic acid. (d = 1.049 g/mL, M = 60) | 🟡 |
+| <span id="q-6.8a"></span>6.8a | Find the "molarity" of pure ethanol. (d = 0.789 g/mL, M = 46) | 🟡 |
+| <span id="q-6.8b"></span>6.8b | Find the "molarity" of pure acetic acid. (d = 1.049 g/mL, M = 60) | 🟡 |
+
+<details>
+<summary>View Answers</summary>
+
+**6.8a**: 17.15 M
+**6.8b**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -442,9 +524,19 @@ Answer: Take 41.5 mL of concentrated HCl and dilute to 500 mL.
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-6.9a"></span>[6.9a](./answer-key.md#ans-6.9a) | Verify all five molarities in the commercial acids table above. | 🟡 |
-| <span id="q-6.9b"></span>[6.9b](./answer-key.md#ans-6.9b) | How much 98% H₂SO₄ (d=1.84) is needed to make 1 L of 0.5 M H₂SO₄? ⭐ | 🟡 |
-| <span id="q-6.9c"></span>[6.9c](./answer-key.md#ans-6.9c) | How much concentrated HNO₃ (68%, d=1.41, M=63) for 250 mL of 2 M HNO₃? | 🟡 |
+| <span id="q-6.9a"></span>6.9a | Verify all five molarities in the commercial acids table above. | 🟡 |
+| <span id="q-6.9b"></span>6.9b | How much 98% H₂SO₄ (d=1.84) is needed to make 1 L of 0.5 M H₂SO₄? ⭐ | 🟡 |
+| <span id="q-6.9c"></span>6.9c | How much concentrated HNO₃ (68%, d=1.41, M=63) for 250 mL of 2 M HNO₃? | 🟡 |
+
+<details>
+<summary>View Answers</summary>
+
+**6.9a**: Answer not found.
+**6.9b**: 27.17 mL of conc. H₂SO₄
+**6.9c**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -472,10 +564,21 @@ Answer: 2.5 millimoles = 0.0025 mol
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-6.10a"></span>[6.10a](./answer-key.md#ans-6.10a) | Moles of HCl in 50 mL of 2 M HCl? | 🟢 |
-| <span id="q-6.10b"></span>[6.10b](./answer-key.md#ans-6.10b) | Moles of H₂SO₄ in 10 mL of 0.05 M H₂SO₄? | 🟢 |
-| <span id="q-6.10c"></span>[6.10c](./answer-key.md#ans-6.10c) | You need exactly 0.02 mol of KMnO₄. You have 0.1 M KMnO₄. What volume do you pipette? | 🟡 |
-| <span id="q-6.10d"></span>[6.10d](./answer-key.md#ans-6.10d) | 25 mL of 0.1 M NaOH neutralises how many moles of HCl? (1:1 reaction) | 🟡 |
+| <span id="q-6.10a"></span>6.10a | Moles of HCl in 50 mL of 2 M HCl? | 🟢 |
+| <span id="q-6.10b"></span>6.10b | Moles of H₂SO₄ in 10 mL of 0.05 M H₂SO₄? | 🟢 |
+| <span id="q-6.10c"></span>6.10c | You need exactly 0.02 mol of KMnO₄. You have 0.1 M KMnO₄. What volume do you pipette? | 🟡 |
+| <span id="q-6.10d"></span>6.10d | 25 mL of 0.1 M NaOH neutralises how many moles of HCl? (1:1 reaction) | 🟡 |
+
+<details>
+<summary>View Answers</summary>
+
+**6.10a**: Answer not found.
+**6.10b**: Answer not found.
+**6.10c**: Answer not found.
+**6.10d**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -511,8 +614,17 @@ Quantitative estimate:
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-6.11a"></span>[6.11a](./answer-key.md#ans-6.11a) | At 4°C, water has maximum density. Will molarity be maximum or minimum at 4°C? | 🟡 |
-| <span id="q-6.11b"></span>[6.11b](./answer-key.md#ans-6.11b) | Why doesn't this problem exist for molality, mass %, or mole fraction? | 🟡 |
+| <span id="q-6.11a"></span>6.11a | At 4°C, water has maximum density. Will molarity be maximum or minimum at 4°C? | 🟡 |
+| <span id="q-6.11b"></span>6.11b | Why doesn't this problem exist for molality, mass %, or mole fraction? | 🟡 |
+
+<details>
+<summary>View Answers</summary>
+
+**6.11a**: Answer not found.
+**6.11b**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -563,10 +675,21 @@ Answer: 0.03 mol of water
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-6.12a"></span>[6.12a](./answer-key.md#ans-6.12a) | 20 mL of 0.1 M AgNO₃ + excess NaCl → AgCl↓. Find mass of AgCl precipitated. (M_AgCl = 143.5) ⭐ | 🟡 |
-| <span id="q-6.12b"></span>[6.12b](./answer-key.md#ans-6.12b) | 50 mL of 0.2 M BaCl₂ + 50 mL of 0.1 M Na₂SO₄. How many moles of BaSO₄ precipitate? Which reagent is in excess? ⭐ | 🔴 |
-| <span id="q-6.12c"></span>[6.12c](./answer-key.md#ans-6.12c) | How many mL of 0.5 M NaOH are needed to completely neutralize 25 mL of 0.2 M H₂SO₄? | 🟡 |
-| <span id="q-6.12d"></span>[6.12d](./answer-key.md#ans-6.12d) | 100 mL of 1 M HCl + 50 mL of 1 M NaOH. Find (a) leftover HCl moles (b) final concentration of HCl in the mixed solution. | 🔴 |
+| <span id="q-6.12a"></span>6.12a | 20 mL of 0.1 M AgNO₃ + excess NaCl → AgCl↓. Find mass of AgCl precipitated. (M_AgCl = 143.5) ⭐ | 🟡 |
+| <span id="q-6.12b"></span>6.12b | 50 mL of 0.2 M BaCl₂ + 50 mL of 0.1 M Na₂SO₄. How many moles of BaSO₄ precipitate? Which reagent is in excess? ⭐ | 🔴 |
+| <span id="q-6.12c"></span>6.12c | How many mL of 0.5 M NaOH are needed to completely neutralize 25 mL of 0.2 M H₂SO₄? | 🟡 |
+| <span id="q-6.12d"></span>6.12d | 100 mL of 1 M HCl + 50 mL of 1 M NaOH. Find (a) leftover HCl moles (b) final concentration of HCl in the mixed solution. | 🔴 |
+
+<details>
+<summary>View Answers</summary>
+
+**6.12a**: 0.287 g AgCl
+**6.12b**: Answer not found.
+**6.12c**: Answer not found.
+**6.12d**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -574,10 +697,21 @@ Answer: 0.03 mol of water
 
 | # | Question | Types Used | Difficulty |
 |---|----------|------------|------------|
-| <span id="q-6.M1"></span>[6.M1](./answer-key.md#ans-6.M1) | Concentrated H₂SO₄ (98%, d = 1.84, M = 98). Find: (a) molarity (b) molality (c) mole fraction (d) volume needed to make 1 L of 2M H₂SO₄. | T4 + Ch5 + Ch4 + T9 | 🔴 |
-| <span id="q-6.M2"></span>[6.M2](./answer-key.md#ans-6.M2) | A 5 M NaCl solution (d = 1.15 g/mL, M = 58.5). Find: (a) w/w% (b) molality (c) mole fraction. | T4 rev + Ch5-T7 + Ch4 | 🔴 |
-| <span id="q-6.M3"></span>[6.M3](./answer-key.md#ans-6.M3) | 25 mL of 0.2 M AgNO₃ is mixed with 25 mL of 0.1 M CaCl₂. Find: (a) mmol of Ag⁺ and Cl⁻ (b) Will AgCl precipitate? (c) Moles of AgCl formed. (d) Final [Ag⁺] and [Cl⁻]. CaCl₂ → Ca²⁺ + 2Cl⁻ | T10 + T12 + Ch10 | 🔴 |
-| <span id="q-6.M4"></span>[6.M4](./answer-key.md#ans-6.M4) | You need 0.01 mol of NaOH for a reaction. You have a 15% w/w NaOH solution (d = 1.16 g/mL). What volume do you take? | T4 + T10 + T3 | 🟡 |
+| <span id="q-6.M1"></span>6.M1 | Concentrated H₂SO₄ (98%, d = 1.84, M = 98). Find: (a) molarity (b) molality (c) mole fraction (d) volume needed to make 1 L of 2M H₂SO₄. | T4 + Ch5 + Ch4 + T9 | 🔴 |
+| <span id="q-6.M2"></span>6.M2 | A 5 M NaCl solution (d = 1.15 g/mL, M = 58.5). Find: (a) w/w% (b) molality (c) mole fraction. | T4 rev + Ch5-T7 + Ch4 | 🔴 |
+| <span id="q-6.M3"></span>6.M3 | 25 mL of 0.2 M AgNO₃ is mixed with 25 mL of 0.1 M CaCl₂. Find: (a) mmol of Ag⁺ and Cl⁻ (b) Will AgCl precipitate? (c) Moles of AgCl formed. (d) Final [Ag⁺] and [Cl⁻]. CaCl₂ → Ca²⁺ + 2Cl⁻ | T10 + T12 + Ch10 | 🔴 |
+| <span id="q-6.M4"></span>6.M4 | You need 0.01 mol of NaOH for a reaction. You have a 15% w/w NaOH solution (d = 1.16 g/mL). What volume do you take? | T4 + T10 + T3 | 🟡 |
+
+<details>
+<summary>View Answers</summary>
+
+**6.M1**: Answer not found.
+**6.M2**: Answer not found.
+**6.M3**: Answer not found.
+**6.M4**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -585,10 +719,21 @@ Answer: 0.03 mol of water
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-6.B1"></span>[6.B1](./answer-key.md#ans-6.B1) | Calculate the molarity of a solution of NaOH prepared by dissolving 4 g of NaOH in enough water to form 250 mL of solution. (M = 40) ⭐ | 🟢 |
-| <span id="q-6.B2"></span>[6.B2](./answer-key.md#ans-6.B2) | Find the molarity of a solution containing 6 g of urea (M = 60) per 500 mL of solution. | 🟢 |
-| <span id="q-6.B3"></span>[6.B3](./answer-key.md#ans-6.B3) | Concentrated sulphuric acid is 98% H₂SO₄ by mass and has a density of 1.84 g/mL. Calculate the molarity of the acid. ⭐⭐ | 🟡 |
-| <span id="q-6.B4"></span>[6.B4](./answer-key.md#ans-6.B4) | How many mL of 0.1 M HCl are required to react completely with 1 g of Na₂CO₃? Na₂CO₃ + 2HCl → 2NaCl + H₂O + CO₂ (M_Na₂CO₃ = 106) ⭐ | 🟡 |
+| <span id="q-6.B1"></span>6.B1 | Calculate the molarity of a solution of NaOH prepared by dissolving 4 g of NaOH in enough water to form 250 mL of solution. (M = 40) ⭐ | 🟢 |
+| <span id="q-6.B2"></span>6.B2 | Find the molarity of a solution containing 6 g of urea (M = 60) per 500 mL of solution. | 🟢 |
+| <span id="q-6.B3"></span>6.B3 | Concentrated sulphuric acid is 98% H₂SO₄ by mass and has a density of 1.84 g/mL. Calculate the molarity of the acid. ⭐⭐ | 🟡 |
+| <span id="q-6.B4"></span>6.B4 | How many mL of 0.1 M HCl are required to react completely with 1 g of Na₂CO₃? Na₂CO₃ + 2HCl → 2NaCl + H₂O + CO₂ (M_Na₂CO₃ = 106) ⭐ | 🟡 |
+
+<details>
+<summary>View Answers</summary>
+
+**6.B1**: Answer not found.
+**6.B2**: Answer not found.
+**6.B3**: Answer not found.
+**6.B4**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -596,11 +741,23 @@ Answer: 0.03 mol of water
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-6.J1"></span>[6.J1](./answer-key.md#ans-6.J1) | A solution of H₂SO₄ has molality of 3 m. Its density is 1.12 g/mL. Find its molarity. (M = 98) ⭐ | 🔴 |
-| <span id="q-6.J2"></span>[6.J2](./answer-key.md#ans-6.J2) | The molarity and molality of an H₂SO₄ solution are M and m respectively. If d is the density (g/mL), which relation is correct? (a) M > m (b) M < m (c) depends on concentration (d) M = m. Justify. ⭐ | 🔴 |
-| <span id="q-6.J3"></span>[6.J3](./answer-key.md#ans-6.J3) | 10% (w/w) NaOH (d = 1.11 g/mL, M = 40). Find (a) molarity (b) molality (c) mole fraction (d) normality. (Complete interconversion.) ⭐⭐ | 🔴 |
-| <span id="q-6.J4"></span>[6.J4](./answer-key.md#ans-6.J4) | 100 mL of 0.5 M H₂SO₄ + 200 mL of 0.2 M NaOH. Find: (a) which is excess (b) final pH idea (acidic/basic/neutral) (c) concentration of excess reagent. ⭐ | 🔴 |
-| <span id="q-6.J5"></span>[6.J5](./answer-key.md#ans-6.J5) | An aqueous KOH solution has a density of 1.36 g/mL and is 30% KOH by mass (M = 56). Find its molarity and molality. If 10 mL is diluted to 500 mL, find the new molarity. ⭐ | 🔴 |
+| <span id="q-6.J1"></span>6.J1 | A solution of H₂SO₄ has molality of 3 m. Its density is 1.12 g/mL. Find its molarity. (M = 98) ⭐ | 🔴 |
+| <span id="q-6.J2"></span>6.J2 | The molarity and molality of an H₂SO₄ solution are M and m respectively. If d is the density (g/mL), which relation is correct? (a) M > m (b) M < m (c) depends on concentration (d) M = m. Justify. ⭐ | 🔴 |
+| <span id="q-6.J3"></span>6.J3 | 10% (w/w) NaOH (d = 1.11 g/mL, M = 40). Find (a) molarity (b) molality (c) mole fraction (d) normality. (Complete interconversion.) ⭐⭐ | 🔴 |
+| <span id="q-6.J4"></span>6.J4 | 100 mL of 0.5 M H₂SO₄ + 200 mL of 0.2 M NaOH. Find: (a) which is excess (b) final pH idea (acidic/basic/neutral) (c) concentration of excess reagent. ⭐ | 🔴 |
+| <span id="q-6.J5"></span>6.J5 | An aqueous KOH solution has a density of 1.36 g/mL and is 30% KOH by mass (M = 56). Find its molarity and molality. If 10 mL is diluted to 500 mL, find the new molarity. ⭐ | 🔴 |
+
+<details>
+<summary>View Answers</summary>
+
+**6.J1**: M = 3×1.12×1000/(1000+3×98) = 2.60 M
+**6.J2**: Answer not found.
+**6.J3**: (a) M=2.775 (b) m=3.09 (c) χ=0.053 (d) N=2.775
+**6.J4**: Answer not found.
+**6.J5**: Answer not found.
+
+</details>
+
 
 ---
 

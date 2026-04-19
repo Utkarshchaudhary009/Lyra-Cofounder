@@ -119,9 +119,19 @@ Answer: 0.2 N
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-7.1a"></span>[7.1a](./answer-key.md#ans-7.1a) | 7.3 g of HCl in 250 mL of solution. Find N. (M=36.5, n=1) | 🟢 |
-| <span id="q-7.1b"></span>[7.1b](./answer-key.md#ans-7.1b) | 5.3 g of Na₂CO₃ in 500 mL. n = 2 (reacts with 2H⁺). Find N. (M=106) | 🟡 |
-| <span id="q-7.1c"></span>[7.1c](./answer-key.md#ans-7.1c) | 3.16 g of KMnO₄ in 1 L (acidic medium). Find N. (M=158, n=5) | 🟡 |
+| <span id="q-7.1a"></span>7.1a | 7.3 g of HCl in 250 mL of solution. Find N. (M=36.5, n=1) | 🟢 |
+| <span id="q-7.1b"></span>7.1b | 5.3 g of Na₂CO₃ in 500 mL. n = 2 (reacts with 2H⁺). Find N. (M=106) | 🟡 |
+| <span id="q-7.1c"></span>7.1c | 3.16 g of KMnO₄ in 1 L (acidic medium). Find N. (M=158, n=5) | 🟡 |
+
+<details>
+<summary>View Answers</summary>
+
+**7.1a**: 0.8 N
+**7.1b**: Answer not found.
+**7.1c**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -152,10 +162,21 @@ Answer: (a) 1N  (b) 2N  (c) 3N
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-7.2a"></span>[7.2a](./answer-key.md#ans-7.2a) | Find N of: 0.5 M NaOH, 0.5 M Ca(OH)₂, 0.5 M Al(OH)₃ | 🟢 |
-| <span id="q-7.2b"></span>[7.2b](./answer-key.md#ans-7.2b) | 2 M KMnO₄ in acidic medium. Find N. ⭐ | 🟡 |
-| <span id="q-7.2c"></span>[7.2c](./answer-key.md#ans-7.2c) | 0.1 M K₂Cr₂O₇ in acidic medium. Find N. ⭐ | 🟡 |
-| <span id="q-7.2d"></span>[7.2d](./answer-key.md#ans-7.2d) | Is it possible for N < M? Why or why not? | 🟡 |
+| <span id="q-7.2a"></span>7.2a | Find N of: 0.5 M NaOH, 0.5 M Ca(OH)₂, 0.5 M Al(OH)₃ | 🟢 |
+| <span id="q-7.2b"></span>7.2b | 2 M KMnO₄ in acidic medium. Find N. ⭐ | 🟡 |
+| <span id="q-7.2c"></span>7.2c | 0.1 M K₂Cr₂O₇ in acidic medium. Find N. ⭐ | 🟡 |
+| <span id="q-7.2d"></span>7.2d | Is it possible for N < M? Why or why not? | 🟡 |
+
+<details>
+<summary>View Answers</summary>
+
+**7.2a**: 0.5N, 1N, 1.5N
+**7.2b**: N = 10 × 0.02 = 0.2 N (wait: N=5×2=10N? No: 0.02M × 5 = 0.1N)
+**7.2c**: Answer not found.
+**7.2d**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -185,9 +206,19 @@ Answer: (a) 1N  (b) 2N  (c) 3N
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-7.3a"></span>[7.3a](./answer-key.md#ans-7.3a) | Eq.wt of H₃PO₄ when (a) all 3 H⁺ replaced (b) only 1 H⁺ replaced (c) only 2 H⁺ replaced. | 🟡 |
-| <span id="q-7.3b"></span>[7.3b](./answer-key.md#ans-7.3b) | Eq.wt of FeSO₄ (Fe²⁺ → Fe³⁺) and Na₂C₂O₄ (C₂O₄²⁻ → 2CO₂). (M_FeSO₄ = 152, M_Na₂C₂O₄ = 134) ⭐ | 🟡 |
-| <span id="q-7.3c"></span>[7.3c](./answer-key.md#ans-7.3c) | Why does KMnO₄ have different equivalent weights in acidic vs. basic media? | 🟡 |
+| <span id="q-7.3a"></span>7.3a | Eq.wt of H₃PO₄ when (a) all 3 H⁺ replaced (b) only 1 H⁺ replaced (c) only 2 H⁺ replaced. | 🟡 |
+| <span id="q-7.3b"></span>7.3b | Eq.wt of FeSO₄ (Fe²⁺ → Fe³⁺) and Na₂C₂O₄ (C₂O₄²⁻ → 2CO₂). (M_FeSO₄ = 152, M_Na₂C₂O₄ = 134) ⭐ | 🟡 |
+| <span id="q-7.3c"></span>7.3c | Why does KMnO₄ have different equivalent weights in acidic vs. basic media? | 🟡 |
+
+<details>
+<summary>View Answers</summary>
+
+**7.3a**: Answer not found.
+**7.3b**: Answer not found.
+**7.3c**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -211,8 +242,17 @@ Answer: 0.2 N
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-7.4a"></span>[7.4a](./answer-key.md#ans-7.4a) | Dilute 25 mL of 4 N NaOH to 200 mL. Find N₂. | 🟢 |
-| <span id="q-7.4b"></span>[7.4b](./answer-key.md#ans-7.4b) | You need 1 L of 0.1 N HCl. You have 6 N HCl. How much do you need? | 🟡 |
+| <span id="q-7.4a"></span>7.4a | Dilute 25 mL of 4 N NaOH to 200 mL. Find N₂. | 🟢 |
+| <span id="q-7.4b"></span>7.4b | You need 1 L of 0.1 N HCl. You have 6 N HCl. How much do you need? | 🟡 |
+
+<details>
+<summary>View Answers</summary>
+
+**7.4a**: Answer not found.
+**7.4b**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -254,10 +294,21 @@ Answer: N_H₂SO₄ = 0.2 N, M_H₂SO₄ = 0.1 M
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-7.5a"></span>[7.5a](./answer-key.md#ans-7.5a) | 20 mL of 0.5 N HCl neutralises X mL of 0.2 N NaOH. Find X. ⭐ | 🟡 |
-| <span id="q-7.5b"></span>[7.5b](./answer-key.md#ans-7.5b) | 25 mL of 0.1 M H₂SO₄ requires how many mL of 0.1 M NaOH? (Careful — convert to N first!) ⭐⭐ | 🟡 |
-| <span id="q-7.5c"></span>[7.5c](./answer-key.md#ans-7.5c) | 10 mL of H₃PO₄ (all 3H⁺ react) is titrated with 30 mL of 0.1 N NaOH. Find the molarity of H₃PO₄. | 🔴 |
-| <span id="q-7.5d"></span>[7.5d](./answer-key.md#ans-7.5d) | 25 mL of a monobasic acid (n=1) requires 20 mL of 0.25 N KOH. Find N and M of the acid. | 🟡 |
+| <span id="q-7.5a"></span>7.5a | 20 mL of 0.5 N HCl neutralises X mL of 0.2 N NaOH. Find X. ⭐ | 🟡 |
+| <span id="q-7.5b"></span>7.5b | 25 mL of 0.1 M H₂SO₄ requires how many mL of 0.1 M NaOH? (Careful — convert to N first!) ⭐⭐ | 🟡 |
+| <span id="q-7.5c"></span>7.5c | 10 mL of H₃PO₄ (all 3H⁺ react) is titrated with 30 mL of 0.1 N NaOH. Find the molarity of H₃PO₄. | 🔴 |
+| <span id="q-7.5d"></span>7.5d | 25 mL of a monobasic acid (n=1) requires 20 mL of 0.25 N KOH. Find N and M of the acid. | 🟡 |
+
+<details>
+<summary>View Answers</summary>
+
+**7.5a**: V = 50 mL *(Key Step: N₁V₁=N₂V₂: 0.5×20=0.2×X → X=50)*
+**7.5b**: 50 mL *(Key Step: H₂SO₄: N=0.2; NaOH: N=0.1; 0.2×25=0.1×V → V=50)*
+**7.5c**: Answer not found.
+**7.5d**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -360,8 +411,17 @@ Answer: 80% purity
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-7.6a"></span>[7.6a](./answer-key.md#ans-7.6a) | 0.7 g of impure CaCO₃ + 100 mL of 0.2 N HCl. Excess needs 30 mL of 0.1 N NaOH. Find purity. (Eq.wt = 50) ⭐ | 🔴 |
-| <span id="q-7.6b"></span>[7.6b](./answer-key.md#ans-7.6b) | 1 g of antacid (assume pure CaCO₃) + 50 mL of 0.5 N HCl. Excess titrated with 15 mL of 0.2 N NaOH. Find mass of CaCO₃ actually present and % active ingredient. ⭐ | 🔴 |
+| <span id="q-7.6a"></span>7.6a | 0.7 g of impure CaCO₃ + 100 mL of 0.2 N HCl. Excess needs 30 mL of 0.1 N NaOH. Find purity. (Eq.wt = 50) ⭐ | 🔴 |
+| <span id="q-7.6b"></span>7.6b | 1 g of antacid (assume pure CaCO₃) + 50 mL of 0.5 N HCl. Excess titrated with 15 mL of 0.2 N NaOH. Find mass of CaCO₃ actually present and % active ingredient. ⭐ | 🔴 |
+
+<details>
+<summary>View Answers</summary>
+
+**7.6a**: Answer not found.
+**7.6b**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -395,8 +455,17 @@ Answer: (a) 1N  (b) 2N  (c) 3N — all from the SAME 1M solution!
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-7.7a"></span>[7.7a](./answer-key.md#ans-7.7a) | 0.5 M H₂SO₄: Find N when (a) both H⁺ react (b) only one H⁺ reacts (as NaHSO₄). | 🟡 |
-| <span id="q-7.7b"></span>[7.7b](./answer-key.md#ans-7.7b) | What is the normality of 0.1 M H₂CO₃ if it reacts to form (a) NaHCO₃ (b) Na₂CO₃? | 🟡 |
+| <span id="q-7.7a"></span>7.7a | 0.5 M H₂SO₄: Find N when (a) both H⁺ react (b) only one H⁺ reacts (as NaHSO₄). | 🟡 |
+| <span id="q-7.7b"></span>7.7b | What is the normality of 0.1 M H₂CO₃ if it reacts to form (a) NaHCO₃ (b) Na₂CO₃? | 🟡 |
+
+<details>
+<summary>View Answers</summary>
+
+**7.7a**: Answer not found.
+**7.7b**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -428,10 +497,21 @@ Answer: (a) 0.1N  (b) 0.06N  (c) 0.02N
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-7.8a"></span>[7.8a](./answer-key.md#ans-7.8a) | Find N of 0.05 M K₂Cr₂O₇ in acidic medium. (n = 6) ⭐ | 🟡 |
-| <span id="q-7.8b"></span>[7.8b](./answer-key.md#ans-7.8b) | 0.1 M FeSO₄ (Fe²⁺ → Fe³⁺). Find N. | 🟢 |
-| <span id="q-7.8c"></span>[7.8c](./answer-key.md#ans-7.8c) | 0.1 M Na₂C₂O₄ (oxalate: C₂O₄²⁻ → 2CO₂). Find N. (n = 2) | 🟡 |
-| <span id="q-7.8d"></span>[7.8d](./answer-key.md#ans-7.8d) | 0.02 M KMnO₄ titrates 20 mL of 0.1 M FeSO₄ in acidic medium. Find volume of KMnO₄ needed. (Equate meq: N₁V₁ = N₂V₂) ⭐⭐ | 🔴 |
+| <span id="q-7.8a"></span>7.8a | Find N of 0.05 M K₂Cr₂O₇ in acidic medium. (n = 6) ⭐ | 🟡 |
+| <span id="q-7.8b"></span>7.8b | 0.1 M FeSO₄ (Fe²⁺ → Fe³⁺). Find N. | 🟢 |
+| <span id="q-7.8c"></span>7.8c | 0.1 M Na₂C₂O₄ (oxalate: C₂O₄²⁻ → 2CO₂). Find N. (n = 2) | 🟡 |
+| <span id="q-7.8d"></span>7.8d | 0.02 M KMnO₄ titrates 20 mL of 0.1 M FeSO₄ in acidic medium. Find volume of KMnO₄ needed. (Equate meq: N₁V₁ = N₂V₂) ⭐⭐ | 🔴 |
+
+<details>
+<summary>View Answers</summary>
+
+**7.8a**: Answer not found.
+**7.8b**: Answer not found.
+**7.8c**: Answer not found.
+**7.8d**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -460,9 +540,19 @@ mass (mg) = meq × equivalent weight
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-7.9a"></span>[7.9a](./answer-key.md#ans-7.9a) | meq of NaOH in 25 mL of 0.1 N NaOH? | 🟢 |
-| <span id="q-7.9b"></span>[7.9b](./answer-key.md#ans-7.9b) | How many mg of NaOH in 25 mL of 0.1 N NaOH? (Eq.wt = 40) | 🟡 |
-| <span id="q-7.9c"></span>[7.9c](./answer-key.md#ans-7.9c) | 10 meq of HCl = how many mL of 0.5 N HCl? | 🟡 |
+| <span id="q-7.9a"></span>7.9a | meq of NaOH in 25 mL of 0.1 N NaOH? | 🟢 |
+| <span id="q-7.9b"></span>7.9b | How many mg of NaOH in 25 mL of 0.1 N NaOH? (Eq.wt = 40) | 🟡 |
+| <span id="q-7.9c"></span>7.9c | 10 meq of HCl = how many mL of 0.5 N HCl? | 🟡 |
+
+<details>
+<summary>View Answers</summary>
+
+**7.9a**: Answer not found.
+**7.9b**: Answer not found.
+**7.9c**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -508,8 +598,17 @@ Answer: meq NaOH = 2, meq Na₂CO₃ = 1
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-7.10a"></span>[7.10a](./answer-key.md#ans-7.10a) | NaOH + Na₂CO₃ mixture titrated with 0.5 N HCl. V₁ (PP) = 20 mL, V₂ (PP→MO) = 8 mL. Find meq and mass of each. (Eq.wt NaOH = 40, Eq.wt Na₂CO₃ = 53) ⭐ | 🔴 |
-| <span id="q-7.10b"></span>[7.10b](./answer-key.md#ans-7.10b) | If V₁ = V₂ in the above setup, what does it mean about the sample? | 🔴 |
+| <span id="q-7.10a"></span>7.10a | NaOH + Na₂CO₃ mixture titrated with 0.5 N HCl. V₁ (PP) = 20 mL, V₂ (PP→MO) = 8 mL. Find meq and mass of each. (Eq.wt NaOH = 40, Eq.wt Na₂CO₃ = 53) ⭐ | 🔴 |
+| <span id="q-7.10b"></span>7.10b | If V₁ = V₂ in the above setup, what does it mean about the sample? | 🔴 |
+
+<details>
+<summary>View Answers</summary>
+
+**7.10a**: Answer not found.
+**7.10b**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -517,9 +616,19 @@ Answer: meq NaOH = 2, meq Na₂CO₃ = 1
 
 | # | Question | Types Used | Difficulty |
 |---|----------|------------|------------|
-| <span id="q-7.M1"></span>[7.M1](./answer-key.md#ans-7.M1) | Concentrated H₂SO₄ is 98% w/w, d = 1.84 g/mL. Find: (a) molarity (b) normality (c) equivalent weight (d) volume needed to make 500 mL of 0.1 N H₂SO₄. | T2 + Ch6-T4 + T3 + T4 | 🔴 |
-| <span id="q-7.M2"></span>[7.M2](./answer-key.md#ans-7.M2) | 0.316 g of KMnO₄ (M=158) is dissolved to make 100 mL of solution. Find its normality in (a) acidic medium (b) neutral medium. Then use each normality to find how many mL of 0.1 N FeSO₄ it can titrate in acidic medium. | T1 + T8 + T5 | 🔴 |
-| <span id="q-7.M3"></span>[7.M3](./answer-key.md#ans-7.M3) | 25 mL of 0.1 M H₂SO₄ is titrated with 0.1 M NaOH. (a) Convert both to normality. (b) Find volume of NaOH needed. (c) Verify using mole method. | T2 + T5 | 🟡 |
+| <span id="q-7.M1"></span>7.M1 | Concentrated H₂SO₄ is 98% w/w, d = 1.84 g/mL. Find: (a) molarity (b) normality (c) equivalent weight (d) volume needed to make 500 mL of 0.1 N H₂SO₄. | T2 + Ch6-T4 + T3 + T4 | 🔴 |
+| <span id="q-7.M2"></span>7.M2 | 0.316 g of KMnO₄ (M=158) is dissolved to make 100 mL of solution. Find its normality in (a) acidic medium (b) neutral medium. Then use each normality to find how many mL of 0.1 N FeSO₄ it can titrate in acidic medium. | T1 + T8 + T5 | 🔴 |
+| <span id="q-7.M3"></span>7.M3 | 25 mL of 0.1 M H₂SO₄ is titrated with 0.1 M NaOH. (a) Convert both to normality. (b) Find volume of NaOH needed. (c) Verify using mole method. | T2 + T5 | 🟡 |
+
+<details>
+<summary>View Answers</summary>
+
+**7.M1**: Answer not found.
+**7.M2**: Answer not found.
+**7.M3**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -527,10 +636,21 @@ Answer: meq NaOH = 2, meq Na₂CO₃ = 1
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-7.B1"></span>[7.B1](./answer-key.md#ans-7.B1) | Find the normality of: (a) 0.5 M H₂SO₄ (b) 0.25 M Ca(OH)₂ (c) 2 M HCl. ⭐ | 🟢 |
-| <span id="q-7.B2"></span>[7.B2](./answer-key.md#ans-7.B2) | 3.65 g of HCl is dissolved in water to make 1 L. Find N and M. | 🟢 |
-| <span id="q-7.B3"></span>[7.B3](./answer-key.md#ans-7.B3) | 25 mL of an NaOH solution of unknown concentration requires 20 mL of 0.1 N HCl for neutralisation. Find the normality and molarity of NaOH. ⭐ | 🟡 |
-| <span id="q-7.B4"></span>[7.B4](./answer-key.md#ans-7.B4) | Find the equivalent weight of: (a) H₂SO₄ (b) NaOH (c) Ca(OH)₂ (d) Na₂CO₃ (reacts with 2H⁺). | 🟢 |
+| <span id="q-7.B1"></span>7.B1 | Find the normality of: (a) 0.5 M H₂SO₄ (b) 0.25 M Ca(OH)₂ (c) 2 M HCl. ⭐ | 🟢 |
+| <span id="q-7.B2"></span>7.B2 | 3.65 g of HCl is dissolved in water to make 1 L. Find N and M. | 🟢 |
+| <span id="q-7.B3"></span>7.B3 | 25 mL of an NaOH solution of unknown concentration requires 20 mL of 0.1 N HCl for neutralisation. Find the normality and molarity of NaOH. ⭐ | 🟡 |
+| <span id="q-7.B4"></span>7.B4 | Find the equivalent weight of: (a) H₂SO₄ (b) NaOH (c) Ca(OH)₂ (d) Na₂CO₃ (reacts with 2H⁺). | 🟢 |
+
+<details>
+<summary>View Answers</summary>
+
+**7.B1**: Answer not found.
+**7.B2**: Answer not found.
+**7.B3**: Answer not found.
+**7.B4**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -538,11 +658,23 @@ Answer: meq NaOH = 2, meq Na₂CO₃ = 1
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-7.J1"></span>[7.J1](./answer-key.md#ans-7.J1) | 20 mL of 0.02 M KMnO₄ in acidic medium reacts with X mL of 0.1 M FeSO₄. Find X. (Use normality approach.) ⭐⭐ | 🔴 |
-| <span id="q-7.J2"></span>[7.J2](./answer-key.md#ans-7.J2) | 1 g of a mixture of Na₂CO₃ and NaHCO₃ requires 15 mL of 0.1 N HCl. The same weight, treated with excess HCl, requires 20 mL total. Find mass of each in the mixture. ⭐ | 🔴 |
-| <span id="q-7.J3"></span>[7.J3](./answer-key.md#ans-7.J3) | 25 mL of H₂O₂ is titrated with 20 mL of 0.02 M KMnO₄ in acidic medium. Find the volume strength of H₂O₂. (1 volume H₂O₂ = 0.1786 N) ⭐ | 🔴 |
-| <span id="q-7.J4"></span>[7.J4](./answer-key.md#ans-7.J4) | Is it meaningful to say "the normality of H₃PO₄ is 3N" without specifying the reaction? Discuss. | 🟡 |
-| <span id="q-7.J5"></span>[7.J5](./answer-key.md#ans-7.J5) | 0.1 g of an oxalic acid sample (H₂C₂O₄·2H₂O, M = 126) is dissolved in water and titrated with 0.05 M KMnO₄ in acidic medium. 20 mL of KMnO₄ is required. Find the purity of oxalic acid. (n-factor of oxalate = 2, n-factor of KMnO₄ = 5) ⭐⭐ | 🔴 |
+| <span id="q-7.J1"></span>7.J1 | 20 mL of 0.02 M KMnO₄ in acidic medium reacts with X mL of 0.1 M FeSO₄. Find X. (Use normality approach.) ⭐⭐ | 🔴 |
+| <span id="q-7.J2"></span>7.J2 | 1 g of a mixture of Na₂CO₃ and NaHCO₃ requires 15 mL of 0.1 N HCl. The same weight, treated with excess HCl, requires 20 mL total. Find mass of each in the mixture. ⭐ | 🔴 |
+| <span id="q-7.J3"></span>7.J3 | 25 mL of H₂O₂ is titrated with 20 mL of 0.02 M KMnO₄ in acidic medium. Find the volume strength of H₂O₂. (1 volume H₂O₂ = 0.1786 N) ⭐ | 🔴 |
+| <span id="q-7.J4"></span>7.J4 | Is it meaningful to say "the normality of H₃PO₄ is 3N" without specifying the reaction? Discuss. | 🟡 |
+| <span id="q-7.J5"></span>7.J5 | 0.1 g of an oxalic acid sample (H₂C₂O₄·2H₂O, M = 126) is dissolved in water and titrated with 0.05 M KMnO₄ in acidic medium. 20 mL of KMnO₄ is required. Find the purity of oxalic acid. (n-factor of oxalate = 2, n-factor of KMnO₄ = 5) ⭐⭐ | 🔴 |
+
+<details>
+<summary>View Answers</summary>
+
+**7.J1**: X = 20 mL *(Key Step: KMnO₄ N=0.1; FeSO₄ N=0.1; 0.1×20=0.1×X → X=20)*
+**7.J2**: Answer not found.
+**7.J3**: Answer not found.
+**7.J4**: Answer not found.
+**7.J5**: Answer not found.
+
+</details>
+
 
 ---
 

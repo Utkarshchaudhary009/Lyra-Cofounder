@@ -114,10 +114,21 @@ Answer: 30% v/v ethanol
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-2.1a"></span>[2.1a](./answer-key.md#ans-2.1a) | 25 mL of acetone is mixed with 75 mL of water. Find v/v% of acetone (assume additive volumes). | 🟢 |
-| <span id="q-2.1b"></span>[2.1b](./answer-key.md#ans-2.1b) | 150 mL of methanol is mixed with 850 mL of water. Find v/v%. | 🟢 |
-| <span id="q-2.1c"></span>[2.1c](./answer-key.md#ans-2.1c) | A solution contains 40 mL of glycerol in a total volume of 250 mL. Find v/v%. | 🟢 |
-| <span id="q-2.1d"></span>[2.1d](./answer-key.md#ans-2.1d) | 200 mL of ethanol is present in 1.5 L of a perfume solution. Find v/v%. | 🟢 |
+| <span id="q-2.1a"></span>2.1a | 25 mL of acetone is mixed with 75 mL of water. Find v/v% of acetone (assume additive volumes). | 🟢 |
+| <span id="q-2.1b"></span>2.1b | 150 mL of methanol is mixed with 850 mL of water. Find v/v%. | 🟢 |
+| <span id="q-2.1c"></span>2.1c | A solution contains 40 mL of glycerol in a total volume of 250 mL. Find v/v%. | 🟢 |
+| <span id="q-2.1d"></span>2.1d | 200 mL of ethanol is present in 1.5 L of a perfume solution. Find v/v%. | 🟢 |
+
+<details>
+<summary>View Answers</summary>
+
+**2.1a**: 25% *(Key Step: (50/200) × 100)*
+**2.1b**: 10% *(Key Step: (20/200) × 100)*
+**2.1c**: Answer not found.
+**2.1d**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -146,10 +157,21 @@ Answer: 90 mL of pure ethanol
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-2.2a"></span>[2.2a](./answer-key.md#ans-2.2a) | A 500 mL bottle of rubbing alcohol is 70% v/v isopropanol. Find volume of isopropanol. | 🟢 |
-| <span id="q-2.2b"></span>[2.2b](./answer-key.md#ans-2.2b) | A 2 L antiseptic solution is 5% v/v povidone-iodine. What volume of iodine solution is present? | 🟢 |
-| <span id="q-2.2c"></span>[2.2c](./answer-key.md#ans-2.2c) | A 330 mL can of beer is 4.5% v/v ethanol. How many mL of pure ethanol does it contain? | 🟢 |
-| <span id="q-2.2d"></span>[2.2d](./answer-key.md#ans-2.2d) | A hand sanitizer (100 mL) is 62% v/v ethanol. Find volume of ethanol and volume of other components. | 🟡 |
+| <span id="q-2.2a"></span>2.2a | A 500 mL bottle of rubbing alcohol is 70% v/v isopropanol. Find volume of isopropanol. | 🟢 |
+| <span id="q-2.2b"></span>2.2b | A 2 L antiseptic solution is 5% v/v povidone-iodine. What volume of iodine solution is present? | 🟢 |
+| <span id="q-2.2c"></span>2.2c | A 330 mL can of beer is 4.5% v/v ethanol. How many mL of pure ethanol does it contain? | 🟢 |
+| <span id="q-2.2d"></span>2.2d | A hand sanitizer (100 mL) is 62% v/v ethanol. Find volume of ethanol and volume of other components. | 🟡 |
+
+<details>
+<summary>View Answers</summary>
+
+**2.2a**: 175 mL *(Key Step: (35/100) × 500)*
+**2.2b**: 70 mL *(Key Step: (14/100) × 500)*
+**2.2c**: Answer not found.
+**2.2d**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -178,9 +200,19 @@ Answer: 24 mL or 18.94 g of pure ethanol
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-2.3a"></span>[2.3a](./answer-key.md#ans-2.3a) | A 750 mL bottle of rum (42% v/v) is consumed entirely. How much pure ethanol was consumed? (d_ethanol = 0.789 g/mL) | 🟡 |
-| <span id="q-2.3b"></span>[2.3b](./answer-key.md#ans-2.3b) | "Proof" is defined as 2 × v/v%. A 100-proof whiskey — what is its v/v%? How much alcohol in 200 mL? | 🟡 |
-| <span id="q-2.3c"></span>[2.3c](./answer-key.md#ans-2.3c) | Is 500 mL of 8% beer or 60 mL of 40% vodka more alcohol? Calculate both. | 🟡 |
+| <span id="q-2.3a"></span>2.3a | A 750 mL bottle of rum (42% v/v) is consumed entirely. How much pure ethanol was consumed? (d_ethanol = 0.789 g/mL) | 🟡 |
+| <span id="q-2.3b"></span>2.3b | "Proof" is defined as 2 × v/v%. A 100-proof whiskey — what is its v/v%? How much alcohol in 200 mL? | 🟡 |
+| <span id="q-2.3c"></span>2.3c | Is 500 mL of 8% beer or 60 mL of 40% vodka more alcohol? Calculate both. | 🟡 |
+
+<details>
+<summary>View Answers</summary>
+
+**2.3a**: 35 mL ethanol in 100 mL solution *(Key Step: Definition of v/v%)*
+**2.3b**: Answer not found.
+**2.3c**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -208,9 +240,19 @@ Answer: Mix 100 mL ethanol with 400 mL water
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-2.4a"></span>[2.4a](./answer-key.md#ans-2.4a) | Prepare 1 L of 30% v/v methanol solution. How much methanol and water? | 🟢 |
-| <span id="q-2.4b"></span>[2.4b](./answer-key.md#ans-2.4b) | Prepare 250 mL of 10% v/v glycerol solution. | 🟢 |
-| <span id="q-2.4c"></span>[2.4c](./answer-key.md#ans-2.4c) | A lab needs 2 L of 5% v/v acetone in water. How much pure acetone is required? | 🟢 |
+| <span id="q-2.4a"></span>2.4a | Prepare 1 L of 30% v/v methanol solution. How much methanol and water? | 🟢 |
+| <span id="q-2.4b"></span>2.4b | Prepare 250 mL of 10% v/v glycerol solution. | 🟢 |
+| <span id="q-2.4c"></span>2.4c | A lab needs 2 L of 5% v/v acetone in water. How much pure acetone is required? | 🟢 |
+
+<details>
+<summary>View Answers</summary>
+
+**2.4a**: Need 120 mL ethanol, add water to make 400 mL *(Key Step: (30/100) × 400 = 120)*
+**2.4b**: Answer not found.
+**2.4c**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -243,8 +285,17 @@ This almost never happens in practice.
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-2.5a"></span>[2.5a](./answer-key.md#ans-2.5a) | Which concentration terms are temperature-dependent: w/w%, v/v%, molarity, molality? Explain each. | 🟡 |
-| <span id="q-2.5b"></span>[2.5b](./answer-key.md#ans-2.5b) | "A solution is 40% v/v at 25°C and remains 40% v/v at 100°C." Under what condition could this be true? | 🔴 |
+| <span id="q-2.5a"></span>2.5a | Which concentration terms are temperature-dependent: w/w%, v/v%, molarity, molality? Explain each. | 🟡 |
+| <span id="q-2.5b"></span>2.5b | "A solution is 40% v/v at 25°C and remains 40% v/v at 100°C." Under what condition could this be true? | 🔴 |
+
+<details>
+<summary>View Answers</summary>
+
+**2.5a**: Volume changes with T → v/v% changes *(Key Step: conceptual)*
+**2.5b**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -280,9 +331,19 @@ Answer: 16.27% w/w
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-2.6a"></span>[2.6a](./answer-key.md#ans-2.6a) | A solution is 35% v/v methanol (d_methanol = 0.792 g/mL, d_solution = 0.95 g/mL). Find w/w%. | 🟡 |
-| <span id="q-2.6b"></span>[2.6b](./answer-key.md#ans-2.6b) | A 10% v/v glycerol solution (d_glycerol = 1.26 g/mL) has d_solution = 1.025 g/mL. Find w/w%. | 🟡 |
-| <span id="q-2.6c"></span>[2.6c](./answer-key.md#ans-2.6c) | A solution is 25% v/v and 21.3% w/w. If d_solution = 1.05 g/mL, find the density of the pure solute. ⭐ | 🔴 |
+| <span id="q-2.6a"></span>2.6a | A solution is 35% v/v methanol (d_methanol = 0.792 g/mL, d_solution = 0.95 g/mL). Find w/w%. | 🟡 |
+| <span id="q-2.6b"></span>2.6b | A 10% v/v glycerol solution (d_glycerol = 1.26 g/mL) has d_solution = 1.025 g/mL. Find w/w%. | 🟡 |
+| <span id="q-2.6c"></span>2.6c | A solution is 25% v/v and 21.3% w/w. If d_solution = 1.05 g/mL, find the density of the pure solute. ⭐ | 🔴 |
+
+<details>
+<summary>View Answers</summary>
+
+**2.6a**: Multiply v/v% by density of solute to get mass, then use mass/volume of solution *(Key Step: bridge calculation)*
+**2.6b**: Answer not found.
+**2.6c**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -290,10 +351,21 @@ Answer: 16.27% w/w
 
 | # | Question | Types Used | Difficulty |
 |---|----------|------------|------------|
-| <span id="q-2.M1"></span>[2.M1](./answer-key.md#ans-2.M1) | A hand sanitizer is 62% v/v ethanol (d = 0.789 g/mL) with total density 0.87 g/mL. For a 500 mL bottle: (a) find volume of ethanol (b) find mass of ethanol (c) find w/w% of ethanol. | T2 + T3 + T6 | 🟡 |
-| <span id="q-2.M2"></span>[2.M2](./answer-key.md#ans-2.M2) | How would you prepare 2 L of 15% v/v acetone solution? If d_acetone = 0.791 g/mL, what mass of acetone is needed? | T4 + T6 | 🟡 |
-| <span id="q-2.M3"></span>[2.M3](./answer-key.md#ans-2.M3) | A 40% v/v ethanol solution (d_solution = 0.95 g/mL) is heated so its density becomes 0.935 g/mL. If the volume expands by 2%, estimate the new v/v% approximately. | T5 + T1 | 🔴 |
-| <span id="q-2.M4"></span>[2.M4](./answer-key.md#ans-2.M4) | Compare two drinks: 500 mL of 5% v/v beer and 30 mL of 40% v/v whiskey. Which contains more alcohol by mass? (d_ethanol = 0.789 g/mL) | T3 + T2 | 🟡 |
+| <span id="q-2.M1"></span>2.M1 | A hand sanitizer is 62% v/v ethanol (d = 0.789 g/mL) with total density 0.87 g/mL. For a 500 mL bottle: (a) find volume of ethanol (b) find mass of ethanol (c) find w/w% of ethanol. | T2 + T3 + T6 | 🟡 |
+| <span id="q-2.M2"></span>2.M2 | How would you prepare 2 L of 15% v/v acetone solution? If d_acetone = 0.791 g/mL, what mass of acetone is needed? | T4 + T6 | 🟡 |
+| <span id="q-2.M3"></span>2.M3 | A 40% v/v ethanol solution (d_solution = 0.95 g/mL) is heated so its density becomes 0.935 g/mL. If the volume expands by 2%, estimate the new v/v% approximately. | T5 + T1 | 🔴 |
+| <span id="q-2.M4"></span>2.M4 | Compare two drinks: 500 mL of 5% v/v beer and 30 mL of 40% v/v whiskey. Which contains more alcohol by mass? (d_ethanol = 0.789 g/mL) | T3 + T2 | 🟡 |
+
+<details>
+<summary>View Answers</summary>
+
+**2.M1**: Answer not found.
+**2.M2**: Answer not found.
+**2.M3**: Answer not found.
+**2.M4**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -301,10 +373,21 @@ Answer: 16.27% w/w
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-2.B1"></span>[2.B1](./answer-key.md#ans-2.B1) | Calculate the volume percent of ethanol in a solution prepared by dissolving 50 mL of ethanol in 200 mL of solution. | 🟢 |
-| <span id="q-2.B2"></span>[2.B2](./answer-key.md#ans-2.B2) | A solution of ethanol in water has 35% v/v concentration. What volume of ethanol is present in 2 L of this solution? | 🟢 |
-| <span id="q-2.B3"></span>[2.B3](./answer-key.md#ans-2.B3) | A cough syrup contains 10% v/v alcohol. How much alcohol is in a 200 mL bottle? | 🟢 |
-| <span id="q-2.B4"></span>[2.B4](./answer-key.md#ans-2.B4) | If 30 mL of methanol (d = 0.792 g/mL) is mixed with water to prepare 150 mL of solution, find (a) v/v% and (b) mass of methanol. | 🟡 |
+| <span id="q-2.B1"></span>2.B1 | Calculate the volume percent of ethanol in a solution prepared by dissolving 50 mL of ethanol in 200 mL of solution. | 🟢 |
+| <span id="q-2.B2"></span>2.B2 | A solution of ethanol in water has 35% v/v concentration. What volume of ethanol is present in 2 L of this solution? | 🟢 |
+| <span id="q-2.B3"></span>2.B3 | A cough syrup contains 10% v/v alcohol. How much alcohol is in a 200 mL bottle? | 🟢 |
+| <span id="q-2.B4"></span>2.B4 | If 30 mL of methanol (d = 0.792 g/mL) is mixed with water to prepare 150 mL of solution, find (a) v/v% and (b) mass of methanol. | 🟡 |
+
+<details>
+<summary>View Answers</summary>
+
+**2.B1**: Answer not found.
+**2.B2**: Answer not found.
+**2.B3**: Answer not found.
+**2.B4**: Answer not found.
+
+</details>
+
 
 ---
 
@@ -312,10 +395,21 @@ Answer: 16.27% w/w
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| <span id="q-2.J1"></span>[2.J1](./answer-key.md#ans-2.J1) | A solution is labelled "25% v/v ethanol" (d_solution = 0.96 g/mL, d_ethanol = 0.789 g/mL). Find (a) w/w% of ethanol (b) mass of water in 1 L of solution. ⭐ | 🟡 |
-| <span id="q-2.J2"></span>[2.J2](./answer-key.md#ans-2.J2) | 50 mL of ethanol (d = 0.789 g/mL) and 50 mL of water (d = 1.0 g/mL) are mixed. The actual volume of the solution is 96 mL. Find (a) the v/v% assuming ideal mixing (b) the actual v/v% (c) the w/w%. | 🔴 |
-| <span id="q-2.J3"></span>[2.J3](./answer-key.md#ans-2.J3) | A pharmacist needs to prepare 500 mL of a 12% v/v ethanol solution from a stock solution that is 60% v/v. What volume of stock solution is needed? (This previews Chapter 8: Dilution) | 🟡 |
-| <span id="q-2.J4"></span>[2.J4](./answer-key.md#ans-2.J4) | At 25°C, a solution is 15% v/v (d_solution = 1.02 g/mL). At 60°C, the volume of the same solution increases by 3% while the mass remains constant. Calculate the new density and new v/v% at 60°C if the solute expansion is 4%. | 🔴 |
+| <span id="q-2.J1"></span>2.J1 | A solution is labelled "25% v/v ethanol" (d_solution = 0.96 g/mL, d_ethanol = 0.789 g/mL). Find (a) w/w% of ethanol (b) mass of water in 1 L of solution. ⭐ | 🟡 |
+| <span id="q-2.J2"></span>2.J2 | 50 mL of ethanol (d = 0.789 g/mL) and 50 mL of water (d = 1.0 g/mL) are mixed. The actual volume of the solution is 96 mL. Find (a) the v/v% assuming ideal mixing (b) the actual v/v% (c) the w/w%. | 🔴 |
+| <span id="q-2.J3"></span>2.J3 | A pharmacist needs to prepare 500 mL of a 12% v/v ethanol solution from a stock solution that is 60% v/v. What volume of stock solution is needed? (This previews Chapter 8: Dilution) | 🟡 |
+| <span id="q-2.J4"></span>2.J4 | At 25°C, a solution is 15% v/v (d_solution = 1.02 g/mL). At 60°C, the volume of the same solution increases by 3% while the mass remains constant. Calculate the new density and new v/v% at 60°C if the solute expansion is 4%. | 🔴 |
+
+<details>
+<summary>View Answers</summary>
+
+**2.J1**: Answer not found.
+**2.J2**: Answer not found.
+**2.J3**: Answer not found.
+**2.J4**: Answer not found.
+
+</details>
+
 
 ---
 
