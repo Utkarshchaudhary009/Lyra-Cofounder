@@ -114,10 +114,10 @@ Answer: m = 0.2 mol/kg (or 0.2 m)
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 5.1a | 18 g of glucose (M = 180) in 100 g of water. Find m. | 🟢 |
-| 5.1b | 11.7 g of NaCl (M = 58.5) in 250 g of water. Find m. | 🟢 |
-| 5.1c | 4.9 g of H₂SO₄ (M = 98) in 500 g of water. Find m. | 🟢 |
-| 5.1d | 36 g of glucose (M = 180) in 1 kg of water. Find m. ⭐ | 🟢 |
+| <span id="q-5.1a"></span>[5.1a](./answer-key.md#ans-5.1a) | 18 g of glucose (M = 180) in 100 g of water. Find m. | 🟢 |
+| <span id="q-5.1b"></span>[5.1b](./answer-key.md#ans-5.1b) | 11.7 g of NaCl (M = 58.5) in 250 g of water. Find m. | 🟢 |
+| <span id="q-5.1c"></span>[5.1c](./answer-key.md#ans-5.1c) | 4.9 g of H₂SO₄ (M = 98) in 500 g of water. Find m. | 🟢 |
+| <span id="q-5.1d"></span>[5.1d](./answer-key.md#ans-5.1d) | 36 g of glucose (M = 180) in 1 kg of water. Find m. ⭐ | 🟢 |
 
 ---
 
@@ -145,9 +145,9 @@ Answer: 20 g of NaOH
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 5.2a | Find the mass of glucose (M = 180) required to prepare a 0.5 m solution using 1 kg of water. | 🟢 |
-| 5.2b | How many grams of urea (M = 60) are needed to make a 1.5 m solution in 400 g of water? | 🟡 |
-| 5.2c | A 0.1 m solution of KCl (M = 74.5) is prepared using 2 kg of water. Find the mass of KCl required. | 🟡 |
+| <span id="q-5.2a"></span>[5.2a](./answer-key.md#ans-5.2a) | Find the mass of glucose (M = 180) required to prepare a 0.5 m solution using 1 kg of water. | 🟢 |
+| <span id="q-5.2b"></span>[5.2b](./answer-key.md#ans-5.2b) | How many grams of urea (M = 60) are needed to make a 1.5 m solution in 400 g of water? | 🟡 |
+| <span id="q-5.2c"></span>[5.2c](./answer-key.md#ans-5.2c) | A 0.1 m solution of KCl (M = 74.5) is prepared using 2 kg of water. Find the mass of KCl required. | 🟡 |
 
 ---
 
@@ -171,9 +171,9 @@ Answer: 500 g of water
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 5.3a | 0.5 mol of NaCl needs to become a 2 m solution. How much water? | 🟢 |
-| 5.3b | 0.1 mol of glucose must give m = 0.25. Find mass of water needed. | 🟡 |
-| 5.3c | A pharmacist has 0.05 mol of a drug and needs m = 0.1. How much solvent? | 🟡 |
+| <span id="q-5.3a"></span>[5.3a](./answer-key.md#ans-5.3a) | 0.5 mol of NaCl needs to become a 2 m solution. How much water? | 🟢 |
+| <span id="q-5.3b"></span>[5.3b](./answer-key.md#ans-5.3b) | 0.1 mol of glucose must give m = 0.25. Find mass of water needed. | 🟡 |
+| <span id="q-5.3c"></span>[5.3c](./answer-key.md#ans-5.3c) | A pharmacist has 0.05 mol of a drug and needs m = 0.1. How much solvent? | 🟡 |
 
 ---
 
@@ -201,9 +201,9 @@ Answer: m ≈ 0.9 m
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 5.4a | 30 g of urea (M = 60) dissolved in 970 g of water. Find m. | 🟢 |
-| 5.4b | 98 g of H₂SO₄ (M = 98) dissolved in 902 g of water. Find m. Note the mass of solution = 1000 g. | 🟡 |
-| 5.4c | 4.5 g of glucose (M = 180) in 50 g of water. Find m. | 🟢 |
+| <span id="q-5.4a"></span>[5.4a](./answer-key.md#ans-5.4a) | 30 g of urea (M = 60) dissolved in 970 g of water. Find m. | 🟢 |
+| <span id="q-5.4b"></span>[5.4b](./answer-key.md#ans-5.4b) | 98 g of H₂SO₄ (M = 98) dissolved in 902 g of water. Find m. Note the mass of solution = 1000 g. | 🟡 |
+| <span id="q-5.4c"></span>[5.4c](./answer-key.md#ans-5.4c) | 4.5 g of glucose (M = 180) in 50 g of water. Find m. | 🟢 |
 
 ---
 
@@ -259,10 +259,10 @@ Answer: m = 2.78 mol/kg
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 5.5a | Find the molality of a 20% glucose (M=180) solution. | 🟡 |
-| 5.5b | A solution is 5% urea (M=60) by mass. Find m. ⭐ | 🟡 |
-| 5.5c | Commercial H₂SO₄ is 98% by mass (M=98). Find its molality. ⭐ | 🟡 |
-| 5.5d | If w/w% = 50% for a solute of M = 100, find m. What's special about this result? | 🟡 |
+| <span id="q-5.5a"></span>[5.5a](./answer-key.md#ans-5.5a) | Find the molality of a 20% glucose (M=180) solution. | 🟡 |
+| <span id="q-5.5b"></span>[5.5b](./answer-key.md#ans-5.5b) | A solution is 5% urea (M=60) by mass. Find m. ⭐ | 🟡 |
+| <span id="q-5.5c"></span>[5.5c](./answer-key.md#ans-5.5c) | Commercial H₂SO₄ is 98% by mass (M=98). Find its molality. ⭐ | 🟡 |
+| <span id="q-5.5d"></span>[5.5d](./answer-key.md#ans-5.5d) | If w/w% = 50% for a solute of M = 100, find m. What's special about this result? | 🟡 |
 
 ---
 
@@ -295,9 +295,9 @@ Answer: m ≈ 1.02 mol/kg
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 5.6a | χ_glucose = 0.1 in water. Find molality. (M_water = 18) | 🟡 |
-| 5.6b | χ_solute = 0.2 in ethanol (M = 46). Find molality. | 🟡 |
-| 5.6c | Molality of a solution is 5 m (solvent = water). Find χ_solute. (Reverse) ⭐ | 🟡 |
+| <span id="q-5.6a"></span>[5.6a](./answer-key.md#ans-5.6a) | χ_glucose = 0.1 in water. Find molality. (M_water = 18) | 🟡 |
+| <span id="q-5.6b"></span>[5.6b](./answer-key.md#ans-5.6b) | χ_solute = 0.2 in ethanol (M = 46). Find molality. | 🟡 |
+| <span id="q-5.6c"></span>[5.6c](./answer-key.md#ans-5.6c) | Molality of a solution is 5 m (solvent = water). Find χ_solute. (Reverse) ⭐ | 🟡 |
 
 ---
 
@@ -366,11 +366,11 @@ Using the formula directly:
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 5.7a | A 1 M H₂SO₄ solution has d = 1.065 g/mL. Find molality. (M = 98) ⭐ | 🟡 |
-| 5.7b | 3 M glucose (M = 180), d = 1.12 g/mL. Find m. | 🟡 |
-| 5.7c | 0.5 M urea (M = 60), d = 1.01 g/mL. Find m. | 🟡 |
-| 5.7d | 18 M H₂SO₄, d = 1.84 g/mL. Find m. (M = 98) ⭐⭐ | 🔴 |
-| 5.7e | A solution has m = 4 and d = 1.2 g/mL. Solute M = 80. Find molarity. (Reverse) ⭐ | 🔴 |
+| <span id="q-5.7a"></span>[5.7a](./answer-key.md#ans-5.7a) | A 1 M H₂SO₄ solution has d = 1.065 g/mL. Find molality. (M = 98) ⭐ | 🟡 |
+| <span id="q-5.7b"></span>[5.7b](./answer-key.md#ans-5.7b) | 3 M glucose (M = 180), d = 1.12 g/mL. Find m. | 🟡 |
+| <span id="q-5.7c"></span>[5.7c](./answer-key.md#ans-5.7c) | 0.5 M urea (M = 60), d = 1.01 g/mL. Find m. | 🟡 |
+| <span id="q-5.7d"></span>[5.7d](./answer-key.md#ans-5.7d) | 18 M H₂SO₄, d = 1.84 g/mL. Find m. (M = 98) ⭐⭐ | 🔴 |
+| <span id="q-5.7e"></span>[5.7e](./answer-key.md#ans-5.7e) | A solution has m = 4 and d = 1.2 g/mL. Solute M = 80. Find molarity. (Reverse) ⭐ | 🔴 |
 
 ---
 
@@ -407,8 +407,8 @@ Answer: The "molality" of pure water is 55.55 m
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 5.8a | Calculate the "molality" of pure ethanol (M = 46, d = 0.789 g/mL). | 🟡 |
-| 5.8b | Why is the concept of molality undefined for pure substances in a rigorous sense? | 🟡 |
+| <span id="q-5.8a"></span>[5.8a](./answer-key.md#ans-5.8a) | Calculate the "molality" of pure ethanol (M = 46, d = 0.789 g/mL). | 🟡 |
+| <span id="q-5.8b"></span>[5.8b](./answer-key.md#ans-5.8b) | Why is the concept of molality undefined for pure substances in a rigorous sense? | 🟡 |
 
 ---
 
@@ -452,8 +452,8 @@ Summary: Colligative properties depend on the NUMBER OF SOLUTE
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 5.9a | A student uses molarity instead of molality in ΔTb = Kb × m. At what temperature is the error zero? At what temperature is it maximum? | 🔴 |
-| 5.9b | List all concentration terms that are temperature-independent. Why are they all based on mass (or moles)? | 🟡 |
+| <span id="q-5.9a"></span>[5.9a](./answer-key.md#ans-5.9a) | A student uses molarity instead of molality in ΔTb = Kb × m. At what temperature is the error zero? At what temperature is it maximum? | 🔴 |
+| <span id="q-5.9b"></span>[5.9b](./answer-key.md#ans-5.9b) | List all concentration terms that are temperature-independent. Why are they all based on mass (or moles)? | 🟡 |
 
 ---
 
@@ -490,8 +490,8 @@ Answer: m_urea = 0.2 m, m_NaCl = 0.2 m, m_total = 0.4 m
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 5.10a | 9 g of glucose (M = 180) and 3 g of urea (M = 60) in 250 g of water. Find m_glucose, m_urea, and m_total. | 🟡 |
-| 5.10b | 11.1 g CaCl₂ (M = 111) and 5.85 g NaCl (M = 58.5) in 1 kg of water. Find individual and total molalities. For colligative purposes, what is the effective total molality? (CaCl₂ → Ca²⁺ + 2Cl⁻, NaCl → Na⁺ + Cl⁻) ⭐ | 🔴 |
+| <span id="q-5.10a"></span>[5.10a](./answer-key.md#ans-5.10a) | 9 g of glucose (M = 180) and 3 g of urea (M = 60) in 250 g of water. Find m_glucose, m_urea, and m_total. | 🟡 |
+| <span id="q-5.10b"></span>[5.10b](./answer-key.md#ans-5.10b) | 11.1 g CaCl₂ (M = 111) and 5.85 g NaCl (M = 58.5) in 1 kg of water. Find individual and total molalities. For colligative purposes, what is the effective total molality? (CaCl₂ → Ca²⁺ + 2Cl⁻, NaCl → Na⁺ + Cl⁻) ⭐ | 🔴 |
 
 ---
 
@@ -499,10 +499,10 @@ Answer: m_urea = 0.2 m, m_NaCl = 0.2 m, m_total = 0.4 m
 
 | # | Question | Types Used | Difficulty |
 |---|----------|------------|------------|
-| 5.M1 | A 15% (w/w) glucose (M=180) solution has density 1.06 g/mL. Find: (a) molality (b) molarity (c) mole fraction of glucose. | T5 + T7 + Ch4 | 🔴 |
-| 5.M2 | 2 M NaCl (d = 1.08 g/mL, M = 58.5). Find (a) molality (b) mass percent (c) mole fraction. | T7 + reverse T5 + Ch4 | 🔴 |
-| 5.M3 | χ_urea = 0.04 (M_urea = 60, M_water = 18). (a) Find molality. (b) If d = 1.02 g/mL, find molarity. (c) Find mass % of urea. | T6 + Ch4-T8 + reverse T5 | 🔴 |
-| 5.M4 | A student prepares a solution by dissolving 20 g of a substance (M = 40) in 480 g of water. (a) Find mass %. (b) Find molality. (c) If d = 1.01 g/mL, find molarity. (d) Find mole fraction. | T4 + T5 + T7 + Ch4 | 🔴 |
+| <span id="q-5.M1"></span>[5.M1](./answer-key.md#ans-5.M1) | A 15% (w/w) glucose (M=180) solution has density 1.06 g/mL. Find: (a) molality (b) molarity (c) mole fraction of glucose. | T5 + T7 + Ch4 | 🔴 |
+| <span id="q-5.M2"></span>[5.M2](./answer-key.md#ans-5.M2) | 2 M NaCl (d = 1.08 g/mL, M = 58.5). Find (a) molality (b) mass percent (c) mole fraction. | T7 + reverse T5 + Ch4 | 🔴 |
+| <span id="q-5.M3"></span>[5.M3](./answer-key.md#ans-5.M3) | χ_urea = 0.04 (M_urea = 60, M_water = 18). (a) Find molality. (b) If d = 1.02 g/mL, find molarity. (c) Find mass % of urea. | T6 + Ch4-T8 + reverse T5 | 🔴 |
+| <span id="q-5.M4"></span>[5.M4](./answer-key.md#ans-5.M4) | A student prepares a solution by dissolving 20 g of a substance (M = 40) in 480 g of water. (a) Find mass %. (b) Find molality. (c) If d = 1.01 g/mL, find molarity. (d) Find mole fraction. | T4 + T5 + T7 + Ch4 | 🔴 |
 
 ---
 
@@ -510,10 +510,10 @@ Answer: m_urea = 0.2 m, m_NaCl = 0.2 m, m_total = 0.4 m
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 5.B1 | Calculate the molality of 2.5 g of ethanoic acid (CH₃COOH, M = 60) dissolved in 75 g of benzene. ⭐ | 🟢 |
-| 5.B2 | A solution is prepared by dissolving 0.5 mol of NaOH in 500 g of water. Calculate the molality. | 🟢 |
-| 5.B3 | The mass percentage of aspirin (C₉H₈O₄, M = 180) in acetonitrile (CH₃CN, M = 41) is 6.5%. Calculate the molality of the solution. ⭐ | 🟡 |
-| 5.B4 | A 5% solution of cane sugar (C₁₂H₂₂O₁₁, M = 342) in water. Calculate (a) molality (b) mole fraction. ⭐ | 🟡 |
+| <span id="q-5.B1"></span>[5.B1](./answer-key.md#ans-5.B1) | Calculate the molality of 2.5 g of ethanoic acid (CH₃COOH, M = 60) dissolved in 75 g of benzene. ⭐ | 🟢 |
+| <span id="q-5.B2"></span>[5.B2](./answer-key.md#ans-5.B2) | A solution is prepared by dissolving 0.5 mol of NaOH in 500 g of water. Calculate the molality. | 🟢 |
+| <span id="q-5.B3"></span>[5.B3](./answer-key.md#ans-5.B3) | The mass percentage of aspirin (C₉H₈O₄, M = 180) in acetonitrile (CH₃CN, M = 41) is 6.5%. Calculate the molality of the solution. ⭐ | 🟡 |
+| <span id="q-5.B4"></span>[5.B4](./answer-key.md#ans-5.B4) | A 5% solution of cane sugar (C₁₂H₂₂O₁₁, M = 342) in water. Calculate (a) molality (b) mole fraction. ⭐ | 🟡 |
 
 ---
 
@@ -521,11 +521,11 @@ Answer: m_urea = 0.2 m, m_NaCl = 0.2 m, m_total = 0.4 m
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 5.J1 | Concentrated H₂SO₄ has d = 1.84 g/mL and is 98% by mass (M = 98). Find (a) molarity (b) molality (c) mole fraction. ⭐⭐ | 🔴 |
-| 5.J2 | A 4 M NaOH solution has d = 1.15 g/mL (M = 40). Find (a) molality (b) mass %. Which is greater — M or m? Why? | 🔴 |
-| 5.J3 | The molality and molarity of an aqueous solution are equal in magnitude. Given that M_solute = 100 g/mol, find the density of the solution. ⭐ | 🔴 |
-| 5.J4 | A solution has m = 10 molal and M = 8 molar. If M_solute = 50 g/mol, find the density. | 🔴 |
-| 5.J5 | An aqueous solution has mole fraction of solute = 0.2 and density = 1.25 g/mL. M_solute = 60. Find (a) molality (b) molarity (c) mass %. (Full interconversion chain.) ⭐ | 🔴 |
+| <span id="q-5.J1"></span>[5.J1](./answer-key.md#ans-5.J1) | Concentrated H₂SO₄ has d = 1.84 g/mL and is 98% by mass (M = 98). Find (a) molarity (b) molality (c) mole fraction. ⭐⭐ | 🔴 |
+| <span id="q-5.J2"></span>[5.J2](./answer-key.md#ans-5.J2) | A 4 M NaOH solution has d = 1.15 g/mL (M = 40). Find (a) molality (b) mass %. Which is greater — M or m? Why? | 🔴 |
+| <span id="q-5.J3"></span>[5.J3](./answer-key.md#ans-5.J3) | The molality and molarity of an aqueous solution are equal in magnitude. Given that M_solute = 100 g/mol, find the density of the solution. ⭐ | 🔴 |
+| <span id="q-5.J4"></span>[5.J4](./answer-key.md#ans-5.J4) | A solution has m = 10 molal and M = 8 molar. If M_solute = 50 g/mol, find the density. | 🔴 |
+| <span id="q-5.J5"></span>[5.J5](./answer-key.md#ans-5.J5) | An aqueous solution has mole fraction of solute = 0.2 and density = 1.25 g/mL. M_solute = 60. Find (a) molality (b) molarity (c) mass %. (Full interconversion chain.) ⭐ | 🔴 |
 
 ---
 

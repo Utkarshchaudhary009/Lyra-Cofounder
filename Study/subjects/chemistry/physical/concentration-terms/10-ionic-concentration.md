@@ -98,10 +98,10 @@ Answer: [Na⁺] = 0.1 M, [Cl⁻] = 0.1 M
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 10.1a | Find ion concentrations in 0.2 M KBr. | 🟢 |
-| 10.1b | Find ion concentrations in 0.05 M NaNO₃. | 🟢 |
-| 10.1c | 0.5 M AgNO₃ solution. [Ag⁺] = ? [NO₃⁻] = ? | 🟢 |
-| 10.1d | If [Na⁺] = 0.3 M in a NaCl solution, what is [NaCl]? | 🟢 |
+| <span id="q-10.1a"></span>[10.1a](./answer-key.md#ans-10.1a) | Find ion concentrations in 0.2 M KBr. | 🟢 |
+| <span id="q-10.1b"></span>[10.1b](./answer-key.md#ans-10.1b) | Find ion concentrations in 0.05 M NaNO₃. | 🟢 |
+| <span id="q-10.1c"></span>[10.1c](./answer-key.md#ans-10.1c) | 0.5 M AgNO₃ solution. [Ag⁺] = ? [NO₃⁻] = ? | 🟢 |
+| <span id="q-10.1d"></span>[10.1d](./answer-key.md#ans-10.1d) | If [Na⁺] = 0.3 M in a NaCl solution, what is [NaCl]? | 🟢 |
 
 ---
 
@@ -145,10 +145,10 @@ Answer: [Na⁺] = 0.4 M, [SO₄²⁻] = 0.2 M
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 10.2a | 0.3 M MgCl₂. Find [Mg²⁺] and [Cl⁻]. | 🟢 |
-| 10.2b | 0.15 M K₂CrO₄. Find [K⁺] and [CrO₄²⁻]. | 🟢 |
-| 10.2c | 0.05 M BaCl₂. Find ion concentrations. ⭐ | 🟢 |
-| 10.2d | 0.1 M Na₃PO₄. Find [Na⁺] and [PO₄³⁻]. | 🟡 |
+| <span id="q-10.2a"></span>[10.2a](./answer-key.md#ans-10.2a) | 0.3 M MgCl₂. Find [Mg²⁺] and [Cl⁻]. | 🟢 |
+| <span id="q-10.2b"></span>[10.2b](./answer-key.md#ans-10.2b) | 0.15 M K₂CrO₄. Find [K⁺] and [CrO₄²⁻]. | 🟢 |
+| <span id="q-10.2c"></span>[10.2c](./answer-key.md#ans-10.2c) | 0.05 M BaCl₂. Find ion concentrations. ⭐ | 🟢 |
+| <span id="q-10.2d"></span>[10.2d](./answer-key.md#ans-10.2d) | 0.1 M Na₃PO₄. Find [Na⁺] and [PO₄³⁻]. | 🟡 |
 
 ---
 
@@ -180,10 +180,10 @@ Answer: [Al³⁺] = 0.2 M, [SO₄²⁻] = 0.3 M
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 10.3a | 0.05 M Fe₂(SO₄)₃. Find [Fe³⁺] and [SO₄²⁻]. ⭐ | 🟡 |
-| 10.3b | 0.02 M Ca₃(PO₄)₂. Find [Ca²⁺] and [PO₄³⁻]. | 🟡 |
-| 10.3c | 0.1 M (NH₄)₂SO₄. Find [NH₄⁺] and [SO₄²⁻]. | 🟢 |
-| 10.3d | 0.01 M K₃[Fe(CN)₆]. Find [K⁺] and [Fe(CN)₆³⁻]. (Treat the complex ion as one unit.) | 🟡 |
+| <span id="q-10.3a"></span>[10.3a](./answer-key.md#ans-10.3a) | 0.05 M Fe₂(SO₄)₃. Find [Fe³⁺] and [SO₄²⁻]. ⭐ | 🟡 |
+| <span id="q-10.3b"></span>[10.3b](./answer-key.md#ans-10.3b) | 0.02 M Ca₃(PO₄)₂. Find [Ca²⁺] and [PO₄³⁻]. | 🟡 |
+| <span id="q-10.3c"></span>[10.3c](./answer-key.md#ans-10.3c) | 0.1 M (NH₄)₂SO₄. Find [NH₄⁺] and [SO₄²⁻]. | 🟢 |
+| <span id="q-10.3d"></span>[10.3d](./answer-key.md#ans-10.3d) | 0.01 M K₃[Fe(CN)₆]. Find [K⁺] and [Fe(CN)₆³⁻]. (Treat the complex ion as one unit.) | 🟡 |
 
 ---
 
@@ -214,9 +214,9 @@ Answer: Al₂(SO₄)₃ has the highest total ion concentration.
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 10.4a | Rank in order of increasing total ion concentration: 0.1 M glucose, 0.1 M NaCl, 0.1 M MgSO₄, 0.1 M AlCl₃. (Note: glucose doesn't dissociate!) ⭐ | 🟡 |
-| 10.4b | Find total ion concentration in 0.2 M K₂SO₄. | 🟢 |
-| 10.4c | 0.05 M FeCl₃. Total particle concentration? (Including undissociated FeCl₃ if any — assuming strong electrolyte.) | 🟡 |
+| <span id="q-10.4a"></span>[10.4a](./answer-key.md#ans-10.4a) | Rank in order of increasing total ion concentration: 0.1 M glucose, 0.1 M NaCl, 0.1 M MgSO₄, 0.1 M AlCl₃. (Note: glucose doesn't dissociate!) ⭐ | 🟡 |
+| <span id="q-10.4b"></span>[10.4b](./answer-key.md#ans-10.4b) | Find total ion concentration in 0.2 M K₂SO₄. | 🟢 |
+| <span id="q-10.4c"></span>[10.4c](./answer-key.md#ans-10.4c) | 0.05 M FeCl₃. Total particle concentration? (Including undissociated FeCl₃ if any — assuming strong electrolyte.) | 🟡 |
 
 ---
 
@@ -253,10 +253,10 @@ Answer: [Na⁺] = 0.05 M, [K⁺] = 0.1 M, [Cl⁻] = 0.15 M
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 10.5a | 100 mL of 0.2 M NaCl + 100 mL of 0.1 M CaCl₂. Find [Na⁺], [Ca²⁺], [Cl⁻]. ⭐ | 🟡 |
-| 10.5b | 200 mL of 0.3 M Na₂SO₄ + 300 mL of 0.1 M NaCl. Find [Na⁺], [SO₄²⁻], [Cl⁻]. ⭐ | 🔴 |
-| 10.5c | 50 mL of 0.4 M KNO₃ + 50 mL of 0.2 M Ca(NO₃)₂. Find all ion concentrations. | 🟡 |
-| 10.5d | Three solutions mixed: 100 mL of 0.1 M NaCl, 100 mL of 0.2 M MgCl₂, 100 mL of 0.3 M AlCl₃. Find [Cl⁻]. ⭐ | 🔴 |
+| <span id="q-10.5a"></span>[10.5a](./answer-key.md#ans-10.5a) | 100 mL of 0.2 M NaCl + 100 mL of 0.1 M CaCl₂. Find [Na⁺], [Ca²⁺], [Cl⁻]. ⭐ | 🟡 |
+| <span id="q-10.5b"></span>[10.5b](./answer-key.md#ans-10.5b) | 200 mL of 0.3 M Na₂SO₄ + 300 mL of 0.1 M NaCl. Find [Na⁺], [SO₄²⁻], [Cl⁻]. ⭐ | 🔴 |
+| <span id="q-10.5c"></span>[10.5c](./answer-key.md#ans-10.5c) | 50 mL of 0.4 M KNO₃ + 50 mL of 0.2 M Ca(NO₃)₂. Find all ion concentrations. | 🟡 |
+| <span id="q-10.5d"></span>[10.5d](./answer-key.md#ans-10.5d) | Three solutions mixed: 100 mL of 0.1 M NaCl, 100 mL of 0.2 M MgCl₂, 100 mL of 0.3 M AlCl₃. Find [Cl⁻]. ⭐ | 🔴 |
 
 ---
 
@@ -288,8 +288,8 @@ Answer: [Ca²⁺] = 0.1 M, [Cl⁻] = 0.2 M
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 10.6a | 50 mL of 0.4 M AlCl₃ diluted to 200 mL. Find [Al³⁺] and [Cl⁻]. | 🟡 |
-| 10.6b | 200 mL of 0.3 M Na₂SO₄ diluted to 1 L. Find all ion concentrations. | 🟡 |
+| <span id="q-10.6a"></span>[10.6a](./answer-key.md#ans-10.6a) | 50 mL of 0.4 M AlCl₃ diluted to 200 mL. Find [Al³⁺] and [Cl⁻]. | 🟡 |
+| <span id="q-10.6b"></span>[10.6b](./answer-key.md#ans-10.6b) | 200 mL of 0.3 M Na₂SO₄ diluted to 1 L. Find all ion concentrations. | 🟡 |
 
 ---
 
@@ -331,9 +331,9 @@ Answer: [Na⁺] = 0.2 M, [Cl⁻] = 0.067 M, [SO₄²⁻] = 0.067 M
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 10.7a | 100 mL of 0.1 M BaCl₂ + 100 mL of 0.2 M NaCl. Find all ion concentrations. | 🟡 |
-| 10.7b | 200 mL of 0.5 M KNO₃ + 300 mL of 0.2 M KCl. Find [K⁺], [NO₃⁻], [Cl⁻]. ⭐ | 🟡 |
-| 10.7c | 100 mL of 0.3 M FeCl₃ + 200 mL of 0.15 M Fe₂(SO₄)₃. Find [Fe³⁺], [Cl⁻], [SO₄²⁻]. ⭐ | 🔴 |
+| <span id="q-10.7a"></span>[10.7a](./answer-key.md#ans-10.7a) | 100 mL of 0.1 M BaCl₂ + 100 mL of 0.2 M NaCl. Find all ion concentrations. | 🟡 |
+| <span id="q-10.7b"></span>[10.7b](./answer-key.md#ans-10.7b) | 200 mL of 0.5 M KNO₃ + 300 mL of 0.2 M KCl. Find [K⁺], [NO₃⁻], [Cl⁻]. ⭐ | 🟡 |
+| <span id="q-10.7c"></span>[10.7c](./answer-key.md#ans-10.7c) | 100 mL of 0.3 M FeCl₃ + 200 mL of 0.15 M Fe₂(SO₄)₃. Find [Fe³⁺], [Cl⁻], [SO₄²⁻]. ⭐ | 🔴 |
 
 ---
 
@@ -376,9 +376,9 @@ Answer: Yes, BaSO₄ precipitates (Q is about 10⁵ times larger than Ksp).
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 10.8a | 50 mL of 0.002 M AgNO₃ + 50 mL of 0.001 M NaCl. Will AgCl precipitate? (Ksp = 1.8 × 10⁻¹⁰) ⭐ | 🟡 |
-| 10.8b | 100 mL of 10⁻⁴ M CaCl₂ + 100 mL of 10⁻⁴ M Na₂SO₄. Will CaSO₄ precipitate? (Ksp = 4.93 × 10⁻⁵) | 🟡 |
-| 10.8c | Equal volumes of 0.01 M Pb(NO₃)₂ and 0.01 M KI. Will PbI₂ precipitate? (Ksp = 9.8 × 10⁻⁹, Q = [Pb²⁺][I⁻]²) ⭐ | 🔴 |
+| <span id="q-10.8a"></span>[10.8a](./answer-key.md#ans-10.8a) | 50 mL of 0.002 M AgNO₃ + 50 mL of 0.001 M NaCl. Will AgCl precipitate? (Ksp = 1.8 × 10⁻¹⁰) ⭐ | 🟡 |
+| <span id="q-10.8b"></span>[10.8b](./answer-key.md#ans-10.8b) | 100 mL of 10⁻⁴ M CaCl₂ + 100 mL of 10⁻⁴ M Na₂SO₄. Will CaSO₄ precipitate? (Ksp = 4.93 × 10⁻⁵) | 🟡 |
+| <span id="q-10.8c"></span>[10.8c](./answer-key.md#ans-10.8c) | Equal volumes of 0.01 M Pb(NO₃)₂ and 0.01 M KI. Will PbI₂ precipitate? (Ksp = 9.8 × 10⁻⁹, Q = [Pb²⁺][I⁻]²) ⭐ | 🔴 |
 
 ---
 
@@ -419,9 +419,9 @@ Answer: [H⁺] = [CH₃COO⁻] = 1.3 × 10⁻³ M, [CH₃COOH] ≈ 0.099 M
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 10.9a | 0.01 M NH₃ has α = 0.04. Find [NH₄⁺], [OH⁻], [NH₃]. | 🟡 |
-| 10.9b | 0.05 M HF has Ka = 3.5 × 10⁻⁴. Find α and [H⁺]. (Use: Ka = Cα²/(1-α) ≈ Cα² for small α) ⭐ | 🔴 |
-| 10.9c | Why is the total ion concentration of 0.1 M acetic acid much less than that of 0.1 M HCl? | 🟡 |
+| <span id="q-10.9a"></span>[10.9a](./answer-key.md#ans-10.9a) | 0.01 M NH₃ has α = 0.04. Find [NH₄⁺], [OH⁻], [NH₃]. | 🟡 |
+| <span id="q-10.9b"></span>[10.9b](./answer-key.md#ans-10.9b) | 0.05 M HF has Ka = 3.5 × 10⁻⁴. Find α and [H⁺]. (Use: Ka = Cα²/(1-α) ≈ Cα² for small α) ⭐ | 🔴 |
+| <span id="q-10.9c"></span>[10.9c](./answer-key.md#ans-10.9c) | Why is the total ion concentration of 0.1 M acetic acid much less than that of 0.1 M HCl? | 🟡 |
 
 ---
 
@@ -459,9 +459,9 @@ Charge balance:
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 10.10a | A solution has [K⁺] = 0.3 M, [Mg²⁺] = 0.1 M, [Cl⁻] = x M, and no other ions. Find x using charge balance. ⭐ | 🟡 |
-| 10.10b | 0.1 M Al₂(SO₄)₃. Show that charge balance holds. | 🟡 |
-| 10.10c | A solution has [Na⁺] = 0.2 M, [Ca²⁺] = 0.1 M, [Cl⁻] = 0.3 M, [SO₄²⁻] = y M. Find y. | 🟡 |
+| <span id="q-10.10a"></span>[10.10a](./answer-key.md#ans-10.10a) | A solution has [K⁺] = 0.3 M, [Mg²⁺] = 0.1 M, [Cl⁻] = x M, and no other ions. Find x using charge balance. ⭐ | 🟡 |
+| <span id="q-10.10b"></span>[10.10b](./answer-key.md#ans-10.10b) | 0.1 M Al₂(SO₄)₃. Show that charge balance holds. | 🟡 |
+| <span id="q-10.10c"></span>[10.10c](./answer-key.md#ans-10.10c) | A solution has [Na⁺] = 0.2 M, [Ca²⁺] = 0.1 M, [Cl⁻] = 0.3 M, [SO₄²⁻] = y M. Find y. | 🟡 |
 
 ---
 
@@ -469,9 +469,9 @@ Charge balance:
 
 | # | Question | Types Used | Difficulty |
 |---|----------|------------|------------|
-| 10.M1 | 100 mL of 0.2 M BaCl₂ + 100 mL of 0.1 M Na₂SO₄. (a) Find [Ba²⁺], [Na⁺], [Cl⁻], [SO₄²⁻] initially. (b) Will BaSO₄ precipitate? (Ksp = 1.1 × 10⁻¹⁰) (c) After precipitation, which ion is the limiting reagent? | T5 + T7 + T8 | 🔴 |
-| 10.M2 | 200 mL of 0.3 M AlCl₃ is diluted to 1 L. Find (a) [Al³⁺] (b) [Cl⁻] (c) total ion concentration (d) verify charge balance. | T3 + T6 + T4 + T10 | 🟡 |
-| 10.M3 | Mix 100 mL of 0.1 M AgNO₃ with 100 mL of 0.2 M NaCl. (a) Find ion concentrations before reaction. (b) AgCl precipitates (Ksp = 1.8×10⁻¹⁰). Which is limiting? (c) Find concentrations of all remaining ions. | T5 + T8 + Ch9-T5 | 🔴 |
+| <span id="q-10.M1"></span>[10.M1](./answer-key.md#ans-10.M1) | 100 mL of 0.2 M BaCl₂ + 100 mL of 0.1 M Na₂SO₄. (a) Find [Ba²⁺], [Na⁺], [Cl⁻], [SO₄²⁻] initially. (b) Will BaSO₄ precipitate? (Ksp = 1.1 × 10⁻¹⁰) (c) After precipitation, which ion is the limiting reagent? | T5 + T7 + T8 | 🔴 |
+| <span id="q-10.M2"></span>[10.M2](./answer-key.md#ans-10.M2) | 200 mL of 0.3 M AlCl₃ is diluted to 1 L. Find (a) [Al³⁺] (b) [Cl⁻] (c) total ion concentration (d) verify charge balance. | T3 + T6 + T4 + T10 | 🟡 |
+| <span id="q-10.M3"></span>[10.M3](./answer-key.md#ans-10.M3) | Mix 100 mL of 0.1 M AgNO₃ with 100 mL of 0.2 M NaCl. (a) Find ion concentrations before reaction. (b) AgCl precipitates (Ksp = 1.8×10⁻¹⁰). Which is limiting? (c) Find concentrations of all remaining ions. | T5 + T8 + Ch9-T5 | 🔴 |
 
 ---
 
@@ -479,10 +479,10 @@ Charge balance:
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 10.B1 | Find the concentration of each ion in: (a) 0.25 M Na₂SO₄ (b) 0.1 M Ca(NO₃)₂. ⭐ | 🟢 |
-| 10.B2 | Which produces more ions per formula unit: NaCl or CaCl₂? If both are 0.1 M, which has higher total ion concentration? ⭐ | 🟢 |
-| 10.B3 | 0.1 M K₂CrO₄ and 0.1 M KCl are mixed in equal volumes. Find [K⁺] in the mixture. ⭐ | 🟡 |
-| 10.B4 | A solution contains 0.2 M NaCl and 0.3 M KCl. Find [Cl⁻]. | 🟡 |
+| <span id="q-10.B1"></span>[10.B1](./answer-key.md#ans-10.B1) | Find the concentration of each ion in: (a) 0.25 M Na₂SO₄ (b) 0.1 M Ca(NO₃)₂. ⭐ | 🟢 |
+| <span id="q-10.B2"></span>[10.B2](./answer-key.md#ans-10.B2) | Which produces more ions per formula unit: NaCl or CaCl₂? If both are 0.1 M, which has higher total ion concentration? ⭐ | 🟢 |
+| <span id="q-10.B3"></span>[10.B3](./answer-key.md#ans-10.B3) | 0.1 M K₂CrO₄ and 0.1 M KCl are mixed in equal volumes. Find [K⁺] in the mixture. ⭐ | 🟡 |
+| <span id="q-10.B4"></span>[10.B4](./answer-key.md#ans-10.B4) | A solution contains 0.2 M NaCl and 0.3 M KCl. Find [Cl⁻]. | 🟡 |
 
 ---
 
@@ -490,11 +490,11 @@ Charge balance:
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 10.J1 | 100 mL of 0.1 M AgNO₃ + 100 mL of 0.1 M BaCl₂. (a) Identify all ions present. (b) Will AgCl precipitate? (Ksp = 1.8 × 10⁻¹⁰) (c) How many moles of AgCl form? (d) Find final [Ba²⁺], [NO₃⁻], [Cl⁻]. ⭐⭐ | 🔴 |
-| 10.J2 | 0.1 M Al₂(SO₄)₃ + 0.1 M Na₃PO₄ in equal volumes. (a) Find all ion concentrations. (b) Will AlPO₄ precipitate? (Ksp = 9.84 × 10⁻²¹) ⭐ | 🔴 |
-| 10.J3 | Rank the following 0.1 M solutions by increasing osmotic pressure: glucose, NaCl, CaCl₂, AlCl₃. Justify using total particle concentration. (i-factors: 1, 2, 3, 4) ⭐ | 🟡 |
-| 10.J4 | A solution has [Na⁺] = 0.5 M, [K⁺] = 0.2 M, [Cl⁻] = 0.4 M, and [SO₄²⁻] = x. Use charge balance to find x. Then, could this solution have been made by dissolving NaCl, KCl, and Na₂SO₄? Verify. ⭐ | 🔴 |
-| 10.J5 | 0.2 M CH₃COOH (Ka = 1.8 × 10⁻⁵) is mixed with 0.1 M HCl in equal volumes. Find [H⁺] in the mixture. (Consider common ion effect on acetic acid's dissociation.) ⭐⭐ | 🔴 |
+| <span id="q-10.J1"></span>[10.J1](./answer-key.md#ans-10.J1) | 100 mL of 0.1 M AgNO₃ + 100 mL of 0.1 M BaCl₂. (a) Identify all ions present. (b) Will AgCl precipitate? (Ksp = 1.8 × 10⁻¹⁰) (c) How many moles of AgCl form? (d) Find final [Ba²⁺], [NO₃⁻], [Cl⁻]. ⭐⭐ | 🔴 |
+| <span id="q-10.J2"></span>[10.J2](./answer-key.md#ans-10.J2) | 0.1 M Al₂(SO₄)₃ + 0.1 M Na₃PO₄ in equal volumes. (a) Find all ion concentrations. (b) Will AlPO₄ precipitate? (Ksp = 9.84 × 10⁻²¹) ⭐ | 🔴 |
+| <span id="q-10.J3"></span>[10.J3](./answer-key.md#ans-10.J3) | Rank the following 0.1 M solutions by increasing osmotic pressure: glucose, NaCl, CaCl₂, AlCl₃. Justify using total particle concentration. (i-factors: 1, 2, 3, 4) ⭐ | 🟡 |
+| <span id="q-10.J4"></span>[10.J4](./answer-key.md#ans-10.J4) | A solution has [Na⁺] = 0.5 M, [K⁺] = 0.2 M, [Cl⁻] = 0.4 M, and [SO₄²⁻] = x. Use charge balance to find x. Then, could this solution have been made by dissolving NaCl, KCl, and Na₂SO₄? Verify. ⭐ | 🔴 |
+| <span id="q-10.J5"></span>[10.J5](./answer-key.md#ans-10.J5) | 0.2 M CH₃COOH (Ka = 1.8 × 10⁻⁵) is mixed with 0.1 M HCl in equal volumes. Find [H⁺] in the mixture. (Consider common ion effect on acetic acid's dissociation.) ⭐⭐ | 🔴 |
 
 ---
 
