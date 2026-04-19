@@ -104,8 +104,24 @@ Answer: 2 M (unchanged — obviously!)
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 9.1a | 50 mL + 150 mL of 0.5 M HCl. Final M? Final total moles? | 🟢 |
 | 9.1b | 1 L + 2 L of 1 M NaOH. Final M? Total moles? | 🟢 |
+
+<details>
+<summary>💡 Detailed Solutions for Type 1</summary>
+
+**9.1a:**
+*   **Calculation:** Mixing same concentration yields the same concentration. $M_{\text{final}} = 0.5\text{ M}$.
+    Total volume = $50 + 150 = 200\text{ mL} = 0.2\text{ L}$.
+    Total moles = $M \times V = 0.5 \times 0.2 = 0.1\text{ mol}$.
+*   **Answer:** $0.5\text{ M}$, $0.1\text{ mol}$
+
+**9.1b:**
+*   **Calculation:** Same concentration $\Rightarrow M_{\text{final}} = 1\text{ M}$.
+    Total volume = $1 + 2 = 3\text{ L}$.
+    Total moles = $1 \times 3 = 3\text{ mol}$.
+*   **Answer:** $1\text{ M}$, $3\text{ mol}$
+
+</details>
 
 ---
 
@@ -135,10 +151,32 @@ Answer: 1.8 M
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 9.2a | 100 mL of 4 M NaOH + 100 mL of 2 M NaOH. Find M_f. | 🟢 |
-| 9.2b | 50 mL of 0.1 M HCl + 150 mL of 0.3 M HCl. Find M_f. ⭐ | 🟡 |
-| 9.2c | 400 mL of 5 M H₂SO₄ + 600 mL of 2 M H₂SO₄. Find M_f. | 🟡 |
 | 9.2d | 250 mL of 1 M KCl + 750 mL of 3 M KCl. Find M_f and total moles. | 🟡 |
+
+<details>
+<summary>💡 Detailed Solutions for Type 2</summary>
+
+**9.2a:**
+*   **Calculation:** Equal volumes, so the final molarity is the average.
+    $M_f = \frac{4 + 2}{2} = 3\text{ M}$.
+*   **Answer:** $3\text{ M}$
+
+**9.2b:**
+*   **Calculation:** $M_f = \frac{M_1 V_1 + M_2 V_2}{V_1 + V_2} = \frac{0.1 \times 50 + 0.3 \times 150}{50 + 150} = \frac{5 + 45}{200} = \frac{50}{200} = 0.25\text{ M}$.
+*   **Answer:** $0.25\text{ M}$
+
+**9.2c:**
+*   **Calculation:** $M_f = \frac{5 \times 400 + 2 \times 600}{400 + 600} = \frac{2000 + 1200}{1000} = \frac{3200}{1000} = 3.2\text{ M}$.
+*   **Answer:** $3.2\text{ M}$
+
+**9.2d:**
+*   **Calculation:** Total moles = $M_1 V_1 + M_2 V_2$ (with $V$ in L)
+    $= 1 \times 0.25 + 3 \times 0.75 = 0.25 + 2.25 = 2.5\text{ mol}$.
+    Total volume = $250 + 750 = 1000\text{ mL} = 1\text{ L}$.
+    $M_f = \frac{2.5}{1} = 2.5\text{ M}$.
+*   **Answer:** $2.5\text{ M}$, $2.5\text{ mol}$
+
+</details>
 
 ---
 
@@ -170,8 +208,22 @@ Key rule: The final M is a weighted average.
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 9.3a | 10 mL of 10 M + 990 mL of 0.1 M. Is final M closer to 10 or to 0.1? Estimate before calculating. | 🟡 |
 | 9.3b | Equal volumes of 2 M and 8 M. What will the final M be? | 🟢 |
+
+<details>
+<summary>💡 Detailed Solutions for Type 3</summary>
+
+**9.3a:**
+*   **Calculation:** The $0.1\text{ M}$ solution has $99\times$ more volume ($990\text{ mL}$ vs $10\text{ mL}$). Therefore, the final concentration will be heavily weighted towards $0.1\text{ M}$.
+    (Exact calculation: $M_f = \frac{10\times 10 + 0.1\times 990}{1000} = \frac{100 + 99}{1000} = 0.199\text{ M}$).
+*   **Answer:** Much closer to $0.1\text{ M}$.
+
+**9.3b:**
+*   **Calculation:** If mixed in equal volumes, the relative weights are equal. So the final concentration is the exact arithmetic mean.
+    $M_f = \frac{2 + 8}{2} = 5\text{ M}$.
+*   **Answer:** $5\text{ M}$
+
+</details>
 
 ---
 
@@ -231,10 +283,32 @@ Verification:
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 9.4a | Mix 10 M and 2 M NaOH to get 4 M. Find V₁:V₂. ⭐ | 🟡 |
-| 9.4b | You have 0.1 M and 1 M HCl. What ratio gives 0.4 M? | 🟡 |
-| 9.4c | Mix 18 M conc. H₂SO₄ with 0 M (water) to get 3 M. Ratio? (Note: M₂ = 0 for water!) ⭐ | 🟡 |
 | 9.4d | Is it possible to get 12 M by mixing 5 M and 8 M solutions? Why or why not? | 🟡 |
+
+<details>
+<summary>💡 Detailed Solutions for Type 4</summary>
+
+**9.4a:**
+*   **Calculation:** Use alligation or ratio formula: $\frac{V_1}{V_2} = \frac{|M_f - M_2|}{|M_1 - M_f|}$.
+    Let $V_1$ be $10\text{ M}$ and $V_2$ be $2\text{ M}$. Target $M_f = 4\text{ M}$.
+    $\frac{V_1}{V_2} = \frac{|4 - 2|}{|10 - 4|} = \frac{2}{6} = \frac{1}{3}$.
+*   **Answer:** Ratio of $10\text{ M}$ to $2\text{ M}$ is $1:3$.
+
+**9.4b:**
+*   **Calculation:** Let $V_1$ be $0.1\text{ M}$ and $V_2$ be $1\text{ M}$. Target $M_f = 0.4\text{ M}$.
+    $\frac{V_1}{V_2} = \frac{|0.4 - 1|}{|0.1 - 0.4|} = \frac{0.6}{0.3} = 2$.
+*   **Answer:** Ratio of $0.1\text{ M}$ to $1\text{ M}$ is $2:1$.
+
+**9.4c:**
+*   **Calculation:** Let $V_1$ be $18\text{ M}$ and $V_2$ be water ($0\text{ M}$). Target $M_f = 3\text{ M}$.
+    $\frac{V_1}{V_2} = \frac{|3 - 0|}{|18 - 3|} = \frac{3}{15} = \frac{1}{5}$.
+*   **Answer:** Ratio of acid to water is $1:5$.
+
+**9.4d:**
+*   **Calculation:** Mixing two solutions results in a weighted average. The final concentration must always lie *between* the two starting concentrations ($5\text{ M} < M_f < 8\text{ M}$).
+*   **Answer:** No, because the maximum possible concentration you can achieve is $8\text{ M}$ (without evaporating solvent).
+
+</details>
 
 ---
 
@@ -279,10 +353,41 @@ Answer: The resulting solution contains 0.1 M HCl (acidic)
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 9.5a | 50 mL of 1 M HCl + 50 mL of 1 M NaOH. What's left? | 🟢 |
-| 9.5b | 100 mL of 0.2 M H₂SO₄ + 100 mL of 0.3 M NaOH. Which is excess? Find its final concentration. (H₂SO₄ + 2NaOH → Na₂SO₄ + 2H₂O) ⭐⭐ | 🔴 |
-| 9.5c | 200 mL of 0.1 M NaOH + 300 mL of 0.05 M HCl. Excess and final concentration? | 🟡 |
 | 9.5d | 25 mL of 0.5 M Ba(OH)₂ + 25 mL of 0.5 M HCl. Ba(OH)₂ + 2HCl → BaCl₂ + 2H₂O. Which is excess? ⭐ | 🔴 |
+
+<details>
+<summary>💡 Detailed Solutions for Type 5</summary>
+
+**9.5a:**
+*   **Calculation:** mmol HCl = $50 \times 1 = 50\text{ mmol}$. mmol NaOH = $50 \times 1 = 50\text{ mmol}$.
+    Since they react $1:1$ and mmols are equal, neither is in excess. The solution is neutral ($0\text{ M}$ acid/base).
+*   **Answer:** Completely neutralised (only salt NaCl remains).
+
+**9.5b:**
+*   **Calculation:** mmol H₂SO₄ = $100 \times 0.2 = 20\text{ mmol}$.
+    mmol NaOH = $100 \times 0.3 = 30\text{ mmol}$.
+    Reaction: $1\text{ H}_2\text{SO}_4 + 2\text{ NaOH} \rightarrow \dots$
+    $30\text{ mmol}$ NaOH requires $15\text{ mmol}$ H₂SO₄.
+    We have $20\text{ mmol}$ H₂SO₄, so H₂SO₄ is in excess by $20 - 15 = 5\text{ mmol}$.
+    Total volume = $200\text{ mL}$. $[\text{H}_2\text{SO}_4]_{\text{excess}} = \frac{5}{200} = 0.025\text{ M}$.
+*   **Answer:** H₂SO₄ is in excess. Concentration = $0.025\text{ M}$.
+
+**9.5c:**
+*   **Calculation:** mmol NaOH = $200 \times 0.1 = 20\text{ mmol}$.
+    mmol HCl = $300 \times 0.05 = 15\text{ mmol}$.
+    Reaction is $1:1$. NaOH is in excess by $20 - 15 = 5\text{ mmol}$.
+    Total volume = $500\text{ mL}$. $[\text{NaOH}]_{\text{excess}} = \frac{5}{500} = 0.01\text{ M}$.
+*   **Answer:** NaOH is in excess. Concentration = $0.01\text{ M}$.
+
+**9.5d:**
+*   **Calculation:** mmol Ba(OH)₂ = $25 \times 0.5 = 12.5\text{ mmol}$.
+    mmol HCl = $25 \times 0.5 = 12.5\text{ mmol}$.
+    Reaction: $1\text{ Ba(OH)}_2 + 2\text{ HCl} \rightarrow \dots$
+    $12.5\text{ mmol}$ HCl consumes $6.25\text{ mmol}$ Ba(OH)₂.
+    Excess Ba(OH)₂ = $12.5 - 6.25 = 6.25\text{ mmol}$.
+*   **Answer:** Ba(OH)₂ is in excess.
+
+</details>
 
 ---
 
@@ -313,8 +418,21 @@ Answer: 1.2 M
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 9.6a | 100 mL of 5 M HCl + 400 mL of water. Find M_f. | 🟢 |
 | 9.6b | 50 mL of solution + 950 mL of water gives M_f = 0.05 M. Find M₁. | 🟡 |
+
+<details>
+<summary>💡 Detailed Solutions for Type 6</summary>
+
+**9.6a:**
+*   **Calculation:** $M_f = \frac{5 \times 100 + 0}{100 + 400} = \frac{500}{500} = 1\text{ M}$.
+*   **Answer:** $1\text{ M}$
+
+**9.6b:**
+*   **Calculation:** Using $M_1 V_1 = M_f V_f$. Total volume $V_f = 50 + 950 = 1000\text{ mL}$.
+    $M_1 \times 50 = 0.05 \times 1000 \Rightarrow 50 M_1 = 50 \Rightarrow M_1 = 1\text{ M}$.
+*   **Answer:** $1\text{ M}$
+
+</details>
 
 ---
 
@@ -347,9 +465,25 @@ Answer: 2.6 M
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 9.7a | 50 mL of 1 M + 50 mL of 3 M + 100 mL of 2 M HCl. Find M_f. | 🟡 |
-| 9.7b | 100 mL of 0.5 M NaOH + 200 mL of 0.2 M NaOH + 200 mL of water. Find M_f. | 🟡 |
 | 9.7c | Equal volumes of 1 M, 2 M, 3 M, and 4 M solutions. Find M_f. (No calculation needed!) | 🟢 |
+
+<details>
+<summary>💡 Detailed Solutions for Type 7</summary>
+
+**9.7a:**
+*   **Calculation:** $M_f = \frac{1 \times 50 + 3 \times 50 + 2 \times 100}{50 + 50 + 100} = \frac{50 + 150 + 200}{200} = \frac{400}{200} = 2\text{ M}$.
+*   **Answer:** $2\text{ M}$
+
+**9.7b:**
+*   **Calculation:** $M_f = \frac{0.5 \times 100 + 0.2 \times 200 + 0 \times 200}{100 + 200 + 200} = \frac{50 + 40 + 0}{500} = \frac{90}{500} = 0.18\text{ M}$.
+*   **Answer:** $0.18\text{ M}$
+
+**9.7c:**
+*   **Calculation:** When volumes are equal, the final concentration is just the arithmetic mean of all concentrations.
+    $M_f = \frac{1 + 2 + 3 + 4}{4} = \frac{10}{4} = 2.5\text{ M}$.
+*   **Answer:** $2.5\text{ M}$
+
+</details>
 
 ---
 
@@ -381,8 +515,23 @@ the actual volume is LESS than expected.
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 9.8a | 50 mL of methanol + 50 mL of water → 97 mL total. If methanol was 1 M in solute X, actual vs predicted M of X? | 🔴 |
 | 9.8b | Why does this problem not arise significantly with dilute aqueous solutions? | 🟡 |
+
+<details>
+<summary>💡 Detailed Solutions for Type 8</summary>
+
+**9.8a:**
+*   **Calculation:** 
+    Predicted $M_f = \frac{1 \times 50}{100} = 0.5\text{ M}$.
+    Actual volume = $97\text{ mL}$. Total moles = $1 \times 0.050\text{ L} = 0.05\text{ mol}$.
+    Actual $M_f = \frac{0.05\text{ mol}}{0.097\text{ L}} = 0.515\text{ M}$.
+*   **Answer:** Actual = $0.515\text{ M}$, Predicted = $0.5\text{ M}$.
+
+**9.8b:**
+*   **Calculation:** Dilute aqueous solutions are overwhelmingly made of water. Mixing two dilute solutions is effectively mixing water with water, so the intermolecular forces and packing efficiencies remain largely unchanged, making the volumes almost perfectly additive.
+*   **Answer:** Because both solutions are mostly water, so the molecular packing doesn't change significantly upon mixing.
+
+</details>
 
 ---
 
@@ -434,8 +583,27 @@ Answer: ~1.46 m
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 9.9a | 200 g of 1 m urea + 300 g of 3 m urea (both aqueous). Find final molality. (M_urea = 60) | 🔴 |
 | 9.9b | Why is mixing in molality harder than mixing in molarity? | 🟡 |
+
+<details>
+<summary>💡 Detailed Solutions for Type 9</summary>
+
+**9.9a:**
+*   **Calculation:**
+    Solution 1 ($1\text{ m}$): $1\text{ kg}$ solvent ($1000\text{ g}$) contains $1\text{ mol}$ urea ($60\text{ g}$). Total mass = $1060\text{ g}$.
+    In $200\text{ g}$ solution: $W_1 = 200 \times \frac{1000}{1060} = 188.68\text{ g}$. Moles $n_1 = 200 \times \frac{1}{1060} = 0.1887\text{ mol}$.
+    Solution 2 ($3\text{ m}$): $1\text{ kg}$ solvent contains $3\text{ mol}$ urea ($180\text{ g}$). Total mass = $1180\text{ g}$.
+    In $300\text{ g}$ solution: $W_2 = 300 \times \frac{1000}{1180} = 254.24\text{ g}$. Moles $n_2 = 300 \times \frac{3}{1180} = 0.7627\text{ mol}$.
+    Mixture: Total moles = $0.1887 + 0.7627 = 0.9514\text{ mol}$.
+    Total solvent = $188.68 + 254.24 = 442.92\text{ g} = 0.4429\text{ kg}$.
+    $m_f = \frac{0.9514}{0.4429} = 2.148\text{ m}$.
+*   **Answer:** $2.148\text{ m}$
+
+**9.9b:**
+*   **Calculation:** Molarity requires solution volume, which is usually given directly, making $M = n/V$ straightforward to apply. Molality is based on solvent mass, but mixtures are usually given in terms of total solution mass (or volume). Therefore, one must first isolate and calculate the solvent mass fraction for each solution before adding.
+*   **Answer:** Because you must extract the mass of the solvent from the mass of the solution before mixing.
+
+</details>
 
 ---
 
@@ -467,8 +635,24 @@ Answer: (a) 2 M  (b) 0.8 M
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 9.10a | Mix 50 mL of 4 M and 50 mL of 2 M NaOH. Dilute to 500 mL. Final M? | 🟡 |
 | 9.10b | Mix 100 mL of 0.5 M HCl, 200 mL of 0.3 M HCl, and 200 mL of water. Then dilute to 1 L. Final M? | 🟡 |
+
+<details>
+<summary>💡 Detailed Solutions for Type 10</summary>
+
+**9.10a:**
+*   **Calculation:** Moles = $4\text{ M} \times 0.05\text{ L} + 2\text{ M} \times 0.05\text{ L} = 0.2 + 0.1 = 0.3\text{ mol}$.
+    Final volume = $500\text{ mL} = 0.5\text{ L}$.
+    $M_f = \frac{0.3}{0.5} = 0.6\text{ M}$.
+*   **Answer:** $0.6\text{ M}$
+
+**9.10b:**
+*   **Calculation:** Moles = $0.5 \times 0.1 + 0.3 \times 0.2 + 0 = 0.05 + 0.06 = 0.11\text{ mol}$.
+    Final volume = $1\text{ L}$.
+    $M_f = \frac{0.11}{1} = 0.11\text{ M}$.
+*   **Answer:** $0.11\text{ M}$
+
+</details>
 
 ---
 
@@ -476,9 +660,36 @@ Answer: (a) 2 M  (b) 0.8 M
 
 | # | Question | Types Used | Difficulty |
 |---|----------|------------|------------|
-| 9.M1 | 200 mL of 0.5 M H₂SO₄ + 300 mL of 0.2 M NaOH. (a) Which is excess? (Use stoichiometry!) (b) Find [excess] after mixing. (c) What volume of 0.1 M NaOH to fully neutralise the excess? | T5 + Ch8 | 🔴 |
-| 9.M2 | You need 500 mL of 0.6 M NaCl. You have 2 M and 0.1 M stock. (a) Find V₁ and V₂. (b) If total V must be exactly 500 mL, solve the system. | T4 + algebra | 🔴 |
 | 9.M3 | 100 mL of 1 M HCl, 100 mL of 2 M NaOH, and 100 mL of 1 M HCl are all mixed. (a) Total mmol HCl and NaOH. (b) Which is excess? (c) Final concentration. | T7 + T5 | 🟡 |
+
+<details>
+<summary>💡 Detailed Solutions for Type Mixer</summary>
+
+**9.M1:**
+*   **Calculation:** mmol H₂SO₄ = $200 \times 0.5 = 100\text{ mmol}$. mmol NaOH = $300 \times 0.2 = 60\text{ mmol}$.
+    Reaction: $1\text{ H}_2\text{SO}_4 + 2\text{ NaOH} \rightarrow \dots$
+    $60\text{ mmol}$ NaOH consumes $30\text{ mmol}$ H₂SO₄.
+    (a) Excess H₂SO₄ = $100 - 30 = 70\text{ mmol}$.
+    (b) Total volume = $500\text{ mL}$. $[\text{H}_2\text{SO}_4] = \frac{70}{500} = 0.14\text{ M}$.
+    (c) To neutralise $70\text{ mmol}$ H₂SO₄ (which provides $140\text{ mmol}$ H⁺), we need $140\text{ mmol}$ NaOH.
+    $V \times 0.1 = 140 \Rightarrow V = 1400\text{ mL}$.
+*   **Answer:** (a) H₂SO₄, (b) $0.14\text{ M}$, (c) $1400\text{ mL}$
+
+**9.M2:**
+*   **Calculation:**
+    (a) Alligation: $\frac{V_1}{V_2} = \frac{|0.6 - 0.1|}{|2 - 0.6|} = \frac{0.5}{1.4} = \frac{5}{14}$.
+    (b) $V_1 + V_2 = 500 \Rightarrow \frac{5}{19} \times 500$ and $V_2 = \frac{14}{19} \times 500$.
+    $V_1 = 131.58\text{ mL}$ ($2\text{ M}$ stock), $V_2 = 368.42\text{ mL}$ ($0.1\text{ M}$ stock).
+*   **Answer:** $131.58\text{ mL}$ of $2\text{ M}$ and $368.42\text{ mL}$ of $0.1\text{ M}$
+
+**9.M3:**
+*   **Calculation:**
+    (a) Total mmol HCl = $100 \times 1 + 100 \times 1 = 200\text{ mmol}$. Total mmol NaOH = $100 \times 2 = 200\text{ mmol}$.
+    (b) $200\text{ mmol}$ acid reacts perfectly with $200\text{ mmol}$ base ($1:1$). Neither is in excess.
+    (c) Neutral solution, so excess reactant concentration is $0\text{ M}$. ([NaCl] = $200/300 = 0.67\text{ M}$).
+*   **Answer:** (a) $200\text{ mmol}$ HCl, $200\text{ mmol}$ NaOH, (b) Neither, (c) $0\text{ M}$ (neutral)
+
+</details>
 
 ---
 
@@ -486,9 +697,27 @@ Answer: (a) 2 M  (b) 0.8 M
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 9.B1 | 100 mL of 0.5 M NaCl is mixed with 200 mL of 0.3 M NaCl. Find the final molarity. ⭐ | 🟡 |
-| 9.B2 | Equal volumes of 1 M HCl and 1 M NaOH are mixed. What is in the resulting solution? | 🟢 |
 | 9.B3 | 50 mL of 0.2 M H₂SO₄ + 50 mL of 0.2 M NaOH. Is the final solution acidic, basic, or neutral? (H₂SO₄ is diprotic!) ⭐ | 🟡 |
+
+<details>
+<summary>💡 Detailed Solutions for Board Arsenal</summary>
+
+**9.B1:**
+*   **Calculation:** $M_f = \frac{0.5 \times 100 + 0.3 \times 200}{100 + 200} = \frac{50 + 60}{300} = \frac{110}{300} = 0.367\text{ M}$.
+*   **Answer:** $0.367\text{ M}$
+
+**9.B2:**
+*   **Calculation:** Equal volumes $\Rightarrow$ equal moles (since $M=1$ for both). They perfectly neutralise to form NaCl and water.
+*   **Answer:** A $0.5\text{ M}$ neutral solution of NaCl.
+
+**9.B3:**
+*   **Calculation:** mmol H₂SO₄ = $50 \times 0.2 = 10\text{ mmol}$. mmol NaOH = $50 \times 0.2 = 10\text{ mmol}$.
+    H₂SO₄ is diprotic, so $10\text{ mmol}$ provides $20\text{ mmol}$ of H⁺ ions.
+    NaOH provides $10\text{ mmol}$ of OH⁻ ions.
+    Excess H⁺ = $20 - 10 = 10\text{ mmol}$ H⁺ remaining. Thus, the solution is acidic.
+*   **Answer:** Acidic
+
+</details>
 
 ---
 
@@ -496,11 +725,52 @@ Answer: (a) 2 M  (b) 0.8 M
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 9.J1 | 200 mL of 0.2 M HCl + 300 mL of 0.1 M NaOH + 100 mL of 0.3 M HCl. Find final [H⁺] or [OH⁻], whichever is in excess. ⭐ | 🔴 |
-| 9.J2 | Mix V₁ mL of C₁ M and V₂ mL of C₂ M of the same solute. If M_f = (C₁ + C₂)/2, prove that V₁ = V₂. | 🟡 |
-| 9.J3 | 100 mL of 0.1 M AgNO₃ + 100 mL of 0.2 M NaCl. AgNO₃ + NaCl → AgCl↓ + NaNO₃. Find: (a) moles of AgCl formed (b) concentration of excess reagent (c) [Na⁺], [NO₃⁻], [Cl⁻] in final solution. ⭐⭐ | 🔴 |
-| 9.J4 | 50 mL of 0.5 M Ba(OH)₂ is mixed with 100 mL of 0.3 M HCl. Ba(OH)₂ + 2HCl → BaCl₂ + 2H₂O. Find the concentration of excess reagent and all ions present. ⭐ | 🔴 |
 | 9.J5 | Three solutions: 100 mL of 3 M, 200 mL of x M, and 100 mL of 1 M (all same solute). If M_f = 2 M, find x. ⭐ | 🟡 |
+
+<details>
+<summary>💡 Detailed Solutions for JEE Mains Arena</summary>
+
+**9.J1:**
+*   **Calculation:** mmol H⁺ = $(200 \times 0.2\text{ HCl}) + (100 \times 0.3\text{ HCl}) = 40 + 30 = 70\text{ mmol}$.
+    mmol OH⁻ = $300 \times 0.1\text{ NaOH} = 30\text{ mmol}$.
+    Excess H⁺ = $70 - 30 = 40\text{ mmol}$. Total volume = $200 + 300 + 100 = 600\text{ mL}$.
+    $[\text{H}^+]_{\text{excess}} = \frac{40}{600} = 0.0667\text{ M}$.
+*   **Answer:** $[\text{H}^+] = 0.0667\text{ M}$
+
+**9.J2:**
+*   **Calculation:** $M_f = \frac{C_1 V_1 + C_2 V_2}{V_1 + V_2} = \frac{C_1 + C_2}{2}$.
+    $2(C_1 V_1 + C_2 V_2) = (C_1 + C_2)(V_1 + V_2) = C_1 V_1 + C_1 V_2 + C_2 V_1 + C_2 V_2$.
+    $C_1 V_1 + C_2 V_2 = C_1 V_2 + C_2 V_1 \Rightarrow C_1(V_1 - V_2) - C_2(V_1 - V_2) = 0$.
+    $(C_1 - C_2)(V_1 - V_2) = 0$. Since concentrations are different ($C_1 \neq C_2$), we must have $V_1 - V_2 = 0 \Rightarrow V_1 = V_2$.
+*   **Answer:** Proven above.
+
+**9.J3:**
+*   **Calculation:** mmol AgNO₃ = $100 \times 0.1 = 10\text{ mmol}$. mmol NaCl = $100 \times 0.2 = 20\text{ mmol}$.
+    AgNO₃ is limiting ($10\text{ mmol}$). 
+    (a) AgCl formed = $10\text{ mmol}$.
+    (b) Excess NaCl = $20 - 10 = 10\text{ mmol}$. Total volume = $200\text{ mL}$. $[\text{NaCl}]_{\text{excess}} = 10/200 = 0.05\text{ M}$.
+    (c) Na⁺ came from $20\text{ mmol}$ NaCl $\Rightarrow [\text{Na}^+] = 20/200 = 0.1\text{ M}$.
+        NO₃⁻ came from $10\text{ mmol}$ $\Rightarrow [\text{NO}_3^-] = 10/200 = 0.05\text{ M}$.
+        Cl⁻ is the excess $\Rightarrow [\text{Cl}^-] = 10/200 = 0.05\text{ M}$.
+*   **Answer:** (a) $10\text{ mmol}$, (b) $0.05\text{ M}$, (c) $[\text{Na}^+] = 0.1\text{ M}, [\text{NO}_3^-] = 0.05\text{ M}, [\text{Cl}^-] = 0.05\text{ M}$
+
+**9.J4:**
+*   **Calculation:** mmol Ba(OH)₂ = $50 \times 0.5 = 25\text{ mmol}$. mmol HCl = $100 \times 0.3 = 30\text{ mmol}$.
+    $1\text{ Ba(OH)}_2 + 2\text{ HCl} \rightarrow \dots$
+    $30\text{ mmol}$ HCl consumes $15\text{ mmol}$ Ba(OH)₂.
+    Excess Ba(OH)₂ = $25 - 15 = 10\text{ mmol}$. Total volume = $150\text{ mL}$.
+    $[\text{Ba(OH)}_2]_{\text{excess}} = \frac{10}{150} = 0.0667\text{ M}$.
+    Ions: $[\text{Ba}^{2+}]$ from all $25\text{ mmol}$ = $25/150 = 0.167\text{ M}$.
+    $[\text{Cl}^-]$ from all $30\text{ mmol}$ = $30/150 = 0.20\text{ M}$.
+    $[\text{OH}^-]$ from excess $10\text{ mmol}$ Ba(OH)₂ = $20\text{ mmol}$ OH⁻ / $150 = 0.133\text{ M}$.
+*   **Answer:** $[\text{Ba(OH)}_2]_{\text{excess}} = 0.0667\text{ M}$. $[\text{Ba}^{2+}] = 0.167\text{ M}, [\text{Cl}^-] = 0.20\text{ M}, [\text{OH}^-] = 0.133\text{ M}$
+
+**9.J5:**
+*   **Calculation:** $M_f = \frac{M_1 V_1 + M_2 V_2 + M_3 V_3}{V_{\text{total}}} \Rightarrow 2 = \frac{3 \times 100 + x \times 200 + 1 \times 100}{100 + 200 + 100}$.
+    $2 = \frac{300 + 200x + 100}{400} \Rightarrow 800 = 400 + 200x \Rightarrow 400 = 200x \Rightarrow x = 2\text{ M}$.
+*   **Answer:** $x = 2$
+
+</details>
 
 ---
 

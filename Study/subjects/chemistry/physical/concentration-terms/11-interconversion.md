@@ -134,6 +134,27 @@ Answer: ≈ 38%
 | 11.1c | 3 M glucose (M=180), d = 1.12 g/mL. Find w/w%. | 🟡 |
 | 11.1d | 68% HNO₃ (M=63), d = 1.41 g/mL. Find M. ⭐ | 🟡 |
 
+<details>
+<summary>💡 Detailed Solutions for Type 1</summary>
+
+**11.1a:**
+*   **Calculation:** $M = \frac{w/w\% \times d \times 10}{M_{\text{solute}}} = \frac{10 \times 1.09 \times 10}{56} = \frac{109}{56} = 1.946\text{ M}$.
+*   **Answer:** $1.95\text{ M}$
+
+**11.1b:**
+*   **Calculation:** $M = \frac{37 \times 1.19 \times 10}{36.5} = \frac{440.3}{36.5} = 12.06\text{ M}$.
+*   **Answer:** $12.06\text{ M}$
+
+**11.1c:**
+*   **Calculation:** Rearrange: $w/w\% = \frac{M \times M_{\text{solute}}}{d \times 10} = \frac{3 \times 180}{1.12 \times 10} = \frac{540}{11.2} = 48.21\%$.
+*   **Answer:** $48.21\%$
+
+**11.1d:**
+*   **Calculation:** $M = \frac{68 \times 1.41 \times 10}{63} = \frac{958.8}{63} = 15.22\text{ M}$.
+*   **Answer:** $15.22\text{ M}$
+
+</details>
+
 ---
 
 ### Type 2: w/w% ↔ Molality ⭐
@@ -173,6 +194,27 @@ Rearranging:
 | 11.2b | 98% H₂SO₄ (M=98). Find m. ⭐ | 🟡 |
 | 11.2c | m = 2.5, M_solute = 40 (NaOH). Find w/w%. (Reverse) | 🟡 |
 | 11.2d | 25% NaCl (M=58.5). Find m. | 🟡 |
+
+<details>
+<summary>💡 Detailed Solutions for Type 2</summary>
+
+**11.2a:**
+*   **Calculation:** $m = \frac{w/w\% \times 1000}{M_{\text{solute}} \times (100 - w/w\%)} = \frac{5 \times 1000}{60 \times 95} = \frac{5000}{5700} = 0.877\text{ m}$.
+*   **Answer:** $0.88\text{ mol/kg}$
+
+**11.2b:**
+*   **Calculation:** $m = \frac{98 \times 1000}{98 \times 2} = \frac{1000}{2} = 500\text{ m}$! (Concentrated acid has very little solvent).
+*   **Answer:** $500\text{ mol/kg}$
+
+**11.2c:**
+*   **Calculation:** $w/w\% = \frac{m \times M_{\text{solute}} \times 100}{1000 + m \times M_{\text{solute}}} = \frac{2.5 \times 40 \times 100}{1000 + 2.5 \times 40} = \frac{10000}{1100} = 9.09\%$.
+*   **Answer:** $9.09\%$
+
+**11.2d:**
+*   **Calculation:** $m = \frac{25 \times 1000}{58.5 \times 75} = \frac{25000}{4387.5} = 5.698\text{ m}$.
+*   **Answer:** $5.70\text{ mol/kg}$
+
+</details>
 
 ---
 
@@ -232,6 +274,30 @@ Answer: M ≈ 1.88 M
 | 11.3c | 18 M H₂SO₄, d = 1.84 g/mL, M=98. Find m. ⭐⭐ | 🔴 |
 | 11.3d | If M = m for a solution, what is the density? (M_solute = 100) Derive the general condition. ⭐⭐ | 🔴 |
 
+<details>
+<summary>💡 Detailed Solutions for Type 3</summary>
+
+**11.3a:**
+*   **Calculation:** $m = \frac{M \times 1000}{d \times 1000 - M \times M_{\text{solute}}} = \frac{2 \times 1000}{1.09 \times 1000 - 2 \times 180} = \frac{2000}{1090 - 360} = \frac{2000}{730} = 2.74\text{ m}$.
+*   **Answer:** $2.74\text{ mol/kg}$
+
+**11.3b:**
+*   **Calculation:** $M = \frac{m \times d \times 1000}{1000 + m \times M_{\text{solute}}} = \frac{5 \times 1.18 \times 1000}{1000 + 5 \times 40} = \frac{5900}{1200} = 4.917\text{ M}$.
+*   **Answer:** $4.92\text{ M}$
+
+**11.3c:**
+*   **Calculation:** $m = \frac{18 \times 1000}{1.84 \times 1000 - 18 \times 98} = \frac{18000}{1840 - 1764} = \frac{18000}{76} = 236.8\text{ m}$.
+*   **Answer:** $236.8\text{ mol/kg}$
+
+**11.3d:**
+*   **Calculation:** Start with $m = \frac{M \times 1000}{d \times 1000 - M \times M_{\text{solute}}}$. Let $M = m = x$.
+    $x = \frac{x \times 1000}{d \times 1000 - x \times M_{\text{solute}}}$. Divide by $x$: $1 = \frac{1000}{d \times 1000 - x \times M_{\text{solute}}}$.
+    $d \times 1000 - M \times M_{\text{solute}} = 1000 \Rightarrow d = \frac{1000 + M \times M_{\text{solute}}}{1000} = 1 + \frac{M \times M_{\text{solute}}}{1000}$.
+    If $M_{\text{solute}} = 100$, then $d = 1 + \frac{100 M}{1000} = 1 + 0.1 M$.
+*   **Answer:** $d = 1 + \frac{M \times M_{\text{solute}}}{1000}$; for $M_{\text{solute}} = 100$, $d = 1 + 0.1 M$
+
+</details>
+
 ---
 
 ### Type 4: Mole Fraction ↔ Molality ⭐
@@ -264,6 +330,23 @@ Reverse check: χ = (m × M_solvent)/(1000 + m × M_solvent)
 | 11.4a | χ_urea = 0.05 in water. Find m. (M_water = 18) ⭐ | 🟡 |
 | 11.4b | m = 5 (solvent = water). Find χ_solute. | 🟡 |
 | 11.4c | χ_solute = 0.1, solvent = benzene (M=78). Find m. | 🟡 |
+
+<details>
+<summary>💡 Detailed Solutions for Type 4</summary>
+
+**11.4a:**
+*   **Calculation:** $m = \frac{1000 \times \chi_{\text{solute}}}{(1 - \chi_{\text{solute}}) \times M_{\text{solvent}}} = \frac{1000 \times 0.05}{0.95 \times 18} = \frac{50}{17.1} = 2.92\text{ m}$.
+*   **Answer:** $2.92\text{ mol/kg}$
+
+**11.4b:**
+*   **Calculation:** $\chi = \frac{m \times M_{\text{solvent}}}{1000 + m \times M_{\text{solvent}}} = \frac{5 \times 18}{1000 + 5 \times 18} = \frac{90}{1090} = 0.0826$.
+*   **Answer:** $0.0826$
+
+**11.4c:**
+*   **Calculation:** $m = \frac{1000 \times 0.1}{0.9 \times 78} = \frac{100}{70.2} = 1.42\text{ m}$.
+*   **Answer:** $1.42\text{ mol/kg}$
+
+</details>
 
 ---
 
@@ -298,6 +381,20 @@ Answer: M ≈ 5.69 M
 |---|----------|------------|
 | 11.5a | χ_glucose = 0.05, d = 1.05 g/mL. Find M. (M_glucose = 180, M_water = 18) | 🔴 |
 | 11.5b | 4 M NaCl (M=58.5), d = 1.13 g/mL. Find χ_NaCl. (Reverse) ⭐ | 🔴 |
+
+<details>
+<summary>💡 Detailed Solutions for Type 5</summary>
+
+**11.5a:**
+*   **Calculation:** $M = \frac{\chi \times d \times 1000}{\chi \times M_{\text{solute}} + (1 - \chi) \times M_{\text{solvent}}} = \frac{0.05 \times 1.05 \times 1000}{0.05 \times 180 + 0.95 \times 18} = \frac{52.5}{9 + 17.1} = \frac{52.5}{26.1} = 2.01\text{ M}$.
+*   **Answer:** $2.01\text{ M}$
+
+**11.5b:**
+*   **Calculation:** First, find m: $m = \frac{M \times 1000}{d \times 1000 - M \times M_{\text{solute}}} = \frac{4 \times 1000}{1130 - 4 \times 58.5} = \frac{4000}{1130 - 234} = \frac{4000}{896} = 4.464\text{ m}$.
+    Then, find $\chi$: $\chi = \frac{m \times 18}{1000 + m \times 18} = \frac{4.464 \times 18}{1000 + 4.464 \times 18} = \frac{80.35}{1080.35} = 0.0744$.
+*   **Answer:** $0.074$
+
+</details>
 
 ---
 
@@ -342,6 +439,33 @@ Answer: (a) 6.95 M  (b) 9.80 m  (c) χ = 0.15
 | 11.6a | 10% NaOH (M=40), d = 1.11 g/mL. Find M, m, χ. ⭐⭐ | 🔴 |
 | 11.6b | 30% glucose (M=180), d = 1.13 g/mL. Find M, m, χ. | 🔴 |
 | 11.6c | 40% urea (M=60), d = 1.09 g/mL. Find all four: M, m, χ, and N (n=1). | 🔴 |
+
+<details>
+<summary>💡 Detailed Solutions for Type 6</summary>
+
+**11.6a:**
+*   **Calculation:** 
+    $M = \frac{10 \times 1.11 \times 10}{40} = 2.775\text{ M}$.
+    $m = \frac{10 \times 1000}{40 \times 90} = \frac{10000}{3600} = 2.778\text{ mol/kg}$.
+    $\chi$: $n_{\text{NaOH}} = \frac{10}{40} = 0.25$, $n_{\text{water}} = \frac{90}{18} = 5$. $\chi = \frac{0.25}{5.25} = 0.0476$.
+*   **Answer:** $M = 2.775\text{ M}$, $m = 2.778\text{ m}$, $\chi = 0.0476$
+
+**11.6b:**
+*   **Calculation:**
+    $M = \frac{30 \times 1.13 \times 10}{180} = \frac{339}{180} = 1.883\text{ M}$.
+    $m = \frac{30 \times 1000}{180 \times 70} = \frac{30000}{12600} = 2.38\text{ mol/kg}$.
+    $\chi$: $n_{\text{glucose}} = \frac{30}{180} = 0.1667$, $n_{\text{water}} = \frac{70}{18} = 3.889$. $\chi = \frac{0.1667}{0.1667 + 3.889} = \frac{0.1667}{4.055} = 0.0411$.
+*   **Answer:** $M = 1.88\text{ M}$, $m = 2.38\text{ m}$, $\chi = 0.041$
+
+**11.6c:**
+*   **Calculation:**
+    $M = \frac{40 \times 1.09 \times 10}{60} = \frac{436}{60} = 7.267\text{ M}$.
+    $m = \frac{40 \times 1000}{60 \times 60} = \frac{40000}{3600} = 11.11\text{ mol/kg}$.
+    $\chi$: $n_{\text{urea}} = \frac{40}{60} = 0.667$, $n_{\text{water}} = \frac{60}{18} = 3.333$. $\chi = \frac{0.667}{0.667 + 3.333} = \frac{0.667}{4} = 0.167$.
+    $N = M \times n_{\text{factor}} = 7.267 \times 1 = 7.267\text{ N}$.
+*   **Answer:** $M = 7.27\text{ M}$, $m = 11.11\text{ m}$, $\chi = 0.167$, $N = 7.27\text{ N}$
+
+</details>
 
 ---
 
@@ -393,6 +517,24 @@ Answer: d = 1.04 g/mL
 | 11.7b | M = 10, m = 12, M_solute = 98 (H₂SO₄). Find d. | 🔴 |
 | 11.7c | If M = m, show that d = 1 + M × M_solute/1000. For water as solvent and M_solute = 100, d = ? | 🔴 |
 
+<details>
+<summary>💡 Detailed Solutions for Type 7</summary>
+
+**11.7a:**
+*   **Calculation:** $d = \frac{M}{m} + \frac{M \times M_{\text{solute}}}{1000} = \frac{2}{2.5} + \frac{2 \times 40}{1000} = 0.8 + 0.08 = 0.88\text{ g/mL}$.
+*   **Answer:** $0.88\text{ g/mL}$
+
+**11.7b:**
+*   **Calculation:** $d = \frac{M}{m} + \frac{M \times M_{\text{solute}}}{1000} = \frac{10}{12} + \frac{10 \times 98}{1000} = 0.833 + 0.98 = 1.813\text{ g/mL}$.
+*   **Answer:** $1.813\text{ g/mL}$
+
+**11.7c:**
+*   **Calculation:** Since $M = m$, $d = \frac{M}{M} + \frac{M \times M_{\text{solute}}}{1000} = 1 + \frac{M \times M_{\text{solute}}}{1000}$.
+    For $M_{\text{solute}} = 100$, $d = 1 + \frac{100 M}{1000} = 1 + 0.1 M$.
+*   **Answer:** $d = 1 + \frac{M \times M_{\text{solute}}}{1000}$; $d = 1 + 0.1 M$
+
+</details>
+
 ---
 
 ### Type 8: Real Commercial Solution Analysis ⭐⭐⭐
@@ -441,6 +583,33 @@ Answer: (a) 18.4 M  (b) 500 m  (c) 0.9  (d) 36.8 N
 | 11.8b | Conc. HNO₃: 68%, d = 1.41, M = 63. Find M, m, χ. ⭐ | 🔴 |
 | 11.8c | Glacial acetic acid: 99.7%, d = 1.049, M = 60. Find M, m, χ. ⭐ | 🔴 |
 
+<details>
+<summary>💡 Detailed Solutions for Type 8</summary>
+
+**11.8a:**
+*   **Calculation:**
+    $M = \frac{37 \times 1.19 \times 10}{36.5} = \frac{440.3}{36.5} = 12.06\text{ M}$.
+    $m = \frac{37 \times 1000}{36.5 \times 63} = \frac{37000}{2299.5} = 16.09\text{ m}$.
+    $\chi$: $n_{\text{HCl}} = \frac{37}{36.5} = 1.0137$, $n_{\text{water}} = \frac{63}{18} = 3.5$. $\chi_{\text{HCl}} = \frac{1.0137}{1.0137 + 3.5} = 0.224$.
+    $N = M \times 1 = 12.06\text{ N}$.
+*   **Answer:** $M = 12.06\text{ M}$, $m = 16.09\text{ m}$, $\chi = 0.224$, $N = 12.06\text{ N}$
+
+**11.8b:**
+*   **Calculation:**
+    $M = \frac{68 \times 1.41 \times 10}{63} = \frac{958.8}{63} = 15.22\text{ M}$.
+    $m = \frac{68 \times 1000}{63 \times 32} = \frac{68000}{2016} = 33.73\text{ m}$.
+    $\chi$: $n_{\text{HNO}_3} = \frac{68}{63} = 1.079$, $n_{\text{water}} = \frac{32}{18} = 1.778$. $\chi_{\text{HNO}_3} = \frac{1.079}{1.079 + 1.778} = 0.378$.
+*   **Answer:** $M = 15.22\text{ M}$, $m = 33.73\text{ m}$, $\chi = 0.378$
+
+**11.8c:**
+*   **Calculation:**
+    $M = \frac{99.7 \times 1.049 \times 10}{60} = \frac{1045.85}{60} = 17.43\text{ M}$.
+    $m = \frac{99.7 \times 1000}{60 \times 0.3} = \frac{99700}{18} = 5538.9\text{ m}$. (almost pure acid)
+    $\chi$: $n_{\text{acid}} = \frac{99.7}{60} = 1.6617$, $n_{\text{water}} = \frac{0.3}{18} = 0.0167$. $\chi_{\text{acid}} = \frac{1.6617}{1.6617 + 0.0167} = 0.99$.
+*   **Answer:** $M = 17.43\text{ M}$, $m = 5539\text{ m}$, $\chi = 0.99$
+
+</details>
+
 ---
 
 ## 🔀 Stage 4: Type Mixer
@@ -450,6 +619,33 @@ Answer: (a) 18.4 M  (b) 500 m  (c) 0.9  (d) 36.8 N
 | 11.M1 | A solution has m = 3, d = 1.08 g/mL, M_solute = 60. Find (a) M (b) w/w% (c) χ (d) N (if n=1). | T3 + T2 + T4 | 🔴 |
 | 11.M2 | Given: χ_solute = 0.2, M_solute = 100, M_solvent = 18, d = 1.2 g/mL. Complete the chain: χ → m → M → w/w% → N (n=2). | T4 + T3 + T1 + Ch7 | 🔴 |
 | 11.M3 | 5 M NaOH (M=40), d = 1.19. Find m. Then verify by converting m back to M. Round-trip check! | T3 (both ways) | 🟡 |
+
+<details>
+<summary>💡 Detailed Solutions for Type Mixer</summary>
+
+**11.M1:**
+*   **Calculation:** 
+    (a) $M = \frac{m \times d \times 1000}{1000 + m \times M_{\text{solute}}} = \frac{3 \times 1.08 \times 1000}{1000 + 3 \times 60} = \frac{3240}{1180} = 2.746\text{ M}$.
+    (b) $w/w\% = \frac{m \times M_{\text{solute}} \times 100}{1000 + m \times M_{\text{solute}}} = \frac{3 \times 60 \times 100}{1180} = \frac{18000}{1180} = 15.25\%$.
+    (c) $\chi = \frac{m \times M_{\text{solvent}}}{1000 + m \times M_{\text{solvent}}} = \frac{3 \times 18}{1000 + 3 \times 18} = \frac{54}{1054} = 0.0512$.
+    (d) $N = M \times 1 = 2.75\text{ N}$.
+*   **Answer:** (a) $2.75\text{ M}$, (b) $15.25\%$, (c) $0.051$, (d) $2.75\text{ N}$
+
+**11.M2:**
+*   **Calculation:**
+    $\chi \rightarrow m$: $m = \frac{1000 \times 0.2}{0.8 \times 18} = \frac{200}{14.4} = 13.89\text{ m}$.
+    $m \rightarrow M$: $M = \frac{13.89 \times 1.2 \times 1000}{1000 + 13.89 \times 100} = \frac{16668}{2389} = 6.977\text{ M}$.
+    $M \rightarrow w/w\%$: $w/w\% = \frac{M \times M_{\text{solute}}}{d \times 10} = \frac{6.977 \times 100}{1.2 \times 10} = \frac{697.7}{12} = 58.14\%$.
+    $M \rightarrow N$: $N = M \times 2 = 6.977 \times 2 = 13.95\text{ N}$.
+*   **Answer:** $m = 13.89\text{ m}$, $M = 6.98\text{ M}$, $w/w\% = 58.1\%$, $N = 13.95\text{ N}$
+
+**11.M3:**
+*   **Calculation:**
+    $m = \frac{5 \times 1000}{1.19 \times 1000 - 5 \times 40} = \frac{5000}{1190 - 200} = \frac{5000}{990} = 5.05\text{ m}$.
+    Verify: $M = \frac{5.05 \times 1.19 \times 1000}{1000 + 5.05 \times 40} = \frac{6009.5}{1000 + 202} = \frac{6009.5}{1202} = 5.00\text{ M}$ ✅.
+*   **Answer:** $m = 5.05\text{ m}$, Round-trip verified.
+
+</details>
 
 ---
 
@@ -462,6 +658,35 @@ Answer: (a) 18.4 M  (b) 500 m  (c) 0.9  (d) 36.8 N
 | 11.B3 | Concentrated HCl is 37% (w/w), d = 1.19 g/mL. Find molarity. If 10 mL is diluted to 500 mL, find new M. ⭐ | 🟡 |
 | 11.B4 | A 4 M NaCl solution (M=58.5) has d = 1.13 g/mL. Find (a) w/w% (b) molality. | 🟡 |
 
+<details>
+<summary>💡 Detailed Solutions for Board Arsenal</summary>
+
+**11.B1:**
+*   **Calculation:**
+    (a) $M = \frac{10 \times 1.11 \times 10}{40} = 2.775\text{ M}$.
+    (b) $m = \frac{10 \times 1000}{40 \times 90} = \frac{10000}{3600} = 2.778\text{ m}$.
+*   **Answer:** (a) $2.78\text{ M}$, (b) $2.78\text{ m}$
+
+**11.B2:**
+*   **Calculation:**
+    $w/w\% \rightarrow m$: $m = \frac{20 \times 1000}{180 \times 80} = \frac{20000}{14400} = 1.389\text{ m}$.
+    $m \rightarrow \chi$: $\chi = \frac{1.389 \times 18}{1000 + 1.389 \times 18} = \frac{25}{1025} = 0.0244$.
+*   **Answer:** $m = 1.39\text{ m}$, $\chi = 0.0244$
+
+**11.B3:**
+*   **Calculation:**
+    Initial $M: M = \frac{37 \times 1.19 \times 10}{36.5} = 12.06\text{ M}$.
+    Dilution: $12.06 \times 10 = M_2 \times 500 \Rightarrow M_2 = \frac{120.6}{500} = 0.241\text{ M}$.
+*   **Answer:** Initial $M = 12.06\text{ M}$, New $M = 0.241\text{ M}$
+
+**11.B4:**
+*   **Calculation:**
+    (a) $w/w\% = \frac{4 \times 58.5}{1.13 \times 10} = \frac{234}{11.3} = 20.71\%$.
+    (b) $m = \frac{4 \times 1000}{1130 - 4 \times 58.5} = \frac{4000}{1130 - 234} = \frac{4000}{896} = 4.464\text{ m}$.
+*   **Answer:** (a) $20.7\%$, (b) $4.46\text{ mol/kg}$
+
+</details>
+
 ---
 
 ## 🚀 Stage 6: JEE Mains Arena
@@ -473,6 +698,46 @@ Answer: (a) 18.4 M  (b) 500 m  (c) 0.9  (d) 36.8 N
 | 11.J3 | Two solutions: Sol A (M_A = 4, d_A = 1.2, M_solute = 60) and Sol B (m_B = 5, M_solute = 60, M_solvent = 18). (a) Find m_A and M_B (if d_B = 1.15). (b) Are they the same solution? | 🔴 |
 | 11.J4 | An aqueous solution has the property that its molarity equals its molality (M = m). Derive a general formula for the density of such a solution in terms of M_solute. For M_solute = 180 (glucose), find d. ⭐⭐ | 🔴 |
 | 11.J5 | Given only that a 2.5 m aqueous glucose (M=180) solution has d = 1.07 g/mL, find ALL of: M, w/w%, χ, N (n=1), and ppm (for comparison). ⭐⭐ | 🔴 |
+
+<details>
+<summary>💡 Detailed Solutions for JEE Mains Arena</summary>
+
+**11.J1:**
+*   **Calculation:**
+    Found in Ex 11.8: $M = 18.4\text{ M}$, $m = 500\text{ m}$, $\chi = 0.9$, $N = 36.8\text{ N}$.
+    Volume needed: $M_1 V_1 = M_2 V_2 \Rightarrow 18.4 \times V_1 = 0.1 \times 500 \Rightarrow V_1 = \frac{50}{18.4} = 2.717\text{ mL}$.
+*   **Answer:** $M = 18.4, m = 500, \chi = 0.9, N = 36.8$; $V = 2.72\text{ mL}$
+
+**11.J2:**
+*   **Calculation:**
+    (a) $d = \frac{M}{m} + \frac{M \times M_{\text{solute}}}{1000} = \frac{5}{6} + \frac{5 \times 80}{1000} = 0.833 + 0.4 = 1.233\text{ g/mL}$.
+    (b) $w/w\% = \frac{M \times M_{\text{solute}}}{d \times 10} = \frac{5 \times 80}{12.33} = \frac{400}{12.33} = 32.44\%$.
+    (c) $\chi = \frac{m \times 18}{1000 + m \times 18} = \frac{6 \times 18}{1000 + 108} = \frac{108}{1108} = 0.097$.
+*   **Answer:** (a) $1.233\text{ g/mL}$, (b) $32.4\%$, (c) $0.097$
+
+**11.J3:**
+*   **Calculation:**
+    Sol A: $m_A = \frac{4 \times 1000}{1200 - 4 \times 60} = \frac{4000}{960} = 4.167\text{ m}$.
+    Sol B: $M_B = \frac{5 \times 1.15 \times 1000}{1000 + 5 \times 60} = \frac{5750}{1300} = 4.42\text{ M}$.
+    (b) Sol A has $m = 4.167$; Sol B has $m = 5$. They are NOT the same solution (different concentrations).
+*   **Answer:** (a) $m_A = 4.17\text{ m}$, $M_B = 4.42\text{ M}$, (b) No, they are different solutions.
+
+**11.J4:**
+*   **Calculation:** Let $m=M=x$.
+    $x = \frac{x \times 1000}{d \times 1000 - x \times M_{\text{solute}}} \Rightarrow 1000 = d \times 1000 - M \times M_{\text{solute}} \Rightarrow d = 1 + \frac{M \times M_{\text{solute}}}{1000}$.
+    For $M_{\text{solute}} = 180$, $d = 1 + \frac{M \times 180}{1000} = 1 + 0.18 M$.
+*   **Answer:** $d = 1 + \frac{M \times M_{\text{solute}}}{1000}$; for glucose, $d = 1 + 0.18 M$
+
+**11.J5:**
+*   **Calculation:**
+    $M = \frac{2.5 \times 1.07 \times 1000}{1000 + 2.5 \times 180} = \frac{2675}{1450} = 1.845\text{ M}$.
+    $w/w\% = \frac{2.5 \times 180 \times 100}{1450} = \frac{45000}{1450} = 31.03\%$.
+    $\chi = \frac{2.5 \times 18}{1000 + 2.5 \times 18} = \frac{45}{1045} = 0.043$.
+    $N = M \times 1 = 1.845\text{ N}$.
+    $ppm = 31.03 \times 10^4 = 310,345\text{ ppm}$.
+*   **Answer:** $M = 1.85\text{ M}$, $w/w\% = 31.0\%$, $\chi = 0.043$, $N = 1.85\text{ N}$, $ppm = 310,345$
+
+</details>
 
 ---
 

@@ -120,6 +120,27 @@ Answer: 0.4 M
 | 8.1c | 10 mL of 12 M HCl diluted to 500 mL. Find M₂. | 🟢 |
 | 8.1d | 25 mL of 0.1 M KMnO₄ diluted to 250 mL. Find M₂. | 🟢 |
 
+<details>
+<summary>💡 Detailed Solutions for Type 1</summary>
+
+**8.1a:**
+*   **Calculation:** $M_1 V_1 = M_2 V_2 \Rightarrow 4 \times 50 = M_2 \times 200 \Rightarrow M_2 = \frac{200}{200} = 1.0\text{ M}$.
+*   **Answer:** $1.0\text{ M}$
+
+**8.1b:**
+*   **Calculation:** $M_1 V_1 = M_2 V_2 \Rightarrow 0.5 \times 250 = M_2 \times 1000 \Rightarrow M_2 = \frac{125}{1000} = 0.125\text{ M}$.
+*   **Answer:** $0.125\text{ M}$
+
+**8.1c:**
+*   **Calculation:** $M_1 V_1 = M_2 V_2 \Rightarrow 12 \times 10 = M_2 \times 500 \Rightarrow M_2 = \frac{120}{500} = 0.24\text{ M}$.
+*   **Answer:** $0.24\text{ M}$
+
+**8.1d:**
+*   **Calculation:** $M_1 V_1 = M_2 V_2 \Rightarrow 0.1 \times 25 = M_2 \times 250 \Rightarrow M_2 = \frac{2.5}{250} = 0.01\text{ M}$.
+*   **Answer:** $0.01\text{ M}$
+
+</details>
+
 ---
 
 ### Type 2: Reverse — "What volume of stock to take?"
@@ -152,6 +173,27 @@ Answer: 41.67 mL
 | 8.2c | Volume of 12 M HCl to make 2 L of 0.1 M HCl? ⭐ | 🟡 |
 | 8.2d | You need 100 mL of 0.01 M KMnO₄. You have 0.1 M KMnO₄. How much? | 🟡 |
 
+<details>
+<summary>💡 Detailed Solutions for Type 2</summary>
+
+**8.2a:**
+*   **Calculation:** $18 \times V_1 = 0.5 \times 1000 \Rightarrow V_1 = \frac{500}{18} = 27.78\text{ mL}$.
+*   **Answer:** $27.78\text{ mL}$
+
+**8.2b:**
+*   **Calculation:** $15 \times V_1 = 3 \times 250 \Rightarrow 15 V_1 = 750 \Rightarrow V_1 = 50\text{ mL}$.
+*   **Answer:** $50\text{ mL}$
+
+**8.2c:**
+*   **Calculation:** $12 \times V_1 = 0.1 \times 2000 \Rightarrow 12 V_1 = 200 \Rightarrow V_1 = 16.67\text{ mL}$.
+*   **Answer:** $16.67\text{ mL}$
+
+**8.2d:**
+*   **Calculation:** $0.1 \times V_1 = 0.01 \times 100 \Rightarrow 0.1 V_1 = 1 \Rightarrow V_1 = 10\text{ mL}$.
+*   **Answer:** $10\text{ mL}$
+
+</details>
+
 ---
 
 ### Type 3: Adding Water — Volume of Water Added
@@ -183,6 +225,26 @@ Answer: 400 mL of water was added.
 | 8.3a | 100 mL of 5 M HCl diluted to 2 M. How much water added? | 🟢 |
 | 8.3b | 500 mL of 0.2 M NaOH diluted to 0.05 M. Volume of water added? | 🟡 |
 | 8.3c | 50 mL of 10 M H₂SO₄ needs to become 1 M. Water needed? | 🟡 |
+
+<details>
+<summary>💡 Detailed Solutions for Type 3</summary>
+
+**8.3a:**
+*   **Calculation:** $5 \times 100 = 2 \times V_2 \Rightarrow V_2 = 250\text{ mL}$.
+    Volume of water added = $250 - 100 = 150\text{ mL}$.
+*   **Answer:** $150\text{ mL}$
+
+**8.3b:**
+*   **Calculation:** $0.2 \times 500 = 0.05 \times V_2 \Rightarrow 100 = 0.05 V_2 \Rightarrow V_2 = 2000\text{ mL}$.
+    Volume of water added = $2000 - 500 = 1500\text{ mL}$.
+*   **Answer:** $1500\text{ mL}$
+
+**8.3c:**
+*   **Calculation:** $10 \times 50 = 1 \times V_2 \Rightarrow V_2 = 500\text{ mL}$.
+    Volume of water needed = $500 - 50 = 450\text{ mL}$.
+*   **Answer:** $450\text{ mL}$
+
+</details>
 
 ---
 
@@ -223,6 +285,33 @@ Two 10× dilutions = 100× total dilution: 10 M → 0.1 M ✅
 | 8.4b | Three successive 2× dilutions on a 8 M solution. Final molarity? | 🟡 |
 | 8.4c | You need a 10⁻⁵ M solution from 0.1 M stock. Design a serial dilution protocol (suggest number of steps and volumes). | 🔴 |
 
+<details>
+<summary>💡 Detailed Solutions for Type 4</summary>
+
+**8.4a:**
+*   **Calculation:** Step A: $6 \times 5 = M_A \times 50 \Rightarrow M_A = 0.6\text{ M}$.
+    Step B: $0.6 \times 5 = M_B \times 50 \Rightarrow M_B = 0.06\text{ M}$.
+    (Total factor: $10 \times 10 = 100$. $M_B = 6 / 100 = 0.06\text{ M}$).
+*   **Answer:** $0.06\text{ M}$
+
+**8.4b:**
+*   **Calculation:** Three $2\times$ dilutions $\Rightarrow 2 \times 2 \times 2 = 8\times$ total dilution factor.
+    Final $M = \frac{\text{Initial } M}{\text{factor}} = \frac{8}{8} = 1\text{ M}$.
+*   **Answer:** $1\text{ M}$
+
+**8.4c:**
+*   **Calculation:** Required dilution factor = $\frac{0.1}{10^{-5}} = 10,000$.
+    Instead of adding $1\text{ mL}$ to $9,999 \text{ mL}$ (hard and inaccurate), you map out a serial process.
+    Protocol: Perform four separate $10\times$ dilutions.
+    1. Take $10\text{ mL}$ stock, dilute to $100\text{ mL}$ ($10^{-2}\text{ M}$).
+    2. Take $10\text{ mL}$ of new, dilute to $100\text{ mL}$ ($10^{-3}\text{ M}$).
+    3. Take $10\text{ mL}$ of new, dilute to $100\text{ mL}$ ($10^{-4}\text{ M}$).
+    4. Take $10\text{ mL}$ of new, dilute to $100\text{ mL}$ ($10^{-5}\text{ M}$).
+    Alternatively: Two $100\times$ dilutions ($1\text{ mL}$ to $100\text{ mL}$ twice).
+*   **Answer:** E.g., Four successive steps of diluting $10\text{ mL}$ to $100\text{ mL}$.
+
+</details>
+
 ---
 
 ### Type 5: Dilution of Commercial Acids ⭐
@@ -258,9 +347,27 @@ Answer: Take 54.35 mL of conc. H₂SO₄ and dilute to 1 L.
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 8.5a | Prepare 500 mL of 0.1 M HCl from conc. HCl (37%, d = 1.19, M = 36.5). ⭐ | 🟡 |
-| 8.5b | Prepare 2 L of 0.5 M HNO₃ from conc. HNO₃ (68%, d = 1.41, M = 63). | 🟡 |
 | 8.5c | A lab needs 250 mL of 2 M H₂SO₄. How much conc. H₂SO₄ (98%, d=1.84)? | 🟡 |
+
+<details>
+<summary>💡 Detailed Solutions for Type 5</summary>
+
+**8.5a:**
+*   **Calculation:** Molarity of stock $M_1 = \frac{37 \times 1.19 \times 10}{36.5} = 12.06\text{ M}$.
+    $M_1 V_1 = M_2 V_2 \Rightarrow 12.06 \times V_1 = 0.1 \times 500 \Rightarrow V_1 = \frac{50}{12.06} = 4.15\text{ mL}$.
+*   **Answer:** $4.15\text{ mL}$
+
+**8.5b:**
+*   **Calculation:** Molarity of stock $M_1 = \frac{68 \times 1.41 \times 10}{63} = 15.22\text{ M}$.
+    $M_1 V_1 = M_2 V_2 \Rightarrow 15.22 \times V_1 = 0.5 \times 2000 \Rightarrow V_1 = \frac{1000}{15.22} = 65.7\text{ mL}$.
+*   **Answer:** $65.7\text{ mL}$
+
+**8.5c:**
+*   **Calculation:** Molarity of stock $M_1 = \frac{98 \times 1.84 \times 10}{98} = 18.4\text{ M}$.
+    $M_1 V_1 = M_2 V_2 \Rightarrow 18.4 \times V_1 = 2 \times 250 \Rightarrow V_1 = \frac{500}{18.4} = 27.17\text{ mL}$.
+*   **Answer:** $27.17\text{ mL}$
+
+</details>
 
 ---
 
@@ -290,10 +397,31 @@ Answer: 0.5 M
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 8.6a | 1 L of 0.1 M NaCl is boiled until volume = 250 mL. Find M₂. | 🟡 |
-| 8.6b | 200 mL of 2 M sugar solution evaporates to 50 mL. Find M₂. | 🟡 |
-| 8.6c | A 500 mL solution is 0.4 M. After evaporation, it's 1.0 M. How much water was lost? | 🟡 |
 | 8.6d | Why can't you use this method to concentrate an ethanol-water solution? | 🟡 |
+
+<details>
+<summary>💡 Detailed Solutions for Type 6</summary>
+
+**8.6a:**
+*   **Calculation:** $V_1 = 1000\text{ mL}, M_1 = 0.1\text{ M}, V_2 = 250\text{ mL}$.
+    $0.1 \times 1000 = M_2 \times 250 \Rightarrow M_2 = \frac{100}{250} = 0.4\text{ M}$.
+*   **Answer:** $0.4\text{ M}$
+
+**8.6b:**
+*   **Calculation:** $V_1 = 200\text{ mL}, M_1 = 2\text{ M}, V_2 = 50\text{ mL}$.
+    $2 \times 200 = M_2 \times 50 \Rightarrow M_2 = \frac{400}{50} = 8\text{ M}$.
+*   **Answer:** $8\text{ M}$
+
+**8.6c:**
+*   **Calculation:** $0.4 \times 500 = 1.0 \times V_2 \Rightarrow V_2 = 200\text{ mL}$.
+    Water lost = $V_1 - V_2 = 500 - 200 = 300\text{ mL}$.
+*   **Answer:** $300\text{ mL}$
+
+**8.6d:**
+*   **Calculation:** Moles of solute must remain constant for $M_1 V_1 = M_2 V_2$ to work. Ethanol is volatile (it evaporates). So, when you heat it, both water and ethanol evaporate, meaning moles of solute are not conserved.
+*   **Answer:** Because ethanol is volatile; solute moles are lost during evaporation.
+
+</details>
 
 ---
 
@@ -338,8 +466,27 @@ Example:
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 8.7a | A 3 m solution has 200 g of water. 300 g of water is added. Find new molality. | 🟡 |
 | 8.7b | A 1 m aqueous glucose solution (M=180). 18 g of glucose is in 1 kg of water. If 500 g of water is added, find (a) new molality (b) new mole fraction. | 🟡 |
+
+<details>
+<summary>💡 Detailed Solutions for Type 7</summary>
+
+**8.7a:**
+*   **Calculation:** $m_1 \times W_1 (\text{in kg}) = \text{moles} = \text{constant}$.
+    Moles = $3 \times 0.2\text{ kg} = 0.6 \text{ mol}$.
+    New solvent mass $W_2 = 0.2 + 0.3 = 0.5\text{ kg}$.
+    $m_2 = \frac{0.6}{0.5} = 1.2\text{ m}$.
+*   **Answer:** $1.2\text{ m}$
+
+**8.7b:**
+*   **Calculation:** Original moles = $18/180 = 0.1\text{ mol}$.
+    (a) New $W = 1\text{ kg} + 0.5\text{ kg} = 1.5\text{ kg}$.
+    $m_2 = \frac{0.1}{1.5} = 0.0667\text{ m}$.
+    (b) New mass of water = $1500\text{ g}$. Moles of water = $1500 / 18 = 83.33\text{ mol}$.
+    $X_{\text{glucose}} = \frac{0.1}{0.1 + 83.33} = \frac{0.1}{83.43} \approx 0.0012$.
+*   **Answer:** (a) $0.0667\text{ m}$, (b) $0.0012$
+
+</details>
 
 ---
 
@@ -370,9 +517,30 @@ Alternatively: Dilution factor = V₂/V₁ = 400/100 = 4×
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 8.8a | 50 mL of 6 M HCl diluted to 300 mL. % decrease in molarity? | 🟡 |
-| 8.8b | A solution's concentration drops by 90%. What was the dilution factor? | 🟡 |
 | 8.8c | After a 5× dilution, the concentration is 0.3 M. What was the original M? | 🟢 |
+
+<details>
+<summary>💡 Detailed Solutions for Type 8</summary>
+
+**8.8a:**
+*   **Calculation:** $M_2 = \frac{M_1 V_1}{V_2} = \frac{6 \times 50}{300} = 1\text{ M}$.
+    Decrease = $6 - 1 = 5\text{ M}$.
+    $\text{Percentage decrease} = \left(\frac{5}{6}\right) \times 100 = 83.33\%$.
+*   **Answer:** $83.33\%$
+
+**8.8b:**
+*   **Calculation:** Drops by $90\% \Rightarrow$ final is $10\%$ of original.
+    $M_2 = 0.1 M_1$.
+    Since $M_1 V_1 = M_2 V_2 \Rightarrow M_1 V_1 = 0.1 M_1 V_2 \Rightarrow V_2 = 10 V_1$.
+    Dilution factor = $\frac{V_2}{V_1} = 10$.
+*   **Answer:** $10\times$
+
+**8.8c:**
+*   **Calculation:** $M_2 = \frac{M_1}{\text{factor}}$.
+    $0.3 = \frac{M_1}{5} \Rightarrow M_1 = 0.3 \times 5 = 1.5\text{ M}$.
+*   **Answer:** $1.5\text{ M}$
+
+</details>
 
 ---
 
@@ -380,10 +548,40 @@ Alternatively: Dilution factor = V₂/V₁ = 400/100 = 4×
 
 | # | Question | Types Used | Difficulty |
 |---|----------|------------|------------|
-| 8.M1 | You have conc. H₂SO₄ (18.4 M). (a) Find volume needed for 500 mL of 2 M. (b) If you accidentally dilute to 600 mL instead of 500 mL, what's the actual M? (c) To fix it, how much water must you evaporate? | T2 + T1 + T6 | 🟡 |
-| 8.M2 | 10 mL of 12 M HCl is diluted to 100 mL (A), then 20 mL of A is diluted to 200 mL (B), then 50 mL of B is diluted to 500 mL (C). Find M of C. Verify using the total dilution factor. | T4 | 🟡 |
-| 8.M3 | A 2 m glucose solution (M=180) has 1 kg of water. (a) Find moles of glucose. (b) If you add 500 g of water, find new molality. (c) If the new solution has d = 1.03 g/mL, find the new molarity. | T7 + Ch5 + Ch6 | 🔴 |
 | 8.M4 | 100 mL of 0.5 N H₂SO₄ is diluted to 500 mL. (a) Find new N. (b) Convert to M. (c) What volume of this diluted solution neutralises 25 mL of 0.1 N NaOH? | T1 + Ch7-T2 + Ch7-T5 | 🟡 |
+
+<details>
+<summary>💡 Detailed Solutions for Type Mixer</summary>
+
+**8.M1:**
+*   **Calculation:**
+    (a) $18.4 \times V_1 = 2 \times 500 \Rightarrow V_1 = 54.35\text{ mL}$.
+    (b) If diluted to $600\text{ mL}$ total: $18.4 \times 54.35 = M \times 600 \Rightarrow 1000 = M \times 600 \Rightarrow M = 1.67\text{ M}$.
+    (c) Water to evaporate = $600\text{ mL} - 500\text{ mL} = 100\text{ mL}$.
+*   **Answer:** (a) $54.35\text{ mL}$, (b) $1.67\text{ M}$, (c) $100\text{ mL}$
+
+**8.M2:**
+*   **Calculation:** Total Dilution Factor = $(100/10) \times (200/20) \times (500/50)$ = $10 \times 10 \times 10 = 1000$.
+    Final $M = \frac{12}{1000} = 0.012\text{ M}$.
+*   **Answer:** $0.012\text{ M}$
+
+**8.M3:**
+*   **Calculation:**
+    (a) $m = \frac{n}{W(\text{kg})} \Rightarrow 2 = \frac{n}{1} \Rightarrow n = 2\text{ mol}$.
+    (b) Add $500\text{ g}$ water. Total water = $1.5\text{ kg}$. $m_{\text{new}} = \frac{2}{1.5} = 1.33\text{ m}$.
+    (c) Mass of solution = $(2 \times 180\text{ g glucose}) + 1500\text{ g water} = 1860\text{ g}$.
+    Volume = $\frac{\text{Mass}}{d} = \frac{1860}{1.03} = 1805.8\text{ mL} = 1.806\text{ L}$.
+    $M = \frac{\text{moles}}{V} = \frac{2}{1.806} = 1.107\text{ M}$.
+*   **Answer:** (a) $2\text{ mol}$, (b) $1.33\text{ m}$, (c) $1.11\text{ M}$
+
+**8.M4:**
+*   **Calculation:**
+    (a) $N_1 V_1 = N_2 V_2 \Rightarrow 0.5 \times 100 = N_2 \times 500 \Rightarrow N_2 = 0.1\text{ N}$.
+    (b) H₂SO₄ $n\text{-factor} = 2$. $M = \frac{N}{n_f} = \frac{0.1}{2} = 0.05\text{ M}$.
+    (c) Eq of acid = Eq of base. $N_a V_a = N_b V_b \Rightarrow 0.1 \times V_a = 0.1 \times 25 \Rightarrow V_a = 25\text{ mL}$.
+*   **Answer:** (a) $0.1\text{ N}$, (b) $0.05\text{ M}$, (c) $25\text{ mL}$
+
+</details>
 
 ---
 
@@ -391,9 +589,27 @@ Alternatively: Dilution factor = V₂/V₁ = 400/100 = 4×
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 8.B1 | How many mL of 0.1 M NaOH solution are needed to neutralise 50 mL of 0.05 M H₂SO₄? (First approach using dilution concept + stoichiometry.) ⭐ | 🟡 |
-| 8.B2 | 10 mL of concentrated H₂SO₄ (18 M) is diluted to 1 L. What is the molarity of the diluted solution? | 🟢 |
 | 8.B3 | What volume of 12.1 M HCl must be diluted to get 1 L of 1 M HCl for a lab experiment? ⭐ | 🟡 |
+
+<details>
+<summary>💡 Detailed Solutions for Board Arsenal</summary>
+
+**8.B1:**
+*   **Calculation:** 
+    $N(\text{H}_2\text{SO}_4) = 0.05 \times 2 = 0.1\text{ N}$.
+    $N(\text{NaOH}) = 0.1 \times 1 = 0.1\text{ N}$.
+    $N_a V_a = N_b V_b \Rightarrow 0.1 \times 50 = 0.1 \times V_b \Rightarrow V_b = 50\text{ mL}$ of NaOH.
+*   **Answer:** $50\text{ mL}$
+
+**8.B2:**
+*   **Calculation:** $M_1 V_1 = M_2 V_2 \Rightarrow 18 \times 10 = M_2 \times 1000 \Rightarrow M_2 = \frac{180}{1000} = 0.18\text{ M}$.
+*   **Answer:** $0.18\text{ M}$
+
+**8.B3:**
+*   **Calculation:** $M_1 V_1 = M_2 V_2 \Rightarrow 12.1 \times V_1 = 1 \times 1000 \Rightarrow V_1 = \frac{1000}{12.1} = 82.64\text{ mL}$.
+*   **Answer:** $82.64\text{ mL}$
+
+</details>
 
 ---
 
@@ -401,10 +617,49 @@ Alternatively: Dilution factor = V₂/V₁ = 400/100 = 4×
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 8.J1 | 100 mL of 0.5 M H₂SO₄ is diluted with water to make it 0.1 M. Find the volume of water added. Then find how many moles of NaOH are needed to neutralise this diluted solution completely. ⭐ | 🟡 |
-| 8.J2 | A concentrated solution of HCl (37%, d = 1.19 g/mL) needs three serial 10× dilutions to reach the desired lab concentration. (a) Find starting M. (b) Find final M. (c) Total volume if you start with 1 mL. | 🔴 |
-| 8.J3 | 50 mL of 2 M NaCl is heated. Water evaporates until the volume is 20 mL. (a) New M. (b) New mass %. (Assume d = 1.08 g/mL for the concentrated solution.) ⭐ | 🔴 |
 | 8.J4 | A student has a 5 m glucose solution in water. They add 200 mL of water (d = 1 g/mL). If the original solution had 500 g of water, find (a) new molality (b) why M₁V₁ = M₂V₂ gives a different (wrong) answer. | 🔴 |
+
+<details>
+<summary>💡 Detailed Solutions for JEE Mains Arena</summary>
+
+**8.J1:**
+*   **Calculation:** $M_1 V_1 = M_2 V_2 \Rightarrow 0.5 \times 100 = 0.1 \times V_2 \Rightarrow V_2 = 500\text{ mL}$.
+    Water added = $500 - 100 = 400\text{ mL}$.
+    Moles of H₂SO₄ in diluted solution = $0.1\text{ M} \times 0.5\text{ L} = 0.05\text{ mol}$.
+    Neutralisation: $\text{H}_2\text{SO}_4 + 2\text{NaOH} \rightarrow \text{Na}_2\text{SO}_4 + 2\text{H}_2\text{O}$
+    $1\text{ mol}$ H₂SO₄ requires $2\text{ mol}$ NaOH.
+    $0.05\text{ mol}$ H₂SO₄ requires $0.05 \times 2 = 0.1\text{ mol}$ NaOH.
+*   **Answer:** Water added = $400\text{ mL}$, NaOH needed = $0.1\text{ mol}$
+
+**8.J2:**
+*   **Calculation:**
+    (a) $M_1 = \frac{\% \times d \times 10}{M_w} = \frac{37 \times 1.19 \times 10}{36.5} = 12.06\text{ M}$.
+    (b) Three $10\times$ dilutions $\Rightarrow 10 \times 10 \times 10 = 1000\times$ dilution factor.
+        $M_{\text{final}} = \frac{12.06}{1000} = 0.01206\text{ M}$.
+    (c) $1\text{ mL} \xrightarrow{10\times} 10\text{ mL} \xrightarrow{10\times} 100\text{ mL} \xrightarrow{10\times} 1000\text{ mL} = 1\text{ L}$.
+*   **Answer:** (a) $12.06\text{ M}$, (b) $0.01206\text{ M}$, (c) $1\text{ L}$
+
+**8.J3:**
+*   **Calculation:**
+    (a) Moles NaCl = $2\text{ M} \times 0.05\text{ L} = 0.1\text{ mol}$. Final Volume $V_2 = 0.02\text{ L}$.
+        $M_2 = \frac{0.1}{0.02} = 5\text{ M}$.
+    (b) Original mass of solution = $50\text{ mL} \times 1.08\text{ g/mL} = 54\text{ g}$.
+        Volume lost = $50 - 20 = 30\text{ mL}$. Assuming only water evaporates with $d=1\text{ g/mL}$, mass lost = $30\text{ g}$.
+        Final mass of solution = $54 - 30 = 24\text{ g}$.
+        Mass of NaCl = $0.1\text{ mol} \times 58.5\text{ g/mol} = 5.85\text{ g}$.
+        Mass $\%$ = $\frac{5.85}{24} \times 100 = 24.375\%$.
+*   **Answer:** (a) $5\text{ M}$, (b) $24.38\%$
+
+**8.J4:**
+*   **Calculation:**
+    (a) Initial moles glucose = $5\text{ m} \times 0.5\text{ kg} = 2.5\text{ mol}$.
+        Added water = $200\text{ mL} = 200\text{ g} = 0.2\text{ kg}$.
+        Total water $W_{\text{final}} = 0.5 + 0.2 = 0.7\text{ kg}$.
+        $m_2 = \frac{2.5}{0.7} = 3.57\text{ m}$.
+    (b) $M_1 V_1 = M_2 V_2$ explicitly uses *solution volume*, assuming volume strictly reflects dilution factor, but molality relates to *solvent mass*. Adding water changes the solution volume non-linearly due to the solute's presence and density variations, whereas it adds linearly to the solvent mass.
+*   **Answer:** (a) $3.57\text{ m}$, (b) Molality depends on solvent mass, not solution volume.
+
+</details>
 
 ---
 

@@ -100,8 +100,31 @@ Answer: [Na⁺] = 0.1 M, [Cl⁻] = 0.1 M
 |---|----------|------------|
 | 10.1a | Find ion concentrations in 0.2 M KBr. | 🟢 |
 | 10.1b | Find ion concentrations in 0.05 M NaNO₃. | 🟢 |
-| 10.1c | 0.5 M AgNO₃ solution. [Ag⁺] = ? [NO₃⁻] = ? | 🟢 |
 | 10.1d | If [Na⁺] = 0.3 M in a NaCl solution, what is [NaCl]? | 🟢 |
+
+<details>
+<summary>💡 Detailed Solutions for Type 1</summary>
+
+**10.1a:**
+*   **Calculation:** KBr $\rightarrow$ K⁺ + Br⁻. Since $1\text{ KBr} \rightarrow 1\text{ K}^+ + 1\text{ Br}^-$, the concentration of each ion equals the salt concentration.
+    $[\text{K}^+] = 0.2\text{ M}$, $[\text{Br}^-] = 0.2\text{ M}$.
+*   **Answer:** $[\text{K}^+] = 0.2\text{ M}$, $[\text{Br}^-] = 0.2\text{ M}$
+
+**10.1b:**
+*   **Calculation:** NaNO₃ $\rightarrow$ Na⁺ + NO₃⁻. Both ions are $1:1$ with the salt.
+    $[\text{Na}^+] = 0.05\text{ M}$, $[\text{NO}_3^-] = 0.05\text{ M}$.
+*   **Answer:** $[\text{Na}^+] = 0.05\text{ M}$, $[\text{NO}_3^-] = 0.05\text{ M}$
+
+**10.1c:**
+*   **Calculation:** AgNO₃ $\rightarrow$ Ag⁺ + NO₃⁻.
+    $[\text{Ag}^+] = 0.5\text{ M}$, $[\text{NO}_3^-] = 0.5\text{ M}$.
+*   **Answer:** $[\text{Ag}^+] = 0.5\text{ M}$, $[\text{NO}_3^-] = 0.5\text{ M}$
+
+**10.1d:**
+*   **Calculation:** NaCl $\rightarrow$ Na⁺ + Cl⁻. Since $1\text{ mol}$ NaCl yields $1\text{ mol}$ Na⁺, $[\text{NaCl}] = [\text{Na}^+] = 0.3\text{ M}$.
+*   **Answer:** $0.3\text{ M}$
+
+</details>
 
 ---
 
@@ -147,8 +170,32 @@ Answer: [Na⁺] = 0.4 M, [SO₄²⁻] = 0.2 M
 |---|----------|------------|
 | 10.2a | 0.3 M MgCl₂. Find [Mg²⁺] and [Cl⁻]. | 🟢 |
 | 10.2b | 0.15 M K₂CrO₄. Find [K⁺] and [CrO₄²⁻]. | 🟢 |
-| 10.2c | 0.05 M BaCl₂. Find ion concentrations. ⭐ | 🟢 |
 | 10.2d | 0.1 M Na₃PO₄. Find [Na⁺] and [PO₄³⁻]. | 🟡 |
+
+<details>
+<summary>💡 Detailed Solutions for Type 2</summary>
+
+**10.2a:**
+*   **Calculation:** MgCl₂ $\rightarrow$ Mg²⁺ + 2Cl⁻.
+    $[\text{Mg}^{2+}] = 1 \times 0.3 = 0.3\text{ M}$. $[\text{Cl}^-] = 2 \times 0.3 = 0.6\text{ M}$.
+*   **Answer:** $[\text{Mg}^{2+}] = 0.3\text{ M}, [\text{Cl}^-] = 0.6\text{ M}$
+
+**10.2b:**
+*   **Calculation:** K₂CrO₄ $\rightarrow$ 2K⁺ + CrO₄²⁻.
+    $[\text{K}^+] = 2 \times 0.15 = 0.3\text{ M}$. $[\text{CrO}_4^{2-}] = 1 \times 0.15 = 0.15\text{ M}$.
+*   **Answer:** $[\text{K}^+] = 0.3\text{ M}, [\text{CrO}_4^{2-}] = 0.15\text{ M}$
+
+**10.2c:**
+*   **Calculation:** BaCl₂ $\rightarrow$ Ba²⁺ + 2Cl⁻.
+    $[\text{Ba}^{2+}] = 1 \times 0.05 = 0.05\text{ M}$. $[\text{Cl}^-] = 2 \times 0.05 = 0.1\text{ M}$.
+*   **Answer:** $[\text{Ba}^{2+}] = 0.05\text{ M}, [\text{Cl}^-] = 0.1\text{ M}$
+
+**10.2d:**
+*   **Calculation:** Na₃PO₄ $\rightarrow$ 3Na⁺ + PO₄³⁻.
+    $[\text{Na}^+] = 3 \times 0.1 = 0.3\text{ M}$. $[\text{PO}_4^{3-}] = 1 \times 0.1 = 0.1\text{ M}$.
+*   **Answer:** $[\text{Na}^+] = 0.3\text{ M}, [\text{PO}_4^{3-}] = 0.1\text{ M}$
+
+</details>
 
 ---
 
@@ -182,8 +229,32 @@ Answer: [Al³⁺] = 0.2 M, [SO₄²⁻] = 0.3 M
 |---|----------|------------|
 | 10.3a | 0.05 M Fe₂(SO₄)₃. Find [Fe³⁺] and [SO₄²⁻]. ⭐ | 🟡 |
 | 10.3b | 0.02 M Ca₃(PO₄)₂. Find [Ca²⁺] and [PO₄³⁻]. | 🟡 |
-| 10.3c | 0.1 M (NH₄)₂SO₄. Find [NH₄⁺] and [SO₄²⁻]. | 🟢 |
 | 10.3d | 0.01 M K₃[Fe(CN)₆]. Find [K⁺] and [Fe(CN)₆³⁻]. (Treat the complex ion as one unit.) | 🟡 |
+
+<details>
+<summary>💡 Detailed Solutions for Type 3</summary>
+
+**10.3a:**
+*   **Calculation:** Fe₂(SO₄)₃ $\rightarrow$ 2Fe³⁺ + 3SO₄²⁻.
+    $[\text{Fe}^{3+}] = 2 \times 0.05 = 0.1\text{ M}$. $[\text{SO}_4^{2-}] = 3 \times 0.05 = 0.15\text{ M}$.
+*   **Answer:** $[\text{Fe}^{3+}] = 0.1\text{ M}, [\text{SO}_4^{2-}] = 0.15\text{ M}$
+
+**10.3b:**
+*   **Calculation:** Ca₃(PO₄)₂ $\rightarrow$ 3Ca²⁺ + 2PO₄³⁻.
+    $[\text{Ca}^{2+}] = 3 \times 0.02 = 0.06\text{ M}$. $[\text{PO}_4^{3-}] = 2 \times 0.02 = 0.04\text{ M}$.
+*   **Answer:** $[\text{Ca}^{2+}] = 0.06\text{ M}, [\text{PO}_4^{3-}] = 0.04\text{ M}$
+
+**10.3c:**
+*   **Calculation:** (NH₄)₂SO₄ $\rightarrow$ 2NH₄⁺ + SO₄²⁻.
+    $[\text{NH}_4^+] = 2 \times 0.1 = 0.2\text{ M}$. $[\text{SO}_4^{2-}] = 1 \times 0.1 = 0.1\text{ M}$.
+*   **Answer:** $[\text{NH}_4^+] = 0.2\text{ M}, [\text{SO}_4^{2-}] = 0.1\text{ M}$
+
+**10.3d:**
+*   **Calculation:** K₃[Fe(CN)₆] $\rightarrow$ 3K⁺ + [Fe(CN)₆]³⁻.
+    $[\text{K}^+] = 3 \times 0.01 = 0.03\text{ M}$. $[[\text{Fe(CN)}_6]^{3-}] = 1 \times 0.01 = 0.01\text{ M}$.
+*   **Answer:** $[\text{K}^+] = 0.03\text{ M}, [\text{Fe(CN)}_6^{3-}] = 0.01\text{ M}$
+
+</details>
 
 ---
 
@@ -215,8 +286,30 @@ Answer: Al₂(SO₄)₃ has the highest total ion concentration.
 | # | Question | Difficulty |
 |---|----------|------------|
 | 10.4a | Rank in order of increasing total ion concentration: 0.1 M glucose, 0.1 M NaCl, 0.1 M MgSO₄, 0.1 M AlCl₃. (Note: glucose doesn't dissociate!) ⭐ | 🟡 |
-| 10.4b | Find total ion concentration in 0.2 M K₂SO₄. | 🟢 |
 | 10.4c | 0.05 M FeCl₃. Total particle concentration? (Including undissociated FeCl₃ if any — assuming strong electrolyte.) | 🟡 |
+
+<details>
+<summary>💡 Detailed Solutions for Type 4</summary>
+
+**10.4a:**
+*   **Calculation:** Total ions = $M \times i$ (van't Hoff factor).
+    Glucose ($i=1$): $0.1 \times 1 = 0.1\text{ M}$.
+    NaCl ($i=2$): $0.1 \times 2 = 0.2\text{ M}$.
+    MgSO₄ ($i=2$): $0.1 \times 2 = 0.2\text{ M}$.
+    AlCl₃ ($i=4$): $0.1 \times 4 = 0.4\text{ M}$.
+*   **Answer:** Glucose ($0.1\text{ M}$) $<$ NaCl ($0.2\text{ M}$) $=$ MgSO₄ ($0.2\text{ M}$) $<$ AlCl₃ ($0.4\text{ M}$)
+
+**10.4b:**
+*   **Calculation:** K₂SO₄ yields 3 ions (2K⁺ + SO₄²⁻).
+    Total ion concentration = $0.2 \times 3 = 0.6\text{ M}$.
+*   **Answer:** $0.6\text{ M}$
+
+**10.4c:**
+*   **Calculation:** FeCl₃ yields 4 ions (Fe³⁺ + 3Cl⁻). Assuming it is a strong electrolyte, it dissociates completely (no undissociated FeCl₃).
+    Total particle concentration = $0.05 \times 4 = 0.2\text{ M}$.
+*   **Answer:** $0.2\text{ M}$
+
+</details>
 
 ---
 
@@ -255,8 +348,39 @@ Answer: [Na⁺] = 0.05 M, [K⁺] = 0.1 M, [Cl⁻] = 0.15 M
 |---|----------|------------|
 | 10.5a | 100 mL of 0.2 M NaCl + 100 mL of 0.1 M CaCl₂. Find [Na⁺], [Ca²⁺], [Cl⁻]. ⭐ | 🟡 |
 | 10.5b | 200 mL of 0.3 M Na₂SO₄ + 300 mL of 0.1 M NaCl. Find [Na⁺], [SO₄²⁻], [Cl⁻]. ⭐ | 🔴 |
-| 10.5c | 50 mL of 0.4 M KNO₃ + 50 mL of 0.2 M Ca(NO₃)₂. Find all ion concentrations. | 🟡 |
 | 10.5d | Three solutions mixed: 100 mL of 0.1 M NaCl, 100 mL of 0.2 M MgCl₂, 100 mL of 0.3 M AlCl₃. Find [Cl⁻]. ⭐ | 🔴 |
+
+<details>
+<summary>💡 Detailed Solutions for Type 5</summary>
+
+**10.5a:**
+*   **Calculation:** After mixing giving $V_{\text{tot}} = 200\text{ mL}$:
+    $[\text{NaCl}] = \frac{0.2 \times 100}{200} = 0.1\text{ M}$. $[\text{CaCl}_2] = \frac{0.1 \times 100}{200} = 0.05\text{ M}$.
+    $[\text{Na}^+] = 0.1\text{ M}$. $[\text{Ca}^{2+}] = 0.05\text{ M}$.
+    $[\text{Cl}^-] = [\text{NaCl}] + 2 \times [\text{CaCl}_2] = 0.1 + 2(0.05) = 0.2\text{ M}$.
+*   **Answer:** $[\text{Na}^+] = 0.1\text{ M}, [\text{Ca}^{2+}] = 0.05\text{ M}, [\text{Cl}^-] = 0.2\text{ M}$
+
+**10.5b:**
+*   **Calculation:** $V_{\text{tot}} = 200 + 300 = 500\text{ mL}$.
+    $[\text{Na}_2\text{SO}_4] = \frac{0.3 \times 200}{500} = 0.12\text{ M}$. $[\text{NaCl}] = \frac{0.1 \times 300}{500} = 0.06\text{ M}$.
+    $[\text{SO}_4^{2-}] = 0.12\text{ M}$. $[\text{Cl}^-] = 0.06\text{ M}$.
+    $[\text{Na}^+] = 2 \times [\text{Na}_2\text{SO}_4] + [\text{NaCl}] = 2(0.12) + 0.06 = 0.30\text{ M}$.
+*   **Answer:** $[\text{Na}^+] = 0.3\text{ M}, [\text{SO}_4^{2-}] = 0.12\text{ M}, [\text{Cl}^-] = 0.06\text{ M}$
+
+**10.5c:**
+*   **Calculation:** Equal volumes, so concentrations halve:
+    $[\text{KNO}_3] = 0.2\text{ M}$. $[\text{Ca(NO}_3)_2] = 0.1\text{ M}$.
+    $[\text{K}^+] = 0.2\text{ M}$. $[\text{Ca}^{2+}] = 0.1\text{ M}$.
+    $[\text{NO}_3^-] = [\text{KNO}_3] + 2 \times [\text{Ca(NO}_3)_2] = 0.2 + 2(0.1) = 0.4\text{ M}$.
+*   **Answer:** $[\text{K}^+] = 0.2\text{ M}, [\text{Ca}^{2+}] = 0.1\text{ M}, [\text{NO}_3^-] = 0.4\text{ M}$
+
+**10.5d:**
+*   **Calculation:** $V_{\text{tot}} = 300\text{ mL}$.
+    $[\text{NaCl}] = 0.1/3\text{ M}$. $[\text{MgCl}_2] = 0.2/3\text{ M}$. $[\text{AlCl}_3] = 0.3/3\text{ M}$.
+    $[\text{Cl}^-] = 1 \times (0.1/3) + 2 \times (0.2/3) + 3 \times (0.3/3) = \frac{0.1 + 0.4 + 0.9}{3} = \frac{1.4}{3} = 0.467\text{ M}$.
+*   **Answer:** $[\text{Cl}^-] = 0.467\text{ M}$
+
+</details>
 
 ---
 
@@ -288,8 +412,24 @@ Answer: [Ca²⁺] = 0.1 M, [Cl⁻] = 0.2 M
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 10.6a | 50 mL of 0.4 M AlCl₃ diluted to 200 mL. Find [Al³⁺] and [Cl⁻]. | 🟡 |
 | 10.6b | 200 mL of 0.3 M Na₂SO₄ diluted to 1 L. Find all ion concentrations. | 🟡 |
+
+<details>
+<summary>💡 Detailed Solutions for Type 6</summary>
+
+**10.6a:**
+*   **Calculation:** 
+    $M_1 V_1 = M_2 V_2 \Rightarrow 0.4 \times 50 = M_2 \times 200 \Rightarrow M_2 = 0.1\text{ M AlCl}_3$.
+    $[\text{Al}^{3+}] = 0.1\text{ M}$. $[\text{Cl}^-] = 3 \times 0.1 = 0.3\text{ M}$.
+*   **Answer:** $[\text{Al}^{3+}] = 0.1\text{ M}, [\text{Cl}^-] = 0.3\text{ M}$
+
+**10.6b:**
+*   **Calculation:**
+    $M_1 V_1 = M_2 V_2 \Rightarrow 0.3 \times 200 = M_2 \times 1000 \Rightarrow M_2 = 0.06\text{ M Na}_2\text{SO}_4$.
+    $[\text{Na}^+] = 2 \times 0.06 = 0.12\text{ M}$. $[\text{SO}_4^{2-}] = 0.06\text{ M}$.
+*   **Answer:** $[\text{Na}^+] = 0.12\text{ M}, [\text{SO}_4^{2-}] = 0.06\text{ M}$
+
+</details>
 
 ---
 
@@ -331,9 +471,32 @@ Answer: [Na⁺] = 0.2 M, [Cl⁻] = 0.067 M, [SO₄²⁻] = 0.067 M
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 10.7a | 100 mL of 0.1 M BaCl₂ + 100 mL of 0.2 M NaCl. Find all ion concentrations. | 🟡 |
-| 10.7b | 200 mL of 0.5 M KNO₃ + 300 mL of 0.2 M KCl. Find [K⁺], [NO₃⁻], [Cl⁻]. ⭐ | 🟡 |
 | 10.7c | 100 mL of 0.3 M FeCl₃ + 200 mL of 0.15 M Fe₂(SO₄)₃. Find [Fe³⁺], [Cl⁻], [SO₄²⁻]. ⭐ | 🔴 |
+
+<details>
+<summary>💡 Detailed Solutions for Type 7</summary>
+
+**10.7a:**
+*   **Calculation:** Equal volumes, concentrations halve: $[\text{BaCl}_2] = 0.05\text{ M}$, $[\text{NaCl}] = 0.1\text{ M}$.
+    $[\text{Ba}^{2+}] = 0.05\text{ M}$. $[\text{Na}^+] = 0.1\text{ M}$.
+    $[\text{Cl}^-] = 2(0.05) + 0.1 = 0.2\text{ M}$.
+*   **Answer:** $[\text{Ba}^{2+}] = 0.05\text{ M}, [\text{Na}^+] = 0.1\text{ M}, [\text{Cl}^-] = 0.2\text{ M}$
+
+**10.7b:**
+*   **Calculation:** Total volume = $500\text{ mL}$.
+    $[\text{KNO}_3] = \frac{0.5 \times 200}{500} = 0.2\text{ M}$. $[\text{KCl}] = \frac{0.2 \times 300}{500} = 0.12\text{ M}$.
+    $[\text{K}^+] = 0.2 + 0.12 = 0.32\text{ M}$. $[\text{NO}_3^-] = 0.2\text{ M}$. $[\text{Cl}^-] = 0.12\text{ M}$.
+*   **Answer:** $[\text{K}^+] = 0.32\text{ M}, [\text{NO}_3^-] = 0.2\text{ M}, [\text{Cl}^-] = 0.12\text{ M}$
+
+**10.7c:**
+*   **Calculation:** Total volume = $300\text{ mL}$.
+    $[\text{FeCl}_3] = \frac{0.3 \times 100}{300} = 0.1\text{ M}$. $[\text{Fe}_2\text{(SO}_4\text{)}_3] = \frac{0.15 \times 200}{300} = 0.1\text{ M}$.
+    $[\text{Fe}^{3+}] = 1(0.1) + 2(0.1) = 0.3\text{ M}$.
+    $[\text{Cl}^-] = 3(0.1) = 0.3\text{ M}$.
+    $[\text{SO}_4^{2-}] = 3(0.1) = 0.3\text{ M}$.
+*   **Answer:** $[\text{Fe}^{3+}] = 0.3\text{ M}, [\text{Cl}^-] = 0.3\text{ M}, [\text{SO}_4^{2-}] = 0.3\text{ M}$
+
+</details>
 
 ---
 
@@ -376,9 +539,30 @@ Answer: Yes, BaSO₄ precipitates (Q is about 10⁵ times larger than Ksp).
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 10.8a | 50 mL of 0.002 M AgNO₃ + 50 mL of 0.001 M NaCl. Will AgCl precipitate? (Ksp = 1.8 × 10⁻¹⁰) ⭐ | 🟡 |
-| 10.8b | 100 mL of 10⁻⁴ M CaCl₂ + 100 mL of 10⁻⁴ M Na₂SO₄. Will CaSO₄ precipitate? (Ksp = 4.93 × 10⁻⁵) | 🟡 |
 | 10.8c | Equal volumes of 0.01 M Pb(NO₃)₂ and 0.01 M KI. Will PbI₂ precipitate? (Ksp = 9.8 × 10⁻⁹, Q = [Pb²⁺][I⁻]²) ⭐ | 🔴 |
+
+<details>
+<summary>💡 Detailed Solutions for Type 8</summary>
+
+**10.8a:**
+*   **Calculation:** Equal volumes, so concentrations halve: $[\text{Ag}^+] = 0.001\text{ M}$, $[\text{Cl}^-] = 0.0005\text{ M}$.
+    $Q = [\text{Ag}^+][\text{Cl}^-] = (10^{-3})(5 \times 10^{-4}) = 5 \times 10^{-7}$.
+    Since $Q (5 \times 10^{-7}) > K_{sp} (1.8 \times 10^{-10})$, AgCl will precipitate.
+*   **Answer:** Yes
+
+**10.8b:**
+*   **Calculation:** Equal volumes, concentrations halve: $[\text{Ca}^{2+}] = 5 \times 10^{-5}\text{ M}$, $[\text{SO}_4^{2-}] = 5 \times 10^{-5}\text{ M}$.
+    $Q = [\text{Ca}^{2+}][\text{SO}_4^{2-}] = (5 \times 10^{-5})^2 = 2.5 \times 10^{-9}$.
+    Since $Q (2.5 \times 10^{-9}) < K_{sp} (4.93 \times 10^{-5})$, CaSO₄ will not precipitate.
+*   **Answer:** No
+
+**10.8c:**
+*   **Calculation:** Equal volumes, concentrations halve: $[\text{Pb}^{2+}] = 0.005\text{ M}$, $[\text{I}^-] = 0.005\text{ M}$.
+    $Q = [\text{Pb}^{2+}][\text{I}^-]^2 = (0.005)(0.005)^2 = 1.25 \times 10^{-7}$.
+    Since $Q (1.25 \times 10^{-7}) > K_{sp} (9.8 \times 10^{-9})$, PbI₂ will precipitate.
+*   **Answer:** Yes
+
+</details>
 
 ---
 
@@ -419,9 +603,27 @@ Answer: [H⁺] = [CH₃COO⁻] = 1.3 × 10⁻³ M, [CH₃COOH] ≈ 0.099 M
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 10.9a | 0.01 M NH₃ has α = 0.04. Find [NH₄⁺], [OH⁻], [NH₃]. | 🟡 |
-| 10.9b | 0.05 M HF has Ka = 3.5 × 10⁻⁴. Find α and [H⁺]. (Use: Ka = Cα²/(1-α) ≈ Cα² for small α) ⭐ | 🔴 |
 | 10.9c | Why is the total ion concentration of 0.1 M acetic acid much less than that of 0.1 M HCl? | 🟡 |
+
+<details>
+<summary>💡 Detailed Solutions for Type 9</summary>
+
+**10.9a:**
+*   **Calculation:** $[\text{NH}_4^+] = [\text{OH}^-] = C\alpha = 0.01 \times 0.04 = 4 \times 10^{-4}\text{ M}$.
+    $[\text{NH}_3] = C(1-\alpha) = 0.01 \times 0.96 = 0.0096\text{ M}$.
+*   **Answer:** $[\text{NH}_4^+] = 4 \times 10^{-4}\text{ M}$, $[\text{OH}^-] = 4 \times 10^{-4}\text{ M}$, $[\text{NH}_3] = 0.0096\text{ M}$
+
+**10.9b:**
+*   **Calculation:** $K_a = C\alpha^2 \Rightarrow \alpha^2 = \frac{3.5 \times 10^{-4}}{0.05} = 70 \times 10^{-4}$.
+    $\alpha = \sqrt{70} \times 10^{-2} \approx 8.37 \times 10^{-2} = 0.0837$.
+    $[\text{H}^+] = C\alpha = 0.05 \times 0.0837 = 4.18 \times 10^{-3}\text{ M}$. (Or use $[\text{H}^+] = \sqrt{K_a C}$).
+*   **Answer:** $\alpha = 0.0837$, $[\text{H}^+] = 4.18 \times 10^{-3}\text{ M}$
+
+**10.9c:**
+*   **Calculation:** HCl is a strong electrolyte ($\alpha = 1$) so it dissociates completely into $0.1\text{ M H}^+$ and $0.1\text{ M Cl}^-$. Acetic acid is a weak electrolyte ($\alpha \ll 1$) and barely dissociates, meaning there are far fewer ions in solution.
+*   **Answer:** Because acetic acid is a weak electrolyte and only partially dissociates, while HCl dissociates completely.
+
+</details>
 
 ---
 
@@ -459,9 +661,29 @@ Charge balance:
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 10.10a | A solution has [K⁺] = 0.3 M, [Mg²⁺] = 0.1 M, [Cl⁻] = x M, and no other ions. Find x using charge balance. ⭐ | 🟡 |
-| 10.10b | 0.1 M Al₂(SO₄)₃. Show that charge balance holds. | 🟡 |
 | 10.10c | A solution has [Na⁺] = 0.2 M, [Ca²⁺] = 0.1 M, [Cl⁻] = 0.3 M, [SO₄²⁻] = y M. Find y. | 🟡 |
+
+<details>
+<summary>💡 Detailed Solutions for Type 10</summary>
+
+**10.10a:**
+*   **Calculation:** Positive charge $= [\text{K}^+] \times 1 + [\text{Mg}^{2+}] \times 2 = 0.3(1) + 0.1(2) = 0.5\text{ M}$.
+    Negative charge $= [\text{Cl}^-] \times 1 = x(1) = x$.
+    Charge balance: $x = 0.5$.
+*   **Answer:** $x = 0.5$
+
+**10.10b:**
+*   **Calculation:** $[\text{Al}^{3+}] = 0.2\text{ M}$, $[\text{SO}_4^{2-}] = 0.3\text{ M}$.
+    Positive charge $= 0.2 \times 3 = 0.6$. Negative charge $= 0.3 \times 2 = 0.6$. $0.6 = 0.6$ ✅.
+*   **Answer:** Positive charge ($0.6$) = Negative charge ($0.6$).
+
+**10.10c:**
+*   **Calculation:** Positive charge $= [\text{Na}^+](1) + [\text{Ca}^{2+}](2) = 0.2 + 0.2 = 0.4$.
+    Negative charge $= [\text{Cl}^-](1) + [\text{SO}_4^{2-}](2) = 0.3 + 2y$.
+    $0.4 = 0.3 + 2y \Rightarrow 0.1 = 2y \Rightarrow y = 0.05$.
+*   **Answer:** $y = 0.05$
+
+</details>
 
 ---
 
@@ -469,9 +691,34 @@ Charge balance:
 
 | # | Question | Types Used | Difficulty |
 |---|----------|------------|------------|
-| 10.M1 | 100 mL of 0.2 M BaCl₂ + 100 mL of 0.1 M Na₂SO₄. (a) Find [Ba²⁺], [Na⁺], [Cl⁻], [SO₄²⁻] initially. (b) Will BaSO₄ precipitate? (Ksp = 1.1 × 10⁻¹⁰) (c) After precipitation, which ion is the limiting reagent? | T5 + T7 + T8 | 🔴 |
-| 10.M2 | 200 mL of 0.3 M AlCl₃ is diluted to 1 L. Find (a) [Al³⁺] (b) [Cl⁻] (c) total ion concentration (d) verify charge balance. | T3 + T6 + T4 + T10 | 🟡 |
 | 10.M3 | Mix 100 mL of 0.1 M AgNO₃ with 100 mL of 0.2 M NaCl. (a) Find ion concentrations before reaction. (b) AgCl precipitates (Ksp = 1.8×10⁻¹⁰). Which is limiting? (c) Find concentrations of all remaining ions. | T5 + T8 + Ch9-T5 | 🔴 |
+
+<details>
+<summary>💡 Detailed Solutions for Type Mixer</summary>
+
+**10.M1:**
+*   **Calculation:** Equal volumes $\Rightarrow$ concentrations halve. $[\text{BaCl}_2]_i = 0.1\text{ M}$, $[\text{Na}_2\text{SO}_4]_i = 0.05\text{ M}$.
+    (a) $[\text{Ba}^{2+}] = 0.1\text{ M}$, $[\text{Cl}^-] = 0.2\text{ M}$, $[\text{Na}^+] = 0.1\text{ M}$, $[\text{SO}_4^{2-}] = 0.05\text{ M}$.
+    (b) $Q = [\text{Ba}^{2+}][\text{SO}_4^{2-}] = 0.1 \times 0.05 = 0.005 > 1.1 \times 10^{-10}$. Precipitate will form.
+    (c) Moles (or mmoles): $20\text{ mmol Ba}^{2+}$ vs $10\text{ mmol SO}_4^{2-}$. SO₄²⁻ is the limiting reagent.
+*   **Answer:** (a) $[\text{Ba}^{2+}] = 0.1\text{ M}, [\text{Cl}^-] = 0.2\text{ M}, [\text{Na}^+] = 0.1\text{ M}, [\text{SO}_4^{2-}] = 0.05\text{ M}$, (b) Yes, (c) SO₄²⁻
+
+**10.M2:**
+*   **Calculation:** Dilution $M_1 V_1 = M_2 V_2 \Rightarrow 0.3 \times 200 = M_2 \times 1000 \Rightarrow M_2 = 0.06\text{ M AlCl}_3$.
+    (a) $[\text{Al}^{3+}] = 0.06\text{ M}$.
+    (b) $[\text{Cl}^-] = 3 \times 0.06 = 0.18\text{ M}$.
+    (c) Total ions = $0.06 + 0.18 = 0.24\text{ M}$.
+    (d) Positive charge $= 3(0.06) = 0.18$; Negative charge $= 1(0.18) = 0.18$. They match!
+*   **Answer:** (a) $0.06\text{ M}$, (b) $0.18\text{ M}$, (c) $0.24\text{ M}$, (d) $0.18 = 0.18 \implies$ holds.
+
+**10.M3:**
+*   **Calculation:** $100\text{ mL}$ of each $\Rightarrow V_{\text{tot}} = 200\text{ mL}$.
+    (a) Halved: $[\text{Ag}^+] = 0.05\text{ M}$, $[\text{NO}_3^-] = 0.05\text{ M}$, $[\text{Na}^+] = 0.1\text{ M}$, $[\text{Cl}^-] = 0.1\text{ M}$.
+    (b) $10\text{ mmol Ag}^+$ vs $20\text{ mmol Cl}^-$. Ag⁺ is the limiting reagent.
+    (c) Ag⁺ is mostly consumed ($\approx 0\text{ M}$). Cl⁻ left $= 20 - 10 = 10\text{ mmol}$. $[\text{Cl}^-] = 10/200 = 0.05\text{ M}$. Spectator ions remain unchanged from (a).
+*   **Answer:** (a) $[\text{Ag}^+] = 0.05, [\text{NO}_3^-] = 0.05, [\text{Na}^+] = 0.1, [\text{Cl}^-] = 0.1$, (b) Ag⁺, (c) $[\text{NO}_3^-] = 0.05\text{ M}, [\text{Na}^+] = 0.1\text{ M}, [\text{Cl}^-] = 0.05\text{ M}$ (Ag⁺ $\approx 0$)
+
+</details>
 
 ---
 
@@ -479,10 +726,33 @@ Charge balance:
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 10.B1 | Find the concentration of each ion in: (a) 0.25 M Na₂SO₄ (b) 0.1 M Ca(NO₃)₂. ⭐ | 🟢 |
-| 10.B2 | Which produces more ions per formula unit: NaCl or CaCl₂? If both are 0.1 M, which has higher total ion concentration? ⭐ | 🟢 |
-| 10.B3 | 0.1 M K₂CrO₄ and 0.1 M KCl are mixed in equal volumes. Find [K⁺] in the mixture. ⭐ | 🟡 |
 | 10.B4 | A solution contains 0.2 M NaCl and 0.3 M KCl. Find [Cl⁻]. | 🟡 |
+
+<details>
+<summary>💡 Detailed Solutions for Board Arsenal</summary>
+
+**10.B1:**
+*   **Calculation:** 
+    (a) Na₂SO₄ $\rightarrow$ 2Na⁺ + SO₄²⁻. $[\text{Na}^+] = 0.5\text{ M}$, $[\text{SO}_4^{2-}] = 0.25\text{ M}$.
+    (b) Ca(NO₃)₂ $\rightarrow$ Ca²⁺ + 2NO₃⁻. $[\text{Ca}^{2+}] = 0.1\text{ M}$, $[\text{NO}_3^-] = 0.2\text{ M}$.
+*   **Answer:** (a) $[\text{Na}^+] = 0.5\text{ M}, [\text{SO}_4^{2-}] = 0.25\text{ M}$; (b) $[\text{Ca}^{2+}] = 0.1\text{ M}, [\text{NO}_3^-] = 0.2\text{ M}$
+
+**10.B2:**
+*   **Calculation:** 1 formula unit of NaCl produces 2 ions. 1 formula unit of CaCl₂ produces 3 ions.
+    $0.1\text{ M}$ NaCl has a total ion concentration of $0.2\text{ M}$. $0.1\text{ M CaCl}_2$ has $0.3\text{ M}$.
+*   **Answer:** CaCl₂ produces more ions. $0.1\text{ M CaCl}_2$ has a higher total ion concentration.
+
+**10.B3:**
+*   **Calculation:** Equal volumes mean concentrations halve: $[\text{K}_2\text{CrO}_4] = 0.05\text{ M}$, $[\text{KCl}] = 0.05\text{ M}$.
+    $[\text{K}^+] = 2(0.05) + 0.05 = 0.15\text{ M}$.
+*   **Answer:** $[\text{K}^+] = 0.15\text{ M}$
+
+**10.B4:**
+*   **Calculation:** Both salts contribute Cl⁻ ions directly (1:1 ratio each, no mixing dilution needed to be calculated since they are already in the same single solution given).
+    $[\text{Cl}^-] = [\text{NaCl}] + [\text{KCl}] = 0.2 + 0.3 = 0.5\text{ M}$.
+*   **Answer:** $0.5\text{ M}$
+
+</details>
 
 ---
 
@@ -490,11 +760,53 @@ Charge balance:
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 10.J1 | 100 mL of 0.1 M AgNO₃ + 100 mL of 0.1 M BaCl₂. (a) Identify all ions present. (b) Will AgCl precipitate? (Ksp = 1.8 × 10⁻¹⁰) (c) How many moles of AgCl form? (d) Find final [Ba²⁺], [NO₃⁻], [Cl⁻]. ⭐⭐ | 🔴 |
-| 10.J2 | 0.1 M Al₂(SO₄)₃ + 0.1 M Na₃PO₄ in equal volumes. (a) Find all ion concentrations. (b) Will AlPO₄ precipitate? (Ksp = 9.84 × 10⁻²¹) ⭐ | 🔴 |
-| 10.J3 | Rank the following 0.1 M solutions by increasing osmotic pressure: glucose, NaCl, CaCl₂, AlCl₃. Justify using total particle concentration. (i-factors: 1, 2, 3, 4) ⭐ | 🟡 |
-| 10.J4 | A solution has [Na⁺] = 0.5 M, [K⁺] = 0.2 M, [Cl⁻] = 0.4 M, and [SO₄²⁻] = x. Use charge balance to find x. Then, could this solution have been made by dissolving NaCl, KCl, and Na₂SO₄? Verify. ⭐ | 🔴 |
 | 10.J5 | 0.2 M CH₃COOH (Ka = 1.8 × 10⁻⁵) is mixed with 0.1 M HCl in equal volumes. Find [H⁺] in the mixture. (Consider common ion effect on acetic acid's dissociation.) ⭐⭐ | 🔴 |
+
+<details>
+<summary>💡 Detailed Solutions for JEE Mains Arena</summary>
+
+**10.J1:**
+*   **Calculation:**
+    (a) Ions present initially: Ag⁺, NO₃⁻, Ba²⁺, Cl⁻.
+    (b) $100\text{ mL} \times 0.1 = 10\text{ mmol AgNO}_3$ and $10\text{ mmol BaCl}_2$. So $10\text{ mmol Ag}^+$ and $20\text{ mmol Cl}^-$. $Q \gg K_{sp}$, AgCl precipitates.
+    (c) Ag⁺ is limiting. $10\text{ mmol AgCl}$ forms.
+    (d) $V_{\text{tot}} = 200\text{ mL}$.
+        Spectators: $[\text{Ba}^{2+}] = 10/200 = 0.05\text{ M}$. $[\text{NO}_3^-] = 10/200 = 0.05\text{ M}$.
+        Leftover Cl⁻ = $20 - 10 = 10\text{ mmol}$. $[\text{Cl}^-] = 10/200 = 0.05\text{ M}$.
+*   **Answer:** (a) Ag⁺, NO₃⁻, Ba²⁺, Cl⁻, (b) Yes, (c) $10\text{ mmol}$, (d) $[\text{Ba}^{2+}] = 0.05\text{ M}, [\text{NO}_3^-] = 0.05\text{ M}, [\text{Cl}^-] = 0.05\text{ M}$
+
+**10.J2:**
+*   **Calculation:** Equal volumes $\Rightarrow$ concs halve.
+    $[\text{Al}_2\text{(SO}_4\text{)}_3] = 0.05\text{ M}$, $[\text{Na}_3\text{PO}_4] = 0.05\text{ M}$.
+    (a) $[\text{Al}^{3+}] = 2(0.05) = 0.1\text{ M}$. $[\text{SO}_4^{2-}] = 3(0.05) = 0.15\text{ M}$.
+        $[\text{Na}^+] = 3(0.05) = 0.15\text{ M}$. $[\text{PO}_4^{3-}] = 0.05\text{ M}$.
+    (b) $Q = [\text{Al}^{3+}][\text{PO}_4^{3-}] = (0.1)(0.05) = 0.005$. $Q (5 \times 10^{-3}) > K_{sp} (9.84 \times 10^{-21})$. It will precipitate.
+*   **Answer:** (a) $[\text{Al}^{3+}] = 0.1, [\text{SO}_4^{2-}] = 0.15, [\text{Na}^+] = 0.15, [\text{PO}_4^{3-}] = 0.05$ (all in M), (b) Yes
+
+**10.J3:**
+*   **Calculation:** Osmotic pressure $\propto$ total particle concentration ($M \times i$).
+    Glucose ($i=1$) $\rightarrow 0.1\text{ M}$. NaCl ($i=2$) $\rightarrow 0.2\text{ M}$. CaCl₂ ($i=3$) $\rightarrow 0.3\text{ M}$. AlCl₃ ($i=4$) $\rightarrow 0.4\text{ M}$.
+*   **Answer:** Glucose $<$ NaCl $<$ CaCl₂ $<$ AlCl₃
+
+**10.J4:**
+*   **Calculation:** Charge balance: $+_e = -_e \Rightarrow 0.5(1) + 0.2(1) = 0.4(1) + x(2) \Rightarrow 0.7 = 0.4 + 2x \Rightarrow x = 0.15\text{ M}$.
+    To verify synthesis from those salts:
+    All K⁺ comes from KCl $\Rightarrow$ need $0.2\text{ M KCl}$. This provides $0.2\text{ M Cl}^-$.
+    We need $0.4\text{ M Cl}^-$ total, so remaining $0.2\text{ M Cl}^-$ must come from NaCl $\Rightarrow$ need $0.2\text{ M NaCl}$.
+    This provides $0.2\text{ M Na}^+$. We need $0.5\text{ M Na}^+$ total, so remaining $0.3\text{ M Na}^+$ must come from Na₂SO₄ $\Rightarrow$ need $0.15\text{ M Na}_2\text{SO}_4$.
+    This provides $0.15\text{ M SO}_4^{2-}$. This exactly matches $x = 0.15\text{ M}$.
+*   **Answer:** $x = 0.15$. Yes, it can be made using $0.2\text{ M NaCl}$, $0.2\text{ M KCl}$, and $0.15\text{ M Na}_2\text{SO}_4$.
+
+**10.J5:**
+*   **Calculation:** Equal volumes $\Rightarrow$ concentrations halve. $[\text{CH}_3\text{COOH}] = 0.1\text{ M}$, $[\text{HCl}] = 0.05\text{ M}$.
+    HCl is a strong acid, providing initially $0.05\text{ M H}^+$.
+    For CH₃COOH $\rightleftharpoons$ H⁺ + CH₃COO⁻:
+    $K_a = \frac{[\text{H}^+][\text{CH}_3\text{COO}^-]}{[\text{CH}_3\text{COOH}]} \approx \frac{(0.05 + y)(y)}{0.1 - y} \approx \frac{0.05 y}{0.1} = \frac{y}{2}$ (assuming $y$ is very small).
+    $y/2 = 1.8 \times 10^{-5} \Rightarrow y = 3.6 \times 10^{-5}\text{ M}$.
+    Total $[\text{H}^+] = 0.05 + 3.6 \times 10^{-5} \approx 0.05\text{ M}$. The dissociation of the weak acid is dramatically suppressed (Common Ion Effect).
+*   **Answer:** $[\text{H}^+] \approx 0.05\text{ M}$
+
+</details>
 
 ---
 
