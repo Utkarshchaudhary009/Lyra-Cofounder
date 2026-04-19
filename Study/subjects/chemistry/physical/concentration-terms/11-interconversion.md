@@ -129,10 +129,10 @@ Answer: ≈ 38%
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 11.1a | 10% KOH (M=56), d = 1.09 g/mL. Find M. ⭐ | 🟡 |
-| 11.1b | 37% HCl (M=36.5), d = 1.19 g/mL. Find M. ⭐⭐ | 🟡 |
-| 11.1c | 3 M glucose (M=180), d = 1.12 g/mL. Find w/w%. | 🟡 |
-| 11.1d | 68% HNO₃ (M=63), d = 1.41 g/mL. Find M. ⭐ | 🟡 |
+| <span id="q-11.1a"></span>[11.1a](./answer-key.md#ans-11.1a) | 10% KOH (M=56), d = 1.09 g/mL. Find M. ⭐ | 🟡 |
+| <span id="q-11.1b"></span>[11.1b](./answer-key.md#ans-11.1b) | 37% HCl (M=36.5), d = 1.19 g/mL. Find M. ⭐⭐ | 🟡 |
+| <span id="q-11.1c"></span>[11.1c](./answer-key.md#ans-11.1c) | 3 M glucose (M=180), d = 1.12 g/mL. Find w/w%. | 🟡 |
+| <span id="q-11.1d"></span>[11.1d](./answer-key.md#ans-11.1d) | 68% HNO₃ (M=63), d = 1.41 g/mL. Find M. ⭐ | 🟡 |
 
 ---
 
@@ -169,10 +169,10 @@ Rearranging:
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 11.2a | 5% urea (M=60). Find m. | 🟡 |
-| 11.2b | 98% H₂SO₄ (M=98). Find m. ⭐ | 🟡 |
-| 11.2c | m = 2.5, M_solute = 40 (NaOH). Find w/w%. (Reverse) | 🟡 |
-| 11.2d | 25% NaCl (M=58.5). Find m. | 🟡 |
+| <span id="q-11.2a"></span>[11.2a](./answer-key.md#ans-11.2a) | 5% urea (M=60). Find m. | 🟡 |
+| <span id="q-11.2b"></span>[11.2b](./answer-key.md#ans-11.2b) | 98% H₂SO₄ (M=98). Find m. ⭐ | 🟡 |
+| <span id="q-11.2c"></span>[11.2c](./answer-key.md#ans-11.2c) | m = 2.5, M_solute = 40 (NaOH). Find w/w%. (Reverse) | 🟡 |
+| <span id="q-11.2d"></span>[11.2d](./answer-key.md#ans-11.2d) | 25% NaCl (M=58.5). Find m. | 🟡 |
 
 ---
 
@@ -227,10 +227,10 @@ Answer: M ≈ 1.88 M
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 11.3a | 2 M glucose (M=180), d = 1.09 g/mL. Find m. ⭐ | 🟡 |
-| 11.3b | 5 m NaOH (M=40), d = 1.18 g/mL. Find M. ⭐ | 🟡 |
-| 11.3c | 18 M H₂SO₄, d = 1.84 g/mL, M=98. Find m. ⭐⭐ | 🔴 |
-| 11.3d | If M = m for a solution, what is the density? (M_solute = 100) Derive the general condition. ⭐⭐ | 🔴 |
+| <span id="q-11.3a"></span>[11.3a](./answer-key.md#ans-11.3a) | 2 M glucose (M=180), d = 1.09 g/mL. Find m. ⭐ | 🟡 |
+| <span id="q-11.3b"></span>[11.3b](./answer-key.md#ans-11.3b) | 5 m NaOH (M=40), d = 1.18 g/mL. Find M. ⭐ | 🟡 |
+| <span id="q-11.3c"></span>[11.3c](./answer-key.md#ans-11.3c) | 18 M H₂SO₄, d = 1.84 g/mL, M=98. Find m. ⭐⭐ | 🔴 |
+| <span id="q-11.3d"></span>[11.3d](./answer-key.md#ans-11.3d) | If M = m for a solution, what is the density? (M_solute = 100) Derive the general condition. ⭐⭐ | 🔴 |
 
 ---
 
@@ -261,9 +261,9 @@ Reverse check: χ = (m × M_solvent)/(1000 + m × M_solvent)
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 11.4a | χ_urea = 0.05 in water. Find m. (M_water = 18) ⭐ | 🟡 |
-| 11.4b | m = 5 (solvent = water). Find χ_solute. | 🟡 |
-| 11.4c | χ_solute = 0.1, solvent = benzene (M=78). Find m. | 🟡 |
+| <span id="q-11.4a"></span>[11.4a](./answer-key.md#ans-11.4a) | χ_urea = 0.05 in water. Find m. (M_water = 18) ⭐ | 🟡 |
+| <span id="q-11.4b"></span>[11.4b](./answer-key.md#ans-11.4b) | m = 5 (solvent = water). Find χ_solute. | 🟡 |
+| <span id="q-11.4c"></span>[11.4c](./answer-key.md#ans-11.4c) | χ_solute = 0.1, solvent = benzene (M=78). Find m. | 🟡 |
 
 ---
 
@@ -296,8 +296,8 @@ Answer: M ≈ 5.69 M
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 11.5a | χ_glucose = 0.05, d = 1.05 g/mL. Find M. (M_glucose = 180, M_water = 18) | 🔴 |
-| 11.5b | 4 M NaCl (M=58.5), d = 1.13 g/mL. Find χ_NaCl. (Reverse) ⭐ | 🔴 |
+| <span id="q-11.5a"></span>[11.5a](./answer-key.md#ans-11.5a) | χ_glucose = 0.05, d = 1.05 g/mL. Find M. (M_glucose = 180, M_water = 18) | 🔴 |
+| <span id="q-11.5b"></span>[11.5b](./answer-key.md#ans-11.5b) | 4 M NaCl (M=58.5), d = 1.13 g/mL. Find χ_NaCl. (Reverse) ⭐ | 🔴 |
 
 ---
 
@@ -339,9 +339,9 @@ Answer: (a) 6.95 M  (b) 9.80 m  (c) χ = 0.15
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 11.6a | 10% NaOH (M=40), d = 1.11 g/mL. Find M, m, χ. ⭐⭐ | 🔴 |
-| 11.6b | 30% glucose (M=180), d = 1.13 g/mL. Find M, m, χ. | 🔴 |
-| 11.6c | 40% urea (M=60), d = 1.09 g/mL. Find all four: M, m, χ, and N (n=1). | 🔴 |
+| <span id="q-11.6a"></span>[11.6a](./answer-key.md#ans-11.6a) | 10% NaOH (M=40), d = 1.11 g/mL. Find M, m, χ. ⭐⭐ | 🔴 |
+| <span id="q-11.6b"></span>[11.6b](./answer-key.md#ans-11.6b) | 30% glucose (M=180), d = 1.13 g/mL. Find M, m, χ. | 🔴 |
+| <span id="q-11.6c"></span>[11.6c](./answer-key.md#ans-11.6c) | 40% urea (M=60), d = 1.09 g/mL. Find all four: M, m, χ, and N (n=1). | 🔴 |
 
 ---
 
@@ -389,9 +389,9 @@ Answer: d = 1.04 g/mL
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 11.7a | M = 2, m = 2.5, M_solute = 40. Find d. ⭐ | 🔴 |
-| 11.7b | M = 10, m = 12, M_solute = 98 (H₂SO₄). Find d. | 🔴 |
-| 11.7c | If M = m, show that d = 1 + M × M_solute/1000. For water as solvent and M_solute = 100, d = ? | 🔴 |
+| <span id="q-11.7a"></span>[11.7a](./answer-key.md#ans-11.7a) | M = 2, m = 2.5, M_solute = 40. Find d. ⭐ | 🔴 |
+| <span id="q-11.7b"></span>[11.7b](./answer-key.md#ans-11.7b) | M = 10, m = 12, M_solute = 98 (H₂SO₄). Find d. | 🔴 |
+| <span id="q-11.7c"></span>[11.7c](./answer-key.md#ans-11.7c) | If M = m, show that d = 1 + M × M_solute/1000. For water as solvent and M_solute = 100, d = ? | 🔴 |
 
 ---
 
@@ -437,9 +437,9 @@ Answer: (a) 18.4 M  (b) 500 m  (c) 0.9  (d) 36.8 N
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 11.8a | Conc. HCl: 37%, d = 1.19, M = 36.5. Find M, m, χ, N. ⭐⭐ | 🔴 |
-| 11.8b | Conc. HNO₃: 68%, d = 1.41, M = 63. Find M, m, χ. ⭐ | 🔴 |
-| 11.8c | Glacial acetic acid: 99.7%, d = 1.049, M = 60. Find M, m, χ. ⭐ | 🔴 |
+| <span id="q-11.8a"></span>[11.8a](./answer-key.md#ans-11.8a) | Conc. HCl: 37%, d = 1.19, M = 36.5. Find M, m, χ, N. ⭐⭐ | 🔴 |
+| <span id="q-11.8b"></span>[11.8b](./answer-key.md#ans-11.8b) | Conc. HNO₃: 68%, d = 1.41, M = 63. Find M, m, χ. ⭐ | 🔴 |
+| <span id="q-11.8c"></span>[11.8c](./answer-key.md#ans-11.8c) | Glacial acetic acid: 99.7%, d = 1.049, M = 60. Find M, m, χ. ⭐ | 🔴 |
 
 ---
 
@@ -447,9 +447,9 @@ Answer: (a) 18.4 M  (b) 500 m  (c) 0.9  (d) 36.8 N
 
 | # | Question | Types Used | Difficulty |
 |---|----------|------------|------------|
-| 11.M1 | A solution has m = 3, d = 1.08 g/mL, M_solute = 60. Find (a) M (b) w/w% (c) χ (d) N (if n=1). | T3 + T2 + T4 | 🔴 |
-| 11.M2 | Given: χ_solute = 0.2, M_solute = 100, M_solvent = 18, d = 1.2 g/mL. Complete the chain: χ → m → M → w/w% → N (n=2). | T4 + T3 + T1 + Ch7 | 🔴 |
-| 11.M3 | 5 M NaOH (M=40), d = 1.19. Find m. Then verify by converting m back to M. Round-trip check! | T3 (both ways) | 🟡 |
+| <span id="q-11.M1"></span>[11.M1](./answer-key.md#ans-11.M1) | A solution has m = 3, d = 1.08 g/mL, M_solute = 60. Find (a) M (b) w/w% (c) χ (d) N (if n=1). | T3 + T2 + T4 | 🔴 |
+| <span id="q-11.M2"></span>[11.M2](./answer-key.md#ans-11.M2) | Given: χ_solute = 0.2, M_solute = 100, M_solvent = 18, d = 1.2 g/mL. Complete the chain: χ → m → M → w/w% → N (n=2). | T4 + T3 + T1 + Ch7 | 🔴 |
+| <span id="q-11.M3"></span>[11.M3](./answer-key.md#ans-11.M3) | 5 M NaOH (M=40), d = 1.19. Find m. Then verify by converting m back to M. Round-trip check! | T3 (both ways) | 🟡 |
 
 ---
 
@@ -457,10 +457,10 @@ Answer: (a) 18.4 M  (b) 500 m  (c) 0.9  (d) 36.8 N
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 11.B1 | A 10% (w/w) solution of NaOH (M=40) has density 1.11 g/mL. Find (a) molarity (b) molality. ⭐⭐ | 🟡 |
-| 11.B2 | Calculate the mole fraction and molality of a 20% (w/w) aqueous solution of glucose (M=180). ⭐ | 🟡 |
-| 11.B3 | Concentrated HCl is 37% (w/w), d = 1.19 g/mL. Find molarity. If 10 mL is diluted to 500 mL, find new M. ⭐ | 🟡 |
-| 11.B4 | A 4 M NaCl solution (M=58.5) has d = 1.13 g/mL. Find (a) w/w% (b) molality. | 🟡 |
+| <span id="q-11.B1"></span>[11.B1](./answer-key.md#ans-11.B1) | A 10% (w/w) solution of NaOH (M=40) has density 1.11 g/mL. Find (a) molarity (b) molality. ⭐⭐ | 🟡 |
+| <span id="q-11.B2"></span>[11.B2](./answer-key.md#ans-11.B2) | Calculate the mole fraction and molality of a 20% (w/w) aqueous solution of glucose (M=180). ⭐ | 🟡 |
+| <span id="q-11.B3"></span>[11.B3](./answer-key.md#ans-11.B3) | Concentrated HCl is 37% (w/w), d = 1.19 g/mL. Find molarity. If 10 mL is diluted to 500 mL, find new M. ⭐ | 🟡 |
+| <span id="q-11.B4"></span>[11.B4](./answer-key.md#ans-11.B4) | A 4 M NaCl solution (M=58.5) has d = 1.13 g/mL. Find (a) w/w% (b) molality. | 🟡 |
 
 ---
 
@@ -468,11 +468,11 @@ Answer: (a) 18.4 M  (b) 500 m  (c) 0.9  (d) 36.8 N
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 11.J1 | Conc. H₂SO₄ (98%, d=1.84, M=98). Find ALL: M, m, χ, N. Then find volume needed for 500 mL of 0.1 M. ⭐⭐⭐ | 🔴 |
-| 11.J2 | A solution has M = 5 and m = 6. M_solute = 80. Find (a) density (b) w/w% (c) mole fraction. ⭐⭐ | 🔴 |
-| 11.J3 | Two solutions: Sol A (M_A = 4, d_A = 1.2, M_solute = 60) and Sol B (m_B = 5, M_solute = 60, M_solvent = 18). (a) Find m_A and M_B (if d_B = 1.15). (b) Are they the same solution? | 🔴 |
-| 11.J4 | An aqueous solution has the property that its molarity equals its molality (M = m). Derive a general formula for the density of such a solution in terms of M_solute. For M_solute = 180 (glucose), find d. ⭐⭐ | 🔴 |
-| 11.J5 | Given only that a 2.5 m aqueous glucose (M=180) solution has d = 1.07 g/mL, find ALL of: M, w/w%, χ, N (n=1), and ppm (for comparison). ⭐⭐ | 🔴 |
+| <span id="q-11.J1"></span>[11.J1](./answer-key.md#ans-11.J1) | Conc. H₂SO₄ (98%, d=1.84, M=98). Find ALL: M, m, χ, N. Then find volume needed for 500 mL of 0.1 M. ⭐⭐⭐ | 🔴 |
+| <span id="q-11.J2"></span>[11.J2](./answer-key.md#ans-11.J2) | A solution has M = 5 and m = 6. M_solute = 80. Find (a) density (b) w/w% (c) mole fraction. ⭐⭐ | 🔴 |
+| <span id="q-11.J3"></span>[11.J3](./answer-key.md#ans-11.J3) | Two solutions: Sol A (M_A = 4, d_A = 1.2, M_solute = 60) and Sol B (m_B = 5, M_solute = 60, M_solvent = 18). (a) Find m_A and M_B (if d_B = 1.15). (b) Are they the same solution? | 🔴 |
+| <span id="q-11.J4"></span>[11.J4](./answer-key.md#ans-11.J4) | An aqueous solution has the property that its molarity equals its molality (M = m). Derive a general formula for the density of such a solution in terms of M_solute. For M_solute = 180 (glucose), find d. ⭐⭐ | 🔴 |
+| <span id="q-11.J5"></span>[11.J5](./answer-key.md#ans-11.J5) | Given only that a 2.5 m aqueous glucose (M=180) solution has d = 1.07 g/mL, find ALL of: M, w/w%, χ, N (n=1), and ppm (for comparison). ⭐⭐ | 🔴 |
 
 ---
 
