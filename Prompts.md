@@ -11,8 +11,9 @@
 [ ] ​Cybersecurity: The new frontier of national defense.
 [ ] ​Has the art of letter writing been lost forever?
 
-Act as Abraham Lincoln and use his method of presenting his argument. Also find out thre most effective was of putting argument in effective way that attract user and leave them in silence .the topic " ​The role of youth in local governance and policy-making."
+Act as Abraham Lincoln and use his method of presenting his argument. Also find out thre most effective was of putting argument in effective way that attract user and leave them in silence .the topic "Cybersecurity: The new frontier of national defense."
 
 Act as Abraham Lincoln and you are presenting an argument. write your most important pointers, phrases and effective reflections .the topic "Is the concept of a ‘job for life’ officially dead?."
 
 make two changes in persepective and relevence. first you are addressing to students and teahers and secondly, you are a 16 year old indian from up. medium is english.
+
