@@ -1,0 +1,20 @@
+- `[x]` Chapter 01: Introduction to Electrochemistry
+- `[x]` Chapter 02: Electrochemical Cells
+- `[x]` Chapter 03: Electrode Potential
+- `[x]` Chapter 04: Standard Hydrogen Electrode (SHE)
+- `[x]` Chapter 05: Electrochemical Series
+- `[x]` Chapter 06: EMF of a Cell
+- `[x]` Chapter 07: The Nernst Equation - Single Electrode
+- `[x]` Chapter 08: The Nernst Equation - Complete Cell
+- `[x]` Chapter 09: Equilibrium Constant from Nernst Equation
+- `[x]` Chapter 10: Gibbs Free Energy and Cell Potential
+- `[x]` Chapter 11: Resistance, Conductance, and Cell Constant
+- `[ ]` Chapter 12: Molar and Equivalent Conductivity
+- `[ ]` Chapter 13: Variation of Conductivity with Concentration
+- `[ ]` Chapter 14: Kohlrausch's Law
+- `[ ]` Chapter 15: Applications of Kohlrausch's Law
+- `[ ]` Chapter 16: Electrolytic Cells and Electrolysis
+- `[ ]` Chapter 17: Faraday's Laws of Electrolysis
+- `[ ]` Chapter 18: Commercial Batteries - Primary Cells
+- `[ ]` Chapter 19: Commercial Batteries - Secondary Cells
+- `[ ]` Chapter 20: Fuel Cells and Corrosion
