@@ -1,0 +1,9 @@
+
+# Binary/large files - use external storage instead
+*.pdf
+*.epub
+*.docx
+*.pptx
+*.xlsx
+*.zip
+*.rar
