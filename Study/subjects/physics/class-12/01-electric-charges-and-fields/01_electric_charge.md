@@ -13,9 +13,9 @@ Imagine you're at a school fair. There are two types of tokens â€” **red to
 **Electric charge is exactly like this.**
 
 Every piece of matter is made of atoms. Inside every atom:
-- **Protons** carry **positive charge** (+) â†’ the red tokens
-- **Electrons** carry **negative charge** (âˆ’) â†’ the blue tokens
-- **Neutrons** carry **no charge** (0) â†’ they're just watching
+- **Protons** carry **positive charge** (+)  the red tokens
+- **Electrons** carry **negative charge** (-)  the blue tokens
+- **Neutrons** carry **no charge** (0)  they're just watching
 
 The rule is devastatingly simple:
 
@@ -25,11 +25,11 @@ That's it. That's the foundation of all of electrostatics, circuits, lightning, 
 
 ### Why "Charge" Matters
 
-A normal atom has equal protons and electrons â†’ **net charge = 0** â†’ electrically neutral.
+A normal atom has equal protons and electrons  **net charge = 0**  electrically neutral.
 
 But when you **rub a glass rod with silk**, electrons (which are lighter and on the outside of atoms) get transferred from the glass to the silk:
-- Glass **loses** electrons â†’ becomes **positively** charged
-- Silk **gains** electrons â†’ becomes **negatively** charged
+- Glass **loses** electrons  becomes **positively** charged
+- Silk **gains** electrons  becomes **negatively** charged
 
 > âš ï¸ **Critical Insight:** Charge is not *created* by rubbing. It is *transferred*. The total charge of the glass + silk system remains zero. This is conservation of charge in action.
 
@@ -81,7 +81,7 @@ $$Q = ne$$
 > A plastic comb gains 3 Ã— 10Â¹â° electrons after being rubbed through hair. What charge does the comb acquire?
 
 **Solution:**
-- n = 3 Ã— 10Â¹â° (gained â†’ negative charge)
+- n = 3 Ã— 10Â¹â° (gained  negative charge)
 - Q = ne = 3 Ã— 10Â¹â° Ã— 1.6 Ã— 10â»Â¹â¹
 - Q = 4.8 Ã— 10â»â¹ C = **4.8 nC (negative)**
 
@@ -104,7 +104,7 @@ $$Q = ne$$
 > A sphere has a charge of +4.8 Ã— 10â»Â¹â¶ C. How many electrons has it lost?
 
 **Solution:**
-- Q = +4.8 Ã— 10â»Â¹â¶ C (positive â†’ lost electrons)
+- Q = +4.8 Ã— 10â»Â¹â¶ C (positive  lost electrons)
 - n = Q/e = 4.8 Ã— 10â»Â¹â¶ / 1.6 Ã— 10â»Â¹â¹ = **3000 electrons**
 
 **Practice:**
@@ -124,8 +124,8 @@ $$Q = ne$$
 > A glass rod is rubbed with silk. In the process, 10Â¹Â² electrons are transferred from the rod to the silk. Find the charge on (a) the rod, (b) the silk, and (c) the system.
 
 **Solution:**
-- (a) Rod loses 10Â¹Â² electrons â†’ Q_rod = +ne = +10Â¹Â² Ã— 1.6 Ã— 10â»Â¹â¹ = **+1.6 Ã— 10â»â· C = +0.16 Î¼C**
-- (b) Silk gains 10Â¹Â² electrons â†’ Q_silk = âˆ’ne = **âˆ’0.16 Î¼C**
+- (a) Rod loses 10Â¹Â² electrons  Q_rod = +ne = +10Â¹Â² Ã— 1.6 Ã— 10â»Â¹â¹ = **+1.6 Ã— 10â»â· C = +0.16 Î¼C**
+- (b) Silk gains 10Â¹Â² electrons  Q_silk = âˆ’ne = **âˆ’0.16 Î¼C**
 - (c) Total charge = +0.16 + (âˆ’0.16) = **0** (conservation of charge âœ“)
 
 **Practice:**
@@ -220,7 +220,7 @@ Total charge = Q + (âˆ’3Q) = âˆ’2Q
 
 After contact (identical spheres share equally): Each gets âˆ’2Q/2 = **âˆ’Q**
 
-Total after = âˆ’Q + (âˆ’Q) = âˆ’2Q = Total before â†’ **Charge is conserved.** âœ“
+Total after = âˆ’Q + (âˆ’Q) = âˆ’2Q = Total before  **Charge is conserved.** âœ“
 </details>
 
 **Q3.** ðŸ”´ A metal sphere A (+6 Î¼C) is touched to neutral sphere B. After separating, B is touched to neutral sphere C. Find: final charges on A, B, C, and total electrons transferred in each step.
@@ -317,7 +317,7 @@ n = 40 Ã— 10â»â¶ / 1.6 Ã— 10â»Â¹â¹ = **2.5 Ã— 10Â¹�
 <details>
 <summary><b>Answer</b></summary>
 
-**(c)** â†’ n = 2.4/1.6 = 1.5 â†’ not an integer â†’ not possible.
+**(c)**  n = 2.4/1.6 = 1.5  not an integer  not possible.
 </details>
 
 **Q3.** ðŸ”´ Two identical conducting spheres, A and B, carry charges +Q and +5Q respectively. They are brought into contact and then separated. A is then brought into contact with a third identical uncharged sphere C. What is the final charge on C?
@@ -327,10 +327,10 @@ n = 40 Ã— 10â»â¶ / 1.6 Ã— 10â»Â¹â¹ = **2.5 Ã— 10Â¹�
 <details>
 <summary><b>Answer</b></summary>
 
-**Step 1:** A (+Q) touches B (+5Q) â†’ Total = 6Q â†’ Each gets 3Q.
+**Step 1:** A (+Q) touches B (+5Q)  Total = 6Q  Each gets 3Q.
 A = 3Q, B = 3Q.
 
-**Step 2:** A (3Q) touches C (0) â†’ Total = 3Q â†’ Each gets 3Q/2.
+**Step 2:** A (3Q) touches C (0)  Total = 3Q  Each gets 3Q/2.
 A = 3Q/2, C = 3Q/2.
 
 **Answer: (b) 3Q/2**
@@ -343,7 +343,7 @@ A = 3Q/2, C = 3Q/2.
 <details>
 <summary><b>Answer</b></summary>
 
-F = kq(Qâˆ’q)/rÂ² â†’ F is maximum when dF/dq = 0 â†’ Q âˆ’ 2q = 0 â†’ q = Q/2 â†’ Q/q = **2**
+F = kq(Qâˆ’q)/rÂ²  F is maximum when dF/dq = 0  Q âˆ’ 2q = 0  q = Q/2  Q/q = **2**
 
 **Answer: (b)**
 
@@ -368,4 +368,4 @@ Time = 1 / 1.6 Ã— 10â»â¹ = 6.25 Ã— 10â¸ s â‰ˆ 6.25 Ã— 1
 
 ---
 
-*Next: [Chapter 2 â€” Conductors, Insulators & Charging by Induction â†’](./02_conductors_and_induction.md)*
+*Next: [Chapter 2 â€” Conductors, Insulators & Charging by Induction ](./02_conductors_and_induction.md)*

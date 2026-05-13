@@ -1,7 +1,4 @@
-# "The Role of Youth in Local Governance and Policy-Making"
-
-
-The topic is — *"The Role of Youth in Local Governance and Policy-Making."*
+# "The Role of Youth in Local Governance and Policy-Making"The topic is — *"The Role of Youth in Local Governance and Policy-Making."*
 
 And honestly? My first thought was — **what role?**
 

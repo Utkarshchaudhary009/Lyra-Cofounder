@@ -17,3 +17,8 @@ Act as Abraham Lincoln and you are presenting an argument. write your most impor
 
 make two changes in persepective and relevence. first you are addressing to students and teahers and secondly, you are a 16 year old indian from up. medium is english.
 
+
+00_preface.md
+ . Similar to this book creeate a book on topic Solution. Keep in mind that the user is a beginner and needs a lot of guidance. The goal is to train user to Solve all possible tyype of questions based on that concept keeping 12th boards and Jee Mains in mind. Start with Finding out all comcepts of this chapter. and turning each concept into seperate chapter. Lay down your plan
+
+go through Study\subjects\physics\class-12\03-current-electricity\implementation_plan.md and see if the book is createdas per plan. is all thypes are present if not add. each type must contain 6 to 7 questio. from simle to diffcult.
