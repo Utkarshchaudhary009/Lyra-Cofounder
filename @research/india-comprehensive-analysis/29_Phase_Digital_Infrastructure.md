@@ -15,7 +15,7 @@
 ## 4. UPI: The Fragile Giant
 *   **The Success:** UPI is a global marvel.
 *   **The Risk:** Technical glitches often cause transaction failures. If the central server crashes, the entire cash-free economy halts.
-*   **Scalability:** Can it handle a billion transactions a day without collapsing?
+*   **Scalability:** Can it handle a billion transactions a day without collapsing?<br>
 
 ## 5. E-Waste: The Toxic Pile
 *   **The Growth:** India is the 3rd largest generator of e-waste.
@@ -27,7 +27,7 @@
 *   **The Friction:** Global tech giants (Google/Meta) hate this because it increases costs.
 *   **The Trade-off:** It gives the Govt more control but might scare away tech investment.
 
-## 7. 5G Rollout: Who is it for?
+## 7. 5G Rollout: Who is it for?<br>
 *   **The Speed:** 5G is rolling out fast.
 *   **The Use Case:** For most Indians, it just means faster YouTube. The "Industrial 5G" revolution (smart factories) is still far away.
 

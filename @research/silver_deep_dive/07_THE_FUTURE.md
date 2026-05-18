@@ -24,7 +24,7 @@ By almost every metric, silver is the most undervalued asset on Earth.
 
 ## 5. Threats: The Reality Check
 *   **Asteroid Mining:** Forget about it. It is technologically impossible by 2030 and economically unviable. It is science fiction, not a market threat.
-*   **Substitution:** Can we replace silver with copper in solar panels? Yes, but it's risky. Copper oxidizes and reduces panel life. For premium panels, silver remains the standard.
+*   **Substitution:** Can we replace silver with copper in solar panels?<br> Yes, but it's risky. Copper oxidizes and reduces panel life. For premium panels, silver remains the standard.
 
 ---
 **Summary:** The "Asymmetry" of this trade is extreme. The downside is limited by industrial necessity (we need it for the future). The upside is uncapped due to monetary debasement and physical shortages. The spring is coiled tight.

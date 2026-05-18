@@ -47,7 +47,7 @@ This decade laid the foundation for every modern price suppression technique we 
 *   **The Suppression Seed:** **"Debasement to Protect Fiat."** When the metal's real value threatens the government's fake value, the government removes the metal. This happened with US silver coinage in 1965—a direct repeat of this 1906 colonial tactic.
 
 ### CLUE 8: The Panic of 1907 & Banking Control
-*   **The Simple Truth:** A massive banking crash happened in 1907. The big bankers (like J.P. Morgan) used this crisis to say, "See? The system is unstable! We need a relentless central authority." This panic was the final nail in the coffin for decentralized money like silver. It set the stage for the Federal Reserve, which would be entirely gold/credit based.
+*   **The Simple Truth:** A massive banking crash happened in 1907. The big bankers (like J.P. Morgan) used this crisis to say, "See?<br> The system is unstable! We need a relentless central authority." This panic was the final nail in the coffin for decentralized money like silver. It set the stage for the Federal Reserve, which would be entirely gold/credit based.
 *   **The Hard Evidence:** The Panic was triggered by a failed corner on copper stocks but spread to trust companies. J.P. Morgan acted as the "lender of last resort," proving (to the elite) the need for a Central Bank.
 *   **The Suppression Seed:** **"Crisis as a Catalyst for Centralization."** Every financial panic is used to consolidate power away from hard assets and towards centralized credit management.
 
@@ -98,6 +98,6 @@ By 1910, the victory is almost complete. The demonetization is global. Only **Ch
 ---
 
 ## 6. COMPREHENSION CHECK
-*   **Q:** Why did the British Government in India sell "Council Bills" (paper certificates) instead of just shipping silver to India to pay for goods?
+*   **Q:** Why did the British Government in India sell "Council Bills" (paper certificates) instead of just shipping silver to India to pay for goods?<br>
 *   **A:** By selling paper Council Bills, they satisfied the *trade demand* for payment without creating *physical demand* for silver. This kept the global price of silver low (helping British buyers) and prevented India from accumulating actual monetary metal, keeping the colony dependent and poor.
 *   **C:** If you think "Council Bills" were clever, wait until you see how the US Treasury used **"The Pittman Act"** in 1918 to literally melt down US silver dollars to bail out the British failures in India. The scam gets bigger in Phase 6.

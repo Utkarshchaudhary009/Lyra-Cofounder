@@ -241,11 +241,11 @@ Identical structure to the existing preface:
 
 **Type-wise problems (~6 types):**
 1. Find unknown resistance using balance condition ⭐
-2. Is the bridge balanced? (check P/Q = R/S)
+2. Is the bridge balanced?<br> (check P/Q = R/S)
 3. Equivalent resistance of balanced bridge
 4. Equivalent resistance of unbalanced bridge
 5. Sensitivity of Wheatstone bridge
-6. Practical circuit identification (is this a bridge?)
+6. Practical circuit identification (is this a bridge?<br>)
 
 ---
 
@@ -272,7 +272,7 @@ Identical structure to the existing preface:
 2. Find EMF from balance length ⭐
 3. Compare two EMFs (ε₁/ε₂ = l₁/l₂) ⭐⭐
 4. Find internal resistance of a cell ⭐⭐
-5. Why is potentiometer better than voltmeter? (conceptual)
+5. Why is potentiometer better than voltmeter?<br> (conceptual)
 6. Null point not found — troubleshooting ⭐
 7. Effect of changing driving EMF or resistance
 8. Standardization of potentiometer
@@ -319,10 +319,10 @@ i:\Lyra-Cofounder\Study\subjects\physics\class-12\03-current-electricity\
 ## Open Questions
 
 > [!IMPORTANT]
-> **Depth of JEE-level problems:** The existing book targets JEE Mains only. Should I also include JEE Advanced-level problems (e.g., infinite resistor grids, complex Kirchhoff's with symmetry, Thevenin/Norton equivalents)?
+> **Depth of JEE-level problems:** The existing book targets JEE Mains only. Should I also include JEE Advanced-level problems (e.g., infinite resistor grids, complex Kirchhoff's with symmetry, Thevenin/Norton equivalents)?<br>
 
 > [!IMPORTANT]
-> **Derivation emphasis:** Current Electricity is derivation-heavy for Board exams (drift velocity derivation, series/parallel derivation, potentiometer formula). Should each chapter include a dedicated "Derivation Box" section in Stage 1/2, or keep derivations woven into the explanations?
+> **Derivation emphasis:** Current Electricity is derivation-heavy for Board exams (drift velocity derivation, series/parallel derivation, potentiometer formula). Should each chapter include a dedicated "Derivation Box" section in Stage 1/2, or keep derivations woven into the explanations?<br>
 
 > [!NOTE]
 > **Chapter count:** I've split this into 14 concept chapters (vs. 10 in the previous book). Current Electricity genuinely has more independent concepts. However, if you'd prefer fewer chapters, I can merge:

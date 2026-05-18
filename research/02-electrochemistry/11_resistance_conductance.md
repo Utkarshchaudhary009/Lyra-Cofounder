@@ -49,7 +49,7 @@ $$ \kappa = G \times G^* $$
 <details><summary><b>[Expand] Enter the Gauntlet (3 Problems)</b></summary>
 
 **Problem 1: The DC Disaster**
-The researcher turns on the Direct Current (DC) battery. Almost immediately, bubbles start forming on the electrodes, and the resistance reading on the meter starts wildly drifting. What did they do wrong?
+The researcher turns on the Direct Current (DC) battery. Almost immediately, bubbles start forming on the electrodes, and the resistance reading on the meter starts wildly drifting. What did they do wrong?<br>
 <details><summary><b>Solution</b></summary>
 They used **Direct Current (DC)**. 
 Passing a continuous DC current through an ionic solution causes **electrolysis** (water splits into $H_2$ and $O_2$ gases, creating bubbles). This changes the concentration of the solution near the electrodes and creates an opposing polarization potential. 
@@ -57,13 +57,13 @@ Passing a continuous DC current through an ionic solution causes **electrolysis*
 </details>
 
 **Problem 2: The Platinum Black Solution**
-Even with AC current, there is a slight polarization effect. The researcher's mentor tells them to coat the smooth platinum plates with "Platinum Black" (finely divided platinum powder) using electrolysis. Why?
+Even with AC current, there is a slight polarization effect. The researcher's mentor tells them to coat the smooth platinum plates with "Platinum Black" (finely divided platinum powder) using electrolysis. Why?<br>
 <details><summary><b>Solution</b></summary>
 Coating the plates with finely divided platinum black massively **increases the effective surface area** of the electrodes. This high surface area drastically reduces polarization effects and ensures the resistance being measured is solely from the solution, not from surface resistance at the electrode boundary.
 </details>
 
 **Problem 3: The Null Point**
-Using the AC current, they connect headphones to the Wheatstone bridge. They slide the jockey along the wire until the humming sound in the headphones completely disappears. What is this point called, and what does it mathematically signify?
+Using the AC current, they connect headphones to the Wheatstone bridge. They slide the jockey along the wire until the humming sound in the headphones completely disappears. What is this point called, and what does it mathematically signify?<br>
 <details><summary><b>Solution</b></summary>
 This is called the **Null Point**. At this exact point, the bridge is balanced. No current flows through the central detector. Mathematically, it means the ratio of resistances is equal: $\frac{R_{unknown}}{R_1} = \frac{R_2}{R_3}$, allowing them to precisely calculate the resistance of the solution.
 </details>
@@ -82,13 +82,13 @@ This is called the **Null Point**. At this exact point, the bridge is balanced. 
 <details><summary><b>[Expand] Enter the Gauntlet (4 Problems)</b></summary>
 
 **Problem 1: Resistance to Conductance**
-If the measured resistance of a solution is $250\ \Omega$, what is its conductance ($G$)?
+If the measured resistance of a solution is $250\ \Omega$, what is its conductance ($G$)?<br>
 <details><summary><b>Solution</b></summary>
 $G = \frac{1}{R} = \frac{1}{250} = \textbf{0.004\ S}$ (or $4 \times 10^{-3}\ S$).
 </details>
 
 **Problem 2: Resistivity to Conductivity**
-A certain electrolyte has a resistivity ($\rho$) of $50\ \Omega\ cm$. What is its conductivity ($\kappa$)?
+A certain electrolyte has a resistivity ($\rho$) of $50\ \Omega\ cm$. What is its conductivity ($\kappa$)?<br>
 <details><summary><b>Solution</b></summary>
 $\kappa = \frac{1}{\rho} = \frac{1}{50} = \textbf{0.02\ S\ cm}^{-1}$ (or $2 \times 10^{-2}\ S\ cm^{-1}$).
 </details>
@@ -100,7 +100,7 @@ $G^* = \frac{l}{A} = \frac{2.0\ cm}{4.0\ cm^2} = \textbf{0.5\ cm}^{-1}$.
 </details>
 
 **Problem 4: Finding the Resistance**
-A solution with a known conductivity of $\kappa = 0.015\ S\ cm^{-1}$ is placed in the cell from Problem 3 ($G^* = 0.5\ cm^{-1}$). What resistance will the Wheatstone bridge display?
+A solution with a known conductivity of $\kappa = 0.015\ S\ cm^{-1}$ is placed in the cell from Problem 3 ($G^* = 0.5\ cm^{-1}$). What resistance will the Wheatstone bridge display?<br>
 <details><summary><b>Solution</b></summary>
 $\kappa = G \times G^*$
 $\kappa = \frac{1}{R} \times G^*$
@@ -174,14 +174,14 @@ Order: **$NaCl < CaCl_2 < AlCl_3$**.
 </details>
 
 **Problem 2: The Dilution Trap (Board/JEE)**
-The researcher takes the $1.0\ M\ NaCl$ solution and dilutes it with an equal volume of pure water (making it $0.5\ M$). What happens to the measured conductivity ($\kappa$)? Why?
+The researcher takes the $1.0\ M\ NaCl$ solution and dilutes it with an equal volume of pure water (making it $0.5\ M$). What happens to the measured conductivity ($\kappa$)?<br> Why?<br>
 <details><summary><b>Solution</b></summary>
 The conductivity ($\kappa$) will **decrease** (it will be roughly halved).
 *Reason:* Conductivity ($\kappa$) is specifically defined as the conductance of exactly $1\ cm^3$ of the solution. By adding water and doubling the volume, the total number of ions spread out. The number of ions *per unit volume* ($per\ cm^3$) decreases. Fewer ions per $cm^3$ means lower conductivity.
 </details>
 
 **Problem 3: The Resistance Flip**
-If the conductivity ($\kappa$) of the $NaCl$ solution halved during dilution, what happened to the resistance ($R$) displayed on the Wheatstone bridge?
+If the conductivity ($\kappa$) of the $NaCl$ solution halved during dilution, what happened to the resistance ($R$) displayed on the Wheatstone bridge?<br>
 <details><summary><b>Solution</b></summary>
 Since the cell wasn't changed, $G^*$ is constant.
 $\kappa = \frac{1}{R} \times G^*$.
@@ -202,7 +202,7 @@ Since $\kappa$ and $R$ are inversely proportional, if $\kappa$ is halved, the re
 <details><summary><b>[Expand] Enter the Gauntlet (3 Problems)</b></summary>
 
 **Problem 1: The Two Types of Conduction**
-As the hot plate heats up the entire apparatus, what happens to the conductivity of the solid copper wires connecting the cell to the meter, compared to the electrolytic solution inside the cell?
+As the hot plate heats up the entire apparatus, what happens to the conductivity of the solid copper wires connecting the cell to the meter, compared to the electrolytic solution inside the cell?<br>
 <details><summary><b>Solution</b></summary>
 - **Solid Copper Wire (Metallic Conduction):** Conductivity **decreases**. Heat causes the stationary metal kernels to vibrate violently, creating roadblocks for the free-flowing electrons.
 - **Solution (Electrolytic Conduction):** Conductivity **increases**. Heat increases the kinetic energy of the bulky ions and lowers the viscosity of the water, allowing the ions to swim much faster and easier.
@@ -210,7 +210,7 @@ As the hot plate heats up the entire apparatus, what happens to the conductivity
 
 **Problem 2: The Expanding Cell**
 Due to the intense heat, the glass cell expands slightly. The distance between the platinum plates ($l$) increases by 1%, and the area of the plates ($A$) expands by 2%. 
-If the researcher re-measures the standard $0.1\ M\ KCl$ solution (kept at standard 298 K temperature) in this physically expanded cell, will their calculated conductivity ($\kappa$) be artificially high or artificially low?
+If the researcher re-measures the standard $0.1\ M\ KCl$ solution (kept at standard 298 K temperature) in this physically expanded cell, will their calculated conductivity ($\kappa$) be artificially high or artificially low?<br>
 <details><summary><b>Solution</b></summary>
 - Original cell constant: $G^*_1 = \frac{l}{A}$.
 - Expanded cell constant: $G^*_2 = \frac{1.01l}{1.02A} \approx 0.99 \left(\frac{l}{A}\right)$. 
@@ -221,7 +221,7 @@ If the researcher re-measures the standard $0.1\ M\ KCl$ solution (kept at stand
 
 **Problem 3: The Cylindrical Trap**
 Desperate after breaking the flat cell, the student builds a makeshift cell using two thin cylindrical silver wires. They place them parallel to each other in the solution, separated by distance $d$. 
-They try to calculate the cell constant using $A = \pi r^2$. Why does this physical formula completely fail here?
+They try to calculate the cell constant using $A = \pi r^2$. Why does this physical formula completely fail here?<br>
 <details><summary><b>Solution</b></summary>
 The equation $R = \rho \frac{l}{A}$ assumes electrical current flows in straight, parallel lines directly between two flat plates. 
 With cylindrical wires placed side-by-side, the current flows radially outward from the *curved sides* of the cylinder, not through the circular ends. The effective area $A$ is not the cross-section of the wire ($\pi r^2$), but a complex integration of the curved surface area facing the other wire. The standard $l/A$ simple division completely breaks down for this geometry.

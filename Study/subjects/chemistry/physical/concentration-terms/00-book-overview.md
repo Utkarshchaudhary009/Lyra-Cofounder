@@ -3,7 +3,7 @@
 
 ---
 
-## Who Is This Book For?
+## Who Is This Book For?<br>
 
 You're a Class 12 student. You've heard the words "molarity" and "molality" a hundred times. You can write their formulas with your eyes closed. And yet — when a slightly twisted question appears in your exam, you freeze.
 

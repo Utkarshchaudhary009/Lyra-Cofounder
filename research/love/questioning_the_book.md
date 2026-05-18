@@ -8,7 +8,7 @@
 
 ## The Meta-Question
 
-Before any chapter-level inquiry: **Does this book practice what it preaches?**
+Before any chapter-level inquiry: **Does this book practice what it preaches?<br>**
 
 It claims to have been "built by questioning until nothing was left to question." But several foundational assumptions run through every chapter completely unexamined. This document surfaces them.
 
@@ -26,10 +26,10 @@ Replaces one set of assumptions with another — and doesn't acknowledge this.
 
 **1. "You attract what you are, not what you want."**
 
-This is stated as mechanical law. But is it?
+This is stated as mechanical law. But is it?<br>
 
 - Abusers attract empathetic, high-quality people *constantly*. Narcissists attract generous, accommodating people. Predators attract the opposite of what they are. If "you attract what you are" were true, toxic people would only attract toxic people. They don't.
-- What the phrase actually describes is: **the quality of person who will STAY with you long-term is correlated with your own quality.** But initial attraction? Selection into the relationship? The claim collapses under real-world observation.
+- What the phrase actually describes is: **the quality of person who will STAY with you long-term is correlated with your own quality.** But initial attraction?<br> Selection into the relationship?<br> The claim collapses under real-world observation.
 - The phrase is motivational, not mechanical. It's imported from self-help culture without interrogation.
 
 **2. "Mutual selection" is presented as if both parties select with equal power.**
@@ -45,7 +45,7 @@ The book treats "mutual selection" as a flat, symmetric process. It isn't. One p
 
 **3. "You re-choose every day."**
 
-Beautiful idea. But is it true?
+Beautiful idea. But is it true?<br>
 
 For many people, the choice crystallizes into *inertia*. Marriage, children, shared finances, social identity — these create switching costs so enormous that "re-choosing every day" is a poetic ideal, not an operational reality. The average person in a 15-year marriage with two children and a shared mortgage is not "choosing every morning." They are locked in by structural constraints that make leaving astronomically costly.
 
@@ -55,7 +55,7 @@ The book romanticizes "continuous choice" without confronting that life *activel
 
 The book frames early intuition as purely hormonal noise. But research on "thin-slicing" (Gladwell, Ambady, Rosenthal) shows that first impressions contain *real signal* — often about character traits the conscious mind hasn't articulated yet.
 
-The question: Is early intuition ALL noise? Or is it a mix of signal and noise that the book dismisses entirely because it's easier to say "don't trust anything early" than to teach people how to parse it?
+The question: Is early intuition ALL noise?<br> Or is it a mix of signal and noise that the book dismisses entirely because it's easier to say "don't trust anything early" than to teach people how to parse it?<br>
 
 The book takes the simpler, more dramatic position. Simpler is not always truer.
 
@@ -70,12 +70,12 @@ The book takes the simpler, more dramatic position. Simpler is not always truer.
 This is stated as absolute law. But:
 
 - People DO change within safe, loving relationships. Attachment theory (the very framework the book references elsewhere) demonstrates that a secure partner can help rewire an insecure person's attachment patterns over time.
-- The book itself acknowledges in Chapter 8 that character *might* change in adulthood. So which is it? An absolute ("does not improve") or a conditional ("might, under certain conditions")?
+- The book itself acknowledges in Chapter 8 that character *might* change in adulthood. So which is it?<br> An absolute ("does not improve") or a conditional ("might, under certain conditions")?<br>
 - The absolute statement serves a protective purpose — it prevents people from staying in bad relationships hoping for change. But protective ≠ true. The book sacrifices accuracy for pragmatic safety. That's a choice worth naming.
 
 **6. The "90-day minimum" is presented as a threshold.**
 
-Why 90 days? The number is not derived from any cited research. It's a heuristic — a reasonable-sounding number that could be 60 days or 180 days depending on:
+Why 90 days?<br> The number is not derived from any cited research. It's a heuristic — a reasonable-sounding number that could be 60 days or 180 days depending on:
 - How frequently you interact
 - How much stress occurs in that period
 - Whether the person is actively performing or living naturally
@@ -84,12 +84,12 @@ The book presents "90 days" with the authority of a researched finding. It's a g
 
 **7. The 5 Friction Generators are presented as THE exhaustive list.**
 
-But are they?
+But are they?<br>
 
 Missing friction generators the book never considers:
-- **Health and chronic illness** — How do you respond when one partner develops a chronic condition? This isn't about "health management" as a character trait. This is about the daily friction of living with someone who is physically limited, in pain, or needs ongoing care.
+- **Health and chronic illness** — How do you respond when one partner develops a chronic condition?<br> This isn't about "health management" as a character trait. This is about the daily friction of living with someone who is physically limited, in pain, or needs ongoing care.
 - **Mental health** — Depression, anxiety disorders, ADHD. The daily friction of living with someone whose brain works differently is enormous — and the book treats it as a subcategory of "emotional regulation" when it's actually a structural compatibility issue.
-- **Technology and screen time** — A modern friction generator the book ignores entirely. How much phone use? Social media? Gaming? These are real, daily, relationship-eroding sources of friction.
+- **Technology and screen time** — A modern friction generator the book ignores entirely. How much phone use?<br> Social media?<br> Gaming?<br> These are real, daily, relationship-eroding sources of friction.
 - **Religion and spirituality** — Covered implicitly under "values" but never named. A deeply religious person and an atheist will face friction the book's framework doesn't capture.
 - **Cleanliness and domestic standards** — Mundane but real. Different standards of tidiness produce daily, cumulative resentment.
 
@@ -122,17 +122,17 @@ The reverse is not necessarily true. Some relationships are intense AND healthy.
 
 **11. The "Dopamine Portfolio" uses an investment metaphor that silently imports financial logic into emotional life.**
 
-In investing, diversification is always good. In emotional life? Not necessarily.
+In investing, diversification is always good. In emotional life?<br> Not necessarily.
 
 A person with 7 "dopamine sources" is described as healthy. But a person deeply committed to ONE thing — a calling, a vocation, a partnership, a creative obsession — that person may be fully alive in a way the "portfolio person" isn't. The book privileges balance as if it's universally superior. Some of the most meaningful human lives were deeply imbalanced.
 
 This isn't to endorse dependency — it's to question whether "5+ sources" is a universal prescription or a risk-management philosophy that mistakes hedging for health.
 
-**12. "If this person left tomorrow, would I be devastated but eventually rebuild?"**
+**12. "If this person left tomorrow, would I be devastated but eventually rebuild?<br>"**
 
 This test assumes that the ability to survive without someone proves the relationship is healthy. But the inverse conclusion — that an inability to survive without someone proves dependency — may not always hold.
 
-What about genuine, decades-long partnerships where two people have built a fully integrated life? Where the loss of one partner IS genuinely devastating in a way that "rebuilding" doesn't capture? Is a 70-year-old who "cannot function" after losing a spouse of 40 years "dependent"? Or are they experiencing the appropriate grief of losing half of a deeply intertwined existence?
+What about genuine, decades-long partnerships where two people have built a fully integrated life?<br> Where the loss of one partner IS genuinely devastating in a way that "rebuilding" doesn't capture?<br> Is a 70-year-old who "cannot function" after losing a spouse of 40 years "dependent"?<br> Or are they experiencing the appropriate grief of losing half of a deeply intertwined existence?<br>
 
 The book's test works for young people and new relationships. It may not work for human bonding at its deepest.
 
@@ -169,7 +169,7 @@ This phrase is memorable and compelling. But by this logic:
 
 **16. "Track patterns, not incidents — 10+ instances before drawing conclusions."**
 
-Why 10? This number is not derived from any cited data. In statistics, sample size requirements depend on effect size and variance. A person who physically hits a wall in anger ONCE has given you a data point that may not require 9 more instances to interpret.
+Why 10?<br> This number is not derived from any cited data. In statistics, sample size requirements depend on effect size and variance. A person who physically hits a wall in anger ONCE has given you a data point that may not require 9 more instances to interpret.
 
 The "10+ instances" heuristic sounds rigorous but could cause someone to tolerate repeated harm while "collecting data." The book doesn't distinguish between high-signal and low-signal events.
 
@@ -194,14 +194,14 @@ Quantum mechanics aside — in relationships, the act of evaluating someone chan
 
 But they may not. One person may have been raised in a family that never modeled repair. Another may have been trained in emotional processing since childhood. A 70/30 ratio might reflect a capacity gap, not a caring gap.
 
-The book scores the ratio without asking WHY one person repairs more. If Person A initiates repair 80% of the time because they're inherently more conflict-tolerant, and Person B initiates only 20% because they were raised in a conflict-avoidant household — is Person B showing poor character? Or an unlearned skill?
+The book scores the ratio without asking WHY one person repairs more. If Person A initiates repair 80% of the time because they're inherently more conflict-tolerant, and Person B initiates only 20% because they were raised in a conflict-avoidant household — is Person B showing poor character?<br> Or an unlearned skill?<br>
 
 The book doesn't distinguish between "won't repair" (character) and "doesn't know how to repair" (skill deficit). These require very different responses.
 
 **20. "If you go 5 times and they never come, stop going. That's data, not punishment."**
 
 The book treats this as a clean conclusion. But:
-- What if they have an avoidant attachment style and their "not coming" is their nervous system's dysregulation — not indifference? Stopping repair could reinforce their avoidant pattern.
+- What if they have an avoidant attachment style and their "not coming" is their nervous system's dysregulation — not indifference?<br> Stopping repair could reinforce their avoidant pattern.
 - The advice assumes that withdrawal of repair effort sends a corrective signal. For some attachment styles, it sends a *confirming* signal: "See, people leave. I was right not to be vulnerable."
 - The book gives advice optimized for secure attachment styles. It doesn't address what happens when insecure attachment styles interact.
 
@@ -214,12 +214,12 @@ The book treats this as a clean conclusion. But:
 **21. "Love is not enough" — but the book never defines what love IS.**
 
 The ENTIRE book evaluates, tests, and frameworks relationships without ever defining the central term. "Love" is mentioned dozens of times but never interrogated as a concept. Is it:
-- An emotion?
-- A decision?
-- A neurochemical state?
-- A commitment?
-- A verb (action)?
-- A combination?
+- An emotion?<br>
+- A decision?<br>
+- A neurochemical state?<br>
+- A commitment?<br>
+- A verb (action)?<br>
+- A combination?<br>
 
 The book says "love is not enough" but never tells you what the "love" is that isn't enough. It's critiquing an undefined target.
 
@@ -254,7 +254,7 @@ The chapter treats the countdown as exclusively distorting. It may also be clari
 
 **25. "Your primary job at 16-20 is not choosing a partner."**
 
-But who says the job has to be one thing? Human development isn't a queue where tasks execute serially. A 17-year-old can simultaneously:
+But who says the job has to be one thing?<br> Human development isn't a queue where tasks execute serially. A 17-year-old can simultaneously:
 - Build self-knowledge
 - Develop skills
 - Navigate a relationship
@@ -270,7 +270,7 @@ The book creates an artificial scarcity of attention: you can either build yours
 - Chapter 2: "Character does not improve with your love."
 - Chapter 5: "A person committed to growth will stumble, fail, and regress — but they'll keep trying." (Growth Test)
 - Chapter 7: "You cannot change another person" (but you can "inspire" change)
-- Chapter 8: "[OPEN] Can character fundamentally change in adulthood?"
+- Chapter 8: "[OPEN] Can character fundamentally change in adulthood?<br>"
 
 The book simultaneously tells you character is fixed AND that growth is the most important trait AND that character might change AND that you should look for people who are growing. These can't all be maximally true at the same time.
 
@@ -280,7 +280,7 @@ The book simultaneously tells you character is fixed AND that growth is the most
 - Chapter 5: "Track patterns over 10+ instances and draw conclusions"
 - Chapter 6: "If you go 5 times and they never come, that's data"
 
-The book tells you NOT to trust your own judgment (Chapter 1) and then gives you 10 tests that rely entirely on... your judgment. If your judgment is chemically compromised, how are your observations during those tests reliable?
+The book tells you NOT to trust your own judgment (Chapter 1) and then gives you 10 tests that rely entirely on... your judgment. If your judgment is chemically compromised, how are your observations during those tests reliable?<br>
 
 The book resolves this by implicitly assuming "rational observation over time" is reliable while "gut feeling in the moment" is not. But the line between these is not as clean as the book suggests. Your rational observations are ALSO filtered through your biases, your attachment style, and your emotional state. You don't become an objective scientist after 90 days. You become a slightly less intoxicated one.
 
@@ -290,7 +290,7 @@ The book resolves this by implicitly assuming "rational observation over time" i
 - Chapter 3: "Your partner SHOULD be a significant dopamine source"
 - Chapter 6: Repair behavior requires EMOTIONAL INVESTMENT in the person
 
-The book never quantifies "significant." How much is too much? How do you know when you've crossed from "significant source" to "primary source"? The book draws a line and then refuses to tell you where it is.
+The book never quantifies "significant." How much is too much?<br> How do you know when you've crossed from "significant source" to "primary source"?<br> The book draws a line and then refuses to tell you where it is.
 
 ---
 
@@ -300,7 +300,7 @@ The entire book is built on one premise it never states, never questions, and ne
 
 > **That the purpose of a romantic relationship is to produce a sustainable, functional partnership between two whole, self-sufficient individuals.**
 
-But is that the only valid model?
+But is that the only valid model?<br>
 
 - Some cultures (and some individuals) view relationships as a merging — two halves becoming one. The book dismisses this as "dependency" without examining whether interdependence (which science shows healthy long-term couples develop) is different from dependency.
 - Some people find their deepest purpose THROUGH another person, not before. The book says "have purpose before you partner." But many people's purpose emerged BECAUSE of their partner.
@@ -324,9 +324,9 @@ The book asks you to question everything. This document takes it at its word.
 
 ---
 
-*What survives this questioning? The book's most durable claims:*
+*What survives this questioning?<br> The book's most durable claims:*
 
-| Claim | Survives? | Notes |
+| Claim | Survives?<br> | Notes |
 |-------|-----------|-------|
 | Choice is mutual and continuous | ✅ Mostly | But "continuous" is idealized; structural lock-in is real |
 | Character matters more than chemistry | ✅ Yes | The hierarchy is right even if "character doesn't change" is too absolute |

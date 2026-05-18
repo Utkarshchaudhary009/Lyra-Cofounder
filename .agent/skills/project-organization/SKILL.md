@@ -132,17 +132,17 @@ This makes navigation instant for collaborators.
 
 ## Quick Decision Tree
 
-**Starting a new project?**
+**Starting a new project?<br>**
 → Create minimal structure, expand as needed
 
-**Project has many phases?**
+**Project has many phases?<br>**
 → Use numbered folders: `01_`, `02_`, `03_`
 
-**Multiple apps sharing code?**
+**Multiple apps sharing code?<br>**
 → Monorepo with `/apps` and `/packages`
 
-**Personal knowledge?**
+**Personal knowledge?<br>**
 → PARA method (Projects, Areas, Resources, Archives)
 
-**Deep nesting emerging?**
+**Deep nesting emerging?<br>**
 → Stop. Flatten. Recategorize.

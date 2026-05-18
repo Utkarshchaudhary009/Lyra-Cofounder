@@ -6,7 +6,7 @@
 
 ## 🎯 Stage 1: The Core Idea
 
-### What Is an Electric Dipole?
+### What Is an Electric Dipole?<br>
 
 An electric dipole is the **simplest arrangement of charges that has no net charge but still produces an electric field.** It consists of:
 
@@ -144,8 +144,8 @@ Direction: along the dipole moment (from −q to +q).
 **Practice:**
 
 1. 🟢 Find E on the axis at 10 cm from a dipole of p = 10⁻¹¹ C·m. *(Ans: 0.18 N/C)*
-2. 🟡 The axial field at distance r is 500 N/C. What is the field at 2r? *(Ans: 500/8 = 62.5 N/C — since E ∝ 1/r³)*
-3. 🟡 ⭐ At what distance on the axis is the field due to a dipole (p = 10⁻⁸ C·m) equal to 10⁵ N/C? *(Ans: r³ = 2kp/E → r ≈ 0.012 m = 1.2 cm)*
+2. 🟡 The axial field at distance r is 500 N/C. What is the field at 2r?<br> *(Ans: 500/8 = 62.5 N/C — since E ∝ 1/r³)*
+3. 🟡 ⭐ At what distance on the axis is the field due to a dipole (p = 10⁻⁸ C·m) equal to 10⁵ N/C?<br> *(Ans: r³ = 2kp/E → r ≈ 0.012 m = 1.2 cm)*
 
 ---
 
@@ -165,8 +165,8 @@ Direction: anti-parallel to p⃗.
 
 **Practice:**
 
-1. 🟡 At a point on the equatorial line, E = 200 N/C. What would E be at the same distance on the axial line? *(Ans: 400 N/C)*
-2. 🟡 ⭐ At distance r on the axis, E = E₀. At what distance on the equatorial line is E = E₀? *(Ans: r/2^{1/3} = r × 0.794)*
+1. 🟡 At a point on the equatorial line, E = 200 N/C. What would E be at the same distance on the axial line?<br> *(Ans: 400 N/C)*
+2. 🟡 ⭐ At distance r on the axis, E = E₀. At what distance on the equatorial line is E = E₀?<br> *(Ans: r/2^{1/3} = r × 0.794)*
 
 ---
 
@@ -183,8 +183,8 @@ Direction: anti-parallel to p⃗.
 **Practice:**
 
 1. 🟢 p = 2 × 10⁻⁹ C·m, E = 10⁴ N/C, θ = 90°. Find τ. *(Ans: 2 × 10⁻⁵ N·m)*
-2. 🟡 At what angle is the torque maximum? *(Ans: 90°)*
-3. 🟡 ⭐ At what angle is the torque half of the maximum? *(Ans: sin θ = 0.5 → θ = 30° or 150°)*
+2. 🟡 At what angle is the torque maximum?<br> *(Ans: 90°)*
+3. 🟡 ⭐ At what angle is the torque half of the maximum?<br> *(Ans: sin θ = 0.5 → θ = 30° or 150°)*
 4. 🔴 A dipole (±10 μC, separation 2 cm) is placed in E = 10⁵ N/C at 60°. Find (a) torque, (b) force on each charge, (c) net force.
 
 <details>
@@ -216,7 +216,7 @@ W = pE(cos θ₁ − cos θ₂) = 2 × 10⁻⁶ × 10⁴ × (cos 0° − cos 90�
 1. 🟢 Work to rotate from 0° to 180°. *(Ans: 2pE)*
 2. 🟡 ⭐ Work to rotate from 60° to 90°. *(Ans: pE(cos 60° − cos 90°) = pE/2)*
 3. 🟡 Work to rotate from 90° to 180°. *(Ans: pE(cos 90° − cos 180°) = pE)*
-4. 🔴 ⭐ A dipole is released from θ = 60° in a uniform field. What is its angular speed when it passes through θ = 0°? (Moment of inertia = I)
+4. 🔴 ⭐ A dipole is released from θ = 60° in a uniform field. What is its angular speed when it passes through θ = 0°?<br> (Moment of inertia = I)
 
 <details>
 <summary><b>Answer</b></summary>
@@ -251,7 +251,7 @@ More generally: **F = p(dE/dx)** for a dipole in a non-uniform field.
 
 **Practice:**
 
-1. 🔴 A dipole is near a positive point charge Q at distance r (r >> a). Is the dipole attracted or repelled? *(Ans: attracted — because the nearer charge of the dipole is opposite to Q and experiences stronger force than the farther same-sign charge)*
+1. 🔴 A dipole is near a positive point charge Q at distance r (r >> a). Is the dipole attracted or repelled?<br> *(Ans: attracted — because the nearer charge of the dipole is opposite to Q and experiences stronger force than the farther same-sign charge)*
 
 ---
 
@@ -313,7 +313,7 @@ Direction: **opposite to p⃗** (−x direction = from +q to −q).
 (d) W(90° → 180°) = pE(cos 90° − cos 180°) = pE(0 − (−1)) = **+pE** (energy required)
 </details>
 
-**Q2.** 🔴 ⭐ At a point on the axial line of a short dipole, E = 800 N/C. At the same distance on the equatorial line, E = ?
+**Q2.** 🔴 ⭐ At a point on the axial line of a short dipole, E = 800 N/C. At the same distance on the equatorial line, E = ?<br>
 
 <details>
 <summary><b>Solution</b></summary>
@@ -382,7 +382,7 @@ In vector form: **τ⃗ = p⃗ × E⃗**
 The torque tends to align the dipole along the field (θ → 0).
 </details>
 
-**Q4.** 🟡 ⭐ An electric dipole is placed in a uniform electric field. When is (a) torque maximum, (b) torque minimum, (c) PE maximum, (d) PE minimum? *(3 marks)*
+**Q4.** 🟡 ⭐ An electric dipole is placed in a uniform electric field. When is (a) torque maximum, (b) torque minimum, (c) PE maximum, (d) PE minimum?<br> *(3 marks)*
 
 <details>
 <summary><b>Model Answer</b></summary>

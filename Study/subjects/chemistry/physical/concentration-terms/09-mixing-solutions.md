@@ -5,7 +5,7 @@
 
 ## 🎯 Stage 1: The Core Idea
 
-### What Happens When You Mix Solutions?
+### What Happens When You Mix Solutions?<br>
 
 When you mix two solutions, the moles of solute from **both** solutions combine into a new, larger volume.
 
@@ -104,7 +104,7 @@ Answer: 2 M (unchanged — obviously!)
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 9.1b | 1 L + 2 L of 1 M NaOH. Final M? Total moles? | 🟢 |
+| 9.1b | 1 L + 2 L of 1 M NaOH. Final M?<br> Total moles?<br> | 🟢 |
 
 <details>
 <summary>💡 Detailed Solutions for Type 1</summary>
@@ -140,7 +140,7 @@ Answer: 2 M (unchanged — obviously!)
         = 900/500
         = 1.8 M
 
-Check: Is 1 < 1.8 < 3? ✅ (between the two original molarities)
+Check: Is 1 < 1.8 < 3?<br> ✅ (between the two original molarities)
 
 Answer: 1.8 M
 ```
@@ -185,7 +185,7 @@ Answer: 1.8 M
 **The Pattern:** Conceptual — proving the result is always between the two concentrations.
 
 #### Solved Example 9.3
-**Q:** Without calculating, predict whether the final molarity of mixing 100 mL of 5 M NaCl with 400 mL of 1 M NaCl will be: (a) closer to 5 or to 1? (b) exactly 3? 🟡
+**Q:** Without calculating, predict whether the final molarity of mixing 100 mL of 5 M NaCl with 400 mL of 1 M NaCl will be: (a) closer to 5 or to 1?<br> (b) exactly 3?<br> 🟡
 
 **Solution:**
 ```
@@ -208,7 +208,7 @@ Key rule: The final M is a weighted average.
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 9.3b | Equal volumes of 2 M and 8 M. What will the final M be? | 🟢 |
+| 9.3b | Equal volumes of 2 M and 8 M. What will the final M be?<br> | 🟢 |
 
 <details>
 <summary>💡 Detailed Solutions for Type 3</summary>
@@ -229,7 +229,7 @@ Key rule: The final M is a weighted average.
 
 ### Type 4: Given Final M → Find Ratio V₁:V₂ (Alligation Method) ⭐⭐
 
-**The Pattern:** You want a specific final concentration. In what volume ratio should you mix the two solutions?
+**The Pattern:** You want a specific final concentration. In what volume ratio should you mix the two solutions?<br>
 
 #### Derivation
 ```
@@ -263,7 +263,7 @@ Key rule: The final M is a weighted average.
 ```
 
 #### Solved Example 9.4
-**Q:** You need 2 M HCl. You have 6 M and 1 M HCl. In what volume ratio should you mix them? 🟡 ⭐⭐
+**Q:** You need 2 M HCl. You have 6 M and 1 M HCl. In what volume ratio should you mix them?<br> 🟡 ⭐⭐
 
 **Solution:**
 ```
@@ -283,7 +283,7 @@ Verification:
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 9.4d | Is it possible to get 12 M by mixing 5 M and 8 M solutions? Why or why not? | 🟡 |
+| 9.4d | Is it possible to get 12 M by mixing 5 M and 8 M solutions?<br> Why or why not?<br> | 🟡 |
 
 <details>
 <summary>💡 Detailed Solutions for Type 4</summary>
@@ -353,7 +353,7 @@ Answer: The resulting solution contains 0.1 M HCl (acidic)
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 9.5d | 25 mL of 0.5 M Ba(OH)₂ + 25 mL of 0.5 M HCl. Ba(OH)₂ + 2HCl → BaCl₂ + 2H₂O. Which is excess? ⭐ | 🔴 |
+| 9.5d | 25 mL of 0.5 M Ba(OH)₂ + 25 mL of 0.5 M HCl. Ba(OH)₂ + 2HCl → BaCl₂ + 2H₂O. Which is excess?<br> ⭐ | 🔴 |
 
 <details>
 <summary>💡 Detailed Solutions for Type 5</summary>
@@ -515,7 +515,7 @@ the actual volume is LESS than expected.
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 9.8b | Why does this problem not arise significantly with dilute aqueous solutions? | 🟡 |
+| 9.8b | Why does this problem not arise significantly with dilute aqueous solutions?<br> | 🟡 |
 
 <details>
 <summary>💡 Detailed Solutions for Type 8</summary>
@@ -583,7 +583,7 @@ Answer: ~1.46 m
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 9.9b | Why is mixing in molality harder than mixing in molarity? | 🟡 |
+| 9.9b | Why is mixing in molality harder than mixing in molarity?<br> | 🟡 |
 
 <details>
 <summary>💡 Detailed Solutions for Type 9</summary>
@@ -635,7 +635,7 @@ Answer: (a) 2 M  (b) 0.8 M
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 9.10b | Mix 100 mL of 0.5 M HCl, 200 mL of 0.3 M HCl, and 200 mL of water. Then dilute to 1 L. Final M? | 🟡 |
+| 9.10b | Mix 100 mL of 0.5 M HCl, 200 mL of 0.3 M HCl, and 200 mL of water. Then dilute to 1 L. Final M?<br> | 🟡 |
 
 <details>
 <summary>💡 Detailed Solutions for Type 10</summary>
@@ -660,7 +660,7 @@ Answer: (a) 2 M  (b) 0.8 M
 
 | # | Question | Types Used | Difficulty |
 |---|----------|------------|------------|
-| 9.M3 | 100 mL of 1 M HCl, 100 mL of 2 M NaOH, and 100 mL of 1 M HCl are all mixed. (a) Total mmol HCl and NaOH. (b) Which is excess? (c) Final concentration. | T7 + T5 | 🟡 |
+| 9.M3 | 100 mL of 1 M HCl, 100 mL of 2 M NaOH, and 100 mL of 1 M HCl are all mixed. (a) Total mmol HCl and NaOH. (b) Which is excess?<br> (c) Final concentration. | T7 + T5 | 🟡 |
 
 <details>
 <summary>💡 Detailed Solutions for Type Mixer</summary>
@@ -697,7 +697,7 @@ Answer: (a) 2 M  (b) 0.8 M
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 9.B3 | 50 mL of 0.2 M H₂SO₄ + 50 mL of 0.2 M NaOH. Is the final solution acidic, basic, or neutral? (H₂SO₄ is diprotic!) ⭐ | 🟡 |
+| 9.B3 | 50 mL of 0.2 M H₂SO₄ + 50 mL of 0.2 M NaOH. Is the final solution acidic, basic, or neutral?<br> (H₂SO₄ is diprotic!) ⭐ | 🟡 |
 
 <details>
 <summary>💡 Detailed Solutions for Board Arsenal</summary>

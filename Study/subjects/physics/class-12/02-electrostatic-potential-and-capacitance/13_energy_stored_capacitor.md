@@ -6,7 +6,7 @@
 
 ### The Paradox of the Invisible Fuel
 
-A fully charged capacitor has no moving parts, no chemical reaction, no heat source — and yet, it can deliver a sudden burst of energy powerful enough to restart a human heart (defibrillator), weld metals (spot welding), or fire a camera flash. Where is this energy hiding?
+A fully charged capacitor has no moving parts, no chemical reaction, no heat source — and yet, it can deliver a sudden burst of energy powerful enough to restart a human heart (defibrillator), weld metals (spot welding), or fire a camera flash. Where is this energy hiding?<br>
 
 It is stored not *in the charges*, not *in the plates*, but in the **electric field itself** between the plates. The field is not just a mathematical abstraction — it is a physical entity that stores energy in every cubic meter of space it occupies.
 
@@ -62,7 +62,7 @@ $$u = \frac{1}{2}\epsilon E^2 = \frac{1}{2}K\epsilon_0 E^2$$
 
 **The Defibrillator Scenario:** *A hospital defibrillator stores energy in a large capacitor, which is then discharged through the patient's chest to restore normal heart rhythm.*
 
-**Problem 1:** The defibrillator has a $32\mu F$ capacitor charged to $5000$ V. How much energy is stored?
+**Problem 1:** The defibrillator has a $32\mu F$ capacitor charged to $5000$ V. How much energy is stored?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -73,7 +73,7 @@ $U = \frac{1}{2} \times 32 \times 10^{-6} \times 25 \times 10^6 = \frac{1}{2} \t
 That's enough energy to lift a 40 kg object by 1 meter — delivered in a few milliseconds!
 </details>
 
-**Problem 2:** If only $200$ J needs to be delivered, what voltage should the capacitor be charged to?
+**Problem 2:** If only $200$ J needs to be delivered, what voltage should the capacitor be charged to?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -84,7 +84,7 @@ $V = \sqrt{12.5 \times 10^6} = \textbf{3536 V ≈ 3.54 kV}$
 Halving the energy requires reducing the voltage by a factor of $\sqrt{2}$, not 2. Energy depends on $V^2$.
 </details>
 
-**Problem 3:** A $100$ pF capacitor stores $1\mu J$ of energy. What is the charge on the capacitor?
+**Problem 3:** A $100$ pF capacitor stores $1\mu J$ of energy. What is the charge on the capacitor?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -101,28 +101,28 @@ $Q = \sqrt{2} \times 10^{-8} = \textbf{1.414 × 10⁻⁸ C ≈ 14.14 nC}$
 
 *A $10\mu F$ capacitor is connected to a $100$ V battery and fully charged.*
 
-**Problem 1:** What energy is stored in the capacitor?
+**Problem 1:** What energy is stored in the capacitor?<br>
 
 <details><summary><b>Solution</b></summary>
 
 $U_C = \frac{1}{2}CV^2 = \frac{1}{2} \times 10 \times 10^{-6} \times (100)^2 = \textbf{0.05 J = 50 mJ}$
 </details>
 
-**Problem 2:** How much charge did the battery deliver?
+**Problem 2:** How much charge did the battery deliver?<br>
 
 <details><summary><b>Solution</b></summary>
 
 $Q = CV = 10 \times 10^{-6} \times 100 = \textbf{1 mC}$
 </details>
 
-**Problem 3:** How much energy did the battery deliver?
+**Problem 3:** How much energy did the battery deliver?<br>
 
 <details><summary><b>Solution</b></summary>
 
 The battery delivers energy $W_{battery} = QV = 1 \times 10^{-3} \times 100 = \textbf{0.1 J = 100 mJ}$
 </details>
 
-**Problem 4:** The capacitor stores 50 mJ but the battery delivered 100 mJ. Where did the other 50 mJ go?
+**Problem 4:** The capacitor stores 50 mJ but the battery delivered 100 mJ. Where did the other 50 mJ go?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -170,7 +170,7 @@ $U_f = \frac{1}{2}C'V^2 = \frac{1}{2} \times 20 \times 10^{-6} \times (200)^2 = 
 
 Energy increased by a factor of $K = 4$!
 
-Where did this extra energy come from? The battery supplied it. When the dielectric is inserted with the battery connected, the battery pumps additional charge to maintain the voltage, doing work in the process.
+Where did this extra energy come from?<br> The battery supplied it. When the dielectric is inserted with the battery connected, the battery pumps additional charge to maintain the voltage, doing work in the process.
 
 Energy supplied by battery: $W = Q_{new}V - Q_{old}V = (C'V - CV)V = (KC - C)V^2 = (K-1)CV^2$
 
@@ -295,7 +295,7 @@ The "lost" energy can heat about 20 milligrams (a single drop) of water by 1°C.
 
 ---
 
-**Q4.** A battery delivers $Q$ charge at voltage $V$ to charge a capacitor. What fraction of the energy is stored in the capacitor?
+**Q4.** A battery delivers $Q$ charge at voltage $V$ to charge a capacitor. What fraction of the energy is stored in the capacitor?<br>
 
 (a) $1/4$ &emsp; (b) $1/2$ &emsp; (c) $3/4$ &emsp; (d) All
 
@@ -335,7 +335,7 @@ The "lost" energy can heat about 20 milligrams (a single drop) of water by 1°C.
 
 ---
 
-**Q9.** Which formula should be used to find energy when charge is known but not voltage?
+**Q9.** Which formula should be used to find energy when charge is known but not voltage?<br>
 
 (a) $\frac{1}{2}CV^2$ &emsp; (b) $\frac{1}{2}QV$ &emsp; (c) $Q^2/(2C)$ &emsp; (d) $Q/C$
 
@@ -427,7 +427,7 @@ $Q = CV = 40\times10^{-6}\times1000 = \mathbf{0.04\,C = 40\,mC}$
 
 **Energy lost:** $W_{battery} - U_C = QV - \frac{1}{2}QV = \frac{1}{2}QV$.
 
-**Why independent of $R$?** The energy dissipated is $\int I^2R\,dt$. Higher $R$ reduces current $I$ but increases time $t$ proportionally. The product $\int I^2R\,dt$ remains $\frac{1}{2}QV$ regardless. Even with a superconductor ($R = 0$), the energy is radiated as electromagnetic waves instead of heat.
+**Why independent of $R$?<br>** The energy dissipated is $\int I^2R\,dt$. Higher $R$ reduces current $I$ but increases time $t$ proportionally. The product $\int I^2R\,dt$ remains $\frac{1}{2}QV$ regardless. Even with a superconductor ($R = 0$), the energy is radiated as electromagnetic waves instead of heat.
 </details>
 
 ---
@@ -535,7 +535,7 @@ Using formula: $\Delta U = \frac{C_1C_2(V_1-V_2)^2}{2(C_1+C_2)} = \frac{10^{-5}\
 
 ---
 
-**Q26.** How much energy must be supplied to move charge $Q$ from infinity to the surface of a sphere of radius $R$ already carrying charge $Q$?
+**Q26.** How much energy must be supplied to move charge $Q$ from infinity to the surface of a sphere of radius $R$ already carrying charge $Q$?<br>
 
 <details><summary><b>Answer</b></summary>
 
@@ -554,7 +554,7 @@ $U = \int_0^Q kq/R\,dq = kQ^2/(2R) = Q^2/(8\pi\epsilon_0 R)$
 
 ---
 
-**Q27.** The energy stored in a $50\,\mu F$ capacitor is $10\,J$. What is the voltage? If the capacitor is discharged through a lamp in $0.1$ s, what is the average power?
+**Q27.** The energy stored in a $50\,\mu F$ capacitor is $10\,J$. What is the voltage?<br> If the capacitor is discharged through a lamp in $0.1$ s, what is the average power?<br>
 
 <details><summary><b>Answer</b></summary>
 

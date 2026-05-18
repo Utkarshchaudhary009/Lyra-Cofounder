@@ -65,7 +65,7 @@ The factor of $1/2$ compensates for the double-counting (pair $ij$ and pair $ji$
 
 **The Nuclear Physicist's Problem:** *A nuclear physicist needs to calculate the energy required to bring two protons close together, overcoming their electrostatic repulsion.*
 
-**Problem 1:** Two protons are $10^{-15}$ m apart (roughly the size of a nucleus). What is the electrostatic potential energy of this system?
+**Problem 1:** Two protons are $10^{-15}$ m apart (roughly the size of a nucleus). What is the electrostatic potential energy of this system?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -80,7 +80,7 @@ In eV: $U = \frac{2.3 \times 10^{-13}}{1.6 \times 10^{-19}} = \textbf{1.44 × 10
 This is the *Coulomb barrier* — the energy required to push two protons close enough for the nuclear force to take over. This is why nuclear fusion requires temperatures of millions of degrees.
 </details>
 
-**Problem 2:** What is the potential energy of a proton-electron pair in a hydrogen atom, where the average separation is $5.3 \times 10^{-11}$ m (the Bohr radius)?
+**Problem 2:** What is the potential energy of a proton-electron pair in a hydrogen atom, where the average separation is $5.3 \times 10^{-11}$ m (the Bohr radius)?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -145,7 +145,7 @@ $U = \textbf{\frac{kq²}{a}(4 + √2) ≈ 5.414 × kq²/a}$
 
 *A student is assembling a charge configuration in a lab, bringing charges one at a time from infinity.*
 
-**Problem 1:** She places $Q_1 = +2\mu C$ at the origin. How much work does this take?
+**Problem 1:** She places $Q_1 = +2\mu C$ at the origin. How much work does this take?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -154,7 +154,7 @@ $W_1 = \textbf{0}$ (no other charges to interact with).
 
 *She now brings $Q_2 = +3\mu C$ to a point $0.5$ m from $Q_1$.*
 
-**Problem 2:** How much work does this require?
+**Problem 2:** How much work does this require?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -165,7 +165,7 @@ $W_2 = \frac{54 \times 10^{-3}}{0.5} = \textbf{0.108 J = 108 mJ}$
 
 *Finally, she brings $Q_3 = -1\mu C$ to a point that is $0.5$ m from $Q_1$ and $0.5$ m from $Q_2$.*
 
-**Problem 3:** How much work does bringing $Q_3$ require?
+**Problem 3:** How much work does bringing $Q_3$ require?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -180,7 +180,7 @@ $W_3 = -0.036 + (-0.054) = \textbf{-0.090 J = -90 mJ}$
 Negative work — the field *assists* bringing the negative charge in (it's attracted to both positive charges).
 </details>
 
-**Problem 4:** What is the total potential energy of the assembled system?
+**Problem 4:** What is the total potential energy of the assembled system?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -201,8 +201,8 @@ $U = \frac{kQ_1 Q_2}{r_{12}} + \frac{kQ_1 Q_3}{r_{13}} + \frac{kQ_2 Q_3}{r_{23}}
 - $-Q$ at $(0, a)$
 
 (a) Find the total potential energy of the system.  
-(b) What charge $q$ should be placed at the center of the square so that the entire system is in equilibrium (net force on each charge is zero)?  
-(c) Is this equilibrium stable or unstable?
+(b) What charge $q$ should be placed at the center of the square so that the entire system is in equilibrium (net force on each charge is zero)?<br>  
+(c) Is this equilibrium stable or unstable?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -383,7 +383,7 @@ $U = 9\times10^9\times10^{-12}[-6/0.3 + 12/0.4 - 8/0.5] = 9\times10^{-3}[-20+30-
 
 ---
 
-**Q17.** How much energy is released when a proton and electron (initially far apart) form a hydrogen atom with $r = 0.53$ Å?
+**Q17.** How much energy is released when a proton and electron (initially far apart) form a hydrogen atom with $r = 0.53$ Å?<br>
 
 <details><summary><b>Answer</b></summary>
 
@@ -420,7 +420,7 @@ The net effect is that the universe's total electrostatic potential energy is en
 
 ---
 
-**Q20.** A system of two charges $+2\,\mu C$ and $+8\,\mu C$ are $4$ m apart. If the distance is halved, what is the new potential energy? What was the work done?
+**Q20.** A system of two charges $+2\,\mu C$ and $+8\,\mu C$ are $4$ m apart. If the distance is halved, what is the new potential energy?<br> What was the work done?<br>
 
 <details><summary><b>Answer</b></summary>
 
@@ -473,7 +473,7 @@ By conservation of momentum, both spheres move with equal and opposite velocitie
 
 **Q23–Q32:** Comprehensive potential energy calculations.
 
-**Q23.** A charge $+4\,\mu C$ is at the origin. How much work is done to bring a $-2\,\mu C$ charge from $r = 5$ m to $r = 2$ m?
+**Q23.** A charge $+4\,\mu C$ is at the origin. How much work is done to bring a $-2\,\mu C$ charge from $r = 5$ m to $r = 2$ m?<br>
 
 <details><summary><b>Answer</b></summary>
 
@@ -544,7 +544,7 @@ For equilibrium: $F_y = 0 \Rightarrow y = 0$. The equilibrium is at the origin (
 
 ---
 
-**Q28.** Calculate the total potential energy of a NaCl ion pair, where Na$^+$ and Cl$^-$ are separated by $2.82$ Å. What does the negative sign mean?
+**Q28.** Calculate the total potential energy of a NaCl ion pair, where Na$^+$ and Cl$^-$ are separated by $2.82$ Å. What does the negative sign mean?<br>
 
 <details><summary><b>Answer</b></summary>
 
@@ -572,7 +572,7 @@ But for a charge-free region, Laplace's equation requires $\nabla^2 V = 0$ every
 
 ---
 
-**Q30.** The electrostatic potential energy of a system is $U = \frac{kQ^2}{a}\left(\sqrt{2}-4\right)$ (from the synthesis problem). If the charges are released, what happens? Find the velocity of each charge when they are separated by $10a$ (assume all four charges are equal mass $m$).
+**Q30.** The electrostatic potential energy of a system is $U = \frac{kQ^2}{a}\left(\sqrt{2}-4\right)$ (from the synthesis problem). If the charges are released, what happens?<br> Find the velocity of each charge when they are separated by $10a$ (assume all four charges are equal mass $m$).
 
 <details><summary><b>Answer</b></summary>
 

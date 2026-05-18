@@ -5,7 +5,7 @@
 
 ## 🎯 Stage 1: The Core Idea
 
-### What is Mole Fraction?
+### What is Mole Fraction?<br>
 
 Until now, we measured concentration using **mass** or **volume**. But chemistry doesn't run on grams — it runs on **moles**. One mole of any substance has the same number of particles (6.022 × 10²³). So if we want to know what fraction of all the particles in a solution belong to the solute, we need **mole fraction**.
 
@@ -41,7 +41,7 @@ Until now, we measured concentration using **mass** or **volume**. But chemistry
 In general: χ_1 + χ_2 + χ_3 + ... + χ_n = 1  (for any mixture)
 ```
 
-> **Why does this work?** Because:
+> **Why does this work?<br>** Because:
 > χ_A + χ_B = n_A/(n_A + n_B) + n_B/(n_A + n_B) = (n_A + n_B)/(n_A + n_B) = 1
 
 ### From Mass to Mole Fraction — The Bridge
@@ -63,7 +63,7 @@ Step 3: Divide                          χ_A = n_A / n_total
 
 Mole fraction is **temperature-independent** ✅
 
-Why? Because moles = number of particles. Heating something doesn't create or destroy particles. Both numerator (n_A) and denominator (n_A + n_B) stay constant.
+Why?<br> Because moles = number of particles. Heating something doesn't create or destroy particles. Both numerator (n_A) and denominator (n_A + n_B) stay constant.
 
 ---
 
@@ -110,7 +110,7 @@ Answer: χ_ethanol = 0.3, χ_water = 0.7
 | 4.1d | A solution has χ_A = 0.35. If n_A = 7 mol, find n_B and χ_B. | 🟡 |
 | 4.1e | A homogeneous mixture contains 4 mol of helium and 6 mol of argon. Calculate the mole fraction of each gas. | 🟢 |
 | 4.1f | An alloy consists of 1.2 mol of copper and 0.8 mol of zinc. Determine the mole fraction of copper in the alloy. | 🟢 |
-| 4.1g | A laboratory stock solution holds 2.5 mol of sulfuric acid and 17.5 mol of water. What is the mole fraction of sulfuric acid? | 🟢 |
+| 4.1g | A laboratory stock solution holds 2.5 mol of sulfuric acid and 17.5 mol of water. What is the mole fraction of sulfuric acid?<br> | 🟢 |
 
 <details>
 <summary>💡 Detailed Solutions for Type 1</summary>
@@ -295,10 +295,10 @@ Answer: For every 1 mole of glucose, there are 49 moles of water.
 | # | Question | Difficulty |
 |---|----------|------------|
 | 4.3a | χ_solute = 0.1. Find the mole ratio of solute to solvent. | 🟢 |
-| 4.3b | χ_ethanol = 0.2 in an ethanol-water solution. If 10 moles of water are present, how many moles of ethanol? | 🟡 |
+| 4.3b | χ_ethanol = 0.2 in an ethanol-water solution. If 10 moles of water are present, how many moles of ethanol?<br> | 🟡 |
 | 4.3c | χ_NaCl = 0.05 in a saline solution. If the total moles in solution = 200, find the moles of NaCl and water. | 🟡 |
 | 4.3d | An aqueous solution of acetic acid has χ_acid = 0.04. Determine the ratio of acetic acid moles to completely pure solvent moles. | 🟢 |
-| 4.3e | In a gas cylinder, χ_nitrogen = 0.8. If the total moles inside equal 50, exactly how many moles of nitrogen are contained? | 🟡 |
+| 4.3e | In a gas cylinder, χ_nitrogen = 0.8. If the total moles inside equal 50, exactly how many moles of nitrogen are contained?<br> | 🟡 |
 | 4.3f | A biochemist observes χ_enzyme = 0.01 in a buffer matrix. Calculate the exact ratio of buffer moles to enzyme moles. | 🟢 |
 
 <details>
@@ -359,10 +359,10 @@ This seems trivially easy — and it is. But this rule becomes critical when com
 | # | Question | Difficulty |
 |---|----------|------------|
 | 4.4a | χ_A = 0.3 in a binary mixture. Find χ_B. | 🟢 |
-| 4.4b | χ_water = 0.95. What is χ_solute? If the solute is NaCl, how many moles of NaCl per 100 moles of water? | 🟡 |
-| 4.4c | Is it possible for both χ_A > 0.5 and χ_B > 0.5 in a binary mixture? Justify your answer. | 🟡 |
-| 4.4d | In a binary liquid mixture of toluene and benzene, χ_benzene = 0.42. What is χ_toluene? | 🟢 |
-| 4.4e | If the mole fraction of solvent in a binary solution is exactly 0.992, how many actual moles of solute exist per exactly 1 mole of solvent? | 🟡 |
+| 4.4b | χ_water = 0.95. What is χ_solute?<br> If the solute is NaCl, how many moles of NaCl per 100 moles of water?<br> | 🟡 |
+| 4.4c | Is it possible for both χ_A > 0.5 and χ_B > 0.5 in a binary mixture?<br> Justify your answer. | 🟡 |
+| 4.4d | In a binary liquid mixture of toluene and benzene, χ_benzene = 0.42. What is χ_toluene?<br> | 🟢 |
+| 4.4e | If the mole fraction of solvent in a binary solution is exactly 0.992, how many actual moles of solute exist per exactly 1 mole of solvent?<br> | 🟡 |
 | 4.4f | Explain purely mathematically why χ_solute can never equal precisely 1.0 in a true binary solution. | 🟡 |
 
 <details>
@@ -530,7 +530,7 @@ Answer: P_H₂ = 1.5 atm, P_N₂ = 0.5 atm
 | 4.6c | A 10 L container at 300 K holds a mixture of gases with P_total = 5 atm. If χ_He = 0.40, find the partial pressure and moles of He. (R = 0.082 L·atm/mol·K) | 🔴 |
 | 4.6d | A synthetic lung mixture has a total pressure of 1000 mmHg. If P_O₂ = 210 mmHg, find χ_O₂ in the mixture. | 🟢 |
 | 4.6e | A reaction vessel at exactly 2.5 atm total pressure contains 4 mol of H₂ and 1 mol of CH₄. Calculate the partial pressure of CH₄. | 🟡 |
-| 4.6f | The mole fraction of CO₂ in a sealed flask is 0.05. If its partial pressure is 0.1 atm, what is the total pressure in the flask? | 🟡 |
+| 4.6f | The mole fraction of CO₂ in a sealed flask is 0.05. If its partial pressure is 0.1 atm, what is the total pressure in the flask?<br> | 🟡 |
 
 <details>
 <summary>💡 Detailed Solutions for Type 6</summary>
@@ -782,7 +782,7 @@ Answer: Molarity ≈ 8.14 M
 
 ### Type 9: Temperature Independence — Proof and Reasoning
 
-**The Pattern:** Conceptual — why is mole fraction unaffected by temperature?
+**The Pattern:** Conceptual — why is mole fraction unaffected by temperature?<br>
 
 #### Solved Example 4.9
 **Q:** Explain why mole fraction is independent of temperature, while molarity is not. 🟡
@@ -817,7 +817,7 @@ Similarly:
 ```
 
 **Summary Table:**
-| Concentration Term | T-Independent? | Why |
+| Concentration Term | T-Independent?<br> | Why |
 |-------------------|----------------|-----|
 | Mole fraction (χ) | ✅ Yes | Based on moles (particles) |
 | Molality (m) | ✅ Yes | Based on mass of solvent |
@@ -830,7 +830,7 @@ Similarly:
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 4.9a | A solution has χ_solute = 0.1 at 25°C. What will be its mole fraction at 50°C? Justify. | 🟢 |
+| 4.9a | A solution has χ_solute = 0.1 at 25°C. What will be its mole fraction at 50°C?<br> Justify. | 🟢 |
 | 4.9b | Arrange the following in order of increasing sensitivity to temperature change: molality, molarity, mole fraction, mass percent. | 🟡 |
 | 4.9c | Two identical aqueous solutions are sealed in rigid glass. One is cooled to 4°C, the other heated to 85°C. Compare their mole fractions. | 🟢 |
 | 4.9d | Explain fundamentally why changing the pressure on a liquid solution does not theoretically alter the mole fraction of the dissolved solid solute. | 🟡 |

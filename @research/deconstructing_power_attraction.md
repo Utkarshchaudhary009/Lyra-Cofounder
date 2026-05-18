@@ -15,11 +15,11 @@ Let's dismantle every piece.
 
 ---
 
-## Round 1: What Is "Power"?
+## Round 1: What Is "Power"?<br>
 
 Before we can evaluate "women are attracted to power," we need to know what **power** actually is.
 
-### Question: Can you define power without pointing at examples?
+### Question: Can you define power without pointing at examples?<br>
 
 Most people will say: money, status, influence, physical dominance, fame, authority, confidence.
 
@@ -27,7 +27,7 @@ But notice — those are all *different things*. A billionaire, a gang leader, a
 
 **So "power" isn't one thing. It's a word we retroactively paste onto whoever seems to be winning in a given context.**
 
-### Question: Winning at what?
+### Question: Winning at what?<br>
 
 That depends entirely on who's watching and what they value.
 
@@ -39,21 +39,21 @@ That depends entirely on who's watching and what they value.
 
 **Power is not an inherent property of a person. It's a contextual judgment made by observers.**
 
-### Question: If power changes depending on the room, what exactly are women "attracted to"?
+### Question: If power changes depending on the room, what exactly are women "attracted to"?<br>
 
 If power is context-dependent, then the claim reduces to: *"Women are attracted to whoever seems to be doing well in whatever game is currently being played."*
 
 But that's... not specific to women. **Everyone** pays attention to whoever seems competent or dominant in a given context. That's just how social hierarchies work — for all humans, regardless of gender.
 
-### Question: So is the claim just "people notice high-status individuals"?
+### Question: So is the claim just "people notice high-status individuals"?<br>
 
 If yes, it's trivially true and has nothing to do with gender or sexual attraction. You notice the loud person in the room. You notice the rich person. You notice the famous person. Noticing ≠ sexual attraction.
 
 ---
 
-## Round 2: What Is "Attraction"?
+## Round 2: What Is "Attraction"?<br>
 
-### Question: When they say "attracted to," do they mean sexually aroused, romantically interested, or just paying attention?
+### Question: When they say "attracted to," do they mean sexually aroused, romantically interested, or just paying attention?<br>
 
 These are three completely different phenomena:
 
@@ -65,11 +65,11 @@ These are three completely different phenomena:
 
 The claim **conflates** all three. When someone says "women are attracted to powerful men," they usually mean sexual/romantic attraction. But the evidence they point to is often just **social attention** — women looking at, listening to, or being near high-status men.
 
-### Question: Is paying attention to someone the same as being attracted to them?
+### Question: Is paying attention to someone the same as being attracted to them?<br>
 
 Obviously not. You pay attention to a car crash. You pay attention to your boss. You pay attention to a fire alarm. Attention tracks *relevance*, not desire.
 
-### Question: Could the "attraction" people observe actually be something else entirely?
+### Question: Could the "attraction" people observe actually be something else entirely?<br>
 
 Yes. Several alternatives:
 
@@ -81,17 +81,17 @@ Yes. Several alternatives:
 
 ---
 
-## Round 3: The "Beauty ↔ Power" Symmetry — Does It Hold?
+## Round 3: The "Beauty ↔ Power" Symmetry — Does It Hold?<br>
 
 The original claim sets up a parallel:
 - Men display **beauty** (of their partner) as status.
 - Women seek **power** (of their partner) as status.
 
-### Question: Do all men display their partner's beauty as status?
+### Question: Do all men display their partner's beauty as status?<br>
 
 No. Many men are private. Many men choose partners for personality, shared values, humor, or comfort. The man who "shows off" his attractive partner is a specific *type* of man operating from a specific *insecurity* — not a universal male behavior.
 
-### Question: Is beauty even objective enough to function as a universal status signal?
+### Question: Is beauty even objective enough to function as a universal status signal?<br>
 
 Beauty standards vary across:
 - Cultures (Western thinness vs. many African/South American cultures valuing curves)
@@ -101,7 +101,7 @@ Beauty standards vary across:
 
 If beauty isn't universal, then "showing off a beautiful partner" only works as a status display **within a specific in-group that shares the same beauty standard.** It's not a fundamental human behavior — it's a culturally constructed one.
 
-### Question: If the beauty side of the equation is culturally constructed, why would the power side be "natural"?
+### Question: If the beauty side of the equation is culturally constructed, why would the power side be "natural"?<br>
 
 It wouldn't. If men's preference for beauty is shaped by culture, media, peer groups, and personal psychology, then women's supposed preference for power is equally shaped by those same forces.
 
@@ -113,17 +113,17 @@ It wouldn't. If men's preference for beauty is shaped by culture, media, peer gr
 
 Someone will inevitably argue: *"But evolution! Women needed protectors and providers. Men needed fertile mates. It's biology!"*
 
-### Question: Is this explaining or just storytelling?
+### Question: Is this explaining or just storytelling?<br>
 
 Evolutionary psychology has a serious problem: it creates **unfalsifiable just-so stories.** You observe a behavior, then invent an evolutionary reason for it after the fact.
 
-- Women like powerful men? "Because protectors ensured offspring survival."
-- Women like gentle men? "Because cooperative males were better long-term partners."
-- Women like creative men? "Because creativity signaled intelligence and good genes."
+- Women like powerful men?<br> "Because protectors ensured offspring survival."
+- Women like gentle men?<br> "Because cooperative males were better long-term partners."
+- Women like creative men?<br> "Because creativity signaled intelligence and good genes."
 
 No matter what women actually do, an evolutionary story can be invented to explain it. **A framework that can explain anything explains nothing.**
 
-### Question: Does the "women needed protectors" argument even make sense?
+### Question: Does the "women needed protectors" argument even make sense?<br>
 
 Let's actually think about this:
 
@@ -133,7 +133,7 @@ Let's actually think about this:
 
 The "women evolved to seek powerful protectors" story cherry-picks from a *very recent* slice of human history (patriarchal agricultural/industrial societies) and projects it backward onto all of evolution.
 
-### Question: If it were truly biological, wouldn't it be universal and consistent?
+### Question: If it were truly biological, wouldn't it be universal and consistent?<br>
 
 If this were a hardwired evolutionary preference, you'd expect to see it **uniformly across all cultures and time periods.** But you don't:
 
@@ -145,9 +145,9 @@ If this were a hardwired evolutionary preference, you'd expect to see it **unifo
 
 ---
 
-## Round 5: What's Actually Happening?
+## Round 5: What's Actually Happening?<br>
 
-If the claim doesn't hold up as stated, what's the *real* phenomenon people are observing?
+If the claim doesn't hold up as stated, what's the *real* phenomenon people are observing?<br>
 
 ### Hypothesis 1: Confidence is attractive, and power produces confidence
 
@@ -169,10 +169,10 @@ In societies with strong social safety nets (healthcare, education, housing), wo
 
 ### Hypothesis 4: Survivorship bias in observation
 
-Who do we *notice* in couples?
+Who do we *notice* in couples?<br>
 
-- The billionaire with the model? Yes. Magazines cover it.
-- The electrician with his high-school sweetheart? No. Nobody writes about it.
+- The billionaire with the model?<br> Yes. Magazines cover it.
+- The electrician with his high-school sweetheart?<br> No. Nobody writes about it.
 
 We see high-profile "powerful man + beautiful woman" pairings because they're **visible.** The millions of ordinary couples who chose each other for entirely different reasons are invisible to this analysis.
 
@@ -180,9 +180,9 @@ We see high-profile "powerful man + beautiful woman" pairings because they're **
 
 ---
 
-## Round 6: The Deepest Layer — Who Benefits From This Narrative?
+## Round 6: The Deepest Layer — Who Benefits From This Narrative?<br>
 
-### Question: Why does this story persist?
+### Question: Why does this story persist?<br>
 
 It serves several psychological purposes:
 
@@ -194,7 +194,7 @@ It serves several psychological purposes:
 
 4. **For the culture industry**: Movies, songs, self-help books, and social media influencers profit enormously from reinforcing this narrative. It's a simple, clickable, emotionally provocative story.
 
-### Question: Does believing this narrative change behavior?
+### Question: Does believing this narrative change behavior?<br>
 
 Yes, and dangerously:
 
@@ -208,18 +208,18 @@ Yes, and dangerously:
 
 | Question | Answer |
 |----------|--------|
-| Are women attracted to "the most powerful man in the room"? | Not as a universal rule. Some are, some aren't, and it depends entirely on what "power" means in that context, what the woman values, and what she's been socialized to seek. |
-| Is "power" even a coherent concept? | No. It's a retroactive label applied to whoever seems to be winning in a given context. It shifts by room, culture, and moment. |
-| Is this symmetrical with men seeking beauty? | No. Both preferences are culturally constructed and highly variable. Neither is a fixed biological mirror of the other. |
-| What are people actually attracted to? | Confidence, competence, emotional safety, shared values, physical chemistry — and these vary enormously between individuals. |
-| Why does this narrative persist? | It's psychologically comforting, culturally profitable, and self-reinforcing through confirmation bias. |
-| Does the claim "make sense"? | Only as a very rough, culturally specific generalization about *some* people in *some* contexts. As a universal truth about human nature, it collapses under scrutiny. |
+| Are women attracted to "the most powerful man in the room"?<br> | Not as a universal rule. Some are, some aren't, and it depends entirely on what "power" means in that context, what the woman values, and what she's been socialized to seek. |
+| Is "power" even a coherent concept?<br> | No. It's a retroactive label applied to whoever seems to be winning in a given context. It shifts by room, culture, and moment. |
+| Is this symmetrical with men seeking beauty?<br> | No. Both preferences are culturally constructed and highly variable. Neither is a fixed biological mirror of the other. |
+| What are people actually attracted to?<br> | Confidence, competence, emotional safety, shared values, physical chemistry — and these vary enormously between individuals. |
+| Why does this narrative persist?<br> | It's psychologically comforting, culturally profitable, and self-reinforcing through confirmation bias. |
+| Does the claim "make sense"?<br> | Only as a very rough, culturally specific generalization about *some* people in *some* contexts. As a universal truth about human nature, it collapses under scrutiny. |
 
 ---
 
 ## The One Question Left
 
-If you strip away culture, media, socialization, peer pressure, economic anxiety, and confirmation bias — what remains?
+If you strip away culture, media, socialization, peer pressure, economic anxiety, and confirmation bias — what remains?<br>
 
 **Humans are drawn to other humans who make them feel seen, safe, and alive.**
 

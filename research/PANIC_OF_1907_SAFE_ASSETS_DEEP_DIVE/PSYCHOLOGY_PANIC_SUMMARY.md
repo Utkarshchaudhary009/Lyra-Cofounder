@@ -5,7 +5,7 @@
 
 ## TL;DR (Too Long; Didn't Read)
 
-**Question:** Why did intelligent bankers, businesspeople, and investors not see the Panic of 1907 coming?
+**Question:** Why did intelligent bankers, businesspeople, and investors not see the Panic of 1907 coming?<br>
 
 **Answer:** Their brains were literally unable to think rationally when they needed it most.
 
@@ -216,7 +216,7 @@ As panic spread:
 
 **Smart people sometimes make the WORST financial decisions.**
 
-### Why?
+### Why?<br>
 
 **Smart people can build elaborate logical arguments for wrong beliefs.**
 

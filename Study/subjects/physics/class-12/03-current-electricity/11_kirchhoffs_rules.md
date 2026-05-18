@@ -8,7 +8,7 @@
 
 ### When Ohm's Law Fails Us
 
-Ohm's Law ($V=IR$) and the simple series/parallel formulas work great for single-loop circuits or clean combinations. But what happens when a circuit has multiple batteries connected in different branches, and wires crisscrossing everywhere forming a web? You can't simply define what is in series and what is in parallel anymore.
+Ohm's Law ($V=IR$) and the simple series/parallel formulas work great for single-loop circuits or clean combinations. But what happens when a circuit has multiple batteries connected in different branches, and wires crisscrossing everywhere forming a web?<br> You can't simply define what is in series and what is in parallel anymore.
 
 To solve complex networks, Gustav Kirchhoff gave us two universally true rules. They are not new physics; they are simply the restatement of two fundamental conservation laws: **Conservation of Charge** and **Conservation of Energy**.
 
@@ -85,7 +85,7 @@ Using the formula directly: $\sum I_{in} = \sum I_{out}$.
 $10 + (-4) = I_3 \implies I_3 = \mathbf{6\text{ A}}$.
 </details>
 
-2. 🟡 In a circuit, current splits at node A into two branches carrying $2\text{A}$ and $3\text{A}$. These branches recombine at node B. What is the current leaving node B?
+2. 🟡 In a circuit, current splits at node A into two branches carrying $2\text{A}$ and $3\text{A}$. These branches recombine at node B. What is the current leaving node B?<br>
 
 <details>
 <summary><b>Answer</b></summary>
@@ -249,7 +249,7 @@ Current is $1\text{A}$ counter-clockwise.
 Branch CA current is $\mathbf{1\text{ A}}$ from A to C.
 </details>
 
-**Q2.** 🔴 ⭐ An infinite grid of $1\text{ } \Omega$ resistors forms a 2D mesh. What is the equivalent resistance between two adjacent nodes A and B?
+**Q2.** 🔴 ⭐ An infinite grid of $1\text{ } \Omega$ resistors forms a 2D mesh. What is the equivalent resistance between two adjacent nodes A and B?<br>
 *(This is a classic famous physics puzzle!)*
 
 <details>
@@ -276,7 +276,7 @@ Equivalent Resistance $R_{eq} = V_{AB} / I_{total} = 0.5 / 1 = \mathbf{0.5\text{
 2. **Loop Rule (KVL):** The algebraic sum of changes in potential around any closed loop involving resistors and cells in the circuit is zero ($\sum \Delta V = 0$).
 </details>
 
-**Q2.** 🟡 On which conservation laws are Kirchhoff's junction rule and loop rule based? *(2 marks)*
+**Q2.** 🟡 On which conservation laws are Kirchhoff's junction rule and loop rule based?<br> *(2 marks)*
 
 <details>
 <summary><b>Model Answer</b></summary>
@@ -305,7 +305,7 @@ Equivalent Resistance $R_{eq} = V_{AB} / I_{total} = 0.5 / 1 = \mathbf{0.5\text{
 
 ## 🚀 Stage 6: JEE Mains Arena
 
-**Q1.** 🟡 ⭐ In a circuit, 5 branches meet at a node. The currents in 4 branches are $1\text{A}, 2\text{A}, 3\text{A}$, and $-4\text{A}$. What is the current in the 5th branch, assuming all are taken with the same sign convention (e.g., all entering)?
+**Q1.** 🟡 ⭐ In a circuit, 5 branches meet at a node. The currents in 4 branches are $1\text{A}, 2\text{A}, 3\text{A}$, and $-4\text{A}$. What is the current in the 5th branch, assuming all are taken with the same sign convention (e.g., all entering)?<br>
 
 (a) $2\text{A}$ &emsp; (b) $-2\text{A}$ &emsp; (c) $10\text{A}$ &emsp; (d) $-10\text{A}$
 
@@ -338,7 +338,7 @@ Current through $R = x / 5 = (250/17) / 5 = 50 / 17 \approx \mathbf{2.94\text{ A
 **Answer: (c)**
 </details>
 
-**Q3.** 🔴 ⭐ In the given circuit, what is the potential difference between points A and B?
+**Q3.** 🔴 ⭐ In the given circuit, what is the potential difference between points A and B?<br>
 *(Assume A is top node, B is bottom node. Left branch has $10\text{V}$ battery, middle has $2\text{ } \Omega$, right has $5\text{V}$ battery).*
 
 (a) $10\text{V}$ &emsp; (b) $5\text{V}$ &emsp; (c) $0\text{V}$ &emsp; (d) Cannot be determined

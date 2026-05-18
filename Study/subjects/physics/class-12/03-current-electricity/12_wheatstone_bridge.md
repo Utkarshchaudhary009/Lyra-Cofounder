@@ -74,7 +74,7 @@ $R_{eq} = \frac{30 \times 90}{30 + 90} = \frac{2700}{120} = \mathbf{22.5\text{ }
 
 **Practice:**
 
-1. 🟢 $P=2\text{ } \Omega, Q=4\text{ } \Omega, R=3\text{ } \Omega, S=6\text{ } \Omega$. The central resistor is $10\text{ } \Omega$. Is the bridge balanced? Find $R_{eq}$.
+1. 🟢 $P=2\text{ } \Omega, Q=4\text{ } \Omega, R=3\text{ } \Omega, S=6\text{ } \Omega$. The central resistor is $10\text{ } \Omega$. Is the bridge balanced?<br> Find $R_{eq}$.
 
 <details>
 <summary><b>Answer</b></summary>
@@ -103,7 +103,7 @@ $R_{eq} = (2R \times 2R) / (2R + 2R) = 4R^2 / 4R = \mathbf{R}$.
 
 **Solved Example** 🟡
 
-> In a Wheatstone bridge, $P = 15\text{ } \Omega$, $Q = 10\text{ } \Omega$, $R = 3\text{ } \Omega$. What should be the value of $S$ so that the galvanometer shows zero deflection?
+> In a Wheatstone bridge, $P = 15\text{ } \Omega$, $Q = 10\text{ } \Omega$, $R = 3\text{ } \Omega$. What should be the value of $S$ so that the galvanometer shows zero deflection?<br>
 
 <details>
 <summary><b>Solution</b></summary>
@@ -125,7 +125,7 @@ $100 / 10 = X / 5$
 $10 = X / 5 \implies X = \mathbf{50\text{ } \Omega}$.
 </details>
 
-2. 🟡 To balance a Wheatstone bridge, a resistance of $12\text{ } \Omega$ is needed in the S arm. However, the student only has an $18\text{ } \Omega$ resistor. What resistance should he connect in parallel with the $18\text{ } \Omega$ resistor to achieve balance?
+2. 🟡 To balance a Wheatstone bridge, a resistance of $12\text{ } \Omega$ is needed in the S arm. However, the student only has an $18\text{ } \Omega$ resistor. What resistance should he connect in parallel with the $18\text{ } \Omega$ resistor to achieve balance?<br>
 
 <details>
 <summary><b>Answer</b></summary>
@@ -153,7 +153,7 @@ $R_x = \mathbf{36\text{ } \Omega}$.
 
 **Solved Example** 🔴
 
-> A circuit has three resistors $R_1, R_2, R_3$ in series. A wire connects the start of $R_1$ to the end of $R_2$ with a resistor $R_4$. Another wire connects the end of $R_1$ to the end of $R_3$ with a resistor $R_5$. Is this a Wheatstone bridge?
+> A circuit has three resistors $R_1, R_2, R_3$ in series. A wire connects the start of $R_1$ to the end of $R_2$ with a resistor $R_4$. Another wire connects the end of $R_1$ to the end of $R_3$ with a resistor $R_5$. Is this a Wheatstone bridge?<br>
 
 <details>
 <summary><b>Solution</b></summary>
@@ -172,7 +172,7 @@ If $R_1/R_4 = R_5/R_3$, then $R_2$ carries no current!
 
 **Practice:**
 
-1. 🟡 Five resistors of $10\text{ } \Omega$ each are arranged to form a pentagon. A battery is connected across two adjacent corners. Is it a Wheatstone bridge?
+1. 🟡 Five resistors of $10\text{ } \Omega$ each are arranged to form a pentagon. A battery is connected across two adjacent corners. Is it a Wheatstone bridge?<br>
 
 <details>
 <summary><b>Answer</b></summary>
@@ -180,7 +180,7 @@ If $R_1/R_4 = R_5/R_3$, then $R_2$ carries no current!
 **No.** A Wheatstone bridge requires two nodes for input/output and two nodes for the middle bridge. A pentagon across adjacent corners doesn't fit the topological structure of a bridge. It's just a series-parallel circuit.
 </details>
 
-2. 🔴 Six resistors form the edges of a tetrahedron. You measure resistance across any one edge. Can you use Wheatstone bridge symmetry here?
+2. 🔴 Six resistors form the edges of a tetrahedron. You measure resistance across any one edge. Can you use Wheatstone bridge symmetry here?<br>
 
 <details>
 <summary><b>Answer</b></summary>
@@ -192,7 +192,7 @@ If $R_1/R_4 = R_5/R_3$, then $R_2$ carries no current!
 
 ## 🔀 Stage 4: Type Mixer
 
-**Q1.** 🔴 In a Wheatstone bridge, $P = 10\text{ } \Omega, Q = 20\text{ } \Omega, R = 15\text{ } \Omega, S = 30\text{ } \Omega$. A $10\text{V}$ battery is connected. What is the current drawn from the battery? What is the current through the $P$ resistor?
+**Q1.** 🔴 In a Wheatstone bridge, $P = 10\text{ } \Omega, Q = 20\text{ } \Omega, R = 15\text{ } \Omega, S = 30\text{ } \Omega$. A $10\text{V}$ battery is connected. What is the current drawn from the battery?<br> What is the current through the $P$ resistor?<br>
 
 <details>
 <summary><b>Solution</b></summary>
@@ -226,7 +226,7 @@ $R_{eq} = V / I = 1 / 0.14 = 100 / 14 = \mathbf{50/7 \text{ } \Omega \approx 7.1
 
 ## 📋 Stage 5: Board Arsenal
 
-**Q1.** 🟢 What is the principle of a Wheatstone bridge? *(2 marks)*
+**Q1.** 🟢 What is the principle of a Wheatstone bridge?<br> *(2 marks)*
 
 <details>
 <summary><b>Model Answer</b></summary>
@@ -234,7 +234,7 @@ $R_{eq} = V / I = 1 / 0.14 = 100 / 14 = \mathbf{50/7 \text{ } \Omega \approx 7.1
 A Wheatstone bridge is an arrangement of four resistances ($P, Q, R, S$) used to determine an unknown resistance. Its principle is based on the **null deflection method**. When the bridge is balanced ($P/Q = R/S$), the potential difference between the opposite junctions is zero, and no current flows through the galvanometer connected between them.
 </details>
 
-**Q2.** 🟡 Why is the Wheatstone bridge method considered more accurate than measuring voltage and current separately to find resistance? *(2 marks)*
+**Q2.** 🟡 Why is the Wheatstone bridge method considered more accurate than measuring voltage and current separately to find resistance?<br> *(2 marks)*
 
 <details>
 <summary><b>Model Answer</b></summary>
@@ -243,7 +243,7 @@ A Wheatstone bridge is an arrangement of four resistances ($P, Q, R, S$) used to
 2. It relies only on the ratios of known resistances, eliminating errors caused by measuring instruments like voltmeters and ammeters which can draw some current and skew readings.
 </details>
 
-**Q3.** 🟡 In a Wheatstone bridge, what happens to the balance point if the positions of the battery and the galvanometer are interchanged? *(1 mark)*
+**Q3.** 🟡 In a Wheatstone bridge, what happens to the balance point if the positions of the battery and the galvanometer are interchanged?<br> *(1 mark)*
 
 <details>
 <summary><b>Model Answer</b></summary>
@@ -270,7 +270,7 @@ Parallel combination: $(2R)/2 = \mathbf{R}$.
 **Answer: (b)**
 </details>
 
-**Q2.** 🔴 The four arms of a Wheatstone bridge have resistances $10\text{ } \Omega, 10\text{ } \Omega, 10\text{ } \Omega$ and $20\text{ } \Omega$. A galvanometer of $15\text{ } \Omega$ resistance is connected across the diagonal. Is the bridge balanced? If not, what will be the qualitative direction of current through the galvanometer?
+**Q2.** 🔴 The four arms of a Wheatstone bridge have resistances $10\text{ } \Omega, 10\text{ } \Omega, 10\text{ } \Omega$ and $20\text{ } \Omega$. A galvanometer of $15\text{ } \Omega$ resistance is connected across the diagonal. Is the bridge balanced?<br> If not, what will be the qualitative direction of current through the galvanometer?<br>
 
 <details>
 <summary><b>Answer</b></summary>
@@ -286,7 +286,7 @@ Since $V_y > V_x$, current flows from **y to x (bottom to top)** through the gal
 **Answer: Unbalanced; Current flows from the junction of R,S to the junction of P,Q.**
 </details>
 
-**Q3.** 🔴 ⭐ Which of the following is true about the sensitivity of a Wheatstone bridge?
+**Q3.** 🔴 ⭐ Which of the following is true about the sensitivity of a Wheatstone bridge?<br>
 
 (a) It is highest when all four resistances are roughly equal.
 (b) It is highest when the galvanometer resistance is zero.

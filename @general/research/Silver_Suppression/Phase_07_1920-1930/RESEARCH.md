@@ -2,7 +2,7 @@
 
 ## 1. Phase Overview
 **The Hook (The Silver Mystery):** 
-In the 1920s, the world was screaming for silver. Radios were becoming a household staple, electrical grids were snaking through cities, and the photography giant Eastman Kodak was devouring five tons of silver a week. Yet, in a bizarre defiance of supply and demand, the price of silver didn't skyrocket—it cratered. From a high of $1.37 in 1920, it plummeted toward $0.28. How could a metal that was more useful than ever become nearly worthless?
+In the 1920s, the world was screaming for silver. Radios were becoming a household staple, electrical grids were snaking through cities, and the photography giant Eastman Kodak was devouring five tons of silver a week. Yet, in a bizarre defiance of supply and demand, the price of silver didn't skyrocket—it cratered. From a high of $1.37 in 1920, it plummeted toward $0.28. How could a metal that was more useful than ever become nearly worthless?<br>
 
 **The Thesis:** 
 The "Jazz Age" was not just a time of flappers and prohibition; it was a period of calculated economic warfare. This era set the stage for modern price suppression by perfecting the "Secondary Supply Dump." By debasing European coinage and forcing India off the silver standard, central banks flooded the market with "old" silver to drown out the "new" industrial demand, ensuring that gold remained the undisputed king of the global financial system.
@@ -175,7 +175,7 @@ In 1928, the US changed the look of its money. They made the bills smaller. They
 **Detective’s Summary:** 
 The 1920s were the ultimate "Distraction." While the public was dancing to jazz and marveling at their new radios, a group of men in pinstriped suits was committing the greatest heist in history. They weren't stealing the silver from the vaults—they were stealing the *value* of the silver while it was still in your pocket.
 
-In 1920, silver was a powerhouse. It was priced at $1.37, almost reaching its historical "monetary" parity. But this terrified the newly formed Federal Reserve and the Bank of England. If silver stayed expensive, people would trust their silver coins more than the new "Federal Reserve Notes." The solution? **Flood the zone.**
+In 1920, silver was a powerhouse. It was priced at $1.37, almost reaching its historical "monetary" parity. But this terrified the newly formed Federal Reserve and the Bank of England. If silver stayed expensive, people would trust their silver coins more than the new "Federal Reserve Notes." The solution?<br> **Flood the zone.**
 
 First, the UK "watered down" its coins, dumping millions of ounces of "Sterling" silver into the market. Next, the Federal Reserve hiked interest rates to 7%, a move so brutal it caused a massive deflationary crash. Farmers lost their land, and silver lost its footing. But the "Final Blow" came from the East. 
 
@@ -193,50 +193,50 @@ By 1930, the heist was complete. Silver was no longer "money"—it was just an "
 
 ## 6. COMPREHENSION CHECK (Critical Thinking)
 
-1.  **Q: If silver was so useful for radios and photography, why did the price go down?**
+1.  **Q: If silver was so useful for radios and photography, why did the price go down?<br>**
     **A:** Because governments (UK, India) dumped massive amounts of "recycled" silver from coins onto the market, creating more supply than the new industries could buy.
     **C:** Wait until you see how they use "Paper Silver" in Phase 50!
 
-2.  **Q: What was the "scam" in the 1920 UK Coinage Act?**
+2.  **Q: What was the "scam" in the 1920 UK Coinage Act?<br>**
     **A:** The government kept the "face value" of the coins the same but stole half the silver inside them, selling that silver for a profit while giving the public "cheap" copper-filled coins.
-    **C:** Does your modern "nickel" actually contain any nickel?
+    **C:** Does your modern "nickel" actually contain any nickel?<br>
 
-3.  **Q: How did the Fed’s 7% interest rate hike in 1920 affect silver?**
+3.  **Q: How did the Fed’s 7% interest rate hike in 1920 affect silver?<br>**
     **A:** It made cash extremely "scarce," forcing everyone to sell their silver to get dollars, which crashed the price.
     **C:** This is the same "High Rates = Low Silver" play they use today.
 
-4.  **Q: Why was China called the "Silver Sink"?**
+4.  **Q: Why was China called the "Silver Sink"?<br>**
     **A:** It was the only place left that would take all the silver being dumped by the West, preventing the price from hitting zero immediately.
 
-5.  **Q: Why did Kodak build a recycling plant?**
+5.  **Q: Why did Kodak build a recycling plant?<br>**
     **A:** To avoid paying market prices for silver and to make sure their "demand" didn't push the price up too much.
 
-6.  **Q: What is "Froth Flotation" and why did it hurt silver prices?**
+6.  **Q: What is "Froth Flotation" and why did it hurt silver prices?<br>**
     **A:** It’s a way to get silver out of "low grade" rocks. It made silver a permanent "leftover" of copper mining, so the supply never stopped.
 
-7.  **Q: Who was the "Detective" trying to save silver in 1930?**
+7.  **Q: Who was the "Detective" trying to save silver in 1930?<br>**
     **A:** Senator Key Pittman, who fought to keep the government buying silver at $1/oz.
 
-8.  **Q: How did the 1929 Crash finish the job of the 1920s?**
+8.  **Q: How did the 1929 Crash finish the job of the 1920s?<br>**
     **A:** It destroyed the "confidence" needed for any commodity to hold value, pushing silver to its all-time low of $0.28.
 
-9.  **Q: Why is the "Funnyback" 1928 bill important?**
+9.  **Q: Why is the "Funnyback" 1928 bill important?<br>**
     **A:** It was the "Last Stand" of silver-backed paper money before the Federal Reserve Notes took over completely.
 
-10. **Q: How does "Byproduct Mining" act as a price suppressor?**
+10. **Q: How does "Byproduct Mining" act as a price suppressor?<br>**
     **A:** Since miners are looking for copper, they don't care what silver is worth; they just dump it on the market as a "bonus," keeping supply high.
 
-11. **Q: What was the result of the Hilton Young Commission?**
+11. **Q: What was the result of the Hilton Young Commission?<br>**
     **A:** It effectively "Demonetized" silver for hundreds of millions of people in India.
 
-12. **Q: Why was silver nitrate so important for the "Jazz Age"?**
+12. **Q: Why was silver nitrate so important for the "Jazz Age"?<br>**
     **A:** It was the "blood" of the movie and photo industry; without it, there were no "Moving Pictures."
 
-13. **Q: How did Art Deco affect silver demand?**
+13. **Q: How did Art Deco affect silver demand?<br>**
     **A:** It made white metals (silver/platinum) fashionable, but the "recycled" supply from coins was still too big to overcome.
 
-14. **Q: What is the "Substitution Threat"?**
+14. **Q: What is the "Substitution Threat"?<br>**
     **A:** The idea that if silver gets too expensive, we will just use copper. It’s a psychological trick to keep prices down.
 
-15. **Q: Is the 1920s "Heist" still happening today?**
+15. **Q: Is the 1920s "Heist" still happening today?<br>**
     **A:** Yes. We use the same tools—interest rate hikes, government dumps, and byproduct supply—to keep silver from reflecting its true industrial value.

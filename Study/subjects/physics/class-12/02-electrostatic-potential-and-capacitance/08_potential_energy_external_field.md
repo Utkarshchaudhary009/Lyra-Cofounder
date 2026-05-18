@@ -6,7 +6,7 @@
 
 ### The Story of the Puppet and the Stage
 
-In the previous chapter, we calculated the energy of a *self-contained* system — the "cost" of assembling charges from scratch. But what happens when charges are placed into a field that *already exists*?
+In the previous chapter, we calculated the energy of a *self-contained* system — the "cost" of assembling charges from scratch. But what happens when charges are placed into a field that *already exists*?<br>
 
 Think of a puppet placed on an already-tilted stage. The stage wasn't built for the puppet — it existed before the puppet arrived. The puppet's potential energy on this stage depends on where it's placed, but it doesn't change the stage itself.
 
@@ -28,7 +28,7 @@ This is simply the definition of potential: $V = U/q$, rearranged.
 
 ### Checkpoint 1: Single Charge in an External Field
 
-**Problem 1:** An external electric field creates the following potential: $V(x) = 300 - 50x$ (where $x$ is in meters and $V$ in volts). A charge of $+4 \mu C$ is placed at $x = 2$ m. What is its potential energy?
+**Problem 1:** An external electric field creates the following potential: $V(x) = 300 - 50x$ (where $x$ is in meters and $V$ in volts). A charge of $+4 \mu C$ is placed at $x = 2$ m. What is its potential energy?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -37,7 +37,7 @@ $V(2) = 300 - 50(2) = 200$ V
 $U = qV = 4 \times 10^{-6} \times 200 = \textbf{8 × 10⁻⁴ J = 0.8 mJ}$
 </details>
 
-**Problem 2:** The charge is moved to $x = 4$ m. What is the change in potential energy? Does an external agent need to do positive or negative work?
+**Problem 2:** The charge is moved to $x = 4$ m. What is the change in potential energy?<br> Does an external agent need to do positive or negative work?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -72,13 +72,19 @@ A dipole (charges $+q$ and $-q$ separated by distance $2a$, dipole moment $\vec{
 
 Place $-q$ at position A and $+q$ at position B, where the field points from A to B. If $\theta$ is the angle between $\vec{p}$ and $\vec{E}$:
 
-$$U_{-q} = (-q)V(A) \quad \text{and} \quad U_{+q} = (+q)V(B)$$
+$$U_{-q} = (-q)V<br>
+(A) \quad \text{and} \quad U_{+q} = (+q)V<br>
+(B)$$
 
 The total energy in the external field:
 
-$$U = q[V(B) - V(A)]$$
+$$U = q[V<br>
+(B) - V<br>
+(A)]$$
 
-For a uniform field, $V(B) - V(A) = -E \times 2a\cos\theta = -E \times (2a)\cos\theta$:
+For a uniform field, $V<br>
+(B) - V<br>
+(A) = -E \times 2a\cos\theta = -E \times (2a)\cos\theta$:
 
 $$U = q \times (-E \times 2a\cos\theta) + \frac{k(+q)(-q)}{2a}$$
 
@@ -108,7 +114,7 @@ $$\boxed{\vec{\tau} = \vec{p} \times \vec{E} \implies |\tau| = pE\sin\theta}$$
 
 **The Microwave Oven Scenario:** *In a microwave oven, water molecules (electric dipoles) are subjected to a rapidly oscillating electric field. The field flips direction billions of times per second, and each flip forces the water molecules to rotate, generating heat through molecular friction.*
 
-**Problem 1:** A water molecule has a dipole moment $p = 6.2 \times 10^{-30}$ C·m. It is placed in a uniform electric field of $E = 5 \times 10^5$ V/m. What is the maximum torque experienced by the molecule?
+**Problem 1:** A water molecule has a dipole moment $p = 6.2 \times 10^{-30}$ C·m. It is placed in a uniform electric field of $E = 5 \times 10^5$ V/m. What is the maximum torque experienced by the molecule?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -121,7 +127,7 @@ $\tau_{max} = \textbf{3.1 × 10⁻²⁴ N·m}$
 Tiny — but there are $\sim 10^{25}$ molecules in a glass of water, so the collective effect is enormous.
 </details>
 
-**Problem 2:** What is the potential energy of the molecule when it is (a) aligned with the field, (b) perpendicular to the field, (c) antiparallel to the field?
+**Problem 2:** What is the potential energy of the molecule when it is (a) aligned with the field, (b) perpendicular to the field, (c) antiparallel to the field?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -134,7 +140,7 @@ Tiny — but there are $\sim 10^{25}$ molecules in a glass of water, so the coll
 $\textbf{(a) -3.1 × 10⁻²⁴ J \quad (b) 0 \quad (c) +3.1 × 10⁻²⁴ J}$
 </details>
 
-**Problem 3:** How much work must be done by an external agent to rotate the molecule from $\theta = 0°$ to $\theta = 180°$?
+**Problem 3:** How much work must be done by an external agent to rotate the molecule from $\theta = 0°$ to $\theta = 180°$?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -145,7 +151,7 @@ $W = 2 \times 3.1 \times 10^{-24} = \textbf{6.2 × 10⁻²⁴ J}$
 This work is stored as increased potential energy.
 </details>
 
-**Problem 4:** The molecule is released from $\theta = 60°$. Through what angle must it rotate to reach its minimum energy position? What is the work done by the electric field during this rotation?
+**Problem 4:** The molecule is released from $\theta = 60°$. Through what angle must it rotate to reach its minimum energy position?<br> What is the work done by the electric field during this rotation?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -196,9 +202,9 @@ This is the general formula. All specific cases can be derived from it:
 **Synthesis Problem:** An electric dipole consists of charges $+20$ nC and $-20$ nC separated by $1$ mm. It is placed in an external uniform electric field of $5 \times 10^4$ V/m.
 
 (a) Calculate the dipole moment.  
-(b) If the dipole is initially perpendicular to the field, what is its initial potential energy and torque?  
-(c) The dipole is released and swings to align with the field. What is the angular velocity at the aligned position, assuming the moment of inertia of the dipole about its center is $I = 5 \times 10^{-18}$ kg·m²?  
-(d) Does the dipole overshoot and oscillate, or does it stop at $\theta = 0°$?
+(b) If the dipole is initially perpendicular to the field, what is its initial potential energy and torque?<br>  
+(c) The dipole is released and swings to align with the field. What is the angular velocity at the aligned position, assuming the moment of inertia of the dipole about its center is $I = 5 \times 10^{-18}$ kg·m²?<br>  
+(d) Does the dipole overshoot and oscillate, or does it stop at $\theta = 0°$?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -377,7 +383,7 @@ $U = qV = 5\times10^{-6}\times300 = \mathbf{1.5\times10^{-3}\,J = 1.5\,mJ}$
 
 ---
 
-**Q18.** Why does a dipole oscillate when displaced from its equilibrium in a uniform electric field? Derive the period of oscillation.
+**Q18.** Why does a dipole oscillate when displaced from its equilibrium in a uniform electric field?<br> Derive the period of oscillation.
 
 <details><summary><b>Answer</b></summary>
 
@@ -398,7 +404,9 @@ The dipole acts like a torsional pendulum, oscillating about the field direction
 
 <details><summary><b>Answer</b></summary>
 
-$U = q_1V(A) + q_2V(B) + \frac{kq_1q_2}{r_{AB}}$
+$U = q_1V<br>
+(A) + q_2V<br>
+(B) + \frac{kq_1q_2}{r_{AB}}$
 
 $U = 2\times10^{-6}\times100 + (-3\times10^{-6})\times(-200) + \frac{9\times10^9\times2\times10^{-6}\times(-3\times10^{-6})}{0.5}$
 
@@ -500,7 +508,7 @@ $T = 2\pi\times10^{-6.5} = 2\pi\times3.16\times10^{-7} = \mathbf{1.99\times10^{-
 
 ---
 
-**Q26.** At what angle does the potential energy of a dipole equal half of its maximum value?
+**Q26.** At what angle does the potential energy of a dipole equal half of its maximum value?<br>
 
 <details><summary><b>Answer</b></summary>
 
@@ -518,7 +526,7 @@ $KE = U_{60°} - U_{0°} = -pE\cos60° - (-pE\cos0°) = -pE/2 + pE = \mathbf{pE/
 
 ---
 
-**Q28.** Explain the significance of $U = -\vec{p}\cdot\vec{E}$. Why does alignment with the field give minimum energy?
+**Q28.** Explain the significance of $U = -\vec{p}\cdot\vec{E}$. Why does alignment with the field give minimum energy?<br>
 
 <details><summary><b>Answer</b></summary>
 

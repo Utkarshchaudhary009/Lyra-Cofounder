@@ -34,7 +34,7 @@ The NASDAQ Composite peaked at 5,048.62 on March 10, 2000, having risen 600% fro
 
 ## 1. Overview and Timeline
 
-### What Was the Dot-Com Bubble?
+### What Was the Dot-Com Bubble?<br>
 
 The dot-com bubble (also called the "Internet bubble" or "information technology bubble") was a speculative stock market bubble that formed in the late 1990s due to extreme overvaluation of internet-based companies. It was characterized by:
 
@@ -585,7 +585,7 @@ Investment banks had massive conflicts of interest:
 
 ## 9. The Crash Mechanics
 
-### What Actually Triggered the Crash?
+### What Actually Triggered the Crash?<br>
 
 The crash wasn't a single event but a confluence of factors:
 

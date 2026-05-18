@@ -42,7 +42,7 @@
 *   **The Legacy:** From Bofors to AgustaWestland, defense deals are often clouded by corruption scandals.
 *   **The Result:** Officials are scared to sign new deals (fear of jail), leading to "Decision Paralysis." The army waits, and the files gather dust.
 
-## 10. Synthesis: Are We Ready?
+## 10. Synthesis: Are We Ready?<br>
 1.  **Brave Soldiers, Old Gear:** Our troops are world-class, but their equipment is often a generation behind.
 2.  **Too Slow:** Our procurement takes 10 years; modern warfare changes in 10 months (Drones/AI).
 3.  **Dependent:** We cannot fight a long war without foreign help.

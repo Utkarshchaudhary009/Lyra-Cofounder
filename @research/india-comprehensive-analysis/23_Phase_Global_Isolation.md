@@ -24,7 +24,7 @@
 *   **The Benefit:** It kept inflation low in India.
 *   **The Cost:** It burned diplomatic capital with Europe. As the Ukraine war drags on, the pressure to "pick a side" will increase.
 
-## 7. The Diaspora: Asset or Liability?
+## 7. The Diaspora: Asset or Liability?<br>
 *   **The Power:** Indians are CEOs of Google, Microsoft, and World Bank.
 *   **The Backlash:** In countries like Canada, the large Indian presence is facing local backlash over housing and jobs. The "Model Minority" is becoming a political target.
 
@@ -36,7 +36,7 @@
 *   **The Demand:** India argues the West should pay for climate change damage.
 *   **The Reality:** The money isn't coming. India will have to pay for its own green transition while the West puts "Carbon Taxes" on our exports.
 
-## 10. Synthesis: Alone in a Polarized World?
+## 10. Synthesis: Alone in a Polarized World?<br>
 1.  **Too Big to Ignore:** The world needs India's market.
 2.  **Too Independent to Trust:** We don't fully align with the US or Russia.
 3.  **The Risk:** In a war or crisis, "Neutrality" might mean **No Allies**. We are trying to be friends with everyone, which might end up with no one having our back.

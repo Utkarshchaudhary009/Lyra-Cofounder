@@ -135,48 +135,48 @@ By 2020, the cracks began to show. Deutsche Bank turned on its co-conspirators, 
 
 ## 7. COMPREHENSION CHECK (Critical Thinking)
 
-1.  **Q:** Why did J.P. Morgan suppress the price of silver if they wanted to own it?
+1.  **Q:** Why did J.P. Morgan suppress the price of silver if they wanted to own it?<br>
     *   **A:** To buy it cheap. By keeping the paper price low, they could accumulate physical silver at a discount for a decade.
-    *   **C:** *Does this mean the "price explosion" will only happen when JPM decides it's time to sell?*
-2.  **Q:** Why didn't the CFTC stop the spoofing earlier if Andrew Maguire told them about it?
+    *   **C:** *Does this mean the "price explosion" will only happen when JPM decides it's time to sell?<br>*
+2.  **Q:** Why didn't the CFTC stop the spoofing earlier if Andrew Maguire told them about it?<br>
     *   **A:** Regulatory Capture. The regulators often come from the banks they regulate, or fear their legal power (as seen in the ISDA lawsuit).
-    *   **C:** *If the U.S. regulator is captured, will the "real" price discovery come from a different country (like China)?*
-3.  **Q:** What is the difference between an "Allocated" and "Unallocated" account?
+    *   **C:** *If the U.S. regulator is captured, will the "real" price discovery come from a different country (like China)?<br>*
+3.  **Q:** What is the difference between an "Allocated" and "Unallocated" account?<br>
     *   **A:** Allocated means you own specific bars. Unallocated means you are an unsecured creditor of the bank (you own an IOU).
-    *   **C:** *If everyone asked for their "Unallocated" silver at once, would there be enough metal to pay them? (See Phase 46: Regulatory Failures).*
-4.  **Q:** How does "spoofing" hurt a regular investor?
+    *   **C:** *If everyone asked for their "Unallocated" silver at once, would there be enough metal to pay them?<br> (See Phase 46: Regulatory Failures).*
+4.  **Q:** How does "spoofing" hurt a regular investor?<br>
     *   **A:** It triggers "stop-loss" orders. The fake crash forces you to sell your silver automatically at a loss, which the bank then buys cheap.
-    *   **C:** *Is it safer to hold physical metal where "stop-losses" don't exist?*
-5.  **Q:** Why is the LBMA "accounting error" of 3,300 tonnes suspicious?
+    *   **C:** *Is it safer to hold physical metal where "stop-losses" don't exist?<br>*
+5.  **Q:** Why is the LBMA "accounting error" of 3,300 tonnes suspicious?<br>
     *   **A:** It happened right when the #SilverSqueeze was demanding physical delivery. The "error" made it look like there was plenty of silver, calming the panic.
-    *   **C:** *Was it an error, or a deliberate "data hallucination" to prevent a bank run?*
-6.  **Q:** What happened to Bear Stearns' silver short position?
+    *   **C:** *Was it an error, or a deliberate "data hallucination" to prevent a bank run?<br>*
+6.  **Q:** What happened to Bear Stearns' silver short position?<br>
     *   **A:** It didn't disappear; it was transferred to J.P. Morgan, who managed it for years before converting it into a physical hoard.
-    *   **C:** *Did the U.S. government pay JPM to take over the "criminal" position to save the system?*
-7.  **Q:** Why did the banks sue the CFTC over "Position Limits"?
+    *   **C:** *Did the U.S. government pay JPM to take over the "criminal" position to save the system?<br>*
+7.  **Q:** Why did the banks sue the CFTC over "Position Limits"?<br>
     *   **A:** Because if position limits existed, no single bank could hold a "concentrated short" large enough to manipulate the price.
-    *   **C:** *Does the lack of limits mean the market is still rigged today?*
-8.  **Q:** What is the "Paper Ceiling"?
+    *   **C:** *Does the lack of limits mean the market is still rigged today?<br>*
+8.  **Q:** What is the "Paper Ceiling"?<br>
     *   **A:** The unlimited supply of paper silver contracts that can be sold to absorb any amount of buying demand, preventing the price from rising.
-    *   **C:** *Can the Paper Ceiling break if investors demand physical delivery instead of paper shares?*
-9.  **Q:** Why are "Authorized Participants" (APs) important in the SLV ETF?
+    *   **C:** *Can the Paper Ceiling break if investors demand physical delivery instead of paper shares?<br>*
+9.  **Q:** Why are "Authorized Participants" (APs) important in the SLV ETF?<br>
     *   **A:** They are the only ones allowed to swap paper for physical. They act as the "relief valve" to manage the price.
-    *   **C:** *If the APs run out of silver, what happens to the price of the SLV shares vs. real silver?*
-10. **Q:** What did the Deutsche Bank chat logs reveal about "free markets"?
+    *   **C:** *If the APs run out of silver, what happens to the price of the SLV shares vs. real silver?<br>*
+10. **Q:** What did the Deutsche Bank chat logs reveal about "free markets"?<br>
     *   **A:** That they don't exist in silver. Prices were set by private collusion ("mafia"), not supply and demand.
-    *   **C:** *Are other markets (gold, oil) rigged the same way?*
-11. **Q:** Why is "Leasing" silver a problem for price discovery?
+    *   **C:** *Are other markets (gold, oil) rigged the same way?<br>*
+11. **Q:** Why is "Leasing" silver a problem for price discovery?<br>
     *   **A:** It allows the same ounce of silver to be sold to two people. The owner "leases" it to a short seller, who sells it to a buyer. Both think they own it.
-    *   **C:** *What happens when the lease ends and the owner wants their silver back?*
-12. **Q:** How did the 2011 crash mimic the 1980 Hunt Brothers crash?
+    *   **C:** *What happens when the lease ends and the owner wants their silver back?<br>*
+12. **Q:** How did the 2011 crash mimic the 1980 Hunt Brothers crash?<br>
     *   **A:** Both were triggered by a sudden increase in "margin requirements" (changing the rules) by the exchange, forcing traders to sell.
-    *   **C:** *Who controls the exchange, and whose side are they on?*
-13. **Q:** Why did J.P. Morgan pay a $920 million fine?
+    *   **C:** *Who controls the exchange, and whose side are they on?<br>*
+13. **Q:** Why did J.P. Morgan pay a $920 million fine?<br>
     *   **A:** To settle criminal charges of spoofing. It was a "cost of doing business" compared to the billions they likely made.
-    *   **C:** *If the fine is less than the profit, is it really a punishment?*
-14. **Q:** What is the "Road to Roota"?
+    *   **C:** *If the fine is less than the profit, is it really a punishment?<br>*
+14. **Q:** What is the "Road to Roota"?<br>
     *   **A:** A theory that the "good guys" are secretly trying to crash the fiat system and return to a silver standard, using the suppression to prepare for it.
-    *   **C:** *Is the suppression malicious, or is it a controlled demolition of the dollar?*
-15. **Q:** What is the "Silver Squeeze"?
+    *   **C:** *Is the suppression malicious, or is it a controlled demolition of the dollar?<br>*
+15. **Q:** What is the "Silver Squeeze"?<br>
     *   **A:** A movement by retail investors to buy all the *physical* silver to force the banks to cover their *paper* shorts.
-    *   **C:** *Did the banks change the rules (SLV prospectus) because the squeeze was working?*
+    *   **C:** *Did the banks change the rules (SLV prospectus) because the squeeze was working?<br>*

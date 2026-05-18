@@ -6,7 +6,7 @@
 
 ## 🎯 Short Answer Type (SA) — 2 & 3 Marks
 
-**Q1.** 🟡 Alloys of metals usually have (greater/less) resistivity than that of their constituent metals. Why?
+**Q1.** 🟡 Alloys of metals usually have (greater/less) resistivity than that of their constituent metals. Why?<br>
 
 <details>
 <summary><b>Model Answer</b></summary>
@@ -16,8 +16,8 @@ Alloys usually have **greater** resistivity than their constituent metals.
 </details>
 
 **Q2.** 🟡 A straight line plot showing the terminal potential difference ($V$) of a cell as a function of current ($I$) drawn from it is given. The y-intercept is $1.5\text{V}$ and x-intercept is $1.5\text{A}$.
-(a) What is the EMF of the cell?
-(b) What is the internal resistance of the cell?
+(a) What is the EMF of the cell?<br>
+(b) What is the internal resistance of the cell?<br>
 
 <details>
 <summary><b>Model Answer</b></summary>
@@ -30,7 +30,7 @@ At $V = 0$, $0 = \varepsilon - Ir \implies r = \varepsilon / I$.
 Given $I = 1.5\text{A}$ at the intercept, $r = 1.5\text{V} / 1.5\text{A} = \mathbf{1.0\text{ } \Omega}$.
 </details>
 
-**Q3.** 🟡 Is the momentum conserved when charge crosses a junction in an electric circuit? Why or why not?
+**Q3.** 🟡 Is the momentum conserved when charge crosses a junction in an electric circuit?<br> Why or why not?<br>
 
 <details>
 <summary><b>Model Answer</b></summary>
@@ -52,7 +52,7 @@ Given $I = 1.5\text{A}$ at the intercept, $r = 1.5\text{V} / 1.5\text{A} = \math
 
 ## 🎯 Long Answer Type (LA) — 5 Marks
 
-**Q5.** 🔴 Two cells of same emf $E$ but internal resistance $r_1$ and $r_2$ are connected in series to an external resistor $R$ (Fig). What should be the value of $R$ so that the potential difference across the terminals of the first cell becomes zero?
+**Q5.** 🔴 Two cells of same emf $E$ but internal resistance $r_1$ and $r_2$ are connected in series to an external resistor $R$ (Fig). What should be the value of $R$ so that the potential difference across the terminals of the first cell becomes zero?<br>
 
 <details>
 <summary><b>Model Answer</b></summary>

@@ -1,6 +1,6 @@
 # Chapter 9: Applied — The Countdown Situation
 
-> *"I met a genuinely good person. In 7 months we won't see each other. What do I do?"*
+> *"I met a genuinely good person. In 7 months we won't see each other. What do I do?<br>"*
 >
 > This is where theory meets a real decision. Let's question every part of it.
 
@@ -10,35 +10,35 @@
 
 You said "genuinely good person." Before we go anywhere — let's test this.
 
-### How do you know they're genuinely good?
+### How do you know they're genuinely good?<br>
 
-**Question 1: How long have you known them?**
+**Question 1: How long have you known them?<br>**
 
 If it's been less than 90 days of real, below-the-surface interaction — you don't know yet. You know their **presentation.** You know the version of them that shows up when they're trying to be liked. That's a trailer, not the movie.
 
 If it's been longer and you've seen them under stress, in conflict, in boredom, handling power over others, and being consistent across contexts — then you have real data. That's different.
 
-**Question 2: Have you seen them in ANY of the testing conditions?**
+**Question 2: Have you seen them in ANY of the testing conditions?<br>**
 
-- Under genuine stress? (Not "exam stress" — real personal difficulty)
-- In conflict with you or someone else?
-- When they had an advantage over someone and could have exploited it?
-- Bored, with nothing to prove and no one to impress?
-- Responding to YOUR success or good news?
+- Under genuine stress?<br> (Not "exam stress" — real personal difficulty)
+- In conflict with you or someone else?<br>
+- When they had an advantage over someone and could have exploited it?<br>
+- Bored, with nothing to prove and no one to impress?<br>
+- Responding to YOUR success or good news?<br>
 
 If yes to several → you have signal.
 If mostly no → you have chemistry and projection. You're filling in the blanks with what you WANT them to be.
 
-**Question 3: Are you sure it's CHARACTER you're seeing, or NOVELTY?**
+**Question 3: Are you sure it's CHARACTER you're seeing, or NOVELTY?<br>**
 
 School is a contained environment. Someone who seems exceptional in a small pond might be average in a larger one — or they might genuinely be exceptional. But your sample size of people at your current age is limited. "The best person I've met" might mean "the best of 50 people I've interacted with closely." That's a very small dataset.
 
 This isn't to dismiss your experience. It's to make sure the foundation is honest before you build on it.
 
 > **Ask yourself this:**
-> *If I remove the emotional charge — the excitement, the countdown pressure, the novelty — and I look at this person's actual observable behavior over the time I've known them, what do I concretely see?*
+> *If I remove the emotional charge — the excitement, the countdown pressure, the novelty — and I look at this person's actual observable behavior over the time I've known them, what do I concretely see?<br>*
 
-Write it down. Not feelings. **Behaviors.** What have they DONE that signals genuine character?
+Write it down. Not feelings. **Behaviors.** What have they DONE that signals genuine character?<br>
 
 ---
 
@@ -60,7 +60,7 @@ Here's the mechanism:
 
 ### The diagnostic question:
 
-> *If this person was going to be in my life indefinitely — no countdown, no separation — would I feel the SAME urgency and intensity?*
+> *If this person was going to be in my life indefinitely — no countdown, no separation — would I feel the SAME urgency and intensity?<br>*
 
 If YES → your feelings may be about the person genuinely.
 If NO → a significant portion of what you're feeling is the countdown, not the person. The timer is creating artificial scarcity that inflates perceived value.
@@ -79,7 +79,7 @@ Now let's take apart this phrase. Because it's one of the most misunderstood ide
 
 ### Questioning it:
 
-**Question 1: What does "right person" mean if the time is wrong?**
+**Question 1: What does "right person" mean if the time is wrong?<br>**
 
 A person is not evaluated in a vacuum. A person is evaluated **in context** — your life stage, their life stage, mutual availability, geographic possibility, emotional readiness, life direction.
 
@@ -87,25 +87,25 @@ If YOU are 17 and haven't figured out who you are yet — their "rightness" for 
 
 If THEY are in the same stage — both of you are incomplete variables. Declaring the equation "right" when neither variable has settled is premature.
 
-**Question 2: Is "wrong time" actually a REAL obstacle or a shorthand for "it doesn't work"?**
+**Question 2: Is "wrong time" actually a REAL obstacle or a shorthand for "it doesn't work"?<br>**
 
 Let's be precise about what "wrong time" means in YOUR situation:
 
 - You're in school (likely 16-20 range — the Learning Phase from Chapter 4)
 - You have 7 months before separation
-- After separation, what happens? Different cities? Different colleges? Different life priorities?
+- After separation, what happens?<br> Different cities?<br> Different colleges?<br> Different life priorities?<br>
 
 "Wrong time" means: **the practical conditions for a sustained partnership don't exist.**
 
 And here's the hard truth: **practical conditions ARE part of compatibility.** They're not separate from it. A person you can't actually be with — because of geography, life stage, readiness, or circumstances — is not "right for you." They're a person with good character who exists outside the conditions required for partnership.
 
-**Question 3: Is "right person, wrong time" sometimes just a kinder way of saying "it doesn't work"?**
+**Question 3: Is "right person, wrong time" sometimes just a kinder way of saying "it doesn't work"?<br>**
 
 Often, yes. It's a narrative that preserves the romantic ideal while accepting the practical failure. It lets both people walk away with the story that the connection was real but fate was cruel — rather than the more mundane truth: **life didn't align, and alignment is not optional.**
 
 ### BUT — and this matters:
 
-**Does this mean the connection is meaningless?**
+**Does this mean the connection is meaningless?<br>**
 
 Absolutely not. This is where the phrase breaks down AND where a more honest understanding rises:
 
@@ -129,7 +129,7 @@ Most people walk into their first serious commitment with ZERO data on what a go
 
 ## 9.4 The Practical Options
 
-So what do you actually DO? Let's lay out every option and question each one.
+So what do you actually DO?<br> Let's lay out every option and question each one.
 
 ---
 
@@ -149,7 +149,7 @@ So what do you actually DO? Let's lay out every option and question each one.
 - Long-distance rarely works at this age — it's hard enough for adults with mature brains, established lives, and financial independence
 
 **Question to ask yourself:**
-> *"Am I emotionally equipped to fully enjoy 7 months AND fully let go afterward without it wrecking me?"*
+> *"Am I emotionally equipped to fully enjoy 7 months AND fully let go afterward without it wrecking me?<br>"*
 
 Be HONEST. Not the brave answer. The true one. If you're someone who attaches deeply and detaches slowly — 7 months of deepening connection followed by abrupt separation is a setup for extended suffering.
 
@@ -174,7 +174,7 @@ Be HONEST. Not the brave answer. The true one. If you're someone who attaches de
 - They may move on with someone else (but if your connection is genuinely good, this shouldn't feel like ownership)
 
 **Question to ask yourself:**
-> *"Can I appreciate this person's presence in my life without needing to possess it?"*
+> *"Can I appreciate this person's presence in my life without needing to possess it?<br>"*
 
 ---
 
@@ -189,10 +189,10 @@ This is the most mature option regardless of which path you take.
 - Decide TOGETHER — because this is mutual selection, not your unilateral choice
 
 **What this reveals:**
-- Their maturity (can they handle this conversation?)
-- Their interest (are they in the same place as you?)
-- Their character (do they respond with honesty and thoughtfulness, or avoidance and game-playing?)
-- Your own maturity (can YOU handle whatever they say?)
+- Their maturity (can they handle this conversation?<br>)
+- Their interest (are they in the same place as you?<br>)
+- Their character (do they respond with honesty and thoughtfulness, or avoidance and game-playing?<br>)
+- Your own maturity (can YOU handle whatever they say?<br>)
 
 **The key:** This conversation is not about getting a specific outcome. It's about **honesty as a value.** Whatever follows from honesty is better than what follows from assumption, projection, or silence.
 
@@ -257,11 +257,11 @@ A "right person at the wrong time" is someone who **made you more prepared for t
 
 | Question | Answer After Questioning |
 |----------|------------------------|
-| Are they genuinely good? | Check: Have you observed character under stress, conflict, and boredom — or only chemistry in comfortable conditions? |
-| Is the countdown distorting your judgment? | Almost certainly yes. Scarcity inflates perceived value. Separate signal from noise. |
-| What does "right person, wrong time" mean? | Conditions are part of compatibility. A person you can't be with isn't "right" — they're valuable but not available for partnership. |
-| What should you do? | Option C (honest conversation) is the most mature path regardless. But your primary job at this age is self-building — and this person may be a reference point, not a destination. |
-| Is this connection meaningless if it doesn't last? | No. It's a reference point for every future choice. That's not a consolation prize — it's a foundation. |
+| Are they genuinely good?<br> | Check: Have you observed character under stress, conflict, and boredom — or only chemistry in comfortable conditions?<br> |
+| Is the countdown distorting your judgment?<br> | Almost certainly yes. Scarcity inflates perceived value. Separate signal from noise. |
+| What does "right person, wrong time" mean?<br> | Conditions are part of compatibility. A person you can't be with isn't "right" — they're valuable but not available for partnership. |
+| What should you do?<br> | Option C (honest conversation) is the most mature path regardless. But your primary job at this age is self-building — and this person may be a reference point, not a destination. |
+| Is this connection meaningless if it doesn't last?<br> | No. It's a reference point for every future choice. That's not a consolation prize — it's a foundation. |
 
 ---
 

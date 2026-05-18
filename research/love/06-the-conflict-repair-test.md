@@ -30,7 +30,7 @@ Most tests require time, multiple scenarios, and patience. This one generates hi
 - They make you grovel, wait, or perform penance before they'll engage
 - They use your vulnerability as ammunition: "See, YOU know you were wrong"
 - They extend punishment — silent treatment continues even though you showed up
-- They extract concessions: "So does this mean you'll stop doing X?"
+- They extract concessions: "So does this mean you'll stop doing X?<br>"
 - They weaponize your effort: "It took you long enough"
 - They dismiss your attempt and make you try harder
 - They bring up past conflicts to pile on
@@ -100,9 +100,9 @@ They don't need you to be the relationship's maintenance department. They carry 
 
 This is the sharpest question we can ask about this dynamic:
 
-> *When you go to fix things and the other person seems happy/relieved — is it because they genuinely value YOU and your effort? Or is it because the conflict created dopamine scarcity and your return simply restores their supply?*
+> *When you go to fix things and the other person seems happy/relieved — is it because they genuinely value YOU and your effort?<br> Or is it because the conflict created dopamine scarcity and your return simply restores their supply?<br>*
 
-**In plain terms:** Are they happy to see YOU? Or happy to stop hurting?
+**In plain terms:** Are they happy to see YOU?<br> Or happy to stop hurting?<br>
 
 ### Why This Matters Enormously
 
@@ -114,14 +114,14 @@ This is the sharpest question we can ask about this dynamic:
 
 | Indicator | Genuine Appreciation | Dopamine Relief |
 |-----------|---------------------|-----------------|
-| After repair, do they discuss what happened? | Yes — they process, identify roots, want to understand | No — they want to "move on" immediately, act like nothing happened |
-| Do they change behavior? | Observable adjustments appear | Same pattern repeats within days/weeks |
-| Do they reference your effort later? | "I really respected that you came to me" — days or weeks after | Never mentioned again — forgotten once pain stopped |
-| Is the warmth sustained? | Gradual, genuine return to normalcy with deeper understanding | Immediate "honeymoon" burst that fades quickly back to cold baseline |
-| Do THEY initiate repair next time? | Yes — your modeling taught them something | No — they always wait. Your return is the expected default |
-| During conflict, were they processing or just suffering? | Reflecting on the actual problem | Just enduring discomfort, waiting for it to stop |
+| After repair, do they discuss what happened?<br> | Yes — they process, identify roots, want to understand | No — they want to "move on" immediately, act like nothing happened |
+| Do they change behavior?<br> | Observable adjustments appear | Same pattern repeats within days/weeks |
+| Do they reference your effort later?<br> | "I really respected that you came to me" — days or weeks after | Never mentioned again — forgotten once pain stopped |
+| Is the warmth sustained?<br> | Gradual, genuine return to normalcy with deeper understanding | Immediate "honeymoon" burst that fades quickly back to cold baseline |
+| Do THEY initiate repair next time?<br> | Yes — your modeling taught them something | No — they always wait. Your return is the expected default |
+| During conflict, were they processing or just suffering?<br> | Reflecting on the actual problem | Just enduring discomfort, waiting for it to stop |
 
-### The Verdict: Is Some Relief Okay?
+### The Verdict: Is Some Relief Okay?<br>
 
 **Some dopamine-relief is NORMAL and not a red flag.** Of course they feel relief when conflict ends. Of course some happiness is "the pain stopped." That's human. You'd feel the same.
 
@@ -129,7 +129,7 @@ This is the sharpest question we can ask about this dynamic:
 
 The diagnostic question:
 
-> *After we repair, does the relationship EVOLVE (new understanding, adjusted behavior, deeper trust) or does it RESET (back to exactly where it was, same patterns, nothing learned)?*
+> *After we repair, does the relationship EVOLVE (new understanding, adjusted behavior, deeper trust) or does it RESET (back to exactly where it was, same patterns, nothing learned)?<br>*
 
 - **Evolve** = genuine appreciation was present. The conflict was metabolized, not just endured.
 - **Reset** = dopamine-relief only. They didn't value the repair — they valued the end of discomfort.
@@ -172,7 +172,7 @@ This is fear, not character. Character would be the ability to sit with the disc
 
 ### The Diagnostic
 
-> *Am I going to them because I WANT to (I value this bond) or because I HAVE to (I can't handle the alternative)?*
+> *Am I going to them because I WANT to (I value this bond) or because I HAVE to (I can't handle the alternative)?<br>*
 
 - **Want** = character
 - **Have to** = dependency wearing a character costume
@@ -195,7 +195,7 @@ This is fear, not character. Character would be the ability to sit with the disc
 | Response B (appreciate) | Connection over power — safe person |
 | Response C (match effort) | Equal partnership — platinum standard |
 | Repair ratio | Track over 10+ conflicts. 80/20 or worse = unsustainable |
-| Appreciation vs. relief | Does the relationship EVOLVE after repair or RESET? |
+| Appreciation vs. relief | Does the relationship EVOLVE after repair or RESET?<br> |
 | Relief-addiction cycle | Post-conflict honeymoon that decays = loop, not growth |
 | Your character | Going to repair is character ONLY when it's a choice, not a compulsion |
 | The stop signal | 5 times you go, they never come → stop going. That's data, not punishment |

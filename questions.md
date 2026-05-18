@@ -6,7 +6,7 @@ when your friend make fun, you laugh too. but if he make your fun around othger 
 Act as a stanger means not revolving around them... if by consident i meet, be warm. else focus on you life and other people.
 wthout that person i will lose the power she gacve me.= free from it, indendent.
 
-what is rhetoric?
+what is rhetoric?<br>
 
 WHERE ARE WE GONA GET THAT PERSON. 
 

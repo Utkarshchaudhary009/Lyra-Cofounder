@@ -61,15 +61,15 @@ A great cofounder multiplies success probability exponentially. Only 4 of YC's t
 ## First Principles Thinking
 
 **The Process:**
-1. **Identify assumptions** — What are we taking for granted?
+1. **Identify assumptions** — What are we taking for granted?<br>
 2. **Break down the problem** — Question until you reach fundamental truths
 3. **Create new solutions** — Build from the ground up, unconstrained by convention
 
 **First Principles vs. Analogy:**
 | Analogy (Trap) | First Principles (Liberation) |
 |----------------|------------------------------|
-| "Competitors do X" | "What is fundamentally true?" |
-| "Industry best practice" | "What are we actually trying to achieve?" |
+| "Competitors do X" | "What is fundamentally true?<br>" |
+| "Industry best practice" | "What are we actually trying to achieve?<br>" |
 | Incremental improvement | Disruptive innovation |
 
 ## Standing for What's Right

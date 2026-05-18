@@ -103,7 +103,7 @@ But here is the twist: JP Morgan, the architect of the paper crash, didn't run a
 *   **INSIGHT:** **The "Ex-Post" Accumulation Strategy** - [Connection to Phase 60]. This era proves that price crashes are not "failures" for the banks; they are **acquisition strategies**. When the price crashes, the physical metal flows from the public to the banks. This is the exact mechanism being used today in 2024/2025.
 
 ### 6. Comprehension Check (Critical Thinking)
-**Q:** If the price of silver dropped 60% from 2011 to 2015, why did the US Mint have to ration sales and suspend production due to "unprecedented demand"?
+**Q:** If the price of silver dropped 60% from 2011 to 2015, why did the US Mint have to ration sales and suspend production due to "unprecedented demand"?<br>
 **A:** Because the "price" on the screen (the Paper Price) was decoupling from reality. The low paper price stimulated massive physical demand that the real market couldn't supply, proving the price was artificial.
 
-**C:** Phase 24 saw the banks buying silver. But what happens when the banks decide they have *enough* silver and want the price to go up? Proceed to Phase 25...
+**C:** Phase 24 saw the banks buying silver. But what happens when the banks decide they have *enough* silver and want the price to go up?<br> Proceed to Phase 25...

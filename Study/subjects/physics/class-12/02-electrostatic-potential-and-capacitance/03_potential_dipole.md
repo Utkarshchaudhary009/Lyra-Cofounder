@@ -73,7 +73,7 @@ $V = \textbf{0.0558 V ≈ 55.8 mV}$
 At 1 nm from a single water molecule, the potential is about 56 millivolts — small but very much measurable.
 </details>
 
-**Problem 2:** What is the potential at the same distance, but on the equatorial line?
+**Problem 2:** What is the potential at the same distance, but on the equatorial line?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -84,7 +84,7 @@ $V = \frac{1}{4\pi\epsilon_0} \frac{p \cos 90°}{r^2} = \textbf{0}$
 The potential is exactly zero on the equatorial plane. This doesn't mean there's no electric field there — the equatorial field is very much nonzero. It just means the potential contributions from $+q$ and $-q$ cancel at every equatorial point.
 </details>
 
-**Problem 3:** At what angle $\theta$ does the potential drop to half its axial value (at the same $r$)?
+**Problem 3:** At what angle $\theta$ does the potential drop to half its axial value (at the same $r$)?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -110,7 +110,7 @@ $p = q \times 2a = 5 \times 10^{-9} \times 2 \times 10^{-3} = \textbf{1 × 10⁻
 
 *She places a detector on the axial line, 10 cm from the center.*
 
-**Problem 2:** What potential does the detector read? Verify that $r \gg a$ holds.
+**Problem 2:** What potential does the detector read?<br> Verify that $r \gg a$ holds.
 
 <details><summary><b>Solution</b></summary>
 
@@ -121,7 +121,7 @@ $V = \frac{kp}{r^2} = \frac{9 \times 10^9 \times 10^{-11}}{(0.1)^2} = \frac{9 \t
 
 *She moves the detector to 20 cm on the axis.*
 
-**Problem 3:** What is the new potential reading? By what factor did the potential change?
+**Problem 3:** What is the new potential reading?<br> By what factor did the potential change?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -132,7 +132,7 @@ Factor of change: $9/2.25 = \textbf{4}$. Doubling the distance reduced the poten
 
 *The detector is now placed at 10 cm from the center, but at $\theta = 45°$ from the axis.*
 
-**Problem 4:** What does the detector read now?
+**Problem 4:** What does the detector read now?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -165,7 +165,7 @@ $V = \textbf{6.36 V}$
 (a) Find the potential at the point $(0.3, 0)$ m (on the axis).  
 (b) Find the potential at the point $(0, 0.3)$ m (on the equatorial line).  
 (c) Find the potential at the point $(0.3, 0.3)$ m.  
-(d) A $+2 \mu C$ charge is brought from infinity to the equatorial point in (b). How much work is done?
+(d) A $+2 \mu C$ charge is brought from infinity to the equatorial point in (b). How much work is done?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -255,7 +255,7 @@ No work is needed! Despite the electric field being nonzero along the equatorial
 
 ---
 
-**Q6.** For which of the following does a dipole NOT create any potential?
+**Q6.** For which of the following does a dipole NOT create any potential?<br>
 
 (a) Axial points &emsp; (b) Points on the perpendicular bisector &emsp; (c) Points at $\theta = 45°$ &emsp; (d) Points at $\theta = 30°$
 
@@ -321,7 +321,7 @@ No work is needed! Despite the electric field being nonzero along the equatorial
 
 ---
 
-**Q12.** At what angle does the dipole potential equal half of its maximum value (for same $r$)?
+**Q12.** At what angle does the dipole potential equal half of its maximum value (for same $r$)?<br>
 
 (a) $30°$ &emsp; (b) $45°$ &emsp; (c) $60°$ &emsp; (d) $90°$
 
@@ -582,7 +582,7 @@ $V_b = kp\cos90°/r^2 = 0$
 
 (a) Find the torque acting on it.
 (b) Find the potential energy.
-(c) What is the work done to rotate it by $60°$ further?
+(c) What is the work done to rotate it by $60°$ further?<br>
 
 <details><summary><b>Answer</b></summary>
 
@@ -646,9 +646,9 @@ $p = 18/(9\times10^9) = 2\times10^{-9}$ C·m $= \mathbf{2\,\text{nC·m}}$
 
 **Q32.** Two charges $+q$ and $-q$ are placed at $(0, 0, a)$ and $(0, 0, -a)$ respectively. A third charge $+Q$ is placed at the origin.
 
-(a) Is the system a dipole? What is its dipole moment?
+(a) Is the system a dipole?<br> What is its dipole moment?<br>
 (b) Find the potential at $(x, 0, 0)$ for large $x$.
-(c) What does this tell you about the leading-order behavior of the potential?
+(c) What does this tell you about the leading-order behavior of the potential?<br>
 
 <details><summary><b>Answer</b></summary>
 

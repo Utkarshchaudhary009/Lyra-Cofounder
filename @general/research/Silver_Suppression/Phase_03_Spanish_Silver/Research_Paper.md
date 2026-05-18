@@ -44,7 +44,7 @@
 *   **The Suppression Seed(atleast 100 words):** **Fiat Currency.** This was one of the first major experiments in "fiat" money—money that has value only because the King says so, not because of what it's made of. It led to hyperinflation in Spain.
 
 #### Clue 5: The China "Suction Pump"
-*   **The Simple Truth(atleast 150 words):** Why didn't silver become totally worthless immediately? Because China wanted it. China had moved its tax system to silver, but they had no silver mines. They sucked up all the silver Spain could dig up.
+*   **The Simple Truth(atleast 150 words):** Why didn't silver become totally worthless immediately?<br> Because China wanted it. China had moved its tax system to silver, but they had no silver mines. They sucked up all the silver Spain could dig up.
 *   **The Hard Evidence:**
     *   **Arbitrage:** In China, gold was cheap and silver was expensive. The Gold:Silver ratio was **1:6** (vs 1:12 in Europe).
     *   **Trade:** The "Manila Galleons" shipped silver from Acapulco directly to the Philippines to trade for Chinese silk and porcelain.
@@ -107,7 +107,7 @@ So, he starts watering down the milk (Debasement). He puts 50% water in the bott
 
 Then, the King realizes he can force his neighbors to give him products in exchange for his watery milk. He forces the indigenous people to work the farm until they die (Mita), keeping his costs zero.
 
-He thinks he's a genius. He has "infinite money." But because he's just buying things and not making anything, his own town stops baking bread or sewing clothes. Why work when you have milk?
+He thinks he's a genius. He has "infinite money." But because he's just buying things and not making anything, his own town stops baking bread or sewing clothes. Why work when you have milk?<br>
 
 Eventually, the cows get tired (Mines deplete), and the neighbors realize the milk is worthless. The King is left with millions of empty bottles and a starving town. He had the ultimate wealth, but he suppressed the laws of economics, and in the end, the laws won.
 
@@ -122,6 +122,6 @@ Eventually, the cows get tired (Mines deplete), and the neighbors realize the mi
 
 ### 6. COMPREHENSION CHECK
 
-*   **Q:** If Spain had the most silver, why did everything become more expensive for them?
+*   **Q:** If Spain had the most silver, why did everything become more expensive for them?<br>
 *   **A:** Because they didn't have more *stuff* (bread, cloth, ships), only more *counters* (coins). When you double the money but keep the goods the same, the price of the goods simply doubles. The silver didn't make them richer; it just lowered the value of silver.
-*   **C:** *Investigate Phase 4: Did the bankers who lent money to the Spanish King know he would fail? And did they profit from his bankruptcy?*
+*   **C:** *Investigate Phase 4: Did the bankers who lent money to the Spanish King know he would fail?<br> And did they profit from his bankruptcy?<br>*

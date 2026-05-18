@@ -47,7 +47,7 @@
 *   **The Suppression Seed:** This forced the COMEX to change its rules, allowing "Accumulated Certificates of Exchange" (ACE) and other paper-shuffling methods to satisfy delivery, moving further away from being a physical delivery market.
 
 ### 6. The 45 Million Ounce "Surplus"
-*   **The Simple Truth:** Despite mines closing and people buying coins like crazy, the official rulekeepers (The Silver Institute) claimed there was a "surplus" of silver in 2020. How? Because industrial demand (for solar panels and electronics) crashed along with the economy. They used the drop in factory use to mask the massive spike in monetary demand.
+*   **The Simple Truth:** Despite mines closing and people buying coins like crazy, the official rulekeepers (The Silver Institute) claimed there was a "surplus" of silver in 2020. How?<br> Because industrial demand (for solar panels and electronics) crashed along with the economy. They used the drop in factory use to mask the massive spike in monetary demand.
 *   **The Hard Evidence:**
     *   **Source:** World Silver Survey 2020 (Metals Focus).
     *   **Data:** 974M oz Supply vs 929M oz Demand = **45M oz Surplus**.
@@ -133,48 +133,48 @@ Behind the scenes, the wholesale market nearly broke. The EFP spike—a technica
 *   **INSIGHT:** **The EFP Fracture** — The breakdown of the Exchange for Physical mechanism proves that the New York (COMEX) and London (LBMA) markets are not a seamless whole, but two distinct pools of liquidity held together by logistical wires that can be cut.
 
 ## Comprehension Check
-*   **Q:** Why did the price of silver crash in March 2020 even though demand for coins was at an all-time high?
+*   **Q:** Why did the price of silver crash in March 2020 even though demand for coins was at an all-time high?<br>
     *   **A:** Because the "price" is determined by selling futures contracts (paper) in a liquidity panic, not by the buying of physical coins. The paper market is a leverage casino; the physical market is a store of wealth.
     *   **C:** *This leads to Phase 28: The birth of the "Silver Squeeze" movement.*
-*   **Q:** How did the US Mint shutdown assist in price suppression?
+*   **Q:** How did the US Mint shutdown assist in price suppression?<br>
     *   **A:** It restricted the flow of retail product. If people can't buy coins because they aren't being made, the "shortage" manifests as "sold out" signs rather than rising spot prices on the global exchange.
     *   **C:** *Investigate how "Supply Bottlenecks" are used as a tool of control.*
-*   **Q:** What does a $10 premium on a $12 coin tell you about the spot price?
+*   **Q:** What does a $10 premium on a $12 coin tell you about the spot price?<br>
     *   **A:** It tells you the spot price is irrelevant. The real price is the spot + premium. The large premium proves the spot price is artificially low and disconnected from physical reality.
     *   **C:** *Look at Phase 29: The role of "Premiums" as a permanent tax on physical ownership.*
-*   **Q:** Why is the EFP spike considered a "smoking gun"?
+*   **Q:** Why is the EFP spike considered a "smoking gun"?<br>
     *   **A:** It showed that banks were terrified they couldn't get physical metal to New York to cover their paper promises. It revealed the logistical fragility behind the "unlimited supply" illusion.
     *   **C:** *Explore Phase 30: The mechanics of COMEX delivery failures.*
-*   **Q:** If mines in Mexico and Peru closed, why didn't the Silver Institute report a deficit?
+*   **Q:** If mines in Mexico and Peru closed, why didn't the Silver Institute report a deficit?<br>
     *   **A:** They offset the lost mine supply with the massive drop in industrial demand (factories closing), netting it out to a "surplus," effectively hiding the monetary demand shock.
     *   **C:** *Analyze Phase 31: The art of statistical manipulation in metal reports.*
-*   **Q:** Why did the Gold-to-Silver ratio hit 126:1?
+*   **Q:** Why did the Gold-to-Silver ratio hit 126:1?<br>
     *   **A:** Because in a deflationary crash, silver is treated as an industrial metal (risky), while gold is treated as money. This extreme ratio signaled a historic undervaluation of silver.
     *   **C:** *Check Phase 32: Historical reversions of the GSR.*
-*   **Q:** What role did the "stimulus checks" play in the silver market?
+*   **Q:** What role did the "stimulus checks" play in the silver market?<br>
     *   **A:** They provided the capital for the "Retail Awakening." People took the free government fiat and exchanged it for hard assets, threatening the short sellers.
     *   **C:** *Preview Phase 33: The "Reddit Crowd" vs. The Bullion Banks.*
-*   **Q:** Why was the shutdown of West Point critical "timing"?
+*   **Q:** Why was the shutdown of West Point critical "timing"?<br>
     *   **A:** It occurred exactly when the price was lowest and demand highest. A cynic would say it prevented the public from buying the bottom of the market in size.
     *   **C:** *Phase 34: "Accidental" outages in financial history.*
-*   **Q:** What is the "Paper Dam"?
+*   **Q:** What is the "Paper Dam"?<br>
     *   **A:** The mechanism where banks sell unlimited paper contracts to absorb buying pressure, preventing that pressure from pushing the price up to its true equilibrium.
     *   **C:** *Phase 35: The mechanics of "Open Interest" expansion.*
-*   **Q:** How did the postponement of Basel III help the banks?
+*   **Q:** How did the postponement of Basel III help the banks?<br>
     *   **A:** It allowed them to continue holding "unallocated" (paper) gold and silver without holding 100% cash backing, keeping the fractional reserve game alive during the crisis.
     *   **C:** *Phase 36: Regulatory delays as a survival tactic.*
-*   **Q:** Why did premiums stay high even after the mints reopened?
+*   **Q:** Why did premiums stay high even after the mints reopened?<br>
     *   **A:** Because the psychological damage was done. Dealers and the public realized that supply was fragile, so the "risk premium" became permanent.
     *   **C:** *Phase 37: The "New Normal" of high premiums.*
-*   **Q:** What implies that the 2020 "Surplus" was fake?
+*   **Q:** What implies that the 2020 "Surplus" was fake?<br>
     *   **A:** The fact that you couldn't buy any metal. A real surplus means shelves are full and prices are dropping. Empty shelves + crashing prices = Market Manipulation.
     *   **C:** *Phase 38: Defining "Fake Surplus" vs "Real Scarcity".*
-*   **Q:** How did the 2020 crash compare to 2008?
+*   **Q:** How did the 2020 crash compare to 2008?<br>
     *   **A:** Both saw initial crashes due to liquidity crises, but 2020 saw a much faster and more violent "physical decoupling" due to the direct supply chain shutdowns.
     *   **C:** *Phase 39: Comparing the 2008 and 2020 playbooks.*
-*   **Q:** Why is "SLV" considered a trap in this context?
+*   **Q:** Why is "SLV" considered a trap in this context?<br>
     *   **A:** Because investors bought SLV thinking they owned silver, but SLV is just a tracking stock. The metal didn't leave the vault, so the squeeze pressure was contained within the authorized participant circle.
     *   **C:** *Phase 40: The ETF diversion tactic.*
-*   **Q:** What is the ultimate lesson of Phase 27?
+*   **Q:** What is the ultimate lesson of Phase 27?<br>
     *   **A:** That "Spot Price" and "Physical Value" are two different things, and in a crisis, the Spot Price can lie to you while the Physical market runs out of stock.
     *   **C:** *Phase 41: The future of price discovery.*

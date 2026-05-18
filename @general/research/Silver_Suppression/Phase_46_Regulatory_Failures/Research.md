@@ -19,7 +19,7 @@
 *   **The Suppression Seed:** This is the mechanic of "Capitulation." By allowing unlimited short positions, banks can absorb any amount of buying pressure from investors without the price rising, effectively breaking the law of supply and demand.
 
 ### Clue 3: The Revolving Door (Regulator to Employee)
-*   **The Simple Truth:** If the referee of a game knows that after the season, the winning team will hire him as a coach for a million dollars, how will he call the game? He will make calls that help that team. This is the "Revolving Door." Regulators leave their low-paying government jobs to take high-paying jobs at the very banks they were supposed to be policing.
+*   **The Simple Truth:** If the referee of a game knows that after the season, the winning team will hire him as a coach for a million dollars, how will he call the game?<br> He will make calls that help that team. This is the "Revolving Door." Regulators leave their low-paying government jobs to take high-paying jobs at the very banks they were supposed to be policing.
 *   **The Hard Evidence:**
     *   **Wendy Gramm:** Former CFTC Chair who pushed for the "Enron Loophole" (deregulating energy/commodities) and then joined the Enron board.
     *   **Gary Gensler:** Former Goldman Sachs partner who became CFTC Chair (and later SEC Chair).
@@ -130,62 +130,62 @@ Ultimately, the regulatory framework failed to protect the price discovery mecha
 
 ## 7. Comprehension Check (Critical Thinking)
 
-**Q1:** Why did the CFTC close the 2013 investigation despite later proof of spoofing?
+**Q1:** Why did the CFTC close the 2013 investigation despite later proof of spoofing?<br>
 **A:** They claimed "no viable basis," likely because the burden of proof for "manipulation" (proving intent) was too high, and political will was low.
-**C:** Does "lack of evidence" mean innocence, or just a lack of looking?
+**C:** Does "lack of evidence" mean innocence, or just a lack of looking?<br>
 
-**Q2:** How does the "Bona Fide Hedging" exemption suppress prices?
+**Q2:** How does the "Bona Fide Hedging" exemption suppress prices?<br>
 **A:** It allows banks to hold unlimited short positions, absorbing all buying pressure with infinite paper supply.
-**C:** If a bank shorts more silver than exists in the world, is it a hedge or a gamble?
+**C:** If a bank shorts more silver than exists in the world, is it a hedge or a gamble?<br>
 
-**Q3:** What is the "Revolving Door" risk?
+**Q3:** What is the "Revolving Door" risk?<br>
 **A:** Regulators may be lenient on banks to secure high-paying future jobs.
-**C:** Can you ever trust a referee who is interviewing for a job with the team he is penalizing?
+**C:** Can you ever trust a referee who is interviewing for a job with the team he is penalizing?<br>
 
-**Q4:** Why is the SEC/CFTC jurisdictional gap dangerous?
+**Q4:** Why is the SEC/CFTC jurisdictional gap dangerous?<br>
 **A:** It allows Authorized Participants to play games with ETF silver inventory without clear oversight.
-**C:** Who counts the bars in the SLV vault?
+**C:** Who counts the bars in the SLV vault?<br>
 
-**Q5:** What did the "Tamp Down" comment reveal?
+**Q5:** What did the "Tamp Down" comment reveal?<br>
 **A:** That the CFTC actively intervenes to stop silver price spikes.
-**C:** Is a "managed" market truly a "free" market?
+**C:** Is a "managed" market truly a "free" market?<br>
 
-**Q6:** Why didn't the 2020 JPM fine ($920m) stop the bank?
+**Q6:** Why didn't the 2020 JPM fine ($920m) stop the bank?<br>
 **A:** It was a financial cost of doing business, not a structural penalty (like losing a license).
-**C:** If the fine is less than the profit, is it a punishment?
+**C:** If the fine is less than the profit, is it a punishment?<br>
 
-**Q7:** How does Basel III hurt paper silver?
+**Q7:** How does Basel III hurt paper silver?<br>
 **A:** It makes holding unallocated gold/silver expensive for banks (85% funding cost).
-**C:** Will banks stop suppressing silver, or just find a new loophole?
+**C:** Will banks stop suppressing silver, or just find a new loophole?<br>
 
-**Q8:** What is the "Enron Loophole"?
+**Q8:** What is the "Enron Loophole"?<br>
 **A:** Legalized unregulated OTC derivatives trading.
-**C:** How did a loophole for energy end up affecting silver?
+**C:** How did a loophole for energy end up affecting silver?<br>
 
-**Q9:** Why is the CME conflicted?
+**Q9:** Why is the CME conflicted?<br>
 **A:** As a for-profit company, it earns fees from the very banks it is supposed to regulate.
-**C:** Would you expel your best paying customer for breaking a rule?
+**C:** Would you expel your best paying customer for breaking a rule?<br>
 
-**Q10:** Why is "Spoofing" effective?
+**Q10:** Why is "Spoofing" effective?<br>
 **A:** It scares other traders into selling by creating a fake image of massive selling pressure.
-**C:** Can an algorithm feel fear? No, but the humans programming them can.
+**C:** Can an algorithm feel fear?<br> No, but the humans programming them can.
 
-**Q11:** What is the ESF's potential role?
+**Q11:** What is the ESF's potential role?<br>
 **A:** To covertly intervene in precious metals markets to stabilize the dollar.
-**C:** If they have the power and the motive, why wouldn't they use it?
+**C:** If they have the power and the motive, why wouldn't they use it?<br>
 
-**Q12:** What defines "Allocated" silver?
+**Q12:** What defines "Allocated" silver?<br>
 **A:** Ownership of specific physical bars, not a claim on a shared pool.
-**C:** If you don't hold it, do you own it?
+**C:** If you don't hold it, do you own it?<br>
 
-**Q13:** Why was the 2011 Position Limit rule vacated?
+**Q13:** Why was the 2011 Position Limit rule vacated?<br>
 **A:** Banks (ISDA) sued, arguing the CFTC didn't prove the limits were "necessary."
-**C:** Since when do banks get to tell the police which laws are necessary?
+**C:** Since when do banks get to tell the police which laws are necessary?<br>
 
-**Q14:** What is "Regulatory Arbitrage"?
+**Q14:** What is "Regulatory Arbitrage"?<br>
 **A:** Exploiting gaps between different regulators (SEC vs CFTC) to avoid rules.
-**C:** Is it smart business or cheating?
+**C:** Is it smart business or cheating?<br>
 
-**Q15:** Who was Andrew Maguire?
+**Q15:** Who was Andrew Maguire?<br>
 **A:** A whistleblower who exposed JPM's signaling but was ignored by regulators.
-**C:** If the alarm rings and nobody answers, is the house safe?
+**C:** If the alarm rings and nobody answers, is the house safe?<br>

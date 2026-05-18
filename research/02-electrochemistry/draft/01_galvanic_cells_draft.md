@@ -48,404 +48,649 @@ An electrochemical cell is a device capable of either generating electrical ener
 ---
 ## 3. MCQ Mastery (40 Questions)
 
-**Q1. Which of the following electrolytes is NOT suitable for a salt bridge in a cell containing silver electrode?**
+**Q1. Which of the following electrolytes is NOT suitable for a salt bridge in a cell containing silver electrode?<br>**
 
-- (A) NH4NO3
-- (B) KCl
-- (C) NaNO3
-- (D) KNO3
+- <br>
+(A) NH4NO3
+- <br>
+(B) KCl
+- <br>
+(C)
+ NaNO3
+- <br>
+(D) KNO3
 
-<details><summary>Solution</summary><b>Answer: (B) KCl</b><br>Cl- ions will precipitate Ag+ as AgCl at the electrode, stopping the cell operation.</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(B) KCl</b><br>Cl- ions will precipitate Ag+ as AgCl at the electrode, stopping the cell operation.</details>
 
 
 **Q2. The primary function of a salt bridge is to:**
 
-- (A) Complete the circuit and maintain electrical neutrality while minimizing liquid junction potential
-- (B) Complete the electrical circuit only
-- (C) Maintain electrical neutrality in half-cells only
-- (D) Increase the EMF of the cell
+- <br>
+(A) Complete the circuit and maintain electrical neutrality while minimizing liquid junction potential
+- <br>
+(B) Complete the electrical circuit only
+- <br>
+(C)
+ Maintain electrical neutrality in half-cells only
+- <br>
+(D) Increase the EMF of the cell
 
-<details><summary>Solution</summary><b>Answer: (A) Complete the circuit and maintain electrical neutrality while minimizing liquid junction potential</b><br>It prevents charge accumulation which would otherwise quickly stop the current.</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(A) Complete the circuit and maintain electrical neutrality while minimizing liquid junction potential</b><br>It prevents charge accumulation which would otherwise quickly stop the current.</details>
 
 
 **Q3. Agar-agar is used in a salt bridge because:**
 
-- (A) It increases the mobility of the ions
-- (B) It is a strong electrolyte
-- (C) It reacts with the cell ions to produce electricity
-- (D) It prevents mechanical mixing of the two half-cell solutions while allowing ion migration
+- <br>
+(A) It increases the mobility of the ions
+- <br>
+(B) It is a strong electrolyte
+- <br>
+(C)
+ It reacts with the cell ions to produce electricity
+- <br>
+(D) It prevents mechanical mixing of the two half-cell solutions while allowing ion migration
 
-<details><summary>Solution</summary><b>Answer: (D) It prevents mechanical mixing of the two half-cell solutions while allowing ion migration</b><br>Agar-agar forms a porous gel.</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(D) It prevents mechanical mixing of the two half-cell solutions while allowing ion migration</b><br>Agar-agar forms a porous gel.</details>
 
 
 **Q4. For an electrolyte to be used in a salt bridge, the transport numbers of its cation and anion should be:**
 
-- (A) Exactly zero
-- (B) Almost equal
-- (C) Widely different
-- (D) Dependent on the external temperature
+- <br>
+(A) Exactly zero
+- <br>
+(B) Almost equal
+- <br>
+(C)
+ Widely different
+- <br>
+(D) Dependent on the external temperature
 
-<details><summary>Solution</summary><b>Answer: (B) Almost equal</b><br>Equal mobilities prevent the formation of a liquid junction potential inside the salt bridge.</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(B) Almost equal</b><br>Equal mobilities prevent the formation of a liquid junction potential inside the salt bridge.</details>
 
 
-**Q5. If an external potential ($E_{ext}$) applied to a Daniell cell ($E_{cell} = 1.1 V$) is exactly $1.1 V$, what happens?**
+**Q5. If an external potential ($E_{ext}$) applied to a Daniell cell ($E_{cell} = 1.1 V$) is exactly $1.1 V$, what happens?<br>**
 
-- (A) Current flows from Cu to Zn
-- (B) The cell becomes an electrolytic cell
-- (C) Electrons flow from Cu to Zn
-- (D) No current flows and the chemical reaction stops
+- <br>
+(A) Current flows from Cu to Zn
+- <br>
+(B) The cell becomes an electrolytic cell
+- <br>
+(C)
+ Electrons flow from Cu to Zn
+- <br>
+(D) No current flows and the chemical reaction stops
 
-<details><summary>Solution</summary><b>Answer: (D) No current flows and the chemical reaction stops</b><br>When external opposing potential equals cell potential, equilibrium is reached.</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(D) No current flows and the chemical reaction stops</b><br>When external opposing potential equals cell potential, equilibrium is reached.</details>
 
 
 **Q6. If an external potential ($E_{ext} = 1.5 V$) is applied to a Daniell cell ($E_{cell} = 1.1 V$), the zinc electrode acts as:**
 
-- (A) Cathode where oxidation occurs
-- (B) Cathode where reduction occurs
-- (C) Anode where oxidation occurs
-- (D) Anode where reduction occurs
+- <br>
+(A) Cathode where oxidation occurs
+- <br>
+(B) Cathode where reduction occurs
+- <br>
+(C)
+ Anode where oxidation occurs
+- <br>
+(D) Anode where reduction occurs
 
-<details><summary>Solution</summary><b>Answer: (B) Cathode where reduction occurs</b><br>Since $E_{ext} > E_{cell}$, the cell reverses. Zn2+ gets reduced to Zn at the zinc electrode, making it the cathode of the now electrolytic cell.</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(B) Cathode where reduction occurs</b><br>Since $E_{ext} > E_{cell}$, the cell reverses. Zn2+ gets reduced to Zn at the zinc electrode, making it the cathode of the now electrolytic cell.</details>
 
 
 **Q7. In the cell representation $Pt(s) | H_2(g) | H^+(aq) || Cu^{2+}(aq) | Cu(s)$, the left side electrode is:**
 
-- (A) Platinum electrode acting as Cathode
-- (B) Standard Hydrogen Electrode acting as Anode
-- (C) Copper electrode acting as Anode
-- (D) Standard Hydrogen Electrode acting as Cathode
+- <br>
+(A) Platinum electrode acting as Cathode
+- <br>
+(B) Standard Hydrogen Electrode acting as Anode
+- <br>
+(C)
+ Copper electrode acting as Anode
+- <br>
+(D) Standard Hydrogen Electrode acting as Cathode
 
-<details><summary>Solution</summary><b>Answer: (B) Standard Hydrogen Electrode acting as Anode</b><br>By IUPAC convention, the left half is always the anode (oxidation).</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(B) Standard Hydrogen Electrode acting as Anode</b><br>By IUPAC convention, the left half is always the anode (oxidation).</details>
 
 
 **Q8. In a Galvanic cell, the Anode is:**
 
-- (A) Positive and reduction occurs here
-- (B) Negative and oxidation occurs here
-- (C) Positive and oxidation occurs here
-- (D) Negative and reduction occurs here
+- <br>
+(A) Positive and reduction occurs here
+- <br>
+(B) Negative and oxidation occurs here
+- <br>
+(C)
+ Positive and oxidation occurs here
+- <br>
+(D) Negative and reduction occurs here
 
-<details><summary>Solution</summary><b>Answer: (B) Negative and oxidation occurs here</b><br>LOAN: Left, Oxidation, Anode, Negative.</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(B) Negative and oxidation occurs here</b><br>LOAN: Left, Oxidation, Anode, Negative.</details>
 
 
 **Q9. Identify the overall reaction for the cell: Zn(s) | Zn2+(aq) || Ag+(aq) | Ag(s)**
 
-- (A) Zn2+(aq) + Ag+(aq) -> Zn(s) + Ag(s)
-- (B) Zn(s) + Ag(s) -> Zn2+(aq) + Ag+(aq)
-- (C) Zn(s) + Ag+(aq) -> Zn2+(aq) + Ag(s)
-- (D) Ag(s) + Zn2+(aq) -> Ag+(aq) + Zn(s)
+- <br>
+(A) Zn2+(aq) + Ag+(aq) -> Zn(s) + Ag(s)
+- <br>
+(B) Zn(s) + Ag(s) -> Zn2+(aq) + Ag+(aq)
+- <br>
+(C)
+ Zn(s) + Ag+(aq) -> Zn2+(aq) + Ag(s)
+- <br>
+(D) Ag(s) + Zn2+(aq) -> Ag+(aq) + Zn(s)
 
-<details><summary>Solution</summary><b>Answer: (C) Zn(s) + Ag+(aq) -> Zn2+(aq) + Ag(s)</b><br>Left side is oxidized (Zn -> Zn2+ + e-). Right side is reduced (Ag+ + e- -> Ag).</details>
-
-
-**Q10. In a Galvanic cell represented by Cu(s) | Cu2+(aq) || Pb2+(aq) | Pb(s), what is the direction of electron flow in the external circuit?**
-
-- (A) From Pb2+ to Cu2+
-- (B) From Pb to Cu
-- (C) From Cu to Pb
-- (D) From Cu2+ to Pb2+
-
-<details><summary>Solution</summary><b>Answer: (C) From Cu to Pb</b><br>Electrons always flow from Anode (Cu) to Cathode (Pb) in the external circuit.</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(C)
+ Zn(s) + Ag+(aq) -> Zn2+(aq) + Ag(s)</b><br>Left side is oxidized (Zn -> Zn2+ + e-). Right side is reduced (Ag+ + e- -> Ag).</details>
 
 
-**Q11. What is the correct cell representation for the reaction: Mg(s) + Pb2+(aq) -> Mg2+(aq) + Pb(s) ?**
+**Q10. In a Galvanic cell represented by Cu(s) | Cu2+(aq) || Pb2+(aq) | Pb(s), what is the direction of electron flow in the external circuit?<br>**
 
-- (A) Mg(s) | Mg2+(aq) || Pb2+(aq) | Pb(s)
-- (B) Mg(s) || Mg2+(aq) | Pb2+(aq) || Pb(s)
-- (C) Pb(s) | Pb2+(aq) || Mg2+(aq) | Mg(s)
-- (D) Mg(s) | Pb2+(aq) || Mg2+(aq) | Pb(s)
+- <br>
+(A) From Pb2+ to Cu2+
+- <br>
+(B) From Pb to Cu
+- <br>
+(C)
+ From Cu to Pb
+- <br>
+(D) From Cu2+ to Pb2+
 
-<details><summary>Solution</summary><b>Answer: (A) Mg(s) | Mg2+(aq) || Pb2+(aq) | Pb(s)</b><br>Mg is oxidized to Mg2+ (Anode). Pb2+ is reduced to Pb (Cathode). Anode is on the left.</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(C)
+ From Cu to Pb</b><br>Electrons always flow from Anode (Cu) to Cathode (Pb) in the external circuit.</details>
 
 
-**Q12. What is the correct cell representation for the reaction: Ag(s) + Pb2+(aq) -> Ag+(aq) + Pb(s) ?**
+**Q11. What is the correct cell representation for the reaction: Mg(s) + Pb2+(aq) -> Mg2+(aq) + Pb(s) ?<br>**
 
-- (A) Ag(s) | Ag+(aq) || Pb2+(aq) | Pb(s)
-- (B) Pb(s) | Pb2+(aq) || Ag+(aq) | Ag(s)
-- (C) Ag(s) || Ag+(aq) | Pb2+(aq) || Pb(s)
-- (D) Ag(s) | Pb2+(aq) || Ag+(aq) | Pb(s)
+- <br>
+(A) Mg(s) | Mg2+(aq) || Pb2+(aq) | Pb(s)
+- <br>
+(B) Mg(s) || Mg2+(aq) | Pb2+(aq) || Pb(s)
+- <br>
+(C)
+ Pb(s) | Pb2+(aq) || Mg2+(aq) | Mg(s)
+- <br>
+(D) Mg(s) | Pb2+(aq) || Mg2+(aq) | Pb(s)
 
-<details><summary>Solution</summary><b>Answer: (A) Ag(s) | Ag+(aq) || Pb2+(aq) | Pb(s)</b><br>Ag is oxidized to Ag+ (Anode). Pb2+ is reduced to Pb (Cathode). Anode is on the left.</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(A) Mg(s) | Mg2+(aq) || Pb2+(aq) | Pb(s)</b><br>Mg is oxidized to Mg2+ (Anode). Pb2+ is reduced to Pb (Cathode). Anode is on the left.</details>
+
+
+**Q12. What is the correct cell representation for the reaction: Ag(s) + Pb2+(aq) -> Ag+(aq) + Pb(s) ?<br>**
+
+- <br>
+(A) Ag(s) | Ag+(aq) || Pb2+(aq) | Pb(s)
+- <br>
+(B) Pb(s) | Pb2+(aq) || Ag+(aq) | Ag(s)
+- <br>
+(C)
+ Ag(s) || Ag+(aq) | Pb2+(aq) || Pb(s)
+- <br>
+(D) Ag(s) | Pb2+(aq) || Ag+(aq) | Pb(s)
+
+<details><summary>Solution</summary><b>Answer: <br>
+(A) Ag(s) | Ag+(aq) || Pb2+(aq) | Pb(s)</b><br>Ag is oxidized to Ag+ (Anode). Pb2+ is reduced to Pb (Cathode). Anode is on the left.</details>
 
 
 **Q13. Identify the overall reaction for the cell: Mg(s) | Mg2+(aq) || Cu2+(aq) | Cu(s)**
 
-- (A) Mg(s) + Cu(s) -> Mg2+(aq) + Cu2+(aq)
-- (B) Cu(s) + Mg2+(aq) -> Cu2+(aq) + Mg(s)
-- (C) Mg2+(aq) + Cu2+(aq) -> Mg(s) + Cu(s)
-- (D) Mg(s) + Cu2+(aq) -> Mg2+(aq) + Cu(s)
+- <br>
+(A) Mg(s) + Cu(s) -> Mg2+(aq) + Cu2+(aq)
+- <br>
+(B) Cu(s) + Mg2+(aq) -> Cu2+(aq) + Mg(s)
+- <br>
+(C)
+ Mg2+(aq) + Cu2+(aq) -> Mg(s) + Cu(s)
+- <br>
+(D) Mg(s) + Cu2+(aq) -> Mg2+(aq) + Cu(s)
 
-<details><summary>Solution</summary><b>Answer: (D) Mg(s) + Cu2+(aq) -> Mg2+(aq) + Cu(s)</b><br>Left side is oxidized (Mg -> Mg2+ + e-). Right side is reduced (Cu2+ + e- -> Cu).</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(D) Mg(s) + Cu2+(aq) -> Mg2+(aq) + Cu(s)</b><br>Left side is oxidized (Mg -> Mg2+ + e-). Right side is reduced (Cu2+ + e- -> Cu).</details>
 
 
 **Q14. Identify the overall reaction for the cell: Sn(s) | Sn2+(aq) || Mg2+(aq) | Mg(s)**
 
-- (A) Mg(s) + Sn2+(aq) -> Mg2+(aq) + Sn(s)
-- (B) Sn(s) + Mg(s) -> Sn2+(aq) + Mg2+(aq)
-- (C) Sn2+(aq) + Mg2+(aq) -> Sn(s) + Mg(s)
-- (D) Sn(s) + Mg2+(aq) -> Sn2+(aq) + Mg(s)
+- <br>
+(A) Mg(s) + Sn2+(aq) -> Mg2+(aq) + Sn(s)
+- <br>
+(B) Sn(s) + Mg(s) -> Sn2+(aq) + Mg2+(aq)
+- <br>
+(C)
+ Sn2+(aq) + Mg2+(aq) -> Sn(s) + Mg(s)
+- <br>
+(D) Sn(s) + Mg2+(aq) -> Sn2+(aq) + Mg(s)
 
-<details><summary>Solution</summary><b>Answer: (D) Sn(s) + Mg2+(aq) -> Sn2+(aq) + Mg(s)</b><br>Left side is oxidized (Sn -> Sn2+ + e-). Right side is reduced (Mg2+ + e- -> Mg).</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(D) Sn(s) + Mg2+(aq) -> Sn2+(aq) + Mg(s)</b><br>Left side is oxidized (Sn -> Sn2+ + e-). Right side is reduced (Mg2+ + e- -> Mg).</details>
 
 
-**Q15. In a Galvanic cell represented by Ni(s) | Ni2+(aq) || Mg2+(aq) | Mg(s), what is the direction of electron flow in the external circuit?**
+**Q15. In a Galvanic cell represented by Ni(s) | Ni2+(aq) || Mg2+(aq) | Mg(s), what is the direction of electron flow in the external circuit?<br>**
 
-- (A) From Mg2+ to Ni2+
-- (B) From Mg to Ni
-- (C) From Ni2+ to Mg2+
-- (D) From Ni to Mg
+- <br>
+(A) From Mg2+ to Ni2+
+- <br>
+(B) From Mg to Ni
+- <br>
+(C)
+ From Ni2+ to Mg2+
+- <br>
+(D) From Ni to Mg
 
-<details><summary>Solution</summary><b>Answer: (D) From Ni to Mg</b><br>Electrons always flow from Anode (Ni) to Cathode (Mg) in the external circuit.</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(D) From Ni to Mg</b><br>Electrons always flow from Anode (Ni) to Cathode (Mg) in the external circuit.</details>
 
 
 **Q16. Identify the overall reaction for the cell: Zn(s) | Zn2+(aq) || Fe2+(aq) | Fe(s)**
 
-- (A) Zn(s) + Fe2+(aq) -> Zn2+(aq) + Fe(s)
-- (B) Zn2+(aq) + Fe2+(aq) -> Zn(s) + Fe(s)
-- (C) Fe(s) + Zn2+(aq) -> Fe2+(aq) + Zn(s)
-- (D) Zn(s) + Fe(s) -> Zn2+(aq) + Fe2+(aq)
+- <br>
+(A) Zn(s) + Fe2+(aq) -> Zn2+(aq) + Fe(s)
+- <br>
+(B) Zn2+(aq) + Fe2+(aq) -> Zn(s) + Fe(s)
+- <br>
+(C)
+ Fe(s) + Zn2+(aq) -> Fe2+(aq) + Zn(s)
+- <br>
+(D) Zn(s) + Fe(s) -> Zn2+(aq) + Fe2+(aq)
 
-<details><summary>Solution</summary><b>Answer: (A) Zn(s) + Fe2+(aq) -> Zn2+(aq) + Fe(s)</b><br>Left side is oxidized (Zn -> Zn2+ + e-). Right side is reduced (Fe2+ + e- -> Fe).</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(A) Zn(s) + Fe2+(aq) -> Zn2+(aq) + Fe(s)</b><br>Left side is oxidized (Zn -> Zn2+ + e-). Right side is reduced (Fe2+ + e- -> Fe).</details>
 
 
-**Q17. If the salt bridge is suddenly removed from the Fe-Al galvanic cell, what happens to the cell voltage?**
+**Q17. If the salt bridge is suddenly removed from the Fe-Al galvanic cell, what happens to the cell voltage?<br>**
 
-- (A) It increases significantly
-- (B) It slowly decreases to zero
-- (C) It immediately drops to zero
-- (D) It remains unchanged
+- <br>
+(A) It increases significantly
+- <br>
+(B) It slowly decreases to zero
+- <br>
+(C)
+ It immediately drops to zero
+- <br>
+(D) It remains unchanged
 
-<details><summary>Solution</summary><b>Answer: (C) It immediately drops to zero</b><br>The circuit is broken and electrical neutrality is lost instantly, causing the cell potential to drop to zero.</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(C)
+ It immediately drops to zero</b><br>The circuit is broken and electrical neutrality is lost instantly, causing the cell potential to drop to zero.</details>
 
 
 **Q18. Identify the overall reaction for the cell: Sn(s) | Sn2+(aq) || Zn2+(aq) | Zn(s)**
 
-- (A) Sn2+(aq) + Zn2+(aq) -> Sn(s) + Zn(s)
-- (B) Zn(s) + Sn2+(aq) -> Zn2+(aq) + Sn(s)
-- (C) Sn(s) + Zn(s) -> Sn2+(aq) + Zn2+(aq)
-- (D) Sn(s) + Zn2+(aq) -> Sn2+(aq) + Zn(s)
+- <br>
+(A) Sn2+(aq) + Zn2+(aq) -> Sn(s) + Zn(s)
+- <br>
+(B) Zn(s) + Sn2+(aq) -> Zn2+(aq) + Sn(s)
+- <br>
+(C)
+ Sn(s) + Zn(s) -> Sn2+(aq) + Zn2+(aq)
+- <br>
+(D) Sn(s) + Zn2+(aq) -> Sn2+(aq) + Zn(s)
 
-<details><summary>Solution</summary><b>Answer: (D) Sn(s) + Zn2+(aq) -> Sn2+(aq) + Zn(s)</b><br>Left side is oxidized (Sn -> Sn2+ + e-). Right side is reduced (Zn2+ + e- -> Zn).</details>
-
-
-**Q19. If the salt bridge is suddenly removed from the Ag-Cu galvanic cell, what happens to the cell voltage?**
-
-- (A) It increases significantly
-- (B) It slowly decreases to zero
-- (C) It remains unchanged
-- (D) It immediately drops to zero
-
-<details><summary>Solution</summary><b>Answer: (D) It immediately drops to zero</b><br>The circuit is broken and electrical neutrality is lost instantly, causing the cell potential to drop to zero.</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(D) Sn(s) + Zn2+(aq) -> Sn2+(aq) + Zn(s)</b><br>Left side is oxidized (Sn -> Sn2+ + e-). Right side is reduced (Zn2+ + e- -> Zn).</details>
 
 
-**Q20. What is the correct cell representation for the reaction: Fe(s) + Al3+(aq) -> Fe2+(aq) + Al(s) ?**
+**Q19. If the salt bridge is suddenly removed from the Ag-Cu galvanic cell, what happens to the cell voltage?<br>**
 
-- (A) Al(s) | Al3+(aq) || Fe2+(aq) | Fe(s)
-- (B) Fe(s) | Fe2+(aq) || Al3+(aq) | Al(s)
-- (C) Fe(s) || Fe2+(aq) | Al3+(aq) || Al(s)
-- (D) Fe(s) | Al3+(aq) || Fe2+(aq) | Al(s)
+- <br>
+(A) It increases significantly
+- <br>
+(B) It slowly decreases to zero
+- <br>
+(C)
+ It remains unchanged
+- <br>
+(D) It immediately drops to zero
 
-<details><summary>Solution</summary><b>Answer: (B) Fe(s) | Fe2+(aq) || Al3+(aq) | Al(s)</b><br>Fe is oxidized to Fe2+ (Anode). Al3+ is reduced to Al (Cathode). Anode is on the left.</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(D) It immediately drops to zero</b><br>The circuit is broken and electrical neutrality is lost instantly, causing the cell potential to drop to zero.</details>
 
 
-**Q21. If the salt bridge is suddenly removed from the Cu-Sn galvanic cell, what happens to the cell voltage?**
+**Q20. What is the correct cell representation for the reaction: Fe(s) + Al3+(aq) -> Fe2+(aq) + Al(s) ?<br>**
 
-- (A) It remains unchanged
-- (B) It immediately drops to zero
-- (C) It slowly decreases to zero
-- (D) It increases significantly
+- <br>
+(A) Al(s) | Al3+(aq) || Fe2+(aq) | Fe(s)
+- <br>
+(B) Fe(s) | Fe2+(aq) || Al3+(aq) | Al(s)
+- <br>
+(C)
+ Fe(s) || Fe2+(aq) | Al3+(aq) || Al(s)
+- <br>
+(D) Fe(s) | Al3+(aq) || Fe2+(aq) | Al(s)
 
-<details><summary>Solution</summary><b>Answer: (B) It immediately drops to zero</b><br>The circuit is broken and electrical neutrality is lost instantly, causing the cell potential to drop to zero.</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(B) Fe(s) | Fe2+(aq) || Al3+(aq) | Al(s)</b><br>Fe is oxidized to Fe2+ (Anode). Al3+ is reduced to Al (Cathode). Anode is on the left.</details>
+
+
+**Q21. If the salt bridge is suddenly removed from the Cu-Sn galvanic cell, what happens to the cell voltage?<br>**
+
+- <br>
+(A) It remains unchanged
+- <br>
+(B) It immediately drops to zero
+- <br>
+(C)
+ It slowly decreases to zero
+- <br>
+(D) It increases significantly
+
+<details><summary>Solution</summary><b>Answer: <br>
+(B) It immediately drops to zero</b><br>The circuit is broken and electrical neutrality is lost instantly, causing the cell potential to drop to zero.</details>
 
 
 **Q22. Identify the overall reaction for the cell: Ni(s) | Ni2+(aq) || Sn2+(aq) | Sn(s)**
 
-- (A) Ni2+(aq) + Sn2+(aq) -> Ni(s) + Sn(s)
-- (B) Sn(s) + Ni2+(aq) -> Sn2+(aq) + Ni(s)
-- (C) Ni(s) + Sn2+(aq) -> Ni2+(aq) + Sn(s)
-- (D) Ni(s) + Sn(s) -> Ni2+(aq) + Sn2+(aq)
+- <br>
+(A) Ni2+(aq) + Sn2+(aq) -> Ni(s) + Sn(s)
+- <br>
+(B) Sn(s) + Ni2+(aq) -> Sn2+(aq) + Ni(s)
+- <br>
+(C)
+ Ni(s) + Sn2+(aq) -> Ni2+(aq) + Sn(s)
+- <br>
+(D) Ni(s) + Sn(s) -> Ni2+(aq) + Sn2+(aq)
 
-<details><summary>Solution</summary><b>Answer: (C) Ni(s) + Sn2+(aq) -> Ni2+(aq) + Sn(s)</b><br>Left side is oxidized (Ni -> Ni2+ + e-). Right side is reduced (Sn2+ + e- -> Sn).</details>
-
-
-**Q23. What is the correct cell representation for the reaction: Sn(s) + Cu2+(aq) -> Sn2+(aq) + Cu(s) ?**
-
-- (A) Cu(s) | Cu2+(aq) || Sn2+(aq) | Sn(s)
-- (B) Sn(s) | Cu2+(aq) || Sn2+(aq) | Cu(s)
-- (C) Sn(s) || Sn2+(aq) | Cu2+(aq) || Cu(s)
-- (D) Sn(s) | Sn2+(aq) || Cu2+(aq) | Cu(s)
-
-<details><summary>Solution</summary><b>Answer: (D) Sn(s) | Sn2+(aq) || Cu2+(aq) | Cu(s)</b><br>Sn is oxidized to Sn2+ (Anode). Cu2+ is reduced to Cu (Cathode). Anode is on the left.</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(C)
+ Ni(s) + Sn2+(aq) -> Ni2+(aq) + Sn(s)</b><br>Left side is oxidized (Ni -> Ni2+ + e-). Right side is reduced (Sn2+ + e- -> Sn).</details>
 
 
-**Q24. If the salt bridge is suddenly removed from the Al-Cd galvanic cell, what happens to the cell voltage?**
+**Q23. What is the correct cell representation for the reaction: Sn(s) + Cu2+(aq) -> Sn2+(aq) + Cu(s) ?<br>**
 
-- (A) It remains unchanged
-- (B) It immediately drops to zero
-- (C) It increases significantly
-- (D) It slowly decreases to zero
+- <br>
+(A) Cu(s) | Cu2+(aq) || Sn2+(aq) | Sn(s)
+- <br>
+(B) Sn(s) | Cu2+(aq) || Sn2+(aq) | Cu(s)
+- <br>
+(C)
+ Sn(s) || Sn2+(aq) | Cu2+(aq) || Cu(s)
+- <br>
+(D) Sn(s) | Sn2+(aq) || Cu2+(aq) | Cu(s)
 
-<details><summary>Solution</summary><b>Answer: (B) It immediately drops to zero</b><br>The circuit is broken and electrical neutrality is lost instantly, causing the cell potential to drop to zero.</details>
-
-
-**Q25. What is the correct cell representation for the reaction: Cd(s) + Sn2+(aq) -> Cd2+(aq) + Sn(s) ?**
-
-- (A) Sn(s) | Sn2+(aq) || Cd2+(aq) | Cd(s)
-- (B) Cd(s) || Cd2+(aq) | Sn2+(aq) || Sn(s)
-- (C) Cd(s) | Cd2+(aq) || Sn2+(aq) | Sn(s)
-- (D) Cd(s) | Sn2+(aq) || Cd2+(aq) | Sn(s)
-
-<details><summary>Solution</summary><b>Answer: (C) Cd(s) | Cd2+(aq) || Sn2+(aq) | Sn(s)</b><br>Cd is oxidized to Cd2+ (Anode). Sn2+ is reduced to Sn (Cathode). Anode is on the left.</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(D) Sn(s) | Sn2+(aq) || Cu2+(aq) | Cu(s)</b><br>Sn is oxidized to Sn2+ (Anode). Cu2+ is reduced to Cu (Cathode). Anode is on the left.</details>
 
 
-**Q26. If the salt bridge is suddenly removed from the Ni-Cu galvanic cell, what happens to the cell voltage?**
+**Q24. If the salt bridge is suddenly removed from the Al-Cd galvanic cell, what happens to the cell voltage?<br>**
 
-- (A) It slowly decreases to zero
-- (B) It immediately drops to zero
-- (C) It remains unchanged
-- (D) It increases significantly
+- <br>
+(A) It remains unchanged
+- <br>
+(B) It immediately drops to zero
+- <br>
+(C)
+ It increases significantly
+- <br>
+(D) It slowly decreases to zero
 
-<details><summary>Solution</summary><b>Answer: (B) It immediately drops to zero</b><br>The circuit is broken and electrical neutrality is lost instantly, causing the cell potential to drop to zero.</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(B) It immediately drops to zero</b><br>The circuit is broken and electrical neutrality is lost instantly, causing the cell potential to drop to zero.</details>
+
+
+**Q25. What is the correct cell representation for the reaction: Cd(s) + Sn2+(aq) -> Cd2+(aq) + Sn(s) ?<br>**
+
+- <br>
+(A) Sn(s) | Sn2+(aq) || Cd2+(aq) | Cd(s)
+- <br>
+(B) Cd(s) || Cd2+(aq) | Sn2+(aq) || Sn(s)
+- <br>
+(C)
+ Cd(s) | Cd2+(aq) || Sn2+(aq) | Sn(s)
+- <br>
+(D) Cd(s) | Sn2+(aq) || Cd2+(aq) | Sn(s)
+
+<details><summary>Solution</summary><b>Answer: <br>
+(C)
+ Cd(s) | Cd2+(aq) || Sn2+(aq) | Sn(s)</b><br>Cd is oxidized to Cd2+ (Anode). Sn2+ is reduced to Sn (Cathode). Anode is on the left.</details>
+
+
+**Q26. If the salt bridge is suddenly removed from the Ni-Cu galvanic cell, what happens to the cell voltage?<br>**
+
+- <br>
+(A) It slowly decreases to zero
+- <br>
+(B) It immediately drops to zero
+- <br>
+(C)
+ It remains unchanged
+- <br>
+(D) It increases significantly
+
+<details><summary>Solution</summary><b>Answer: <br>
+(B) It immediately drops to zero</b><br>The circuit is broken and electrical neutrality is lost instantly, causing the cell potential to drop to zero.</details>
 
 
 **Q27. Identify the overall reaction for the cell: Pb(s) | Pb2+(aq) || Cd2+(aq) | Cd(s)**
 
-- (A) Pb(s) + Cd2+(aq) -> Pb2+(aq) + Cd(s)
-- (B) Pb(s) + Cd(s) -> Pb2+(aq) + Cd2+(aq)
-- (C) Pb2+(aq) + Cd2+(aq) -> Pb(s) + Cd(s)
-- (D) Cd(s) + Pb2+(aq) -> Cd2+(aq) + Pb(s)
+- <br>
+(A) Pb(s) + Cd2+(aq) -> Pb2+(aq) + Cd(s)
+- <br>
+(B) Pb(s) + Cd(s) -> Pb2+(aq) + Cd2+(aq)
+- <br>
+(C)
+ Pb2+(aq) + Cd2+(aq) -> Pb(s) + Cd(s)
+- <br>
+(D) Cd(s) + Pb2+(aq) -> Cd2+(aq) + Pb(s)
 
-<details><summary>Solution</summary><b>Answer: (A) Pb(s) + Cd2+(aq) -> Pb2+(aq) + Cd(s)</b><br>Left side is oxidized (Pb -> Pb2+ + e-). Right side is reduced (Cd2+ + e- -> Cd).</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(A) Pb(s) + Cd2+(aq) -> Pb2+(aq) + Cd(s)</b><br>Left side is oxidized (Pb -> Pb2+ + e-). Right side is reduced (Cd2+ + e- -> Cd).</details>
 
 
-**Q28. What is the correct cell representation for the reaction: Pb(s) + Cu2+(aq) -> Pb2+(aq) + Cu(s) ?**
+**Q28. What is the correct cell representation for the reaction: Pb(s) + Cu2+(aq) -> Pb2+(aq) + Cu(s) ?<br>**
 
-- (A) Pb(s) || Pb2+(aq) | Cu2+(aq) || Cu(s)
-- (B) Pb(s) | Cu2+(aq) || Pb2+(aq) | Cu(s)
-- (C) Cu(s) | Cu2+(aq) || Pb2+(aq) | Pb(s)
-- (D) Pb(s) | Pb2+(aq) || Cu2+(aq) | Cu(s)
+- <br>
+(A) Pb(s) || Pb2+(aq) | Cu2+(aq) || Cu(s)
+- <br>
+(B) Pb(s) | Cu2+(aq) || Pb2+(aq) | Cu(s)
+- <br>
+(C)
+ Cu(s) | Cu2+(aq) || Pb2+(aq) | Pb(s)
+- <br>
+(D) Pb(s) | Pb2+(aq) || Cu2+(aq) | Cu(s)
 
-<details><summary>Solution</summary><b>Answer: (D) Pb(s) | Pb2+(aq) || Cu2+(aq) | Cu(s)</b><br>Pb is oxidized to Pb2+ (Anode). Cu2+ is reduced to Cu (Cathode). Anode is on the left.</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(D) Pb(s) | Pb2+(aq) || Cu2+(aq) | Cu(s)</b><br>Pb is oxidized to Pb2+ (Anode). Cu2+ is reduced to Cu (Cathode). Anode is on the left.</details>
 
 
 **Q29. Identify the overall reaction for the cell: Ag(s) | Ag+(aq) || Mg2+(aq) | Mg(s)**
 
-- (A) Ag(s) + Mg(s) -> Ag+(aq) + Mg2+(aq)
-- (B) Mg(s) + Ag+(aq) -> Mg2+(aq) + Ag(s)
-- (C) Ag+(aq) + Mg2+(aq) -> Ag(s) + Mg(s)
-- (D) Ag(s) + Mg2+(aq) -> Ag+(aq) + Mg(s)
+- <br>
+(A) Ag(s) + Mg(s) -> Ag+(aq) + Mg2+(aq)
+- <br>
+(B) Mg(s) + Ag+(aq) -> Mg2+(aq) + Ag(s)
+- <br>
+(C)
+ Ag+(aq) + Mg2+(aq) -> Ag(s) + Mg(s)
+- <br>
+(D) Ag(s) + Mg2+(aq) -> Ag+(aq) + Mg(s)
 
-<details><summary>Solution</summary><b>Answer: (D) Ag(s) + Mg2+(aq) -> Ag+(aq) + Mg(s)</b><br>Left side is oxidized (Ag -> Ag+ + e-). Right side is reduced (Mg2+ + e- -> Mg).</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(D) Ag(s) + Mg2+(aq) -> Ag+(aq) + Mg(s)</b><br>Left side is oxidized (Ag -> Ag+ + e-). Right side is reduced (Mg2+ + e- -> Mg).</details>
 
 
 **Q30. Identify the overall reaction for the cell: Pb(s) | Pb2+(aq) || Sn2+(aq) | Sn(s)**
 
-- (A) Pb(s) + Sn(s) -> Pb2+(aq) + Sn2+(aq)
-- (B) Pb2+(aq) + Sn2+(aq) -> Pb(s) + Sn(s)
-- (C) Sn(s) + Pb2+(aq) -> Sn2+(aq) + Pb(s)
-- (D) Pb(s) + Sn2+(aq) -> Pb2+(aq) + Sn(s)
+- <br>
+(A) Pb(s) + Sn(s) -> Pb2+(aq) + Sn2+(aq)
+- <br>
+(B) Pb2+(aq) + Sn2+(aq) -> Pb(s) + Sn(s)
+- <br>
+(C)
+ Sn(s) + Pb2+(aq) -> Sn2+(aq) + Pb(s)
+- <br>
+(D) Pb(s) + Sn2+(aq) -> Pb2+(aq) + Sn(s)
 
-<details><summary>Solution</summary><b>Answer: (D) Pb(s) + Sn2+(aq) -> Pb2+(aq) + Sn(s)</b><br>Left side is oxidized (Pb -> Pb2+ + e-). Right side is reduced (Sn2+ + e- -> Sn).</details>
-
-
-**Q31. If the salt bridge is suddenly removed from the Cd-Fe galvanic cell, what happens to the cell voltage?**
-
-- (A) It increases significantly
-- (B) It immediately drops to zero
-- (C) It slowly decreases to zero
-- (D) It remains unchanged
-
-<details><summary>Solution</summary><b>Answer: (B) It immediately drops to zero</b><br>The circuit is broken and electrical neutrality is lost instantly, causing the cell potential to drop to zero.</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(D) Pb(s) + Sn2+(aq) -> Pb2+(aq) + Sn(s)</b><br>Left side is oxidized (Pb -> Pb2+ + e-). Right side is reduced (Sn2+ + e- -> Sn).</details>
 
 
-**Q32. In a Galvanic cell represented by Ag(s) | Ag+(aq) || Sn2+(aq) | Sn(s), what is the direction of electron flow in the external circuit?**
+**Q31. If the salt bridge is suddenly removed from the Cd-Fe galvanic cell, what happens to the cell voltage?<br>**
 
-- (A) From Ag+ to Sn2+
-- (B) From Sn to Ag
-- (C) From Sn2+ to Ag+
-- (D) From Ag to Sn
+- <br>
+(A) It increases significantly
+- <br>
+(B) It immediately drops to zero
+- <br>
+(C)
+ It slowly decreases to zero
+- <br>
+(D) It remains unchanged
 
-<details><summary>Solution</summary><b>Answer: (D) From Ag to Sn</b><br>Electrons always flow from Anode (Ag) to Cathode (Sn) in the external circuit.</details>
-
-
-**Q33. If the salt bridge is suddenly removed from the Fe-Ni galvanic cell, what happens to the cell voltage?**
-
-- (A) It increases significantly
-- (B) It immediately drops to zero
-- (C) It remains unchanged
-- (D) It slowly decreases to zero
-
-<details><summary>Solution</summary><b>Answer: (B) It immediately drops to zero</b><br>The circuit is broken and electrical neutrality is lost instantly, causing the cell potential to drop to zero.</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(B) It immediately drops to zero</b><br>The circuit is broken and electrical neutrality is lost instantly, causing the cell potential to drop to zero.</details>
 
 
-**Q34. If the salt bridge is suddenly removed from the Pb-Cu galvanic cell, what happens to the cell voltage?**
+**Q32. In a Galvanic cell represented by Ag(s) | Ag+(aq) || Sn2+(aq) | Sn(s), what is the direction of electron flow in the external circuit?<br>**
 
-- (A) It slowly decreases to zero
-- (B) It immediately drops to zero
-- (C) It remains unchanged
-- (D) It increases significantly
+- <br>
+(A) From Ag+ to Sn2+
+- <br>
+(B) From Sn to Ag
+- <br>
+(C)
+ From Sn2+ to Ag+
+- <br>
+(D) From Ag to Sn
 
-<details><summary>Solution</summary><b>Answer: (B) It immediately drops to zero</b><br>The circuit is broken and electrical neutrality is lost instantly, causing the cell potential to drop to zero.</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(D) From Ag to Sn</b><br>Electrons always flow from Anode (Ag) to Cathode (Sn) in the external circuit.</details>
+
+
+**Q33. If the salt bridge is suddenly removed from the Fe-Ni galvanic cell, what happens to the cell voltage?<br>**
+
+- <br>
+(A) It increases significantly
+- <br>
+(B) It immediately drops to zero
+- <br>
+(C)
+ It remains unchanged
+- <br>
+(D) It slowly decreases to zero
+
+<details><summary>Solution</summary><b>Answer: <br>
+(B) It immediately drops to zero</b><br>The circuit is broken and electrical neutrality is lost instantly, causing the cell potential to drop to zero.</details>
+
+
+**Q34. If the salt bridge is suddenly removed from the Pb-Cu galvanic cell, what happens to the cell voltage?<br>**
+
+- <br>
+(A) It slowly decreases to zero
+- <br>
+(B) It immediately drops to zero
+- <br>
+(C)
+ It remains unchanged
+- <br>
+(D) It increases significantly
+
+<details><summary>Solution</summary><b>Answer: <br>
+(B) It immediately drops to zero</b><br>The circuit is broken and electrical neutrality is lost instantly, causing the cell potential to drop to zero.</details>
 
 
 **Q35. Identify the overall reaction for the cell: Cu(s) | Cu2+(aq) || Cd2+(aq) | Cd(s)**
 
-- (A) Cu2+(aq) + Cd2+(aq) -> Cu(s) + Cd(s)
-- (B) Cu(s) + Cd2+(aq) -> Cu2+(aq) + Cd(s)
-- (C) Cu(s) + Cd(s) -> Cu2+(aq) + Cd2+(aq)
-- (D) Cd(s) + Cu2+(aq) -> Cd2+(aq) + Cu(s)
+- <br>
+(A) Cu2+(aq) + Cd2+(aq) -> Cu(s) + Cd(s)
+- <br>
+(B) Cu(s) + Cd2+(aq) -> Cu2+(aq) + Cd(s)
+- <br>
+(C)
+ Cu(s) + Cd(s) -> Cu2+(aq) + Cd2+(aq)
+- <br>
+(D) Cd(s) + Cu2+(aq) -> Cd2+(aq) + Cu(s)
 
-<details><summary>Solution</summary><b>Answer: (B) Cu(s) + Cd2+(aq) -> Cu2+(aq) + Cd(s)</b><br>Left side is oxidized (Cu -> Cu2+ + e-). Right side is reduced (Cd2+ + e- -> Cd).</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(B) Cu(s) + Cd2+(aq) -> Cu2+(aq) + Cd(s)</b><br>Left side is oxidized (Cu -> Cu2+ + e-). Right side is reduced (Cd2+ + e- -> Cd).</details>
 
 
-**Q36. If the salt bridge is suddenly removed from the Ag-Ni galvanic cell, what happens to the cell voltage?**
+**Q36. If the salt bridge is suddenly removed from the Ag-Ni galvanic cell, what happens to the cell voltage?<br>**
 
-- (A) It immediately drops to zero
-- (B) It remains unchanged
-- (C) It slowly decreases to zero
-- (D) It increases significantly
+- <br>
+(A) It immediately drops to zero
+- <br>
+(B) It remains unchanged
+- <br>
+(C)
+ It slowly decreases to zero
+- <br>
+(D) It increases significantly
 
-<details><summary>Solution</summary><b>Answer: (A) It immediately drops to zero</b><br>The circuit is broken and electrical neutrality is lost instantly, causing the cell potential to drop to zero.</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(A) It immediately drops to zero</b><br>The circuit is broken and electrical neutrality is lost instantly, causing the cell potential to drop to zero.</details>
 
 
 **Q37. Identify the overall reaction for the cell: Al(s) | Al3+(aq) || Ag+(aq) | Ag(s)**
 
-- (A) Al(s) + Ag+(aq) -> Al3+(aq) + Ag(s)
-- (B) Ag(s) + Al3+(aq) -> Ag+(aq) + Al(s)
-- (C) Al(s) + Ag(s) -> Al3+(aq) + Ag+(aq)
-- (D) Al3+(aq) + Ag+(aq) -> Al(s) + Ag(s)
+- <br>
+(A) Al(s) + Ag+(aq) -> Al3+(aq) + Ag(s)
+- <br>
+(B) Ag(s) + Al3+(aq) -> Ag+(aq) + Al(s)
+- <br>
+(C)
+ Al(s) + Ag(s) -> Al3+(aq) + Ag+(aq)
+- <br>
+(D) Al3+(aq) + Ag+(aq) -> Al(s) + Ag(s)
 
-<details><summary>Solution</summary><b>Answer: (A) Al(s) + Ag+(aq) -> Al3+(aq) + Ag(s)</b><br>Left side is oxidized (Al -> Al3+ + e-). Right side is reduced (Ag+ + e- -> Ag).</details>
-
-
-**Q38. In a Galvanic cell represented by Al(s) | Al3+(aq) || Cd2+(aq) | Cd(s), what is the direction of electron flow in the external circuit?**
-
-- (A) From Al3+ to Cd2+
-- (B) From Cd2+ to Al3+
-- (C) From Cd to Al
-- (D) From Al to Cd
-
-<details><summary>Solution</summary><b>Answer: (D) From Al to Cd</b><br>Electrons always flow from Anode (Al) to Cathode (Cd) in the external circuit.</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(A) Al(s) + Ag+(aq) -> Al3+(aq) + Ag(s)</b><br>Left side is oxidized (Al -> Al3+ + e-). Right side is reduced (Ag+ + e- -> Ag).</details>
 
 
-**Q39. In a Galvanic cell represented by Zn(s) | Zn2+(aq) || Ag+(aq) | Ag(s), what is the direction of electron flow in the external circuit?**
+**Q38. In a Galvanic cell represented by Al(s) | Al3+(aq) || Cd2+(aq) | Cd(s), what is the direction of electron flow in the external circuit?<br>**
 
-- (A) From Zn to Ag
-- (B) From Ag to Zn
-- (C) From Ag+ to Zn2+
-- (D) From Zn2+ to Ag+
+- <br>
+(A) From Al3+ to Cd2+
+- <br>
+(B) From Cd2+ to Al3+
+- <br>
+(C)
+ From Cd to Al
+- <br>
+(D) From Al to Cd
 
-<details><summary>Solution</summary><b>Answer: (A) From Zn to Ag</b><br>Electrons always flow from Anode (Zn) to Cathode (Ag) in the external circuit.</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(D) From Al to Cd</b><br>Electrons always flow from Anode (Al) to Cathode (Cd) in the external circuit.</details>
 
 
-**Q40. In a Galvanic cell represented by Pb(s) | Pb2+(aq) || Sn2+(aq) | Sn(s), what is the direction of electron flow in the external circuit?**
+**Q39. In a Galvanic cell represented by Zn(s) | Zn2+(aq) || Ag+(aq) | Ag(s), what is the direction of electron flow in the external circuit?<br>**
 
-- (A) From Sn to Pb
-- (B) From Pb to Sn
-- (C) From Sn2+ to Pb2+
-- (D) From Pb2+ to Sn2+
+- <br>
+(A) From Zn to Ag
+- <br>
+(B) From Ag to Zn
+- <br>
+(C)
+ From Ag+ to Zn2+
+- <br>
+(D) From Zn2+ to Ag+
 
-<details><summary>Solution</summary><b>Answer: (B) From Pb to Sn</b><br>Electrons always flow from Anode (Pb) to Cathode (Sn) in the external circuit.</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(A) From Zn to Ag</b><br>Electrons always flow from Anode (Zn) to Cathode (Ag) in the external circuit.</details>
+
+
+**Q40. In a Galvanic cell represented by Pb(s) | Pb2+(aq) || Sn2+(aq) | Sn(s), what is the direction of electron flow in the external circuit?<br>**
+
+- <br>
+(A) From Sn to Pb
+- <br>
+(B) From Pb to Sn
+- <br>
+(C)
+ From Sn2+ to Pb2+
+- <br>
+(D) From Pb2+ to Sn2+
+
+<details><summary>Solution</summary><b>Answer: <br>
+(B) From Pb to Sn</b><br>Electrons always flow from Anode (Pb) to Cathode (Sn) in the external circuit.</details>
 
 
 --- 
@@ -453,7 +698,7 @@ An electrochemical cell is a device capable of either generating electrical ener
 
 ### Board Arsenal & JEE Foundations
 
-**Q1.** Identify the anode and the cathode in a cell where the overall reaction is $ 3Ag(s) + 2Cd2+(aq) \rightarrow 3Ag+(aq) + 2Cd(s) $ (assuming charges are 2+ and 3+ respectively). Which electrode is positive?
+**Q1.** Identify the anode and the cathode in a cell where the overall reaction is $ 3Ag(s) + 2Cd2+(aq) \rightarrow 3Ag+(aq) + 2Cd(s) $ (assuming charges are 2+ and 3+ respectively). Which electrode is positive?<br>
 
 <details><summary>Solution</summary>
 $Ag$ is oxidized, so it is the Anode (Negative). $Cd$ is reduced, so it is the Cathode (Positive).
@@ -486,14 +731,14 @@ Oxidation occurs at the Fe electrode (Anode). Reduction occurs at the Cu electro
 </details>
 
 
-**Q5.** Why is an agar-agar paste of $NH_4NO_3$ preferred over $KCl$ in a salt bridge when connecting a standard hydrogen electrode to a silver half-cell ($Ag^+/Ag$)?
+**Q5.** Why is an agar-agar paste of $NH_4NO_3$ preferred over $KCl$ in a salt bridge when connecting a standard hydrogen electrode to a silver half-cell ($Ag^+/Ag$)?<br>
 
 <details><summary>Solution</summary>
 If $KCl$ is used, the $Cl^-$ ions from the salt bridge will enter the silver half-cell and react with $Ag^+$ ions to form a white precipitate of $AgCl$. This precipitation will block the porous plug and stop the cell reaction. Therefore, $NH_4NO_3$ or $KNO_3$ is preferred.
 </details>
 
 
-**Q6.** Why is an agar-agar paste of $NH_4NO_3$ preferred over $KCl$ in a salt bridge when connecting a standard hydrogen electrode to a silver half-cell ($Ag^+/Ag$)?
+**Q6.** Why is an agar-agar paste of $NH_4NO_3$ preferred over $KCl$ in a salt bridge when connecting a standard hydrogen electrode to a silver half-cell ($Ag^+/Ag$)?<br>
 
 <details><summary>Solution</summary>
 If $KCl$ is used, the $Cl^-$ ions from the salt bridge will enter the silver half-cell and react with $Ag^+$ ions to form a white precipitate of $AgCl$. This precipitation will block the porous plug and stop the cell reaction. Therefore, $NH_4NO_3$ or $KNO_3$ is preferred.
@@ -501,8 +746,8 @@ If $KCl$ is used, the $Cl^-$ ions from the salt bridge will enter the silver hal
 
 
 **Q7.** In a cell composed of $Cu$ and $Ni$ where $Cu$ acts as the anode:
-(a) What is the direction of electron flow in the external circuit?
-(b) What is the direction of conventional current?
+(a) What is the direction of electron flow in the external circuit?<br>
+(b) What is the direction of conventional current?<br>
 
 <details><summary>Solution</summary>
 (a) Electrons flow from Anode ($Cu$) to Cathode ($Ni$).
@@ -510,7 +755,7 @@ If $KCl$ is used, the $Cl^-$ ions from the salt bridge will enter the silver hal
 </details>
 
 
-**Q8.** Identify the anode and the cathode in a cell where the overall reaction is $ 3Mg(s) + 2Al3+(aq) \rightarrow 3Mg2+(aq) + 2Al(s) $ (assuming charges are 2+ and 3+ respectively). Which electrode is positive?
+**Q8.** Identify the anode and the cathode in a cell where the overall reaction is $ 3Mg(s) + 2Al3+(aq) \rightarrow 3Mg2+(aq) + 2Al(s) $ (assuming charges are 2+ and 3+ respectively). Which electrode is positive?<br>
 
 <details><summary>Solution</summary>
 $Mg$ is oxidized, so it is the Anode (Negative). $Al$ is reduced, so it is the Cathode (Positive).
@@ -526,14 +771,14 @@ $Mg$ is oxidized, so it is the Anode (Negative). $Al$ is reduced, so it is the C
 </details>
 
 
-**Q10.** Identify the anode and the cathode in a cell where the overall reaction is $ 3Cu(s) + 2Al3+(aq) \rightarrow 3Cu2+(aq) + 2Al(s) $ (assuming charges are 2+ and 3+ respectively). Which electrode is positive?
+**Q10.** Identify the anode and the cathode in a cell where the overall reaction is $ 3Cu(s) + 2Al3+(aq) \rightarrow 3Cu2+(aq) + 2Al(s) $ (assuming charges are 2+ and 3+ respectively). Which electrode is positive?<br>
 
 <details><summary>Solution</summary>
 $Cu$ is oxidized, so it is the Anode (Negative). $Al$ is reduced, so it is the Cathode (Positive).
 </details>
 
 
-**Q11.** Why is an agar-agar paste of $NH_4NO_3$ preferred over $KCl$ in a salt bridge when connecting a standard hydrogen electrode to a silver half-cell ($Ag^+/Ag$)?
+**Q11.** Why is an agar-agar paste of $NH_4NO_3$ preferred over $KCl$ in a salt bridge when connecting a standard hydrogen electrode to a silver half-cell ($Ag^+/Ag$)?<br>
 
 <details><summary>Solution</summary>
 If $KCl$ is used, the $Cl^-$ ions from the salt bridge will enter the silver half-cell and react with $Ag^+$ ions to form a white precipitate of $AgCl$. This precipitation will block the porous plug and stop the cell reaction. Therefore, $NH_4NO_3$ or $KNO_3$ is preferred.
@@ -558,21 +803,21 @@ If $KCl$ is used, the $Cl^-$ ions from the salt bridge will enter the silver hal
 </details>
 
 
-**Q14.** Identify the anode and the cathode in a cell where the overall reaction is $ 3Zn(s) + 2Ag+(aq) \rightarrow 3Zn2+(aq) + 2Ag(s) $ (assuming charges are 2+ and 3+ respectively). Which electrode is positive?
+**Q14.** Identify the anode and the cathode in a cell where the overall reaction is $ 3Zn(s) + 2Ag+(aq) \rightarrow 3Zn2+(aq) + 2Ag(s) $ (assuming charges are 2+ and 3+ respectively). Which electrode is positive?<br>
 
 <details><summary>Solution</summary>
 $Zn$ is oxidized, so it is the Anode (Negative). $Ag$ is reduced, so it is the Cathode (Positive).
 </details>
 
 
-**Q15.** Identify the anode and the cathode in a cell where the overall reaction is $ 3Ni(s) + 2Sn2+(aq) \rightarrow 3Ni2+(aq) + 2Sn(s) $ (assuming charges are 2+ and 3+ respectively). Which electrode is positive?
+**Q15.** Identify the anode and the cathode in a cell where the overall reaction is $ 3Ni(s) + 2Sn2+(aq) \rightarrow 3Ni2+(aq) + 2Sn(s) $ (assuming charges are 2+ and 3+ respectively). Which electrode is positive?<br>
 
 <details><summary>Solution</summary>
 $Ni$ is oxidized, so it is the Anode (Negative). $Sn$ is reduced, so it is the Cathode (Positive).
 </details>
 
 
-**Q16.** Why is an agar-agar paste of $NH_4NO_3$ preferred over $KCl$ in a salt bridge when connecting a standard hydrogen electrode to a silver half-cell ($Ag^+/Ag$)?
+**Q16.** Why is an agar-agar paste of $NH_4NO_3$ preferred over $KCl$ in a salt bridge when connecting a standard hydrogen electrode to a silver half-cell ($Ag^+/Ag$)?<br>
 
 <details><summary>Solution</summary>
 If $KCl$ is used, the $Cl^-$ ions from the salt bridge will enter the silver half-cell and react with $Ag^+$ ions to form a white precipitate of $AgCl$. This precipitation will block the porous plug and stop the cell reaction. Therefore, $NH_4NO_3$ or $KNO_3$ is preferred.
@@ -588,8 +833,8 @@ Oxidation occurs at the Cd electrode (Anode). Reduction occurs at the Sn electro
 
 
 **Q18.** In a cell composed of $Ag$ and $Sn$ where $Ag$ acts as the anode:
-(a) What is the direction of electron flow in the external circuit?
-(b) What is the direction of conventional current?
+(a) What is the direction of electron flow in the external circuit?<br>
+(b) What is the direction of conventional current?<br>
 
 <details><summary>Solution</summary>
 (a) Electrons flow from Anode ($Ag$) to Cathode ($Sn$).
@@ -606,7 +851,7 @@ Oxidation occurs at the Cd electrode (Anode). Reduction occurs at the Sn electro
 </details>
 
 
-**Q20.** Identify the anode and the cathode in a cell where the overall reaction is $ 3Cd(s) + 2Ni2+(aq) \rightarrow 3Cd2+(aq) + 2Ni(s) $ (assuming charges are 2+ and 3+ respectively). Which electrode is positive?
+**Q20.** Identify the anode and the cathode in a cell where the overall reaction is $ 3Cd(s) + 2Ni2+(aq) \rightarrow 3Cd2+(aq) + 2Ni(s) $ (assuming charges are 2+ and 3+ respectively). Which electrode is positive?<br>
 
 <details><summary>Solution</summary>
 $Cd$ is oxidized, so it is the Anode (Negative). $Ni$ is reduced, so it is the Cathode (Positive).
@@ -614,8 +859,8 @@ $Cd$ is oxidized, so it is the Anode (Negative). $Ni$ is reduced, so it is the C
 
 
 **Q21.** In a cell composed of $Fe$ and $Pb$ where $Fe$ acts as the anode:
-(a) What is the direction of electron flow in the external circuit?
-(b) What is the direction of conventional current?
+(a) What is the direction of electron flow in the external circuit?<br>
+(b) What is the direction of conventional current?<br>
 
 <details><summary>Solution</summary>
 (a) Electrons flow from Anode ($Fe$) to Cathode ($Pb$).
@@ -631,21 +876,21 @@ Oxidation occurs at the Ag electrode (Anode). Reduction occurs at the Pb electro
 </details>
 
 
-**Q23.** Identify the anode and the cathode in a cell where the overall reaction is $ 3Cd(s) + 2Ni2+(aq) \rightarrow 3Cd2+(aq) + 2Ni(s) $ (assuming charges are 2+ and 3+ respectively). Which electrode is positive?
+**Q23.** Identify the anode and the cathode in a cell where the overall reaction is $ 3Cd(s) + 2Ni2+(aq) \rightarrow 3Cd2+(aq) + 2Ni(s) $ (assuming charges are 2+ and 3+ respectively). Which electrode is positive?<br>
 
 <details><summary>Solution</summary>
 $Cd$ is oxidized, so it is the Anode (Negative). $Ni$ is reduced, so it is the Cathode (Positive).
 </details>
 
 
-**Q24.** Identify the anode and the cathode in a cell where the overall reaction is $ 3Cd(s) + 2Fe2+(aq) \rightarrow 3Cd2+(aq) + 2Fe(s) $ (assuming charges are 2+ and 3+ respectively). Which electrode is positive?
+**Q24.** Identify the anode and the cathode in a cell where the overall reaction is $ 3Cd(s) + 2Fe2+(aq) \rightarrow 3Cd2+(aq) + 2Fe(s) $ (assuming charges are 2+ and 3+ respectively). Which electrode is positive?<br>
 
 <details><summary>Solution</summary>
 $Cd$ is oxidized, so it is the Anode (Negative). $Fe$ is reduced, so it is the Cathode (Positive).
 </details>
 
 
-**Q25.** Why is an agar-agar paste of $NH_4NO_3$ preferred over $KCl$ in a salt bridge when connecting a standard hydrogen electrode to a silver half-cell ($Ag^+/Ag$)?
+**Q25.** Why is an agar-agar paste of $NH_4NO_3$ preferred over $KCl$ in a salt bridge when connecting a standard hydrogen electrode to a silver half-cell ($Ag^+/Ag$)?<br>
 
 <details><summary>Solution</summary>
 If $KCl$ is used, the $Cl^-$ ions from the salt bridge will enter the silver half-cell and react with $Ag^+$ ions to form a white precipitate of $AgCl$. This precipitation will block the porous plug and stop the cell reaction. Therefore, $NH_4NO_3$ or $KNO_3$ is preferred.
@@ -660,28 +905,28 @@ Oxidation occurs at the Zn electrode (Anode). Reduction occurs at the Pb electro
 </details>
 
 
-**Q27.** Identify the anode and the cathode in a cell where the overall reaction is $ 3Cu(s) + 2Fe2+(aq) \rightarrow 3Cu2+(aq) + 2Fe(s) $ (assuming charges are 2+ and 3+ respectively). Which electrode is positive?
+**Q27.** Identify the anode and the cathode in a cell where the overall reaction is $ 3Cu(s) + 2Fe2+(aq) \rightarrow 3Cu2+(aq) + 2Fe(s) $ (assuming charges are 2+ and 3+ respectively). Which electrode is positive?<br>
 
 <details><summary>Solution</summary>
 $Cu$ is oxidized, so it is the Anode (Negative). $Fe$ is reduced, so it is the Cathode (Positive).
 </details>
 
 
-**Q28.** Why is an agar-agar paste of $NH_4NO_3$ preferred over $KCl$ in a salt bridge when connecting a standard hydrogen electrode to a silver half-cell ($Ag^+/Ag$)?
+**Q28.** Why is an agar-agar paste of $NH_4NO_3$ preferred over $KCl$ in a salt bridge when connecting a standard hydrogen electrode to a silver half-cell ($Ag^+/Ag$)?<br>
 
 <details><summary>Solution</summary>
 If $KCl$ is used, the $Cl^-$ ions from the salt bridge will enter the silver half-cell and react with $Ag^+$ ions to form a white precipitate of $AgCl$. This precipitation will block the porous plug and stop the cell reaction. Therefore, $NH_4NO_3$ or $KNO_3$ is preferred.
 </details>
 
 
-**Q29.** Why is an agar-agar paste of $NH_4NO_3$ preferred over $KCl$ in a salt bridge when connecting a standard hydrogen electrode to a silver half-cell ($Ag^+/Ag$)?
+**Q29.** Why is an agar-agar paste of $NH_4NO_3$ preferred over $KCl$ in a salt bridge when connecting a standard hydrogen electrode to a silver half-cell ($Ag^+/Ag$)?<br>
 
 <details><summary>Solution</summary>
 If $KCl$ is used, the $Cl^-$ ions from the salt bridge will enter the silver half-cell and react with $Ag^+$ ions to form a white precipitate of $AgCl$. This precipitation will block the porous plug and stop the cell reaction. Therefore, $NH_4NO_3$ or $KNO_3$ is preferred.
 </details>
 
 
-**Q30.** Identify the anode and the cathode in a cell where the overall reaction is $ 3Mg(s) + 2Fe2+(aq) \rightarrow 3Mg2+(aq) + 2Fe(s) $ (assuming charges are 2+ and 3+ respectively). Which electrode is positive?
+**Q30.** Identify the anode and the cathode in a cell where the overall reaction is $ 3Mg(s) + 2Fe2+(aq) \rightarrow 3Mg2+(aq) + 2Fe(s) $ (assuming charges are 2+ and 3+ respectively). Which electrode is positive?<br>
 
 <details><summary>Solution</summary>
 $Mg$ is oxidized, so it is the Anode (Negative). $Fe$ is reduced, so it is the Cathode (Positive).
@@ -698,8 +943,8 @@ $Mg$ is oxidized, so it is the Anode (Negative). $Fe$ is reduced, so it is the C
 
 
 **Q32.** In a cell composed of $Sn$ and $Mg$ where $Sn$ acts as the anode:
-(a) What is the direction of electron flow in the external circuit?
-(b) What is the direction of conventional current?
+(a) What is the direction of electron flow in the external circuit?<br>
+(b) What is the direction of conventional current?<br>
 
 <details><summary>Solution</summary>
 (a) Electrons flow from Anode ($Sn$) to Cathode ($Mg$).
@@ -724,14 +969,14 @@ Oxidation occurs at the Sn electrode (Anode). Reduction occurs at the Zn electro
 </details>
 
 
-**Q35.** Why is an agar-agar paste of $NH_4NO_3$ preferred over $KCl$ in a salt bridge when connecting a standard hydrogen electrode to a silver half-cell ($Ag^+/Ag$)?
+**Q35.** Why is an agar-agar paste of $NH_4NO_3$ preferred over $KCl$ in a salt bridge when connecting a standard hydrogen electrode to a silver half-cell ($Ag^+/Ag$)?<br>
 
 <details><summary>Solution</summary>
 If $KCl$ is used, the $Cl^-$ ions from the salt bridge will enter the silver half-cell and react with $Ag^+$ ions to form a white precipitate of $AgCl$. This precipitation will block the porous plug and stop the cell reaction. Therefore, $NH_4NO_3$ or $KNO_3$ is preferred.
 </details>
 
 
-**Q36.** Identify the anode and the cathode in a cell where the overall reaction is $ 3Mg(s) + 2Ni2+(aq) \rightarrow 3Mg2+(aq) + 2Ni(s) $ (assuming charges are 2+ and 3+ respectively). Which electrode is positive?
+**Q36.** Identify the anode and the cathode in a cell where the overall reaction is $ 3Mg(s) + 2Ni2+(aq) \rightarrow 3Mg2+(aq) + 2Ni(s) $ (assuming charges are 2+ and 3+ respectively). Which electrode is positive?<br>
 
 <details><summary>Solution</summary>
 $Mg$ is oxidized, so it is the Anode (Negative). $Ni$ is reduced, so it is the Cathode (Positive).
@@ -739,8 +984,8 @@ $Mg$ is oxidized, so it is the Anode (Negative). $Ni$ is reduced, so it is the C
 
 
 **Q37.** In a cell composed of $Al$ and $Pb$ where $Al$ acts as the anode:
-(a) What is the direction of electron flow in the external circuit?
-(b) What is the direction of conventional current?
+(a) What is the direction of electron flow in the external circuit?<br>
+(b) What is the direction of conventional current?<br>
 
 <details><summary>Solution</summary>
 (a) Electrons flow from Anode ($Al$) to Cathode ($Pb$).
@@ -749,8 +994,8 @@ $Mg$ is oxidized, so it is the Anode (Negative). $Ni$ is reduced, so it is the C
 
 
 **Q38.** In a cell composed of $Zn$ and $Fe$ where $Zn$ acts as the anode:
-(a) What is the direction of electron flow in the external circuit?
-(b) What is the direction of conventional current?
+(a) What is the direction of electron flow in the external circuit?<br>
+(b) What is the direction of conventional current?<br>
 
 <details><summary>Solution</summary>
 (a) Electrons flow from Anode ($Zn$) to Cathode ($Fe$).
@@ -768,8 +1013,8 @@ $Mg$ is oxidized, so it is the Anode (Negative). $Ni$ is reduced, so it is the C
 
 
 **Q40.** In a cell composed of $Al$ and $Cu$ where $Al$ acts as the anode:
-(a) What is the direction of electron flow in the external circuit?
-(b) What is the direction of conventional current?
+(a) What is the direction of electron flow in the external circuit?<br>
+(b) What is the direction of conventional current?<br>
 
 <details><summary>Solution</summary>
 (a) Electrons flow from Anode ($Al$) to Cathode ($Cu$).
@@ -777,7 +1022,7 @@ $Mg$ is oxidized, so it is the Anode (Negative). $Ni$ is reduced, so it is the C
 </details>
 
 
-**Q41.** Why is an agar-agar paste of $NH_4NO_3$ preferred over $KCl$ in a salt bridge when connecting a standard hydrogen electrode to a silver half-cell ($Ag^+/Ag$)?
+**Q41.** Why is an agar-agar paste of $NH_4NO_3$ preferred over $KCl$ in a salt bridge when connecting a standard hydrogen electrode to a silver half-cell ($Ag^+/Ag$)?<br>
 
 <details><summary>Solution</summary>
 If $KCl$ is used, the $Cl^-$ ions from the salt bridge will enter the silver half-cell and react with $Ag^+$ ions to form a white precipitate of $AgCl$. This precipitation will block the porous plug and stop the cell reaction. Therefore, $NH_4NO_3$ or $KNO_3$ is preferred.
@@ -817,7 +1062,7 @@ Oxidation occurs at the Ag electrode (Anode). Reduction occurs at the Ni electro
 </details>
 
 
-**Q46.** Why is an agar-agar paste of $NH_4NO_3$ preferred over $KCl$ in a salt bridge when connecting a standard hydrogen electrode to a silver half-cell ($Ag^+/Ag$)?
+**Q46.** Why is an agar-agar paste of $NH_4NO_3$ preferred over $KCl$ in a salt bridge when connecting a standard hydrogen electrode to a silver half-cell ($Ag^+/Ag$)?<br>
 
 <details><summary>Solution</summary>
 If $KCl$ is used, the $Cl^-$ ions from the salt bridge will enter the silver half-cell and react with $Ag^+$ ions to form a white precipitate of $AgCl$. This precipitation will block the porous plug and stop the cell reaction. Therefore, $NH_4NO_3$ or $KNO_3$ is preferred.
@@ -851,14 +1096,14 @@ If $KCl$ is used, the $Cl^-$ ions from the salt bridge will enter the silver hal
 </details>
 
 
-**Q50.** Why is an agar-agar paste of $NH_4NO_3$ preferred over $KCl$ in a salt bridge when connecting a standard hydrogen electrode to a silver half-cell ($Ag^+/Ag$)?
+**Q50.** Why is an agar-agar paste of $NH_4NO_3$ preferred over $KCl$ in a salt bridge when connecting a standard hydrogen electrode to a silver half-cell ($Ag^+/Ag$)?<br>
 
 <details><summary>Solution</summary>
 If $KCl$ is used, the $Cl^-$ ions from the salt bridge will enter the silver half-cell and react with $Ag^+$ ions to form a white precipitate of $AgCl$. This precipitation will block the porous plug and stop the cell reaction. Therefore, $NH_4NO_3$ or $KNO_3$ is preferred.
 </details>
 
 
-**Q51.** Identify the anode and the cathode in a cell where the overall reaction is $ 3Cd(s) + 2Mg2+(aq) \rightarrow 3Cd2+(aq) + 2Mg(s) $ (assuming charges are 2+ and 3+ respectively). Which electrode is positive?
+**Q51.** Identify the anode and the cathode in a cell where the overall reaction is $ 3Cd(s) + 2Mg2+(aq) \rightarrow 3Cd2+(aq) + 2Mg(s) $ (assuming charges are 2+ and 3+ respectively). Which electrode is positive?<br>
 
 <details><summary>Solution</summary>
 $Cd$ is oxidized, so it is the Anode (Negative). $Mg$ is reduced, so it is the Cathode (Positive).
@@ -873,14 +1118,14 @@ Oxidation occurs at the Mg electrode (Anode). Reduction occurs at the Al electro
 </details>
 
 
-**Q53.** Why is an agar-agar paste of $NH_4NO_3$ preferred over $KCl$ in a salt bridge when connecting a standard hydrogen electrode to a silver half-cell ($Ag^+/Ag$)?
+**Q53.** Why is an agar-agar paste of $NH_4NO_3$ preferred over $KCl$ in a salt bridge when connecting a standard hydrogen electrode to a silver half-cell ($Ag^+/Ag$)?<br>
 
 <details><summary>Solution</summary>
 If $KCl$ is used, the $Cl^-$ ions from the salt bridge will enter the silver half-cell and react with $Ag^+$ ions to form a white precipitate of $AgCl$. This precipitation will block the porous plug and stop the cell reaction. Therefore, $NH_4NO_3$ or $KNO_3$ is preferred.
 </details>
 
 
-**Q54.** Why is an agar-agar paste of $NH_4NO_3$ preferred over $KCl$ in a salt bridge when connecting a standard hydrogen electrode to a silver half-cell ($Ag^+/Ag$)?
+**Q54.** Why is an agar-agar paste of $NH_4NO_3$ preferred over $KCl$ in a salt bridge when connecting a standard hydrogen electrode to a silver half-cell ($Ag^+/Ag$)?<br>
 
 <details><summary>Solution</summary>
 If $KCl$ is used, the $Cl^-$ ions from the salt bridge will enter the silver half-cell and react with $Ag^+$ ions to form a white precipitate of $AgCl$. This precipitation will block the porous plug and stop the cell reaction. Therefore, $NH_4NO_3$ or $KNO_3$ is preferred.
@@ -888,8 +1133,8 @@ If $KCl$ is used, the $Cl^-$ ions from the salt bridge will enter the silver hal
 
 
 **Q55.** In a cell composed of $Ni$ and $Pb$ where $Ni$ acts as the anode:
-(a) What is the direction of electron flow in the external circuit?
-(b) What is the direction of conventional current?
+(a) What is the direction of electron flow in the external circuit?<br>
+(b) What is the direction of conventional current?<br>
 
 <details><summary>Solution</summary>
 (a) Electrons flow from Anode ($Ni$) to Cathode ($Pb$).
@@ -897,7 +1142,7 @@ If $KCl$ is used, the $Cl^-$ ions from the salt bridge will enter the silver hal
 </details>
 
 
-**Q56.** Why is an agar-agar paste of $NH_4NO_3$ preferred over $KCl$ in a salt bridge when connecting a standard hydrogen electrode to a silver half-cell ($Ag^+/Ag$)?
+**Q56.** Why is an agar-agar paste of $NH_4NO_3$ preferred over $KCl$ in a salt bridge when connecting a standard hydrogen electrode to a silver half-cell ($Ag^+/Ag$)?<br>
 
 <details><summary>Solution</summary>
 If $KCl$ is used, the $Cl^-$ ions from the salt bridge will enter the silver half-cell and react with $Ag^+$ ions to form a white precipitate of $AgCl$. This precipitation will block the porous plug and stop the cell reaction. Therefore, $NH_4NO_3$ or $KNO_3$ is preferred.
@@ -905,8 +1150,8 @@ If $KCl$ is used, the $Cl^-$ ions from the salt bridge will enter the silver hal
 
 
 **Q57.** In a cell composed of $Mg$ and $Fe$ where $Mg$ acts as the anode:
-(a) What is the direction of electron flow in the external circuit?
-(b) What is the direction of conventional current?
+(a) What is the direction of electron flow in the external circuit?<br>
+(b) What is the direction of conventional current?<br>
 
 <details><summary>Solution</summary>
 (a) Electrons flow from Anode ($Mg$) to Cathode ($Fe$).
@@ -930,14 +1175,14 @@ Oxidation occurs at the Pb electrode (Anode). Reduction occurs at the Sn electro
 </details>
 
 
-**Q60.** Identify the anode and the cathode in a cell where the overall reaction is $ 3Pb(s) + 2Ni2+(aq) \rightarrow 3Pb2+(aq) + 2Ni(s) $ (assuming charges are 2+ and 3+ respectively). Which electrode is positive?
+**Q60.** Identify the anode and the cathode in a cell where the overall reaction is $ 3Pb(s) + 2Ni2+(aq) \rightarrow 3Pb2+(aq) + 2Ni(s) $ (assuming charges are 2+ and 3+ respectively). Which electrode is positive?<br>
 
 <details><summary>Solution</summary>
 $Pb$ is oxidized, so it is the Anode (Negative). $Ni$ is reduced, so it is the Cathode (Positive).
 </details>
 
 
-**Q61.** Identify the anode and the cathode in a cell where the overall reaction is $ 3Sn(s) + 2Mg2+(aq) \rightarrow 3Sn2+(aq) + 2Mg(s) $ (assuming charges are 2+ and 3+ respectively). Which electrode is positive?
+**Q61.** Identify the anode and the cathode in a cell where the overall reaction is $ 3Sn(s) + 2Mg2+(aq) \rightarrow 3Sn2+(aq) + 2Mg(s) $ (assuming charges are 2+ and 3+ respectively). Which electrode is positive?<br>
 
 <details><summary>Solution</summary>
 $Sn$ is oxidized, so it is the Anode (Negative). $Mg$ is reduced, so it is the Cathode (Positive).
@@ -961,21 +1206,21 @@ Oxidation occurs at the Ni electrode (Anode). Reduction occurs at the Fe electro
 </details>
 
 
-**Q64.** Why is an agar-agar paste of $NH_4NO_3$ preferred over $KCl$ in a salt bridge when connecting a standard hydrogen electrode to a silver half-cell ($Ag^+/Ag$)?
+**Q64.** Why is an agar-agar paste of $NH_4NO_3$ preferred over $KCl$ in a salt bridge when connecting a standard hydrogen electrode to a silver half-cell ($Ag^+/Ag$)?<br>
 
 <details><summary>Solution</summary>
 If $KCl$ is used, the $Cl^-$ ions from the salt bridge will enter the silver half-cell and react with $Ag^+$ ions to form a white precipitate of $AgCl$. This precipitation will block the porous plug and stop the cell reaction. Therefore, $NH_4NO_3$ or $KNO_3$ is preferred.
 </details>
 
 
-**Q65.** Identify the anode and the cathode in a cell where the overall reaction is $ 3Cu(s) + 2Fe2+(aq) \rightarrow 3Cu2+(aq) + 2Fe(s) $ (assuming charges are 2+ and 3+ respectively). Which electrode is positive?
+**Q65.** Identify the anode and the cathode in a cell where the overall reaction is $ 3Cu(s) + 2Fe2+(aq) \rightarrow 3Cu2+(aq) + 2Fe(s) $ (assuming charges are 2+ and 3+ respectively). Which electrode is positive?<br>
 
 <details><summary>Solution</summary>
 $Cu$ is oxidized, so it is the Anode (Negative). $Fe$ is reduced, so it is the Cathode (Positive).
 </details>
 
 
-**Q66.** Why is an agar-agar paste of $NH_4NO_3$ preferred over $KCl$ in a salt bridge when connecting a standard hydrogen electrode to a silver half-cell ($Ag^+/Ag$)?
+**Q66.** Why is an agar-agar paste of $NH_4NO_3$ preferred over $KCl$ in a salt bridge when connecting a standard hydrogen electrode to a silver half-cell ($Ag^+/Ag$)?<br>
 
 <details><summary>Solution</summary>
 If $KCl$ is used, the $Cl^-$ ions from the salt bridge will enter the silver half-cell and react with $Ag^+$ ions to form a white precipitate of $AgCl$. This precipitation will block the porous plug and stop the cell reaction. Therefore, $NH_4NO_3$ or $KNO_3$ is preferred.
@@ -983,8 +1228,8 @@ If $KCl$ is used, the $Cl^-$ ions from the salt bridge will enter the silver hal
 
 
 **Q67.** In a cell composed of $Cd$ and $Al$ where $Cd$ acts as the anode:
-(a) What is the direction of electron flow in the external circuit?
-(b) What is the direction of conventional current?
+(a) What is the direction of electron flow in the external circuit?<br>
+(b) What is the direction of conventional current?<br>
 
 <details><summary>Solution</summary>
 (a) Electrons flow from Anode ($Cd$) to Cathode ($Al$).
@@ -992,7 +1237,7 @@ If $KCl$ is used, the $Cl^-$ ions from the salt bridge will enter the silver hal
 </details>
 
 
-**Q68.** Identify the anode and the cathode in a cell where the overall reaction is $ 3Pb(s) + 2Zn2+(aq) \rightarrow 3Pb2+(aq) + 2Zn(s) $ (assuming charges are 2+ and 3+ respectively). Which electrode is positive?
+**Q68.** Identify the anode and the cathode in a cell where the overall reaction is $ 3Pb(s) + 2Zn2+(aq) \rightarrow 3Pb2+(aq) + 2Zn(s) $ (assuming charges are 2+ and 3+ respectively). Which electrode is positive?<br>
 
 <details><summary>Solution</summary>
 $Pb$ is oxidized, so it is the Anode (Negative). $Zn$ is reduced, so it is the Cathode (Positive).
@@ -1017,8 +1262,8 @@ Oxidation occurs at the Fe electrode (Anode). Reduction occurs at the Zn electro
 
 
 **Q71.** In a cell composed of $Zn$ and $Ni$ where $Zn$ acts as the anode:
-(a) What is the direction of electron flow in the external circuit?
-(b) What is the direction of conventional current?
+(a) What is the direction of electron flow in the external circuit?<br>
+(b) What is the direction of conventional current?<br>
 
 <details><summary>Solution</summary>
 (a) Electrons flow from Anode ($Zn$) to Cathode ($Ni$).
@@ -1026,7 +1271,7 @@ Oxidation occurs at the Fe electrode (Anode). Reduction occurs at the Zn electro
 </details>
 
 
-**Q72.** Identify the anode and the cathode in a cell where the overall reaction is $ 3Sn(s) + 2Mg2+(aq) \rightarrow 3Sn2+(aq) + 2Mg(s) $ (assuming charges are 2+ and 3+ respectively). Which electrode is positive?
+**Q72.** Identify the anode and the cathode in a cell where the overall reaction is $ 3Sn(s) + 2Mg2+(aq) \rightarrow 3Sn2+(aq) + 2Mg(s) $ (assuming charges are 2+ and 3+ respectively). Which electrode is positive?<br>
 
 <details><summary>Solution</summary>
 $Sn$ is oxidized, so it is the Anode (Negative). $Mg$ is reduced, so it is the Cathode (Positive).
@@ -1034,8 +1279,8 @@ $Sn$ is oxidized, so it is the Anode (Negative). $Mg$ is reduced, so it is the C
 
 
 **Q73.** In a cell composed of $Pb$ and $Cu$ where $Pb$ acts as the anode:
-(a) What is the direction of electron flow in the external circuit?
-(b) What is the direction of conventional current?
+(a) What is the direction of electron flow in the external circuit?<br>
+(b) What is the direction of conventional current?<br>
 
 <details><summary>Solution</summary>
 (a) Electrons flow from Anode ($Pb$) to Cathode ($Cu$).
@@ -1044,8 +1289,8 @@ $Sn$ is oxidized, so it is the Anode (Negative). $Mg$ is reduced, so it is the C
 
 
 **Q74.** In a cell composed of $Pb$ and $Ni$ where $Pb$ acts as the anode:
-(a) What is the direction of electron flow in the external circuit?
-(b) What is the direction of conventional current?
+(a) What is the direction of electron flow in the external circuit?<br>
+(b) What is the direction of conventional current?<br>
 
 <details><summary>Solution</summary>
 (a) Electrons flow from Anode ($Pb$) to Cathode ($Ni$).
@@ -1054,8 +1299,8 @@ $Sn$ is oxidized, so it is the Anode (Negative). $Mg$ is reduced, so it is the C
 
 
 **Q75.** In a cell composed of $Mg$ and $Al$ where $Mg$ acts as the anode:
-(a) What is the direction of electron flow in the external circuit?
-(b) What is the direction of conventional current?
+(a) What is the direction of electron flow in the external circuit?<br>
+(b) What is the direction of conventional current?<br>
 
 <details><summary>Solution</summary>
 (a) Electrons flow from Anode ($Mg$) to Cathode ($Al$).
@@ -1064,8 +1309,8 @@ $Sn$ is oxidized, so it is the Anode (Negative). $Mg$ is reduced, so it is the C
 
 
 **Q76.** In a cell composed of $Cu$ and $Fe$ where $Cu$ acts as the anode:
-(a) What is the direction of electron flow in the external circuit?
-(b) What is the direction of conventional current?
+(a) What is the direction of electron flow in the external circuit?<br>
+(b) What is the direction of conventional current?<br>
 
 <details><summary>Solution</summary>
 (a) Electrons flow from Anode ($Cu$) to Cathode ($Fe$).
@@ -1090,7 +1335,7 @@ Oxidation occurs at the Zn electrode (Anode). Reduction occurs at the Ni electro
 </details>
 
 
-**Q79.** Identify the anode and the cathode in a cell where the overall reaction is $ 3Ag(s) + 2Ni2+(aq) \rightarrow 3Ag+(aq) + 2Ni(s) $ (assuming charges are 2+ and 3+ respectively). Which electrode is positive?
+**Q79.** Identify the anode and the cathode in a cell where the overall reaction is $ 3Ag(s) + 2Ni2+(aq) \rightarrow 3Ag+(aq) + 2Ni(s) $ (assuming charges are 2+ and 3+ respectively). Which electrode is positive?<br>
 
 <details><summary>Solution</summary>
 $Ag$ is oxidized, so it is the Anode (Negative). $Ni$ is reduced, so it is the Cathode (Positive).
@@ -1098,8 +1343,8 @@ $Ag$ is oxidized, so it is the Anode (Negative). $Ni$ is reduced, so it is the C
 
 
 **Q80.** In a cell composed of $Ag$ and $Ni$ where $Ag$ acts as the anode:
-(a) What is the direction of electron flow in the external circuit?
-(b) What is the direction of conventional current?
+(a) What is the direction of electron flow in the external circuit?<br>
+(b) What is the direction of conventional current?<br>
 
 <details><summary>Solution</summary>
 (a) Electrons flow from Anode ($Ag$) to Cathode ($Ni$).
@@ -1108,8 +1353,8 @@ $Ag$ is oxidized, so it is the Anode (Negative). $Ni$ is reduced, so it is the C
 
 
 **Q81.** In a cell composed of $Zn$ and $Cd$ where $Zn$ acts as the anode:
-(a) What is the direction of electron flow in the external circuit?
-(b) What is the direction of conventional current?
+(a) What is the direction of electron flow in the external circuit?<br>
+(b) What is the direction of conventional current?<br>
 
 <details><summary>Solution</summary>
 (a) Electrons flow from Anode ($Zn$) to Cathode ($Cd$).
@@ -1117,7 +1362,7 @@ $Ag$ is oxidized, so it is the Anode (Negative). $Ni$ is reduced, so it is the C
 </details>
 
 
-**Q82.** Why is an agar-agar paste of $NH_4NO_3$ preferred over $KCl$ in a salt bridge when connecting a standard hydrogen electrode to a silver half-cell ($Ag^+/Ag$)?
+**Q82.** Why is an agar-agar paste of $NH_4NO_3$ preferred over $KCl$ in a salt bridge when connecting a standard hydrogen electrode to a silver half-cell ($Ag^+/Ag$)?<br>
 
 <details><summary>Solution</summary>
 If $KCl$ is used, the $Cl^-$ ions from the salt bridge will enter the silver half-cell and react with $Ag^+$ ions to form a white precipitate of $AgCl$. This precipitation will block the porous plug and stop the cell reaction. Therefore, $NH_4NO_3$ or $KNO_3$ is preferred.
@@ -1125,8 +1370,8 @@ If $KCl$ is used, the $Cl^-$ ions from the salt bridge will enter the silver hal
 
 
 **Q83.** In a cell composed of $Fe$ and $Pb$ where $Fe$ acts as the anode:
-(a) What is the direction of electron flow in the external circuit?
-(b) What is the direction of conventional current?
+(a) What is the direction of electron flow in the external circuit?<br>
+(b) What is the direction of conventional current?<br>
 
 <details><summary>Solution</summary>
 (a) Electrons flow from Anode ($Fe$) to Cathode ($Pb$).
@@ -1143,14 +1388,14 @@ If $KCl$ is used, the $Cl^-$ ions from the salt bridge will enter the silver hal
 </details>
 
 
-**Q85.** Identify the anode and the cathode in a cell where the overall reaction is $ 3Pb(s) + 2Cd2+(aq) \rightarrow 3Pb2+(aq) + 2Cd(s) $ (assuming charges are 2+ and 3+ respectively). Which electrode is positive?
+**Q85.** Identify the anode and the cathode in a cell where the overall reaction is $ 3Pb(s) + 2Cd2+(aq) \rightarrow 3Pb2+(aq) + 2Cd(s) $ (assuming charges are 2+ and 3+ respectively). Which electrode is positive?<br>
 
 <details><summary>Solution</summary>
 $Pb$ is oxidized, so it is the Anode (Negative). $Cd$ is reduced, so it is the Cathode (Positive).
 </details>
 
 
-**Q86.** Why is an agar-agar paste of $NH_4NO_3$ preferred over $KCl$ in a salt bridge when connecting a standard hydrogen electrode to a silver half-cell ($Ag^+/Ag$)?
+**Q86.** Why is an agar-agar paste of $NH_4NO_3$ preferred over $KCl$ in a salt bridge when connecting a standard hydrogen electrode to a silver half-cell ($Ag^+/Ag$)?<br>
 
 <details><summary>Solution</summary>
 If $KCl$ is used, the $Cl^-$ ions from the salt bridge will enter the silver half-cell and react with $Ag^+$ ions to form a white precipitate of $AgCl$. This precipitation will block the porous plug and stop the cell reaction. Therefore, $NH_4NO_3$ or $KNO_3$ is preferred.
@@ -1158,8 +1403,8 @@ If $KCl$ is used, the $Cl^-$ ions from the salt bridge will enter the silver hal
 
 
 **Q87.** In a cell composed of $Al$ and $Pb$ where $Al$ acts as the anode:
-(a) What is the direction of electron flow in the external circuit?
-(b) What is the direction of conventional current?
+(a) What is the direction of electron flow in the external circuit?<br>
+(b) What is the direction of conventional current?<br>
 
 <details><summary>Solution</summary>
 (a) Electrons flow from Anode ($Al$) to Cathode ($Pb$).
@@ -1177,8 +1422,8 @@ If $KCl$ is used, the $Cl^-$ ions from the salt bridge will enter the silver hal
 
 
 **Q89.** In a cell composed of $Mg$ and $Cd$ where $Mg$ acts as the anode:
-(a) What is the direction of electron flow in the external circuit?
-(b) What is the direction of conventional current?
+(a) What is the direction of electron flow in the external circuit?<br>
+(b) What is the direction of conventional current?<br>
 
 <details><summary>Solution</summary>
 (a) Electrons flow from Anode ($Mg$) to Cathode ($Cd$).
@@ -1186,35 +1431,35 @@ If $KCl$ is used, the $Cl^-$ ions from the salt bridge will enter the silver hal
 </details>
 
 
-**Q90.** Identify the anode and the cathode in a cell where the overall reaction is $ 3Ag(s) + 2Zn2+(aq) \rightarrow 3Ag+(aq) + 2Zn(s) $ (assuming charges are 2+ and 3+ respectively). Which electrode is positive?
+**Q90.** Identify the anode and the cathode in a cell where the overall reaction is $ 3Ag(s) + 2Zn2+(aq) \rightarrow 3Ag+(aq) + 2Zn(s) $ (assuming charges are 2+ and 3+ respectively). Which electrode is positive?<br>
 
 <details><summary>Solution</summary>
 $Ag$ is oxidized, so it is the Anode (Negative). $Zn$ is reduced, so it is the Cathode (Positive).
 </details>
 
 
-**Q91.** Why is an agar-agar paste of $NH_4NO_3$ preferred over $KCl$ in a salt bridge when connecting a standard hydrogen electrode to a silver half-cell ($Ag^+/Ag$)?
+**Q91.** Why is an agar-agar paste of $NH_4NO_3$ preferred over $KCl$ in a salt bridge when connecting a standard hydrogen electrode to a silver half-cell ($Ag^+/Ag$)?<br>
 
 <details><summary>Solution</summary>
 If $KCl$ is used, the $Cl^-$ ions from the salt bridge will enter the silver half-cell and react with $Ag^+$ ions to form a white precipitate of $AgCl$. This precipitation will block the porous plug and stop the cell reaction. Therefore, $NH_4NO_3$ or $KNO_3$ is preferred.
 </details>
 
 
-**Q92.** Why is an agar-agar paste of $NH_4NO_3$ preferred over $KCl$ in a salt bridge when connecting a standard hydrogen electrode to a silver half-cell ($Ag^+/Ag$)?
+**Q92.** Why is an agar-agar paste of $NH_4NO_3$ preferred over $KCl$ in a salt bridge when connecting a standard hydrogen electrode to a silver half-cell ($Ag^+/Ag$)?<br>
 
 <details><summary>Solution</summary>
 If $KCl$ is used, the $Cl^-$ ions from the salt bridge will enter the silver half-cell and react with $Ag^+$ ions to form a white precipitate of $AgCl$. This precipitation will block the porous plug and stop the cell reaction. Therefore, $NH_4NO_3$ or $KNO_3$ is preferred.
 </details>
 
 
-**Q93.** Identify the anode and the cathode in a cell where the overall reaction is $ 3Pb(s) + 2Cu2+(aq) \rightarrow 3Pb2+(aq) + 2Cu(s) $ (assuming charges are 2+ and 3+ respectively). Which electrode is positive?
+**Q93.** Identify the anode and the cathode in a cell where the overall reaction is $ 3Pb(s) + 2Cu2+(aq) \rightarrow 3Pb2+(aq) + 2Cu(s) $ (assuming charges are 2+ and 3+ respectively). Which electrode is positive?<br>
 
 <details><summary>Solution</summary>
 $Pb$ is oxidized, so it is the Anode (Negative). $Cu$ is reduced, so it is the Cathode (Positive).
 </details>
 
 
-**Q94.** Identify the anode and the cathode in a cell where the overall reaction is $ 3Pb(s) + 2Fe2+(aq) \rightarrow 3Pb2+(aq) + 2Fe(s) $ (assuming charges are 2+ and 3+ respectively). Which electrode is positive?
+**Q94.** Identify the anode and the cathode in a cell where the overall reaction is $ 3Pb(s) + 2Fe2+(aq) \rightarrow 3Pb2+(aq) + 2Fe(s) $ (assuming charges are 2+ and 3+ respectively). Which electrode is positive?<br>
 
 <details><summary>Solution</summary>
 $Pb$ is oxidized, so it is the Anode (Negative). $Fe$ is reduced, so it is the Cathode (Positive).
@@ -1231,8 +1476,8 @@ $Pb$ is oxidized, so it is the Anode (Negative). $Fe$ is reduced, so it is the C
 
 
 **Q96.** In a cell composed of $Cu$ and $Pb$ where $Cu$ acts as the anode:
-(a) What is the direction of electron flow in the external circuit?
-(b) What is the direction of conventional current?
+(a) What is the direction of electron flow in the external circuit?<br>
+(b) What is the direction of conventional current?<br>
 
 <details><summary>Solution</summary>
 (a) Electrons flow from Anode ($Cu$) to Cathode ($Pb$).
@@ -1240,7 +1485,7 @@ $Pb$ is oxidized, so it is the Anode (Negative). $Fe$ is reduced, so it is the C
 </details>
 
 
-**Q97.** Identify the anode and the cathode in a cell where the overall reaction is $ 3Ni(s) + 2Pb2+(aq) \rightarrow 3Ni2+(aq) + 2Pb(s) $ (assuming charges are 2+ and 3+ respectively). Which electrode is positive?
+**Q97.** Identify the anode and the cathode in a cell where the overall reaction is $ 3Ni(s) + 2Pb2+(aq) \rightarrow 3Ni2+(aq) + 2Pb(s) $ (assuming charges are 2+ and 3+ respectively). Which electrode is positive?<br>
 
 <details><summary>Solution</summary>
 $Ni$ is oxidized, so it is the Anode (Negative). $Pb$ is reduced, so it is the Cathode (Positive).
@@ -1248,8 +1493,8 @@ $Ni$ is oxidized, so it is the Anode (Negative). $Pb$ is reduced, so it is the C
 
 
 **Q98.** In a cell composed of $Al$ and $Sn$ where $Al$ acts as the anode:
-(a) What is the direction of electron flow in the external circuit?
-(b) What is the direction of conventional current?
+(a) What is the direction of electron flow in the external circuit?<br>
+(b) What is the direction of conventional current?<br>
 
 <details><summary>Solution</summary>
 (a) Electrons flow from Anode ($Al$) to Cathode ($Sn$).
@@ -1257,7 +1502,7 @@ $Ni$ is oxidized, so it is the Anode (Negative). $Pb$ is reduced, so it is the C
 </details>
 
 
-**Q99.** Why is an agar-agar paste of $NH_4NO_3$ preferred over $KCl$ in a salt bridge when connecting a standard hydrogen electrode to a silver half-cell ($Ag^+/Ag$)?
+**Q99.** Why is an agar-agar paste of $NH_4NO_3$ preferred over $KCl$ in a salt bridge when connecting a standard hydrogen electrode to a silver half-cell ($Ag^+/Ag$)?<br>
 
 <details><summary>Solution</summary>
 If $KCl$ is used, the $Cl^-$ ions from the salt bridge will enter the silver half-cell and react with $Ag^+$ ions to form a white precipitate of $AgCl$. This precipitation will block the porous plug and stop the cell reaction. Therefore, $NH_4NO_3$ or $KNO_3$ is preferred.

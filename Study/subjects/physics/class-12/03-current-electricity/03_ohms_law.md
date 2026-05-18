@@ -11,7 +11,7 @@
 Imagine water flowing through a horizontal pipe. 
 - The **current ($I$)** is the amount of water flowing per second.
 - The **potential difference ($V$)** is the pressure difference between the two ends of the pipe (maybe created by a pump).
-- The **resistance ($R$)** is the pipe's opposition to flow (is the pipe narrow? Is it clogged?).
+- The **resistance ($R$)** is the pipe's opposition to flow (is the pipe narrow?<br> Is it clogged?<br>).
 
 If you increase the pressure ($V$), more water flows ($I$). If you double the pressure, the flow doubles. They are directly proportional.
 
@@ -28,7 +28,7 @@ It represents the opposition offered by the conductor to the flow of electric cu
 
 ### The Microscopic View (Vector Form)
 
-While $V = IR$ is the macroscopic form we use in circuits, what happens inside the metal? 
+While $V = IR$ is the macroscopic form we use in circuits, what happens inside the metal?<br> 
 The electric field ($\vec{E}$) drives the current density ($\vec{J}$). 
 
 > **$\vec{J} = \sigma \vec{E}$**
@@ -46,7 +46,8 @@ $$V = IR$$
 | Symbol | Meaning | Unit |
 |--------|---------|------|
 | $V$ | Potential Difference | Volt (V) |
-| $I$ | Electric Current | Ampere (A) |
+| $I$ | Electric Current | Ampere <br>
+(A) |
 | $R$ | Resistance | Ohm ($\Omega$) |
 
 **Definition of 1 Ohm:** The resistance of a conductor is 1 ohm if a current of 1 ampere flows through it when a potential difference of 1 volt is applied across it. ($1 \text{ } \Omega = 1 \text{ V/A}$)
@@ -83,7 +84,7 @@ So, $\sigma = \frac{ne^2\tau}{m}$.
 
 **Solved Example** 🟢
 
-> A heating element has a resistance of $150 \text{ } \Omega$ and draws a current of $1.5 \text{ A}$. What is the voltage of the supply?
+> A heating element has a resistance of $150 \text{ } \Omega$ and draws a current of $1.5 \text{ A}$. What is the voltage of the supply?<br>
 
 <details>
 <summary><b>Solution</b></summary>
@@ -101,7 +102,7 @@ $V = IR = 1.5 \times 150 = \mathbf{225 \text{ V}}$
 $R = V/I = 12 / 2.5 = \mathbf{4.8 \text{ } \Omega}$
 </details>
 
-2. 🟢 How much current will a $20 \text{ } \Omega$ resistor draw when connected to a $5 \text{ V}$ source?
+2. 🟢 How much current will a $20 \text{ } \Omega$ resistor draw when connected to a $5 \text{ V}$ source?<br>
 
 <details>
 <summary><b>Answer</b></summary>
@@ -130,7 +131,7 @@ Conductance $G = 1/R = 1/25 = \mathbf{0.04 \text{ S}}$ (Siemens)
 
 **Solved Example** 🟡
 
-> The $V-I$ graph for two metallic wires $A$ and $B$ at constant temperature are straight lines. The line for wire $A$ is steeper (makes a larger angle with the $I$-axis). Which wire has higher resistance?
+> The $V-I$ graph for two metallic wires $A$ and $B$ at constant temperature are straight lines. The line for wire $A$ is steeper (makes a larger angle with the $I$-axis). Which wire has higher resistance?<br>
 
 <details>
 <summary><b>Solution</b></summary>
@@ -142,7 +143,7 @@ Therefore, **Wire $A$ has higher resistance.**
 
 **Practice:**
 
-1. 🟡 In an $I-V$ graph (Current on y-axis, Voltage on x-axis), curve $P$ is steeper than curve $Q$. Which has higher resistance?
+1. 🟡 In an $I-V$ graph (Current on y-axis, Voltage on x-axis), curve $P$ is steeper than curve $Q$. Which has higher resistance?<br>
 
 <details>
 <summary><b>Answer</b></summary>
@@ -212,7 +213,7 @@ Verify: $\sigma E = (4 \times 10^5) \times 5 = 20 \times 10^5 = 2 \times 10^6 \t
 
 ## 📋 Stage 5: Board Arsenal
 
-**Q1.** 🟢 State Ohm's law. Are there materials that do not obey Ohm's law? *(2 marks)*
+**Q1.** 🟢 State Ohm's law. Are there materials that do not obey Ohm's law?<br> *(2 marks)*
 
 <details>
 <summary><b>Model Answer</b></summary>
@@ -239,7 +240,7 @@ In vector form, since current density $\vec{J}$ is in the direction of the elect
 **$\vec{J} = \sigma\vec{E}$**
 </details>
 
-**Q3.** 🟡 Why is Ohm's law not a universal law? *(1 mark)*
+**Q3.** 🟡 Why is Ohm's law not a universal law?<br> *(1 mark)*
 
 <details>
 <summary><b>Model Answer</b></summary>
@@ -269,7 +270,7 @@ $I_A / I_B = R_B / R_A = 8/1$.
 **Answer: (b)**
 </details>
 
-**Q2.** 🔴 A steady current flows in a metallic conductor of non-uniform cross-section. Which of the following quantities is constant along the conductor?
+**Q2.** 🔴 A steady current flows in a metallic conductor of non-uniform cross-section. Which of the following quantities is constant along the conductor?<br>
 
 (a) Current density &emsp; (b) Electric field &emsp; (c) Drift speed &emsp; (d) Current
 

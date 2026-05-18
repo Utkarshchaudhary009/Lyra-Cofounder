@@ -6,7 +6,7 @@
 
 ## 🎯 Stage 1: The Core Idea
 
-### Why Group Cells?
+### Why Group Cells?<br>
 
 A single $1.5\text{V}$ AA battery can't power a flashlight that requires $6\text{V}$. And a single small battery can't provide the massive current needed to start a car engine. 
 
@@ -33,7 +33,7 @@ Suppose we have $n$ identical cells, each of EMF $\varepsilon$ and internal resi
 Current through an external resistor $R$:
 $$I = \frac{n\varepsilon}{R + nr}$$
 
-> **What if one cell is reversed?** ⭐
+> **What if one cell is reversed?<br>** ⭐
 > If 1 cell out of $n$ is connected backwards, it cancels out itself AND one normal cell.
 > Equivalent EMF = $(n-2)\varepsilon$. (Internal resistance remains $nr$).
 
@@ -97,7 +97,7 @@ $r_{eq} = r/m = 1/3\text{ } \Omega$.
 $I = \frac{1.5}{2.5 + 1/3} = \frac{1.5}{(7.5 + 1)/3} = \frac{4.5}{8.5} \approx \mathbf{0.53\text{ A}}$.
 </details>
 
-2. 🟡 10 cells, each of EMF $E$ and internal resistance $r$, are connected in series. If 2 cells are connected with reverse polarity, what is the equivalent EMF and equivalent internal resistance?
+2. 🟡 10 cells, each of EMF $E$ and internal resistance $r$, are connected in series. If 2 cells are connected with reverse polarity, what is the equivalent EMF and equivalent internal resistance?<br>
 
 <details>
 <summary><b>Answer</b></summary>
@@ -106,7 +106,7 @@ Equivalent EMF: 2 reversed cells cancel out 2 forward cells. Net forward cells =
 Equivalent internal resistance: Polarity doesn't affect resistance. $r_{eq} = \mathbf{10r}$.
 </details>
 
-3. 🟡 A battery consists of a variable number $n$ of identical cells (each having EMF $E$ and internal resistance $r$) connected in series. The terminals are short-circuited. How does the short-circuit current vary with $n$?
+3. 🟡 A battery consists of a variable number $n$ of identical cells (each having EMF $E$ and internal resistance $r$) connected in series. The terminals are short-circuited. How does the short-circuit current vary with $n$?<br>
 
 <details>
 <summary><b>Answer</b></summary>
@@ -153,7 +153,7 @@ $r_{eq} = \frac{r_1 r_2}{r_1 + r_2} = \frac{0.2 \times 0.3}{0.2 + 0.3} = \frac{0
 $\varepsilon_{eq} = \frac{4(2) + 8(1)}{1 + 2} = \frac{8 + 8}{3} = \mathbf{\frac{16}{3}\text{ V}} \approx 5.33\text{ V}$.
 </details>
 
-2. 🔴 What if the same two cells (from Q1) are connected in parallel with opposing polarities (positive of one to negative of the other)?
+2. 🔴 What if the same two cells (from Q1) are connected in parallel with opposing polarities (positive of one to negative of the other)?<br>
 
 <details>
 <summary><b>Answer</b></summary>
@@ -163,7 +163,7 @@ $\varepsilon_{eq} = \frac{4(2) + (-8)(1)}{1 + 2} = \frac{8 - 8}{3} = \mathbf{0\t
 *(The net EMF is zero! The batteries will just drain each other in a loop).*
 </details>
 
-3. 🔴 Three identical cells of EMF $E$ and internal resistance $r$ are connected in parallel. However, one cell is connected with reverse polarity. What is the equivalent EMF?
+3. 🔴 Three identical cells of EMF $E$ and internal resistance $r$ are connected in parallel. However, one cell is connected with reverse polarity. What is the equivalent EMF?<br>
 
 <details>
 <summary><b>Answer</b></summary>
@@ -182,7 +182,7 @@ $\varepsilon_{eq} = (r/3) \times (E/r) = \mathbf{E/3}$.
 
 **Solved Example** 🟡
 
-> You have 24 identical cells, each of internal resistance $1\text{ } \Omega$. You need to maximize the current through an external resistor of $1.5\text{ } \Omega$. How should you arrange the cells (how many in series per row, how many rows)?
+> You have 24 identical cells, each of internal resistance $1\text{ } \Omega$. You need to maximize the current through an external resistor of $1.5\text{ } \Omega$. How should you arrange the cells (how many in series per row, how many rows)?<br>
 
 <details>
 <summary><b>Solution</b></summary>
@@ -210,7 +210,7 @@ $72 = 0.5n^2 \implies n^2 = 144 \implies \mathbf{n = 12}$.
 $m = 36/12 = \mathbf{3}$.
 </details>
 
-2. 🔴 If the external resistance is extremely high (much larger than the internal resistance of any combination of the 36 cells), how should you connect them for maximum current?
+2. 🔴 If the external resistance is extremely high (much larger than the internal resistance of any combination of the 36 cells), how should you connect them for maximum current?<br>
 
 <details>
 <summary><b>Answer</b></summary>
@@ -238,7 +238,7 @@ Now apply this equivalent battery to the external resistor $R = 10\text{ } \Omeg
 $I = \frac{\varepsilon_{eq}}{R + r_{eq}} = \frac{14}{10 + 2/3} = \frac{14}{32/3} = \frac{42}{32} = \mathbf{1.3125\text{ A}}$.
 </details>
 
-**Q2.** 🔴 ⭐ $N$ identical cells are connected in a closed loop (in series, positive to negative to positive...). What is the potential difference across any one cell?
+**Q2.** 🔴 ⭐ $N$ identical cells are connected in a closed loop (in series, positive to negative to positive...). What is the potential difference across any one cell?<br>
 
 <details>
 <summary><b>Solution</b></summary>
@@ -255,7 +255,7 @@ The terminal voltage of every cell in this loop is exactly zero!
 
 ## 📋 Stage 5: Board Arsenal
 
-**Q1.** 🟢 Why is it recommended to connect cells in parallel when the external resistance is very low compared to the internal resistance? *(2 marks)*
+**Q1.** 🟢 Why is it recommended to connect cells in parallel when the external resistance is very low compared to the internal resistance?<br> *(2 marks)*
 
 <details>
 <summary><b>Model Answer</b></summary>
@@ -283,7 +283,7 @@ Comparing this with the standard equivalent cell equation $V = \varepsilon_{eq} 
 $\varepsilon_{eq} = \frac{\varepsilon_1 r_2 + \varepsilon_2 r_1}{r_1 + r_2}$ and $r_{eq} = \frac{r_1 r_2}{r_1 + r_2}$.
 </details>
 
-**Q3.** 🟡 You have 10 identical cells. You connect them in series, but mistakenly connect 1 cell in reverse. How much does the total EMF decrease compared to the correct arrangement? *(2 marks)*
+**Q3.** 🟡 You have 10 identical cells. You connect them in series, but mistakenly connect 1 cell in reverse. How much does the total EMF decrease compared to the correct arrangement?<br> *(2 marks)*
 
 <details>
 <summary><b>Model Answer</b></summary>
@@ -316,7 +316,9 @@ Since $mn = N$, $P_{max} = \mathbf{\frac{N E^2}{4r}}$.
 </details>
 
 **Q2.** 🔴 Two non-ideal batteries are connected in parallel. Consider the following statements:
+<br>
 (A) The equivalent EMF is smaller than either of the two EMFs.
+<br>
 (B) The equivalent internal resistance is smaller than either of the two internal resistances.
 
 (a) Both A and B are correct

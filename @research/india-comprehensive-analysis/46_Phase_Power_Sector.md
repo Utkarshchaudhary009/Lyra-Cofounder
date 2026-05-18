@@ -1,4 +1,4 @@
-# Phase 46: The Power Sector (Darkness Ahead?)
+# Phase 46: The Power Sector (Darkness Ahead?<br>)
 *Theme: Specific Sectoral Rot*
 
 This document uses 2024 debt and demand data to expose the fragility of India's power sector.

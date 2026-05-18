@@ -141,7 +141,7 @@ Phase 25 (2015-2019) was the era of the "Gaslight." To the average person, silve
 
 But underneath this boring surface, the greatest bank heist in history was being finalized.
 
-The detective's magnifying glass reveals a startling contradiction. If silver was so useless, why was JP Morgan—the world's most sophisticated bank—frantically buying every ounce it could find?
+The detective's magnifying glass reveals a startling contradiction. If silver was so useless, why was JP Morgan—the world's most sophisticated bank—frantically buying every ounce it could find?<br>
 
 In 2011, JP Morgan had virtually zero physical silver. By 2019, they were sitting on a hoard estimated at over 150 million ounces, nearly half of the entire COMEX inventory. They didn't accumulate this by accident. They accumulated it by *force*.
 
@@ -170,35 +170,35 @@ This era was the calm before the storm. It was the "accumulation phase" where th
 
 ## 7. COMPREHENSION CHECK (Critical Thinking)
 
-*   **Q1:** Why did JP Morgan accumulate 150M oz of silver if they were "bearish" on the price?
+*   **Q1:** Why did JP Morgan accumulate 150M oz of silver if they were "bearish" on the price?<br>
     *   **A:** They weren't bearish on the *asset*; they were bearish on the *public holding it*. They suppressed the price to buy it cheap for themselves (Insider Accumulation).
-*   **Q2:** How did the "Death of Photography" narrative help the banks?
+*   **Q2:** How did the "Death of Photography" narrative help the banks?<br>
     *   **A:** It provided a convenient "cover story." While analysts focused on Kodak dying, they ignored the massive rise of Solar demand, allowing banks to accumulate while the public looked away.
-*   **Q3:** If supply was falling (mines closing) and demand was rising (Solar), why did price fall?
+*   **Q3:** If supply was falling (mines closing) and demand was rising (Solar), why did price fall?<br>
     *   **A:** Because the "Paper Price" (Futures) is determined by leverage and spoofing, not physical supply/demand. The price was set in New York (COMEX), not at the mine.
-*   **Q4:** What is the purpose of a "Flash Crash" at 2 AM?
+*   **Q4:** What is the purpose of a "Flash Crash" at 2 AM?<br>
     *   **A:** To trigger "Stop Losses." It forces automated selling by retail traders, creating a liquidity vacuum where banks can cover their short positions or buy long at artificially low prices.
-*   **Q5:** Why is the "Repo Crisis" important for Silver?
+*   **Q5:** Why is the "Repo Crisis" important for Silver?<br>
     *   **A:** It proved the banking system was insolvent without constant money printing. This validates Silver's role as "Real Money" outside the banking system, threatening the logic of fiat currency.
-*   **Q6:** How does rising interest rates hurt Silver?
+*   **Q6:** How does rising interest rates hurt Silver?<br>
     *   **A:** It increases the "Opportunity Cost." Investors prefer assets that pay 5% interest (Bonds) over Silver (0% interest) unless Silver's price is rising fast enough to beat the yield.
-*   **Q7:** What does "Thrifting" mean in the solar industry?
+*   **Q7:** What does "Thrifting" mean in the solar industry?<br>
     *   **A:** Reducing the amount of silver used per panel. Banks used this to argue demand would drop, ignoring that the *number* of panels increased so much it canceled out the savings.
-*   **Q8:** Why did Scotiabank exit the gold/silver business?
+*   **Q8:** Why did Scotiabank exit the gold/silver business?<br>
     *   **A:** Regulatory pressure. The DOJ/CFTC spoofing investigations exposed the "criminal enterprise" nature of the trading desks, making the liability too high for a traditional bank.
-*   **Q9:** What is the difference between "Registered" and "Eligible" silver?
+*   **Q9:** What is the difference between "Registered" and "Eligible" silver?<br>
     *   **A:** Registered is "For Sale" (warrant issued). Eligible is "Storage" (private ownership, not necessarily for sale). JPM dominance was in *Eligible* stacks, meaning they took it *off* the market.
-*   **Q10:** How did the Strong Dollar (DXY) impact Silver in Phase 25?
+*   **Q10:** How did the Strong Dollar (DXY) impact Silver in Phase 25?<br>
     *   **A:** Inverse correlation. Algorithms automatically sold silver whenever the Dollar spiked, keeping silver suppressed during the Fed's tightening cycle.
-*   **Q11:** What happened to the US Mint silver coin sales in 2015?
+*   **Q11:** What happened to the US Mint silver coin sales in 2015?<br>
     *   **A:** They hit a record (47M), yet the price fell. This proved the disconnect between "Street Price/Demand" and "Spot Price."
-*   **Q12:** Who were the "Big 4" or "Big 8" shorts?
+*   **Q12:** Who were the "Big 4" or "Big 8" shorts?<br>
     *   **A:** The massive bullion banks (JPM, etc.) holding concentrated short positions that effectively capped the price rally attempts.
-*   **Q13:** What is "Seigniorage" in the modern context?
+*   **Q13:** What is "Seigniorage" in the modern context?<br>
     *   **A:** The Central Bank's ability to create money for free. Silver threatens this privilege, which is why Central Banks ignore/suppress it unlike Gold, which they hold as reserves.
-*   **Q14:** Why is the 2016 Deutsche Bank settlement a "smoking gun"?
+*   **Q14:** Why is the 2016 Deutsche Bank settlement a "smoking gun"?<br>
     *   **A:** It provided actual chat logs ("Bulldozer," "Screw the others") proving that conspiracy and collusion were not theories, but daily business practices.
-*   **Q15:** How did Phase 25 prepare the market for Phase 26 (2020)?
+*   **Q15:** How did Phase 25 prepare the market for Phase 26 (2020)?<br>
     *   **A:** It cleared the "weak hands," transferred physical metal to "strong hands" (JPM), and destroyed mining supply capacity, creating the perfect conditions for a supply squeeze when the pandemic stimulus hit.
 
-**C:** *The Repo Crisis of 2019 was the first tremor of the earthquake. If banks couldn't trust each other with cash overnight, why should you trust them with your wealth for a lifetime? Phase 26 will reveal what happens when the printing press breaks the knob off...*
+**C:** *The Repo Crisis of 2019 was the first tremor of the earthquake. If banks couldn't trust each other with cash overnight, why should you trust them with your wealth for a lifetime?<br> Phase 26 will reveal what happens when the printing press breaks the knob off...*

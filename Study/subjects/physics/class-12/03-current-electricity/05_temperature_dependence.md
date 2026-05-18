@@ -6,7 +6,7 @@
 
 ## 🎯 Stage 1: The Core Idea
 
-### Why Does Temperature Change Resistance?
+### Why Does Temperature Change Resistance?<br>
 
 Let's go back to the highway analogy from Chapter 4. 
 - The **electrons** are the cars trying to drive down the highway.
@@ -23,7 +23,7 @@ Because the ions are vibrating over a larger amplitude, the electrons collide wi
 
 ### The Semiconductor Twist
 
-What about semiconductors (like Silicon or Germanium) and insulators?
+What about semiconductors (like Silicon or Germanium) and insulators?<br>
 Here, an increase in temperature does increase lattice vibrations, but it does something much more important: **it breaks chemical bonds**, freeing up billions of new electrons to act as charge carriers.
 
 In semiconductors, the number density of carriers ($n$) increases exponentially with temperature. This effect completely overpowers the decrease in relaxation time ($\tau$).
@@ -124,13 +124,13 @@ $1.5 + 75\alpha = 1 + 100\alpha \implies 0.5 = 25\alpha \implies \alpha = 0.5 / 
 
 **Solved Example** 🟡
 
-> The resistance of a heating element at room temperature ($27^\circ\text{C}$) is $100 \text{ } \Omega$. At what temperature will its resistance become $117 \text{ } \Omega$? Given $\alpha = 1.7 \times 10^{-4} \text{ } ^\circ\text{C}^{-1}$.
+> The resistance of a heating element at room temperature ($27^\circ\text{C}$) is $100 \text{ } \Omega$. At what temperature will its resistance become $117 \text{ } \Omega$?<br> Given $\alpha = 1.7 \times 10^{-4} \text{ } ^\circ\text{C}^{-1}$.
 
 <details>
 <summary><b>Solution</b></summary>
 
 $R_1 = 100 \text{ } \Omega$ at $T_1 = 27^\circ\text{C}$. (We can use this as our reference $R_0$)
-$R_2 = 117 \text{ } \Omega$ at $T_2 = ?$
+$R_2 = 117 \text{ } \Omega$ at $T_2 = ?<br>$
 $\alpha = 1.7 \times 10^{-4} \text{ } ^\circ\text{C}^{-1}$
 
 $R_2 = R_1 [1 + \alpha(T_2 - T_1)]$
@@ -159,11 +159,11 @@ $T = \mathbf{2020^\circ\text{C}}$
 
 ### Type 3: Null-Temperature (Two Resistors Becoming Equal)
 
-**Pattern:** "Resistor A has $R_1, \alpha_1$. Resistor B has $R_2, \alpha_2$. At what temperature are they equal?"
+**Pattern:** "Resistor A has $R_1, \alpha_1$. Resistor B has $R_2, \alpha_2$. At what temperature are they equal?<br>"
 
 **Solved Example** 🔴
 
-> At $0^\circ\text{C}$, the resistance of conductor A is $2 \text{ } \Omega$ and that of B is $3 \text{ } \Omega$. Their temperature coefficients are $0.004 \text{ } ^\circ\text{C}^{-1}$ and $0.002 \text{ } ^\circ\text{C}^{-1}$ respectively. At what temperature will they have the same resistance?
+> At $0^\circ\text{C}$, the resistance of conductor A is $2 \text{ } \Omega$ and that of B is $3 \text{ } \Omega$. Their temperature coefficients are $0.004 \text{ } ^\circ\text{C}^{-1}$ and $0.002 \text{ } ^\circ\text{C}^{-1}$ respectively. At what temperature will they have the same resistance?<br>
 
 <details>
 <summary><b>Solution</b></summary>
@@ -178,7 +178,7 @@ $0.002 T = 1 \implies T = 1 / 0.002 = \mathbf{500^\circ\text{C}}$
 
 **Practice:**
 
-1. 🔴 A carbon resistor (negative $\alpha$) of $47 \text{ } \Omega$ at $20^\circ\text{C}$ ($\alpha = -0.0005 \text{ } ^\circ\text{C}^{-1}$) is in series with an iron resistor of $40 \text{ } \Omega$ at $20^\circ\text{C}$ ($\alpha = 0.005 \text{ } ^\circ\text{C}^{-1}$). At what temperature will they have equal resistance?
+1. 🔴 A carbon resistor (negative $\alpha$) of $47 \text{ } \Omega$ at $20^\circ\text{C}$ ($\alpha = -0.0005 \text{ } ^\circ\text{C}^{-1}$) is in series with an iron resistor of $40 \text{ } \Omega$ at $20^\circ\text{C}$ ($\alpha = 0.005 \text{ } ^\circ\text{C}^{-1}$). At what temperature will they have equal resistance?<br>
 
 <details>
 <summary><b>Answer</b></summary>
@@ -196,7 +196,7 @@ $T = 20 + 31.32 = \mathbf{51.32^\circ\text{C}}$
 
 **Pattern:** "Given an $R$ vs $T$ or $\rho$ vs $T$ graph, identify the material."
 
-| Material | Graph Shape (Resistivity vs Temp) | Why? |
+| Material | Graph Shape (Resistivity vs Temp) | Why?<br> |
 |----------|-----------------------------------|------|
 | **Metals** (Copper, etc.) | Non-linear curve at very low T, then straight line with positive slope. | $\rho_T \approx \rho_0(1+\alpha T)$. $\alpha$ is positive. |
 | **Alloys** (Nichrome, etc.) | Straight line with very small positive slope, starting high. | High $\rho_0$, very small $\alpha$. |
@@ -206,7 +206,7 @@ $T = 20 + 31.32 = \mathbf{51.32^\circ\text{C}}$
 
 ## 🔀 Stage 4: Type Mixer
 
-**Q1.** 🔴 A standard coil is marked $3 \text{ } \Omega$. If it is made of manganin ($\alpha = 10^{-5} \text{ } ^\circ\text{C}^{-1}$), what will be its resistance at $100^\circ\text{C}$? Assume the $3 \text{ } \Omega$ marking is at $0^\circ\text{C}$.
+**Q1.** 🔴 A standard coil is marked $3 \text{ } \Omega$. If it is made of manganin ($\alpha = 10^{-5} \text{ } ^\circ\text{C}^{-1}$), what will be its resistance at $100^\circ\text{C}$?<br> Assume the $3 \text{ } \Omega$ marking is at $0^\circ\text{C}$.
 
 <details>
 <summary><b>Solution</b></summary>
@@ -218,7 +218,7 @@ $R_{100} = 3 \times [1 + 0.001] = 3 \times 1.001 = \mathbf{3.003 \text{ } \Omega
 Notice how little it changed! This is why manganin is used for standard resistors.
 </details>
 
-**Q2.** 🔴 ⭐ An electric toaster uses nichrome for its heating element. When a negligibly small current passes through it, its resistance at room temperature ($27^\circ\text{C}$) is found to be $75.3 \text{ } \Omega$. When the toaster is connected to a $230 \text{ V}$ supply, the current settles, after a few seconds, to a steady value of $2.68 \text{ A}$. What is the steady temperature of the nichrome element? ($\alpha = 1.7 \times 10^{-4} \text{ } ^\circ\text{C}^{-1}$)
+**Q2.** 🔴 ⭐ An electric toaster uses nichrome for its heating element. When a negligibly small current passes through it, its resistance at room temperature ($27^\circ\text{C}$) is found to be $75.3 \text{ } \Omega$. When the toaster is connected to a $230 \text{ V}$ supply, the current settles, after a few seconds, to a steady value of $2.68 \text{ A}$. What is the steady temperature of the nichrome element?<br> ($\alpha = 1.7 \times 10^{-4} \text{ } ^\circ\text{C}^{-1}$)
 
 <details>
 <summary><b>Solution</b></summary>
@@ -242,7 +242,7 @@ Notice how little it changed! This is why manganin is used for standard resistor
 
 ## 📋 Stage 5: Board Arsenal
 
-**Q1.** 🟢 Why does the resistivity of a metallic conductor increase with an increase in temperature? *(2 marks)*
+**Q1.** 🟢 Why does the resistivity of a metallic conductor increase with an increase in temperature?<br> *(2 marks)*
 
 <details>
 <summary><b>Model Answer</b></summary>
@@ -262,7 +262,7 @@ Since $\rho \propto \frac{1}{\tau}$, the resistivity of the metal increases. The
 **(ii) For Semiconductor:** A curve starting high on the y-axis and decaying exponentially towards the x-axis as temperature increases.
 </details>
 
-**Q3.** 🟡 Define temperature coefficient of resistance. What is its unit? *(2 marks)*
+**Q3.** 🟡 Define temperature coefficient of resistance. What is its unit?<br> *(2 marks)*
 
 <details>
 <summary><b>Model Answer</b></summary>
@@ -321,7 +321,7 @@ $\alpha_{eq} = \mathbf{\frac{R_1\alpha_1 + R_2\alpha_2}{R_1 + R_2}}$
 *(This looks exactly like a center-of-mass formula!)*
 </details>
 
-**Q3.** 🔴 ⭐ An aluminium wire and a copper wire of the same length and same resistance are given. Which of the two is lighter?
+**Q3.** 🔴 ⭐ An aluminium wire and a copper wire of the same length and same resistance are given. Which of the two is lighter?<br>
 (Given: Density of Al $= 2.7 \text{ g/cm}^3$, $\rho_{Al} = 2.6 \times 10^{-8} \text{ } \Omega\cdot\text{m}$; Density of Cu $= 8.9 \text{ g/cm}^3$, $\rho_{Cu} = 1.7 \times 10^{-8} \text{ } \Omega\cdot\text{m}$)
 
 (a) Aluminium &emsp; (b) Copper &emsp; (c) Both have same mass &emsp; (d) Cannot be determined

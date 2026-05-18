@@ -12,7 +12,7 @@ A point charge creates an identical landscape, except the "well" can also be a "
 
 A **positive** charge creates a potential *hill* — other positive charges are pushed away from it (they roll downhill). Approach it, and you climb higher and higher in potential. A **negative** charge creates a potential *well* — positive charges are drawn inward, falling deeper into the valley.
 
-The question is: can we write down the exact mathematical shape of this landscape?
+The question is: can we write down the exact mathematical shape of this landscape?<br>
 
 ---
 
@@ -75,7 +75,7 @@ $V = \frac{1}{4\pi\epsilon_0} \frac{Q}{r} = \frac{9 \times 10^9 \times 20 \times
 Notice: doubling the distance halves the potential (since $V \propto 1/r$).
 </details>
 
-**Problem 2:** At what distance from the sphere is the potential equal to $100$ V?
+**Problem 2:** At what distance from the sphere is the potential equal to $100$ V?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -88,7 +88,7 @@ Even 1.8 km away, the potential is still 100 V. This illustrates the slow $1/r$ 
 
 *The inspector now discovers a second charge — a $-10 \mu C$ charge on a nearby metal pole, $5$ m away from the sphere.*
 
-**Problem 3:** What is the potential at the exact midpoint between the two charges?
+**Problem 3:** What is the potential at the exact midpoint between the two charges?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -118,7 +118,7 @@ $Q = \textbf{-2 × 10⁻⁶ C = -2 μC}$
 The negative potential confirms the charge is negative.
 </details>
 
-**Problem 2:** Two points A and B are at distances $r$ and $2r$ from a point charge $Q$. If $V_A = 600$ V, what is $V_B$?
+**Problem 2:** Two points A and B are at distances $r$ and $2r$ from a point charge $Q$. If $V_A = 600$ V, what is $V_B$?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -176,7 +176,7 @@ $V = \frac{9 \times 10^9 \times 2 \times 10^{-6}}{1/\sqrt{3}} = 18000\sqrt{3} \a
 One negative charge reduced the potential by two-thirds. This is the power of scalar superposition.
 </details>
 
-**Problem 3:** What combination of charges at the three vertices would give $V = 0$ at the centroid?
+**Problem 3:** What combination of charges at the three vertices would give $V = 0$ at the centroid?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -201,8 +201,8 @@ The algebraic sum of charges must vanish.
 **Synthesis Problem:** A charge $Q_1 = +5 \mu C$ is placed at the origin. A second charge $Q_2 = -3 \mu C$ is placed at $x = 0.4$ m.
 
 (a) Find the point on the x-axis where the electric potential is zero.  
-(b) Is the electric field zero at this point? Justify.  
-(c) How much work is needed to bring a $+1 \mu C$ charge from infinity to this zero-potential point?
+(b) Is the electric field zero at this point?<br> Justify.  
+(c) How much work is needed to bring a $+1 \mu C$ charge from infinity to this zero-potential point?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -261,7 +261,7 @@ Since the initial potential (at infinity) is 0, and the final potential (at the 
 
 ---
 
-**Q3.** Two charges $+Q$ and $+4Q$ are separated by $3$ m. Where is the potential zero on the line joining them?
+**Q3.** Two charges $+Q$ and $+4Q$ are separated by $3$ m. Where is the potential zero on the line joining them?<br>
 
 (a) $1$ m from $+Q$ &emsp; (b) Between them, $2$ m from $+Q$ &emsp; (c) Nowhere &emsp; (d) $1$ m from $+4Q$
 
@@ -382,7 +382,7 @@ Since the initial potential (at infinity) is 0, and the final potential (at the 
 
 ---
 
-**Q14.** At what distance from a $+2\,\mu C$ charge is the potential equal to $18000$ V?
+**Q14.** At what distance from a $+2\,\mu C$ charge is the potential equal to $18000$ V?<br>
 
 (a) $0.5$ m &emsp; (b) $1$ m &emsp; (c) $2$ m &emsp; (d) $0.1$ m
 
@@ -421,7 +421,7 @@ $$\boxed{V = \frac{1}{4\pi\epsilon_0}\frac{Q}{r}}$$
 
 ---
 
-**Q17.** A charge of $+1.6\times10^{-19}$ C is at the origin. Find the potential at $r = 0.53\times10^{-10}$ m (Bohr radius). What does this represent physically?
+**Q17.** A charge of $+1.6\times10^{-19}$ C is at the origin. Find the potential at $r = 0.53\times10^{-10}$ m (Bohr radius). What does this represent physically?<br>
 
 <details><summary><b>Answer</b></summary>
 
@@ -449,7 +449,7 @@ $\frac{9}{d} = \frac{1}{d-4} \Rightarrow 9d - 36 = d \Rightarrow d = 4.5$ m
 
 ---
 
-**Q19.** Explain why the electric potential due to a point charge varies as $1/r$ while the field varies as $1/r^2$. Which one is "stronger" at very large distances?
+**Q19.** Explain why the electric potential due to a point charge varies as $1/r$ while the field varies as $1/r^2$. Which one is "stronger" at very large distances?<br>
 
 <details><summary><b>Answer</b></summary>
 
@@ -484,7 +484,7 @@ $F = \frac{kQ_1 Q_2}{r^2} = \frac{9\times10^9\times3\times10^{-6}\times3\times10
 
 ---
 
-**Q22.** A charge $+Q$ is at $x = 0$ and $+4Q$ is at $x = L$. At what point on the x-axis (between them) is the electric field zero? Is the potential also zero there?
+**Q22.** A charge $+Q$ is at $x = 0$ and $+4Q$ is at $x = L$. At what point on the x-axis (between them) is the electric field zero?<br> Is the potential also zero there?<br>
 
 <details><summary><b>Answer</b></summary>
 
@@ -533,7 +533,7 @@ $V = 8\times\frac{kQ}{r} = 8\times\frac{kQ}{a\sqrt{3}/2} = \frac{16kQ}{a\sqrt{3}
 
 (a) Find all points on the x-axis where $V = 0$.
 (b) Find the electric field at each of these points.
-(c) Are these zero-field points? Justify.
+(c) Are these zero-field points?<br> Justify.
 
 <details><summary><b>Answer</b></summary>
 
@@ -582,7 +582,7 @@ $V = \mathbf{\frac{kq(\sqrt{2}-1)}{a}}$
 (a) The potential at $r = 0.5$ m
 (b) The potential energy when a $-2\,\mu C$ charge is placed at $r = 0.5$ m
 (c) The work done to bring the $-2\,\mu C$ charge from infinity to $r = 0.5$ m
-(d) What happens to this energy when the charges are released?
+(d) What happens to this energy when the charges are released?<br>
 
 <details><summary><b>Answer</b></summary>
 
@@ -693,9 +693,9 @@ $V = 1500000 - 900000 + 2250000 = \mathbf{2.85\times10^6\,V}$
 
 **Q32.** Two charges, each $+q = 10\,\mu C$, are fixed at $(-1, 0)$ m and $(+1, 0)$ m. A third charge $Q = -5\,\mu C$ is placed at the origin.
 
-(a) What is the net force on $Q$?
-(b) What is the total potential energy of the three-charge system?
-(c) How much work must be done to remove $Q$ to infinity while keeping the two $+q$ charges fixed?
+(a) What is the net force on $Q$?<br>
+(b) What is the total potential energy of the three-charge system?<br>
+(c) How much work must be done to remove $Q$ to infinity while keeping the two $+q$ charges fixed?<br>
 
 <details><summary><b>Answer</b></summary>
 

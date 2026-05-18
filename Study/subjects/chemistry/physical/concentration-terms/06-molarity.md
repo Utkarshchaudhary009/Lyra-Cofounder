@@ -5,11 +5,11 @@
 
 ## 🎯 Stage 1: The Core Idea
 
-### What is Molarity?
+### What is Molarity?<br>
 
 Molarity tells you how many moles of solute are dissolved per litre of **solution** (not solvent!).
 
-> **Analogy:** Imagine a 1-litre bottle of mango juice. Molarity asks: "How many scoops of mango pulp went into this entire bottle?" It doesn't care about the water separately — it looks at the final product.
+> **Analogy:** Imagine a 1-litre bottle of mango juice. Molarity asks: "How many scoops of mango pulp went into this entire bottle?<br>" It doesn't care about the water separately — it looks at the final product.
 
 ### Why Molarity is King
 
@@ -83,7 +83,7 @@ M = mol/L = mol·L⁻¹ = molar
 
 Molarity is **temperature-dependent** ❌
 
-Why? Volume changes with temperature (thermal expansion). As T increases, V increases, M decreases. The moles don't change — only the volume does.
+Why?<br> Volume changes with temperature (thermal expansion). As T increases, V increases, M decreases. The moles don't change — only the volume does.
 
 ---
 
@@ -124,7 +124,7 @@ Answer: 0.2 M
 | 6.1d | 36 g of glucose (M = 180) dissolved to make 2 L of solution. Find M. | 🟢 |
 | 6.1e | A laboratory technician prepares a standardization solution by completely dissolving 1.58 g of solid potassium permanganate (KMnO₄, M = 158) in distilled water to yield exactly 250 mL of solution. Determine the molarity of this standard solution. | 🟢 |
 | 6.1f | For an antacid efficacy test, 0.74 g of calcium hydroxide (Ca(OH)₂, M = 74) is fully dissolved to produce 500 mL of a clear basic solution. Calculate the molarity of calcium hydroxide. | 🟢 |
-| 6.1g | A researcher preparing a sucrose buffer dissolves 34.2 g of table sugar (C₁₂H₂₂O₁₁, M = 342) and adds sufficient water to bring the final volume exactly to 2.0 litres. What is the molarity of the resulting sucrose solution? | 🟢 |
+| 6.1g | A researcher preparing a sucrose buffer dissolves 34.2 g of table sugar (C₁₂H₂₂O₁₁, M = 342) and adds sufficient water to bring the final volume exactly to 2.0 litres. What is the molarity of the resulting sucrose solution?<br> | 🟢 |
 
 <details>
 <summary>💡 Detailed Solutions for Type 1</summary>
@@ -184,10 +184,10 @@ Answer: 0.2 M
 
 ### Type 2: Reverse — Given M and volume → find mass of solute
 
-**The Pattern:** Molarity and volume are given → how much solute is present?
+**The Pattern:** Molarity and volume are given → how much solute is present?<br>
 
 #### Solved Example 6.2
-**Q:** How many grams of HCl (M = 36.5) are present in 200 mL of 0.5 M HCl? 🟢
+**Q:** How many grams of HCl (M = 36.5) are present in 200 mL of 0.5 M HCl?<br> 🟢
 
 **Solution:**
 ```
@@ -204,18 +204,18 @@ Answer: 3.65 g of HCl
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 6.2a | How many grams of NaOH (M=40) in 100 mL of 2 M NaOH? | 🟢 |
+| 6.2a | How many grams of NaOH (M=40) in 100 mL of 2 M NaOH?<br> | 🟢 |
 | 6.2b | Find the mass of KMnO₄ (M=158) in 250 mL of 0.02 M solution. | 🟡 |
-| 6.2c | A 3 M glucose (M=180) solution: how many grams in 500 mL? | 🟢 |
-| 6.2d | How much Na₂CO₃ (M=106) is needed to prepare 2 L of 0.1 M solution? | 🟡 |
-| 6.2e | A university laboratory requires 400 mL of a 0.25 M barium chloride (BaCl₂, M = 208) solution for a gravimetric analysis experiment. What mass of solid barium chloride must be accurately weighed? | 🟡 |
+| 6.2c | A 3 M glucose (M=180) solution: how many grams in 500 mL?<br> | 🟢 |
+| 6.2d | How much Na₂CO₃ (M=106) is needed to prepare 2 L of 0.1 M solution?<br> | 🟡 |
+| 6.2e | A university laboratory requires 400 mL of a 0.25 M barium chloride (BaCl₂, M = 208) solution for a gravimetric analysis experiment. What mass of solid barium chloride must be accurately weighed?<br> | 🟡 |
 | 6.2f | To provide nutrients for an algal culture, a biologist needs 1.5 L of a 0.05 M potassium nitrate (KNO₃, M = 101) solution. Calculate the exact mass of KNO₃ required to prepare this nutrient bath. | 🟡 |
-| 6.2g | An industrial cleaning process uses a 1.5 M solution of sodium hypochlorite (NaClO, M = 74.5). If the bleaching vat holds 5.0 L of this solution, what total mass of NaClO is dissolved within it? | 🟡 |
+| 6.2g | An industrial cleaning process uses a 1.5 M solution of sodium hypochlorite (NaClO, M = 74.5). If the bleaching vat holds 5.0 L of this solution, what total mass of NaClO is dissolved within it?<br> | 🟡 |
 
 <details>
 <summary>💡 Detailed Solutions for Type 2</summary>
 
-**6.2a: How many grams of NaOH (M=40) in 100 mL of 2 M NaOH?**
+**6.2a: How many grams of NaOH (M=40) in 100 mL of 2 M NaOH?<br>**
 *   **Given:** $M = 2\text{ M}$, $V = 100\text{ mL} = 0.1\text{ L}$, $M_{\text{NaOH}} = 40\text{ g/mol}$
 *   **Calculation:**
     1.  Moles ($n$) $= M \times V\text{(L)} = 2 \times 0.1 = 0.2\text{ mol}$
@@ -229,14 +229,14 @@ Answer: 3.65 g of HCl
     2.  Mass $= 0.005 \times 158 = 0.79\text{ g}$
 *   **Answer:** $0.79\text{ g}$
 
-**6.2c: A 3 M glucose (M=180) solution: how many grams in 500 mL?**
+**6.2c: A 3 M glucose (M=180) solution: how many grams in 500 mL?<br>**
 *   **Given:** $M = 3\text{ M}$, $V = 0.5\text{ L}$, $M_{\text{glucose}} = 180\text{ g/mol}$
 *   **Calculation:**
     1.  Moles ($n$) $= 3 \times 0.5 = 1.5\text{ mol}$
     2.  Mass $= 1.5 \times 180 = 270\text{ g}$
 *   **Answer:** $270\text{ g}$
 
-**6.2d: How much Na₂CO₃ (M=106) is needed to prepare 2 L of 0.1 M solution?**
+**6.2d: How much Na₂CO₃ (M=106) is needed to prepare 2 L of 0.1 M solution?<br>**
 *   **Given:** $M = 0.1\text{ M}$, $V = 2\text{ L}$, $M_{\text{Na}_2\text{CO}_3} = 106\text{ g/mol}$
 *   **Calculation:**
     1.  Moles ($n$) $= 0.1 \times 2 = 0.2\text{ mol}$
@@ -270,10 +270,10 @@ Answer: 3.65 g of HCl
 
 ### Type 3: Reverse — Given M and moles → find volume
 
-**The Pattern:** How much solution volume do you need to get a certain number of moles?
+**The Pattern:** How much solution volume do you need to get a certain number of moles?<br>
 
 #### Solved Example 6.3
-**Q:** What volume of 0.5 M H₂SO₄ contains 0.25 moles of H₂SO₄? 🟢
+**Q:** What volume of 0.5 M H₂SO₄ contains 0.25 moles of H₂SO₄?<br> 🟢
 
 **Solution:**
 ```
@@ -288,31 +288,31 @@ Answer: 500 mL
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 6.3a | What volume of 2 M NaOH contains 0.1 mol NaOH? | 🟢 |
-| 6.3b | You need 0.005 mol of AgNO₃. You have a 0.1 M solution. What volume do you take? | 🟡 |
-| 6.3c | What volume of 0.02 M KMnO₄ contains 1 millimole of KMnO₄? | 🟡 |
-| 6.3d | An analytical procedure specifies the addition of exactly 0.15 moles of hydrochloric acid (HCl). If the only reagent available is a newly opened 3.0 M HCl stock bottle, what volume of this stock must be dispensed? | 🟡 |
-| 6.3e | A patient requires an intravenous infusion containing exactly 0.04 moles of sodium chloride (NaCl) to restore electrolyte balance. If the hospital pharmacy provides a 0.154 M NaCl standard saline solution, what fluid volume should the IV pump be set to deliver? | 🟡 |
+| 6.3a | What volume of 2 M NaOH contains 0.1 mol NaOH?<br> | 🟢 |
+| 6.3b | You need 0.005 mol of AgNO₃. You have a 0.1 M solution. What volume do you take?<br> | 🟡 |
+| 6.3c | What volume of 0.02 M KMnO₄ contains 1 millimole of KMnO₄?<br> | 🟡 |
+| 6.3d | An analytical procedure specifies the addition of exactly 0.15 moles of hydrochloric acid (HCl). If the only reagent available is a newly opened 3.0 M HCl stock bottle, what volume of this stock must be dispensed?<br> | 🟡 |
+| 6.3e | A patient requires an intravenous infusion containing exactly 0.04 moles of sodium chloride (NaCl) to restore electrolyte balance. If the hospital pharmacy provides a 0.154 M NaCl standard saline solution, what fluid volume should the IV pump be set to deliver?<br> | 🟡 |
 | 6.3f | During an organic synthesis, 0.025 moles of sodium borohydride (NaBH₄) dissolved in a solvent are required for a reduction step. Given a prepared 0.5 M NaBH₄ stabilised solution, calculate the precise volume needed. | 🟡 |
 
 <details>
 <summary>💡 Detailed Solutions for Type 3</summary>
 
-**6.3a: What volume of 2 M NaOH contains 0.1 mol NaOH?**
+**6.3a: What volume of 2 M NaOH contains 0.1 mol NaOH?<br>**
 *   **Given:** $M = 2\text{ M}$, $n = 0.1\text{ mol}$
 *   **Calculation:**
     1.  $V\text{(L)} = \frac{n}{M} = \frac{0.1}{2} = 0.05\text{ L}$
     2.  $V\text{(mL)} = 0.05 \times 1000 = 50\text{ mL}$
 *   **Answer:** $50\text{ mL}$ (or $0.05\text{ L}$)
 
-**6.3b: You need 0.005 mol of AgNO₃. You have a 0.1 M solution. What volume do you take?**
+**6.3b: You need 0.005 mol of AgNO₃. You have a 0.1 M solution. What volume do you take?<br>**
 *   **Given:** $n = 0.005\text{ mol}$, $M = 0.1\text{ M}$
 *   **Calculation:**
     1.  $V\text{(L)} = \frac{n}{M} = \frac{0.005}{0.1} = 0.05\text{ L}$
     2.  $V\text{(mL)} = 0.05 \times 1000 = 50\text{ mL}$
 *   **Answer:** $50\text{ mL}$
 
-**6.3c: What volume of 0.02 M KMnO₄ contains 1 millimole?**
+**6.3c: What volume of 0.02 M KMnO₄ contains 1 millimole?<br>**
 *   **Given:** $n = 1\text{ mmol} = 10^{-3}\text{ mol}$, $M = 0.02\text{ M}$
 *   **Calculation:**
     1.  Recall: $\text{mmol} = M \times V\text{(mL)}$
@@ -495,9 +495,9 @@ Answer: M ≈ 0.28 M
 | 6.5a | 10% w/v NaCl (M = 58.5). Find M. | 🟢 |
 | 6.5b | 0.9% w/v NaCl (physiological saline). Find M. ⭐ | 🟢 |
 | 6.5c | 5% w/v dextrose (M = 180) — used in IV drips. Find M. | 🟢 |
-| 6.5d | A pharmaceutical cough medicine contains a cough suppressant at a concentration of 0.2% w/v. Treating the active ingredient as a single solute with a molar mass of 250 g/mol, what is the molarity of this medicated syrup? | 🟢 |
+| 6.5d | A pharmaceutical cough medicine contains a cough suppressant at a concentration of 0.2% w/v. Treating the active ingredient as a single solute with a molar mass of 250 g/mol, what is the molarity of this medicated syrup?<br> | 🟢 |
 | 6.5e | To preserve a biological specimen, a 4% w/v aqueous formaldehyde (CH₂O, M = 30) solution, commonly known as formalin, is employed. Calculate the molarity of formaldehyde in this preservative fluid. | 🟢 |
-| 6.5f | An agricultural trace-mineral spray is prepared as a 12% w/v solution of copper(II) sulphate (CuSO₄, M = 159.5). What is the molar concentration of copper(II) sulphate that will be dispersed on the crops? | 🟢 |
+| 6.5f | An agricultural trace-mineral spray is prepared as a 12% w/v solution of copper(II) sulphate (CuSO₄, M = 159.5). What is the molar concentration of copper(II) sulphate that will be dispersed on the crops?<br> | 🟢 |
 
 <details>
 <summary>💡 Detailed Solutions for Type 5</summary>
@@ -578,7 +578,7 @@ Answer: M ≈ 4.15 M
 | 6.6a | m = 2, d = 1.05 g/mL, M_solute = 40 (NaOH). Find M. | 🟡 |
 | 6.6b | m = 0.5, d = 1.02 g/mL, M_solute = 180 (glucose). Find M. | 🟡 |
 | 6.6c | m = 10, d = 1.3 g/mL, M_solute = 60 (urea). Find M. | 🔴 |
-| 6.6d | An automotive antifreeze mixture contains ethylene glycol (C₂H₆O₂, M = 62) dissolved in water, presenting a molality of 4.5 m. If the density of this chilled solution is 1.04 g/mL, what is its equivalent molarity? | 🟡 |
+| 6.6d | An automotive antifreeze mixture contains ethylene glycol (C₂H₆O₂, M = 62) dissolved in water, presenting a molality of 4.5 m. If the density of this chilled solution is 1.04 g/mL, what is its equivalent molarity?<br> | 🟡 |
 | 6.6e | A concentrated aqueous solution of potassium iodide (KI, M = 166) has an experimentally determined molality of 3.2 m. Given that the robust solution density reaches 1.35 g/mL, calculate the molar concentration. | 🟡 |
 | 6.6f | For an osmotic pressure study, a highly concentrated sucrose (M = 342) syrup is prepared with a molality of 2.5 m. If the thick mixture has a density of 1.25 g/mL, derive the molarity required for the van't Hoff equation. | 🔴 |
 
@@ -700,7 +700,7 @@ Answer: M ≈ 10.71 M
 
 ### Type 8: Molarity of Pure Substances
 
-**The Pattern:** Conceptual — what is the molarity of pure water?
+**The Pattern:** Conceptual — what is the molarity of pure water?<br>
 
 #### Solved Example 6.8
 **Q:** Calculate the molarity of pure water. (d = 1 g/mL, M = 18) 🟡
@@ -727,7 +727,7 @@ Answer: Pure water has a "molarity" of 55.55 M
 | 6.8b | Find the "molarity" of pure acetic acid. (d = 1.049 g/mL, M = 60) | 🟡 |
 | 6.8c | For a theoretical chemical engineering model, calculate the "molarity" of pure liquid benzene (C₆H₆, M = 78) assuming it occupies an entire reactor vessel, utilizing its standard density of 0.876 g/mL. | 🟡 |
 | 6.8d | Determine the effective "molarity" of pure liquid bromine (Br₂, M = 160) at room temperature, given that this dense, volatile halogen has a measured density of 3.10 g/mL. | 🟡 |
-| 6.8e | In an entirely pure, unadulterated state, what is the intrinsic "molarity" of liquid acetone (CH₃COCH₃, M = 58)? The accepted density of pure acetone under standard conditions is 0.79 g/mL. | 🟡 |
+| 6.8e | In an entirely pure, unadulterated state, what is the intrinsic "molarity" of liquid acetone (CH₃COCH₃, M = 58)?<br> The accepted density of pure acetone under standard conditions is 0.79 g/mL. | 🟡 |
 
 <details>
 <summary>💡 Detailed Solutions for Type 8</summary>
@@ -773,7 +773,7 @@ Answer: Pure water has a "molarity" of 55.55 M
 | H₃PO₄ | H₃PO₄ | 98 | 85% | 1.69 | ~14.7 M |
 
 #### Solved Example 6.9
-**Q:** A bottle of HCl says "37% w/w, d = 1.19 g/mL." You need to prepare 500 mL of 1 M HCl for an experiment. How much concentrated HCl do you need? (M_HCl = 36.5) 🟡 ⭐
+**Q:** A bottle of HCl says "37% w/w, d = 1.19 g/mL." You need to prepare 500 mL of 1 M HCl for an experiment. How much concentrated HCl do you need?<br> (M_HCl = 36.5) 🟡 ⭐
 
 **Solution:**
 ```
@@ -795,11 +795,11 @@ Answer: Take 41.5 mL of concentrated HCl and dilute to 500 mL.
 | # | Question | Difficulty |
 |---|----------|------------|
 | 6.9a | Verify all five molarities in the commercial acids table above. | 🟡 |
-| 6.9b | How much 98% H₂SO₄ (d=1.84) is needed to make 1 L of 0.5 M H₂SO₄? ⭐ | 🟡 |
-| 6.9c | How much concentrated HNO₃ (68%, d=1.41, M=63) for 250 mL of 2 M HNO₃? | 🟡 |
-| 6.9d | A biochemist needs to prepare 2.0 L of a 0.1 M hydrochloric acid (HCl) wash solution. What volume of commercial concentrated HCl (37% w/w, d = 1.19 g/mL, M=36.5) should be pipetted and diluted with water to reach this exact concentration? | 🟡 |
-| 6.9e | To execute a nitration reaction, an organic student requires exactly 500 mL of 3.0 M nitric acid (HNO₃). Referring to the standard reagent bottle (68% w/w, d = 1.41 g/mL, M=63), what exact volume of the concentrated acid must be handled? | 🟡 |
-| 6.9f | An industrial pickling bath requires 10 L of 1.5 M phosphoric acid (H₃PO₄). If the supplier provides bulk concentrated H₃PO₄ labelled as 85% by mass with a density of 1.69 g/mL (M=98), how many litres of this stock must be transferred? | 🟡 |
+| 6.9b | How much 98% H₂SO₄ (d=1.84) is needed to make 1 L of 0.5 M H₂SO₄?<br> ⭐ | 🟡 |
+| 6.9c | How much concentrated HNO₃ (68%, d=1.41, M=63) for 250 mL of 2 M HNO₃?<br> | 🟡 |
+| 6.9d | A biochemist needs to prepare 2.0 L of a 0.1 M hydrochloric acid (HCl) wash solution. What volume of commercial concentrated HCl (37% w/w, d = 1.19 g/mL, M=36.5) should be pipetted and diluted with water to reach this exact concentration?<br> | 🟡 |
+| 6.9e | To execute a nitration reaction, an organic student requires exactly 500 mL of 3.0 M nitric acid (HNO₃). Referring to the standard reagent bottle (68% w/w, d = 1.41 g/mL, M=63), what exact volume of the concentrated acid must be handled?<br> | 🟡 |
+| 6.9f | An industrial pickling bath requires 10 L of 1.5 M phosphoric acid (H₃PO₄). If the supplier provides bulk concentrated H₃PO₄ labelled as 85% by mass with a density of 1.69 g/mL (M=98), how many litres of this stock must be transferred?<br> | 🟡 |
 
 <details>
 <summary>💡 Detailed Solutions for Type 9</summary>
@@ -811,14 +811,14 @@ Answer: Take 41.5 mL of concentrated HCl and dilute to 500 mL.
 *   **CH₃COOH:** $\frac{99.7 \times 1.049 \times 10}{60} = 17.43\text{ M}$
 *   **H₃PO₄:** $\frac{85 \times 1.69 \times 10}{98} = 14.66\text{ M}$
 
-**6.9b: How much 98% H₂SO₄ (d=1.84) is needed to make 1 L of 0.5 M H₂SO₄?**
+**6.9b: How much 98% H₂SO₄ (d=1.84) is needed to make 1 L of 0.5 M H₂SO₄?<br>**
 *   **Calculation:**
     1.  Concentrated $M_1 = 18.4\text{ M}$ (from table/above).
     2.  Dilution relation: $M_1 V_1 = M_2 V_2$
     3.  $18.4 \times V_1 = 0.5 \times 1000\text{ mL} \Rightarrow V_1 = \frac{500}{18.4} = 27.17\text{ mL}$
 *   **Answer:** $27.17\text{ mL}$
 
-**6.9c: How much concentrated HNO₃ (68%, d=1.41, M=63) for 250 mL of 2 M HNO₃?**
+**6.9c: How much concentrated HNO₃ (68%, d=1.41, M=63) for 250 mL of 2 M HNO₃?<br>**
 *   **Calculation:**
     1.  Concentrated $M_1 = 15.22\text{ M}$.
     2.  $15.22 \times V_1 = 2 \times 250 \Rightarrow V_1 = \frac{500}{15.22} = 32.85\text{ mL}$
@@ -851,7 +851,7 @@ Answer: Take 41.5 mL of concentrated HCl and dilute to 500 mL.
 **The Pattern:** The workhorse equation. Moles = Molarity × Volume.
 
 #### Solved Example 6.10
-**Q:** How many moles of NaOH are in 25 mL of 0.1 M NaOH? How many millimoles? 🟢
+**Q:** How many moles of NaOH are in 25 mL of 0.1 M NaOH?<br> How many millimoles?<br> 🟢
 
 **Solution:**
 ```
@@ -870,50 +870,50 @@ Answer: 2.5 millimoles = 0.0025 mol
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 6.10a | Moles of HCl in 50 mL of 2 M HCl? | 🟢 |
-| 6.10b | Moles of H₂SO₄ in 10 mL of 0.05 M H₂SO₄? | 🟢 |
-| 6.10c | You need exactly 0.02 mol of KMnO₄. You have 0.1 M KMnO₄. What volume do you pipette? | 🟡 |
-| 6.10d | 25 mL of 0.1 M NaOH neutralises how many moles of HCl? (1:1 reaction) | 🟡 |
+| 6.10a | Moles of HCl in 50 mL of 2 M HCl?<br> | 🟢 |
+| 6.10b | Moles of H₂SO₄ in 10 mL of 0.05 M H₂SO₄?<br> | 🟢 |
+| 6.10c | You need exactly 0.02 mol of KMnO₄. You have 0.1 M KMnO₄. What volume do you pipette?<br> | 🟡 |
+| 6.10d | 25 mL of 0.1 M NaOH neutralises how many moles of HCl?<br> (1:1 reaction) | 🟡 |
 | 6.10e | An automatic titrator dispenses 18.5 mL of a standardized 0.125 M potassium dichromate (K₂Cr₂O₇) solution into a flask. Calculate the precise number of millimoles of solute delivered by the machine. | 🟢 |
-| 6.10f | A reaction mixture sits in a 250 mL round-bottom flask, filled with 0.8 M sodium hydroxide (NaOH). How many total moles of the base are available in the vessel to participate in the upcoming chemical transformation? | 🟢 |
+| 6.10f | A reaction mixture sits in a 250 mL round-bottom flask, filled with 0.8 M sodium hydroxide (NaOH). How many total moles of the base are available in the vessel to participate in the upcoming chemical transformation?<br> | 🟢 |
 | 6.10g | A standard analytical protocol mandates exactly 0.075 moles of silver nitrate (AgNO₃) for complete precipitation of halides. If the lab bench is stocked with a 1.5 M AgNO₃ solution, calculate the exact volume required for this step. | 🟡 |
 
 <details>
 <summary>💡 Detailed Solutions for Type 10</summary>
 
-**6.10a: Moles of HCl in 50 mL of 2 M HCl?**
+**6.10a: Moles of HCl in 50 mL of 2 M HCl?<br>**
 *   **Calculation:**
     $n = M \times V\text{(L)} = 2 \times 0.05 = 0.1\text{ mol}$
 *   **Answer:** $0.1\text{ mol}$ (or $100\text{ mmol}$)
 
-**6.10b: Moles of H₂SO₄ in 10 mL of 0.05 M H₂SO₄?**
+**6.10b: Moles of H₂SO₄ in 10 mL of 0.05 M H₂SO₄?<br>**
 *   **Calculation:**
     $n = 0.05 \times 0.01 = 0.0005\text{ mol}$
 *   **Answer:** $0.0005\text{ mol}$ (or $0.5\text{ mmol}$)
 
-**6.10c: Need 0.02 mol KMnO₄ from 0.1 M solution. Pipette volume?**
+**6.10c: Need 0.02 mol KMnO₄ from 0.1 M solution. Pipette volume?<br>**
 *   **Calculation:**
     $V\text{(L)} = \frac{n}{M} = \frac{0.02}{0.1} = 0.2\text{ L} = 200\text{ mL}$
 *   **Answer:** $200\text{ mL}$
 
-**6.10d: 25 mL of 0.1 M NaOH neutralises how many moles of HCl?**
+**6.10d: 25 mL of 0.1 M NaOH neutralises how many moles of HCl?<br>**
 *   **Calculation:**
     1.  mmol NaOH $= 25 \times 0.1 = 2.5\text{ mmol}$
     2.  Reaction: $\text{NaOH} + \text{HCl} \rightarrow \text{NaCl} + \text{H}_2\text{O}$ (1:1 ratio)
     3.  mmol HCl neutralised $= 2.5\text{ mmol} = 0.0025\text{ mol}$
 *   **Answer:** $0.0025\text{ mol}$
 
-**6.10e: 18.5 mL of 0.125 M K₂Cr₂O₇ dispensed. Millimoles delivered?**
+**6.10e: 18.5 mL of 0.125 M K₂Cr₂O₇ dispensed. Millimoles delivered?<br>**
 *   **Calculation:**
     $\text{mmol} = M \times V\text{(mL)} = 0.125 \times 18.5 = 2.3125\text{ mmol}$
 *   **Answer:** $2.3125\text{ mmol}$
 
-**6.10f: 250 mL of 0.8 M NaOH. Total moles available?**
+**6.10f: 250 mL of 0.8 M NaOH. Total moles available?<br>**
 *   **Calculation:**
     $n = M \times V\text{(L)} = 0.8 \times 0.25 = 0.2\text{ mol}$
 *   **Answer:** $0.2\text{ mol}$
 
-**6.10g: 0.075 moles AgNO₃ from 1.5 M solution. Volume required?**
+**6.10g: 0.075 moles AgNO₃ from 1.5 M solution. Volume required?<br>**
 *   **Calculation:**
     $V\text{(L)} = \frac{n}{M} = \frac{0.075}{1.5} = 0.05\text{ L} = 50\text{ mL}$
 *   **Answer:** $50\text{ mL}$
@@ -927,7 +927,7 @@ Answer: 2.5 millimoles = 0.0025 mol
 **The Pattern:** Conceptual understanding.
 
 #### Solved Example 6.11
-**Q:** A 1 M NaCl solution is prepared at 25°C. The solution is then heated to 50°C. Will the molarity increase, decrease, or stay the same? Explain. 🟡
+**Q:** A 1 M NaCl solution is prepared at 25°C. The solution is then heated to 50°C. Will the molarity increase, decrease, or stay the same?<br> Explain. 🟡
 
 **Solution:**
 ```
@@ -954,26 +954,26 @@ Quantitative estimate:
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 6.11a | At 4°C, water has maximum density. Will molarity be maximum or minimum at 4°C? | 🟡 |
-| 6.11b | Why doesn't this problem exist for molality, mass %, or mole fraction? | 🟡 |
+| 6.11a | At 4°C, water has maximum density. Will molarity be maximum or minimum at 4°C?<br> | 🟡 |
+| 6.11b | Why doesn't this problem exist for molality, mass %, or mole fraction?<br> | 🟡 |
 | 6.11c | A 0.5 M solution of potassium chloride is precisely prepared in an air-conditioned laboratory at 20°C. If the flask is transported to an outdoor testing site where the temperature is 35°C, explain thermodynamically why its active molarity will decrease. | 🟡 |
-| 6.11d | During a cold winter morning, a student prepares a 2.0 M sugar solution at 5°C. As the room naturally warms up to 25°C throughout the day, the volume of the liquid expands. Does this expansion alter the number of moles or merely the concentration read-out? Justify your stance. | 🟡 |
+| 6.11d | During a cold winter morning, a student prepares a 2.0 M sugar solution at 5°C. As the room naturally warms up to 25°C throughout the day, the volume of the liquid expands. Does this expansion alter the number of moles or merely the concentration read-out?<br> Justify your stance. | 🟡 |
 | 6.11e | A volumetric flask is meticulously calibrated to marked volume at exactly 20°C. Discuss the fundamental limitations and incurred errors of defining standard analytical concentrations (molarity) using such glassware if ambient lab temperatures routinely fluctuate between 15°C and 30°C. | 🟡 |
 
 <details>
 <summary>💡 Detailed Solutions for Type 11</summary>
 
-**6.11a: Water is maximum density at 4°C. Will molarity be maximum or minimum?**
+**6.11a: Water is maximum density at 4°C. Will molarity be maximum or minimum?<br>**
 *   **Reasoning:** $M = n/V$. At 4°C, density is maximum, meaning volume $V$ is at its **minimum**. Since volume is in the denominator, a minimum volume gives a **maximum** molarity.
 *   **Answer:** Molarity will be maximum at 4°C.
 
-**6.11b: Why doesn't this problem exist for molality, mass %, or mole fraction?**
+**6.11b: Why doesn't this problem exist for molality, mass %, or mole fraction?<br>**
 *   **Reasoning:** All these terms rely exclusively on **mass** (mass of solute, mass of solvent). Mass is highly conserved and does not change with temperature fluctuations, unlike volume which undergoes thermal expansion/contraction.
 
-**6.11c: 0.5 M KCl prepared at 20°C is moved to 35°C. Why does M decrease?**
+**6.11c: 0.5 M KCl prepared at 20°C is moved to 35°C. Why does M decrease?<br>**
 *   **Reasoning:** At higher temperatures, the thermal kinetic energy causes the solution to expand (volume increases). The number of moles of KCl remains absolutely fixed. Since $M = n/V$ and $V$ has increased, the calculated value of $M$ must decrease.
 
-**6.11d: 2.0 M sugar solution warms from 5°C to 25°C. Does expansion alter moles or just read-out?**
+**6.11d: 2.0 M sugar solution warms from 5°C to 25°C. Does expansion alter moles or just read-out?<br>**
 *   **Reasoning:** The expansion only alters the volume and thus the concentration "read-out" (molarity per litre). The total amount (moles) of sugar in the flask is physically unchanged.
 
 **6.11e: Errors in standard analytical concentrations due to temp fluctuations.**
@@ -990,7 +990,7 @@ Quantitative estimate:
 #### Solved Example 6.12
 **Q:** 25 mL of 0.1 M NaOH is mixed with 25 mL of 0.1 M HCl. The reaction is:
 NaOH + HCl → NaCl + H₂O
-Find: (a) moles of NaOH and HCl (b) which reagent is in excess? (c) moles of NaCl formed. 🟡
+Find: (a) moles of NaOH and HCl (b) which reagent is in excess?<br> (c) moles of NaCl formed. 🟡
 
 **Solution:**
 ```
@@ -1013,7 +1013,7 @@ Answer: (a) 2.5 mmol each  (b) Neither — exact stoichiometric match
 ```
 
 #### Solved Example 6.12B
-**Q:** 30 mL of 0.5 M H₂SO₄ reacts with excess NaOH. How many moles of water are formed?
+**Q:** 30 mL of 0.5 M H₂SO₄ reacts with excess NaOH. How many moles of water are formed?<br>
 H₂SO₄ + 2NaOH → Na₂SO₄ + 2H₂O 🟡 ⭐
 
 **Solution:**
@@ -1031,8 +1031,8 @@ Answer: 0.03 mol of water
 | # | Question | Difficulty |
 |---|----------|------------|
 | 6.12a | 20 mL of 0.1 M AgNO₃ + excess NaCl → AgCl↓. Find mass of AgCl precipitated. (M_AgCl = 143.5) ⭐ | 🟡 |
-| 6.12b | 50 mL of 0.2 M BaCl₂ + 50 mL of 0.1 M Na₂SO₄. How many moles of BaSO₄ precipitate? Which reagent is in excess? ⭐ | 🔴 |
-| 6.12c | How many mL of 0.5 M NaOH are needed to completely neutralize 25 mL of 0.2 M H₂SO₄? | 🟡 |
+| 6.12b | 50 mL of 0.2 M BaCl₂ + 50 mL of 0.1 M Na₂SO₄. How many moles of BaSO₄ precipitate?<br> Which reagent is in excess?<br> ⭐ | 🔴 |
+| 6.12c | How many mL of 0.5 M NaOH are needed to completely neutralize 25 mL of 0.2 M H₂SO₄?<br> | 🟡 |
 | 6.12d | 100 mL of 1 M HCl + 50 mL of 1 M NaOH. Find (a) leftover HCl moles (b) final concentration of HCl in the mixed solution. | 🔴 |
 | 6.12e | In a quality control titration, 35 mL of 0.15 M calcium hydroxide (Ca(OH)₂) completely neutralises a sample of hydrochloric acid (HCl). Since the reaction is Ca(OH)₂ + 2HCl → CaCl₂ + 2H₂O, determine the total moles of HCl originally present in the sample. | 🟡 |
 | 6.12f | A double displacement reaction involves mixing 40.0 mL of 0.25 M lead(II) nitrate (Pb(NO₃)₂) with a generous excess of potassium iodide (KI) solution. Given the reaction Pb(NO₃)₂ + 2KI → PbI₂↓ + 2KNO₃, calculate the theoretical mass of the bright yellow lead(II) iodide precipitate (M_PbI₂ = 461). | 🔴 |
@@ -1041,7 +1041,7 @@ Answer: 0.03 mol of water
 <details>
 <summary>💡 Detailed Solutions for Type 12</summary>
 
-**6.12a: 20 mL of 0.1 M AgNO₃ + excess NaCl → AgCl↓. Mass of AgCl?**
+**6.12a: 20 mL of 0.1 M AgNO₃ + excess NaCl → AgCl↓. Mass of AgCl?<br>**
 *   **Calculation:**
     1.  mmol $\text{Ag}^+ = 0.1 \times 20 = 2\text{ mmol}$
     2.  Since NaCl is excess, all $\text{Ag}^+$ precipitates as $\text{AgCl}$.
@@ -1049,7 +1049,7 @@ Answer: 0.03 mol of water
     4.  Mass $= 0.002 \times 143.5 = 0.287\text{ g}$
 *   **Answer:** $0.287\text{ g}$
 
-**6.12b: 50 mL 0.2 M BaCl₂ + 50 mL 0.1 M Na₂SO₄. Moles of BaSO₄? Excess?**
+**6.12b: 50 mL 0.2 M BaCl₂ + 50 mL 0.1 M Na₂SO₄. Moles of BaSO₄?<br> Excess?<br>**
 *   **Calculation:**
     1.  mmol $\text{Ba}^{2+} = 50 \times 0.2 = 10\text{ mmol}$
     2.  mmol $\text{SO}_4^{2-} = 50 \times 0.1 = 5\text{ mmol}$
@@ -1059,7 +1059,7 @@ Answer: 0.03 mol of water
     6.  Excess is $\text{BaCl}_2$ ($10 - 5 = 5\text{ mmol}$ remaining).
 *   **Answer:** $0.005\text{ mol}$ BaSO₄; BaCl₂ is in excess.
 
-**6.12c: mL of 0.5 M NaOH to neutralize 25 mL of 0.2 M H₂SO₄?**
+**6.12c: mL of 0.5 M NaOH to neutralize 25 mL of 0.2 M H₂SO₄?<br>**
 *   **Calculation:**
     1.  mmol $\text{H}_2\text{SO}_4 = 25 \times 0.2 = 5\text{ mmol}$
     2.  Reaction: $2\text{NaOH} + \text{H}_2\text{SO}_4 \rightarrow \text{Na}_2\text{SO}_4 + 2\text{H}_2\text{O}$
@@ -1067,7 +1067,7 @@ Answer: 0.03 mol of water
     4.  $10\text{ mmol} = 0.5\text{ M} \times V \Rightarrow V = 20\text{ mL}$
 *   **Answer:** $20\text{ mL}$
 
-**6.12d: 100 mL 1 M HCl + 50 mL 1 M NaOH. Leftover HCl? Final [HCl]?**
+**6.12d: 100 mL 1 M HCl + 50 mL 1 M NaOH. Leftover HCl?<br> Final [HCl]?<br>**
 *   **Calculation:**
     1.  mmol HCl available $= 100 \times 1 = 100\text{ mmol}$
     2.  mmol NaOH available $= 50 \times 1 = 50\text{ mmol}$
@@ -1076,14 +1076,14 @@ Answer: 0.03 mol of water
     5.  Final $[\text{HCl}] = 50\text{ mmol} / 150\text{ mL} = 0.333\text{ M}$
 *   **Answer:** (a) $50\text{ mmol}$ ($0.05\text{ mol}$) leftover (b) $0.333\text{ M}$
 
-**6.12e: 35 mL of 0.15 M Ca(OH)₂ neutralizes HCl. Total moles HCl initially?**
+**6.12e: 35 mL of 0.15 M Ca(OH)₂ neutralizes HCl. Total moles HCl initially?<br>**
 *   **Calculation:**
     1.  mmol $\text{Ca(OH)}_2 = 35 \times 0.15 = 5.25\text{ mmol}$
     2.  Reaction: $\text{Ca(OH)}_2 + 2\text{HCl} \rightarrow \text{CaCl}_2 + 2\text{H}_2\text{O}$
     3.  mmol HCl required $= 2 \times 5.25 = 10.5\text{ mmol} = 0.0105\text{ mol}$
 *   **Answer:** $0.0105\text{ mol}$
 
-**6.12f: 40 mL 0.25 M Pb(NO₃)₂ + excess KI. Mass of PbI₂ formed?**
+**6.12f: 40 mL 0.25 M Pb(NO₃)₂ + excess KI. Mass of PbI₂ formed?<br>**
 *   **Calculation:**
     1.  mmol $\text{Pb(NO}_3\text{)}_2 = 40 \times 0.25 = 10\text{ mmol}$
     2.  Reaction: $\text{Pb}^{2+} + 2\text{I}^- \rightarrow \text{PbI}_2$
@@ -1112,8 +1112,8 @@ Answer: 0.03 mol of water
 |---|----------|------------|------------|
 | 6.M1 | Concentrated H₂SO₄ (98%, d = 1.84, M = 98). Find: (a) molarity (b) molality (c) mole fraction (d) volume needed to make 1 L of 2M H₂SO₄. | T4 + Ch5 + Ch4 + T9 | 🔴 |
 | 6.M2 | A 5 M NaCl solution (d = 1.15 g/mL, M = 58.5). Find: (a) w/w% (b) molality (c) mole fraction. | T4 rev + Ch5-T7 + Ch4 | 🔴 |
-| 6.M3 | 25 mL of 0.2 M AgNO₃ is mixed with 25 mL of 0.1 M CaCl₂. Find: (a) mmol of Ag⁺ and Cl⁻ (b) Will AgCl precipitate? (c) Moles of AgCl formed. (d) Final [Ag⁺] and [Cl⁻]. CaCl₂ → Ca²⁺ + 2Cl⁻ | T10 + T12 + Ch10 | 🔴 |
-| 6.M4 | You need 0.01 mol of NaOH for a reaction. You have a 15% w/w NaOH solution (d = 1.16 g/mL). What volume do you take? | T4 + T10 + T3 | 🟡 |
+| 6.M3 | 25 mL of 0.2 M AgNO₃ is mixed with 25 mL of 0.1 M CaCl₂. Find: (a) mmol of Ag⁺ and Cl⁻ (b) Will AgCl precipitate?<br> (c) Moles of AgCl formed. (d) Final [Ag⁺] and [Cl⁻]. CaCl₂ → Ca²⁺ + 2Cl⁻ | T10 + T12 + Ch10 | 🔴 |
+| 6.M4 | You need 0.01 mol of NaOH for a reaction. You have a 15% w/w NaOH solution (d = 1.16 g/mL). What volume do you take?<br> | T4 + T10 + T3 | 🟡 |
 
 <details>
 <summary>💡 Detailed Solutions for Type Mixer</summary>
@@ -1167,7 +1167,7 @@ Answer: 0.03 mol of water
 | 6.B1 | Calculate the molarity of a solution of NaOH prepared by dissolving 4 g of NaOH in enough water to form 250 mL of solution. (M = 40) ⭐ | 🟢 |
 | 6.B2 | Find the molarity of a solution containing 6 g of urea (M = 60) per 500 mL of solution. | 🟢 |
 | 6.B3 | Concentrated sulphuric acid is 98% H₂SO₄ by mass and has a density of 1.84 g/mL. Calculate the molarity of the acid. ⭐⭐ | 🟡 |
-| 6.B4 | How many mL of 0.1 M HCl are required to react completely with 1 g of Na₂CO₃? Na₂CO₃ + 2HCl → 2NaCl + H₂O + CO₂ (M_Na₂CO₃ = 106) ⭐ | 🟡 |
+| 6.B4 | How many mL of 0.1 M HCl are required to react completely with 1 g of Na₂CO₃?<br> Na₂CO₃ + 2HCl → 2NaCl + H₂O + CO₂ (M_Na₂CO₃ = 106) ⭐ | 🟡 |
 
 <details>
 <summary>💡 Detailed Solutions for Board Arsenal</summary>
@@ -1206,7 +1206,7 @@ Answer: 0.03 mol of water
 | # | Question | Difficulty |
 |---|----------|------------|
 | 6.J1 | A solution of H₂SO₄ has molality of 3 m. Its density is 1.12 g/mL. Find its molarity. (M = 98) ⭐ | 🔴 |
-| 6.J2 | The molarity and molality of an H₂SO₄ solution are M and m respectively. If d is the density (g/mL), which relation is correct? (a) M > m (b) M < m (c) depends on concentration (d) M = m. Justify. ⭐ | 🔴 |
+| 6.J2 | The molarity and molality of an H₂SO₄ solution are M and m respectively. If d is the density (g/mL), which relation is correct?<br> (a) M > m (b) M < m (c) depends on concentration (d) M = m. Justify. ⭐ | 🔴 |
 | 6.J3 | 10% (w/w) NaOH (d = 1.11 g/mL, M = 40). Find (a) molarity (b) molality (c) mole fraction (d) normality. (Complete interconversion.) ⭐⭐ | 🔴 |
 | 6.J4 | 100 mL of 0.5 M H₂SO₄ + 200 mL of 0.2 M NaOH. Find: (a) which is excess (b) final pH idea (acidic/basic/neutral) (c) concentration of excess reagent. ⭐ | 🔴 |
 | 6.J5 | An aqueous KOH solution has a density of 1.36 g/mL and is 30% KOH by mass (M = 56). Find its molarity and molality. If 10 mL is diluted to 500 mL, find the new molarity. ⭐ | 🔴 |

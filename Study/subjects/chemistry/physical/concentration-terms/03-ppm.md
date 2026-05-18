@@ -5,7 +5,7 @@
 
 ## 🎯 Stage 1: The Core Idea
 
-### What is PPM?
+### What is PPM?<br>
 
 Your city's water supply has 0.0005% fluoride in it. That number is ugly, hard to read, and easy to misplace a zero. Scientists needed a better way to talk about **extremely small concentrations**.
 
@@ -24,7 +24,7 @@ Instead of saying "0.0005%", you say **"5 ppm"** — meaning there are 5 parts o
 0.0001% = 1 ppm
 ```
 
-### Where Is PPM Used?
+### Where Is PPM Used?<br>
 
 | Field | Example |
 |-------|---------|
@@ -125,7 +125,7 @@ ppm = 3 mg / 1 kg = 3 ppm ✅ (same answer, faster)
 | 3.1d | A 250 g juice sample contains 0.00025 g of pesticide residue. Find ppm. | 🟡 |
 | 3.1e | An industrial air filter captures 0.045 g of particulate matter from exactly 3000 kg of sampled air. Calculate the particulate concentration in ppm. | 🟢 |
 | 3.1f | A 1.5 kg sample of underground well water contains 0.009 g of dissolved strontium. Express this concentration in ppm. | 🟢 |
-| 3.1g | A metallurgical lab extracts 0.0007 g of silver impurities from a 10 g solid gold bar. What is the silver impurity concentration in ppm? | 🟡 |
+| 3.1g | A metallurgical lab extracts 0.0007 g of silver impurities from a 10 g solid gold bar. What is the silver impurity concentration in ppm?<br> | 🟡 |
 
 <details>
 <summary>💡 Detailed Solutions for Type 1</summary>
@@ -164,10 +164,10 @@ ppm = 3 mg / 1 kg = 3 ppm ✅ (same answer, faster)
 
 ### Type 2: Reverse — Given ppm, find mass of solute
 
-**The Pattern:** Concentration in ppm known → how much solute in a given amount of solution?
+**The Pattern:** Concentration in ppm known → how much solute in a given amount of solution?<br>
 
 #### Solved Example 3.2
-**Q:** Drinking water has 1.2 ppm of fluoride. How much fluoride is present in 5 L (5 kg) of this water? 🟢
+**Q:** Drinking water has 1.2 ppm of fluoride. How much fluoride is present in 5 L (5 kg) of this water?<br> 🟢
 
 **Solution:**
 ```
@@ -184,12 +184,12 @@ Answer: 6 mg (or 0.006 g) of fluoride
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 3.2a | Water contains 0.5 ppm of dissolved oxygen. How much O₂ is in 10 L of water? | 🟢 |
-| 3.2b | A lake has mercury at 0.02 ppm. How much mercury is in 1000 kg (1 tonne) of lake water? | 🟡 |
-| 3.2c | Air contains 400 ppm CO₂ by mass. How much CO₂ (in grams) is in 100 kg of air? | 🟢 |
-| 3.2d | The safe limit of lead in drinking water is 15 ppm. A family uses 200 L of water per day. What is the maximum mass of lead they ingest daily? | 🟡 |
-| 3.2e | A city's smog report indicates a sulfur dioxide (SO₂) concentration of 2.5 ppm by mass. How many grams of SO₂ are present in 4000 kg of the city's air? | 🟢 |
-| 3.2f | The permissible level for barium in drinking water is 2.0 ppm. If an adult drinks 730 L of water exactly at this limit in a year, how many grams of barium are ingested? | 🟡 |
+| 3.2a | Water contains 0.5 ppm of dissolved oxygen. How much O₂ is in 10 L of water?<br> | 🟢 |
+| 3.2b | A lake has mercury at 0.02 ppm. How much mercury is in 1000 kg (1 tonne) of lake water?<br> | 🟡 |
+| 3.2c | Air contains 400 ppm CO₂ by mass. How much CO₂ (in grams) is in 100 kg of air?<br> | 🟢 |
+| 3.2d | The safe limit of lead in drinking water is 15 ppm. A family uses 200 L of water per day. What is the maximum mass of lead they ingest daily?<br> | 🟡 |
+| 3.2e | A city's smog report indicates a sulfur dioxide (SO₂) concentration of 2.5 ppm by mass. How many grams of SO₂ are present in 4000 kg of the city's air?<br> | 🟢 |
+| 3.2f | The permissible level for barium in drinking water is 2.0 ppm. If an adult drinks 730 L of water exactly at this limit in a year, how many grams of barium are ingested?<br> | 🟡 |
 | 3.2g | A swimming pool containing 50,000 kg of water must be treated to maintain a chlorine concentration of 3 ppm. Calculate the mass of chlorine required in grams. | 🟢 |
 
 <details>
@@ -239,8 +239,8 @@ Water hardness = concentration of Ca²⁺ and Mg²⁺ ions, expressed as **equiv
 
 #### Solved Example 3.3
 **Q:** A water sample has hardness of 150 ppm (as CaCO₃). 
-(a) How much CaCO₃ equivalent is present in 1 L of water?
-(b) How much CaCO₃ is in 500 L of water used by a household daily? 🟢 ⭐
+(a) How much CaCO₃ equivalent is present in 1 L of water?<br>
+(b) How much CaCO₃ is in 500 L of water used by a household daily?<br> 🟢 ⭐
 
 **Solution:**
 ```
@@ -282,7 +282,7 @@ Answer: 100 ppm
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 3.3a | A water sample has hardness of 200 ppm. How much CaCO₃ is deposited when 1000 L of this water is boiled (assuming all temporary hardness)? | 🟡 |
+| 3.3a | A water sample has hardness of 200 ppm. How much CaCO₃ is deposited when 1000 L of this water is boiled (assuming all temporary hardness)?<br> | 🟡 |
 | 3.3b | Water contains 162 mg/L of Ca(HCO₃)₂. Find hardness in ppm of CaCO₃. (M.M. of Ca(HCO₃)₂ = 162) ⭐ | 🟡 |
 | 3.3c | A sample has 73 mg/L of Mg(HCO₃)₂. Express hardness in ppm as CaCO₃. (M.M. of Mg(HCO₃)₂ = 146) | 🟡 |
 | 3.3d | Water has 111 mg/L CaCl₂ and 95 mg/L MgCl₂. Find total hardness in ppm as CaCO₃. (M.M.: CaCl₂=111, MgCl₂=95) ⭐ | 🔴 |
@@ -336,7 +336,7 @@ Answer: 100 ppm
 **The Pattern:** Concentration of gaseous pollutants in atmosphere.
 
 #### Solved Example 3.4
-**Q:** The CO₂ concentration in the atmosphere is approximately 420 ppm by mass. How much CO₂ is present in 1 kg of air? 🟢
+**Q:** The CO₂ concentration in the atmosphere is approximately 420 ppm by mass. How much CO₂ is present in 1 kg of air?<br> 🟢
 
 **Solution:**
 ```
@@ -353,12 +353,12 @@ Answer: 0.42 g of CO₂ per kg of air
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 3.4a | Ozone (O₃) in the upper atmosphere is about 8 ppm by mass. How much O₃ is in 500 kg of air? | 🟢 |
-| 3.4b | The safe limit of CO in workplace air is 50 ppm. How many mg of CO per kg of air is this? | 🟢 |
-| 3.4c | SO₂ in polluted city air is 0.2 ppm by mass. A person breathes 15 kg of air per day. How much SO₂ does this person inhale? | 🟡 |
-| 3.4d | Measurements inside a high-traffic tunnel show a carbon monoxide (CO) level of 120 ppm by mass. How many milligrams of CO are found in a 5 kg sample of this air? | 🟢 |
-| 3.4e | Formaldehyde outgassing from new furniture reaches 0.5 ppm by mass in a closed room containing 60 kg of air. What is the total mass of formaldehyde in the room? | 🟢 |
-| 3.4f | Nitrous oxide (N₂O) in an agricultural area is measured at 0.35 ppm by mass. How much N₂O is in an air column weighing 200,000 kg? | 🟡 |
+| 3.4a | Ozone (O₃) in the upper atmosphere is about 8 ppm by mass. How much O₃ is in 500 kg of air?<br> | 🟢 |
+| 3.4b | The safe limit of CO in workplace air is 50 ppm. How many mg of CO per kg of air is this?<br> | 🟢 |
+| 3.4c | SO₂ in polluted city air is 0.2 ppm by mass. A person breathes 15 kg of air per day. How much SO₂ does this person inhale?<br> | 🟡 |
+| 3.4d | Measurements inside a high-traffic tunnel show a carbon monoxide (CO) level of 120 ppm by mass. How many milligrams of CO are found in a 5 kg sample of this air?<br> | 🟢 |
+| 3.4e | Formaldehyde outgassing from new furniture reaches 0.5 ppm by mass in a closed room containing 60 kg of air. What is the total mass of formaldehyde in the room?<br> | 🟢 |
+| 3.4f | Nitrous oxide (N₂O) in an agricultural area is measured at 0.35 ppm by mass. How much N₂O is in an air column weighing 200,000 kg?<br> | 🟡 |
 
 <details>
 <summary>💡 Detailed Solutions for Type 4</summary>
@@ -418,7 +418,7 @@ Answer: ≈ 0.19 ppm
 | # | Question | Difficulty |
 |---|----------|------------|
 | 3.5a | A 5 g soil sample contains 15 µg of cadmium. Express in ppm. | 🟡 |
-| 3.5b | A 100 mL water sample (d = 1 g/mL) has 50 µg of arsenic. Find ppm. Is it safe? (WHO limit: 10 ppb) | 🟡 |
+| 3.5b | A 100 mL water sample (d = 1 g/mL) has 50 µg of arsenic. Find ppm. Is it safe?<br> (WHO limit: 10 ppb) | 🟡 |
 | 3.5c | A 50 g food sample contains 0.3 µg of mercury. Express in ppm and ppb (parts per billion). | 🟡 |
 | 3.5d | A 250 mL urine sample (d ≈ 1.02 g/mL) from a worker contains 15 µg of unmetabolized solvent. Express this solvent concentration in ppm. | 🟡 |
 | 3.5e | An analytical lab tests a 20 g leaf sample and finds 80 ng (nanograms) of a banned pesticide. Express the concentration in ppm. (1 µg = 1000 ng) | 🔴 |
@@ -435,7 +435,7 @@ Answer: ≈ 0.19 ppm
 - **Mass of water:** $100\text{ mL} \times 1\text{ g/mL} = 100\text{ g}$.
 - **Solute:** $50\text{ \mu g} = 50 \times 10^{-6}\text{ g}$.
 - **ppm:** $(50 \times 10^{-6} / 100) \times 10^6 = \mathbf{0.5\text{ ppm}}$.
-- **Is it safe?** $0.5\text{ ppm} = 500\text{ ppb}$. WHO limit is $10\text{ ppb}$. **NOT safe**.
+- **Is it safe?<br>** $0.5\text{ ppm} = 500\text{ ppb}$. WHO limit is $10\text{ ppb}$. **NOT safe**.
 
 **3.5c:**
 - **Solute:** $0.3\text{ \mu g} = 0.3 \times 10^{-6}\text{ g}$. Solution $= 50\text{ g}$.
@@ -495,10 +495,10 @@ Answer: 500 ppm
 | 3.6a | Convert 75 ppm to mass percent. | 🟢 |
 | 3.6b | Convert 0.002% (w/w) to ppm. | 🟢 |
 | 3.6c | A solution is 1500 ppm NaCl. Express as (a) mass % (b) g per litre (for aqueous, d ≈ 1 g/mL). | 🟡 |
-| 3.6d | The mass percentage of lead in a water sample is 3 × 10⁻⁴%. Express in ppm. Is this above the safe limit of 15 ppm? | 🟡 |
+| 3.6d | The mass percentage of lead in a water sample is 3 × 10⁻⁴%. Express in ppm. Is this above the safe limit of 15 ppm?<br> | 🟡 |
 | 3.6e | The concentration of a rare earth element in an ore is 850 ppm. Express this as a mass percent. | 🟢 |
-| 3.6f | A pharmaceutical ointment contains 0.015% w/w of an active steroid. What is the steroid concentration in ppm? | 🟢 |
-| 3.6g | An electronic grade silicon wafer is allowed a maximum of 0.00005% boron impurity by mass. What is this limit in completely equivalent ppm? | 🟡 |
+| 3.6f | A pharmaceutical ointment contains 0.015% w/w of an active steroid. What is the steroid concentration in ppm?<br> | 🟢 |
+| 3.6g | An electronic grade silicon wafer is allowed a maximum of 0.00005% boron impurity by mass. What is this limit in completely equivalent ppm?<br> | 🟡 |
 
 <details>
 <summary>💡 Detailed Solutions for Type 6</summary>
@@ -515,7 +515,7 @@ Answer: 500 ppm
 
 **3.6d:**
 - $\text{ppm} = 3 \times 10^{-4} \times 10^4 = \mathbf{3\text{ ppm}}$.
-- **Is it above 15 ppm?** No, it is $\mathbf{safe}$.
+- **Is it above 15 ppm?<br>** No, it is $\mathbf{safe}$.
 
 **3.6e:**
 - $\text{mass } \% = 850 / 10^4 = \mathbf{0.085\%}$.
@@ -534,7 +534,7 @@ Answer: 500 ppm
 **The Pattern:** Real-world comparison with safety standards.
 
 #### Solved Example 3.7
-**Q:** The WHO recommends that fluoride in drinking water should be between 0.5 ppm and 1.5 ppm. A village water supply contains 2.5 mg of fluoride per litre. Is the water safe for drinking? 🟢 ⭐
+**Q:** The WHO recommends that fluoride in drinking water should be between 0.5 ppm and 1.5 ppm. A village water supply contains 2.5 mg of fluoride per litre. Is the water safe for drinking?<br> 🟢 ⭐
 
 **Solution:**
 ```
@@ -555,12 +555,12 @@ Answer: The water is NOT safe. Fluoride level (2.5 ppm) exceeds
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 3.7a | WHO limit for arsenic in drinking water is 10 ppb (parts per billion). A sample has 0.015 ppm. Is it safe? (1 ppm = 1000 ppb) ⭐ | 🟡 |
-| 3.7b | The permissible limit of nitrate in drinking water is 45 ppm. A water sample has 0.005% nitrate by mass. Is it safe? | 🟡 |
-| 3.7c | Chlorine residual in treated drinking water should be 0.2–1.0 ppm. A treatment plant adds 3 g of Cl₂ to 10,000 L of water. Find the resulting concentration. Is it in the safe range? | 🟡 |
-| 3.7d | The WHO guideline for cadmium in drinking water is 0.003 ppm. A lab reports a cadmium level of 4 µg/L. Does this exceed the recommended safety limit? ⭐ | 🟡 |
-| 3.7e | The maximum safe limit for cyanide in wastewater is 0.2 ppm. A chemical plant releases 50,000 L of effluent containing a total of 8 g of cyanide. Is the plant in violation of safety limits? | 🟡 |
-| 3.7f | Safe indoor air shouldn't exceed 0.1 ppm of prolonged ozone exposure. If a 100 kg room of air contains 25 mg of ozone, is it safe? | 🟡 |
+| 3.7a | WHO limit for arsenic in drinking water is 10 ppb (parts per billion). A sample has 0.015 ppm. Is it safe?<br> (1 ppm = 1000 ppb) ⭐ | 🟡 |
+| 3.7b | The permissible limit of nitrate in drinking water is 45 ppm. A water sample has 0.005% nitrate by mass. Is it safe?<br> | 🟡 |
+| 3.7c | Chlorine residual in treated drinking water should be 0.2–1.0 ppm. A treatment plant adds 3 g of Cl₂ to 10,000 L of water. Find the resulting concentration. Is it in the safe range?<br> | 🟡 |
+| 3.7d | The WHO guideline for cadmium in drinking water is 0.003 ppm. A lab reports a cadmium level of 4 µg/L. Does this exceed the recommended safety limit?<br> ⭐ | 🟡 |
+| 3.7e | The maximum safe limit for cyanide in wastewater is 0.2 ppm. A chemical plant releases 50,000 L of effluent containing a total of 8 g of cyanide. Is the plant in violation of safety limits?<br> | 🟡 |
+| 3.7f | Safe indoor air shouldn't exceed 0.1 ppm of prolonged ozone exposure. If a 100 kg room of air contains 25 mg of ozone, is it safe?<br> | 🟡 |
 
 <details>
 <summary>💡 Detailed Solutions for Type 7</summary>
@@ -575,7 +575,7 @@ Answer: The water is NOT safe. Fluoride level (2.5 ppm) exceeds
 
 **3.7c:**
 - **Concentration:** $3\text{ g} / 10,000\text{ L} = 3000\text{ mg} / 10,000\text{ L} = 0.3\text{ mg/L} \approx \mathbf{0.3\text{ ppm}}$.
-- **Safe range?** Yes, $0.3\text{ ppm}$ is within $0.2-1.0\text{ ppm}$.
+- **Safe range?<br>** Yes, $0.3\text{ ppm}$ is within $0.2-1.0\text{ ppm}$.
 
 **3.7d:**
 - **Sample:** $4\text{ \mu g/L} = 0.004\text{ mg/L} \approx \mathbf{0.004\text{ ppm}}$.
@@ -597,7 +597,7 @@ Answer: The water is NOT safe. Fluoride level (2.5 ppm) exceeds
 **The Pattern:** For dilute aqueous solutions, exploiting d ≈ 1 g/mL to simplify calculations.
 
 #### Solved Example 3.8
-**Q:** Explain why, for dilute aqueous solutions, ppm ≈ mg/L. Under what conditions does this approximation fail? 🟡
+**Q:** Explain why, for dilute aqueous solutions, ppm ≈ mg/L. Under what conditions does this approximation fail?<br> 🟡
 
 **Solution:**
 ```
@@ -625,9 +625,9 @@ For seawater (d ≈ 1.025 g/mL), the error is about 2.5%.
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 3.8a | A solution has 50 ppm NaCl. If d_solution = 1.0 g/mL, how many mg are in 1 L? What if d = 1.2 g/mL? | 🟡 |
+| 3.8a | A solution has 50 ppm NaCl. If d_solution = 1.0 g/mL, how many mg are in 1 L?<br> What if d = 1.2 g/mL?<br> | 🟡 |
 | 3.8b | Seawater (d = 1.025 g/mL) has about 35,000 ppm dissolved salts. Find (a) mass of salt per litre using the exact formula (b) using the mg/L approximation (c) percentage error. | 🔴 |
-| 3.8c | A municipal water supply reports a sodium concentration of 120 ppm. Assuming exactly dilute aqueous behavior, what mass of sodium is in a 2 L bottle of this water? | 🟢 |
+| 3.8c | A municipal water supply reports a sodium concentration of 120 ppm. Assuming exactly dilute aqueous behavior, what mass of sodium is in a 2 L bottle of this water?<br> | 🟢 |
 | 3.8d | A heavy syrup (d = 1.35 g/mL) has a preservative concentration of 200 ppm. Discuss mathematically why using the mg/L approximation here would lead to a significant formulation error. | 🔴 |
 | 3.8e | An oceanographer analyzes estuarine water (d = 1.01 g/mL) containing 450 ppm sulfate. Calculate the absolute error in mg/L if the standard aqueous shortcut is used instead of the exact density. | 🔴 |
 
@@ -663,8 +663,8 @@ For seawater (d ≈ 1.025 g/mL), the error is about 2.5%.
 
 | # | Question | Types Used | Difficulty |
 |---|----------|------------|------------|
-| 3.M1 | A water sample has 200 ppm of dissolved salts. (a) Express as mass %. (b) How much salt is in 50 L of this water? (c) If the salt is entirely NaCl (M.M. = 58.5), how many moles of NaCl is this? | T6 + T2 + new | 🟡 |
-| 3.M2 | The fluoride level in a village well is 3.5 ppm. The WHO limit is 1.5 ppm. If the village mixes this water with fluoride-free water in equal volumes, what is the resulting fluoride concentration? Is it now safe? | T7 + T1 | 🟡 |
+| 3.M1 | A water sample has 200 ppm of dissolved salts. (a) Express as mass %. (b) How much salt is in 50 L of this water?<br> (c) If the salt is entirely NaCl (M.M. = 58.5), how many moles of NaCl is this?<br> | T6 + T2 + new | 🟡 |
+| 3.M2 | The fluoride level in a village well is 3.5 ppm. The WHO limit is 1.5 ppm. If the village mixes this water with fluoride-free water in equal volumes, what is the resulting fluoride concentration?<br> Is it now safe?<br> | T7 + T1 | 🟡 |
 | 3.M3 | A factory discharge has 500 ppm of mercury. If 1000 L of this discharge is released into a lake containing 10⁶ L of water (originally 0 ppm Hg), find the final Hg concentration in ppm. | T1 + T2 | 🔴 |
 | 3.M4 | 100 mg of Ca(HCO₃)₂ and 50 mg of MgCl₂ are dissolved in 1 L of water. Find (a) total dissolved solids in ppm (b) hardness in ppm as CaCO₃. Molar masses: Ca(HCO₃)₂ = 162, MgCl₂ = 95, CaCO₃ = 100. | T3 + T1 | 🔴 |
 
@@ -701,7 +701,7 @@ For seawater (d ≈ 1.025 g/mL), the error is about 2.5%.
 | # | Question | Difficulty |
 |---|----------|------------|
 | 3.B1 | Calculate the mass of urea (NH₂CONH₂) required to be dissolved in 1000 g of water in order to reduce the vapour pressure to 99.5% of the vapour pressure of pure water at that temperature. Express the concentration in ppm. *(Hint: involves Raoult's Law — preview)* | 🔴 |
-| 3.B2 | The recommended concentration of fluoride in drinking water is up to 1 ppm. The molar mass of fluoride (as NaF) is 42 g/mol. How many moles of NaF are present per litre of water at this concentration? ⭐ | 🟡 |
+| 3.B2 | The recommended concentration of fluoride in drinking water is up to 1 ppm. The molar mass of fluoride (as NaF) is 42 g/mol. How many moles of NaF are present per litre of water at this concentration?<br> ⭐ | 🟡 |
 | 3.B3 | Express 500 ppm of KCl in water as (a) mass percent and (b) molality. (M.M. of KCl = 74.5) ⭐ | 🟡 |
 | 3.B4 | A 1 kg water sample is found to contain 2 mg of lead. Express the concentration as (a) ppm (b) mass percent (c) mg/L (assume d = 1 g/mL). | 🟢 |
 
@@ -740,7 +740,7 @@ For seawater (d ≈ 1.025 g/mL), the error is about 2.5%.
 | 3.J2 | A 10 ppm solution of NaCl (M.M. = 58.5) in water has density approximately 1 g/mL. Find (a) its molarity (b) its molality. ⭐ | 🔴 |
 | 3.J3 | Air contains 78% N₂, 21% O₂, and the rest is argon and trace gases. If CO₂ is 420 ppm by mass of the total atmosphere, and the mass of Earth's atmosphere is 5.15 × 10¹⁸ kg, find the total mass of CO₂ in the atmosphere. | 🟡 |
 | 3.J4 | Hard water contains 120 ppm of Ca²⁺ ions. Express the Ca²⁺ concentration in mol/L. (Atomic mass of Ca = 40). ⭐ | 🟡 |
-| 3.J5 | A water sample has 2 ppm of dissolved chlorine (Cl₂). If Cl₂ disinfection requires at least 0.5 ppm residual after 30 minutes, and 60% of the Cl₂ reacts with organic matter, is the initial dose sufficient? | 🔴 |
+| 3.J5 | A water sample has 2 ppm of dissolved chlorine (Cl₂). If Cl₂ disinfection requires at least 0.5 ppm residual after 30 minutes, and 60% of the Cl₂ reacts with organic matter, is the initial dose sufficient?<br> | 🔴 |
 
 <details>
 <summary>💡 Detailed Solutions for JEE Mains Arena</summary>

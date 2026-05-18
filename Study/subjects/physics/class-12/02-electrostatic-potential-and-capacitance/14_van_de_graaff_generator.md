@@ -63,14 +63,14 @@ To achieve higher voltages, generators are placed inside tanks of high-pressure 
 
 ### Checkpoint 1: Direct Application
 
-**Problem 1:** A Van de Graaff generator has a dome of radius $0.5$ m. What is the maximum voltage it can achieve in air ($E_{breakdown} = 3 \times 10^6$ V/m)?
+**Problem 1:** A Van de Graaff generator has a dome of radius $0.5$ m. What is the maximum voltage it can achieve in air ($E_{breakdown} = 3 \times 10^6$ V/m)?<br>
 
 <details><summary><b>Solution</b></summary>
 
 $V_{max} = E_{breakdown} \times R = 3 \times 10^6 \times 0.5 = \textbf{1.5 × 10⁶ V = 1.5 MV}$
 </details>
 
-**Problem 2:** What charge does the dome hold at this maximum voltage?
+**Problem 2:** What charge does the dome hold at this maximum voltage?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -79,7 +79,7 @@ $Q = \frac{VR}{k} = \frac{1.5 \times 10^6 \times 0.5}{9 \times 10^9} = \frac{7.5
 $Q = \textbf{8.33 × 10⁻⁵ C = 83.3 μC}$
 </details>
 
-**Problem 3:** The dome is placed inside a tank of $SF_6$ gas ($E_{breakdown} = 9 \times 10^6$ V/m). What is the new maximum voltage?
+**Problem 3:** The dome is placed inside a tank of $SF_6$ gas ($E_{breakdown} = 9 \times 10^6$ V/m). What is the new maximum voltage?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -94,7 +94,7 @@ Three times higher — the high-pressure gas tripled the voltage limit.
 
 *A nuclear physics laboratory uses a Van de Graaff generator (dome radius $R = 2$ m, operated in air) to accelerate protons for collision experiments.*
 
-**Problem 1:** What is the maximum kinetic energy (in MeV) a proton can acquire from this generator?
+**Problem 1:** What is the maximum kinetic energy (in MeV) a proton can acquire from this generator?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -109,7 +109,7 @@ $KE = eV = 6 \times 10^6$ eV $= \textbf{6 MeV}$
 
 *The lab upgrades to $SF_6$ gas insulation ($E_{breakdown} = 9 \times 10^6$ V/m).*
 
-**Problem 2:** What is the new maximum kinetic energy for a proton?
+**Problem 2:** What is the new maximum kinetic energy for a proton?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -120,7 +120,7 @@ $KE = \textbf{18 MeV}$
 This is enough to probe nuclear structure — which is exactly what Van de Graaff generators were designed for.
 </details>
 
-**Problem 3:** If an alpha particle ($q = 2e$) is accelerated instead, what kinetic energy does it gain?
+**Problem 3:** If an alpha particle ($q = 2e$) is accelerated instead, what kinetic energy does it gain?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -129,7 +129,7 @@ $KE = qV = 2e \times 18 \times 10^6 = \textbf{36 MeV}$
 Double the charge means double the energy for the same voltage.
 </details>
 
-**Problem 4:** What is the speed of the $6$ MeV proton? ($m_p = 1.67 \times 10^{-27}$ kg)
+**Problem 4:** What is the speed of the $6$ MeV proton?<br> ($m_p = 1.67 \times 10^{-27}$ kg)
 
 <details><summary><b>Solution</b></summary>
 
@@ -185,7 +185,7 @@ The Van de Graaff generator works on two electrostatic principles:
 **Limitation:** The maximum voltage is limited by the dielectric breakdown of the surrounding medium (air or gas).
 </details>
 
-**Problem 2:** Why is the Van de Graaff generator enclosed in a steel chamber filled with high-pressure gas?
+**Problem 2:** Why is the Van de Graaff generator enclosed in a steel chamber filled with high-pressure gas?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -194,7 +194,7 @@ The maximum voltage achievable is $V_{max} = E_{breakdown} \times R$. By using a
 The steel chamber also contains the gas safely and shields the surroundings from the high voltage.
 </details>
 
-**Problem 3:** A Van de Graaff generator produces a potential of $5$ MV. Can it be used to drive current through a household appliance rated at $1$ kW, $220$ V?
+**Problem 3:** A Van de Graaff generator produces a potential of $5$ MV. Can it be used to drive current through a household appliance rated at $1$ kW, $220$ V?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -211,11 +211,11 @@ The generator cannot supply anywhere near this current. The Van de Graaff is a *
 
 **Synthesis Problem:** A Van de Graaff generator has a dome of radius $R = 0.3$ m. The belt delivers charge at a rate of $5 \mu C/s$.
 
-(a) What is the current flowing to the dome?  
-(b) How long will it take for the dome potential to reach $1$ MV?  
-(c) What is the charge on the dome at $1$ MV?  
-(d) What is the electric field at the surface at $1$ MV? Is this below the breakdown threshold of air?  
-(e) What is the maximum achievable potential in air, and how long does it take to reach it?
+(a) What is the current flowing to the dome?<br>  
+(b) How long will it take for the dome potential to reach $1$ MV?<br>  
+(c) What is the charge on the dome at $1$ MV?<br>  
+(d) What is the electric field at the surface at $1$ MV?<br> Is this below the breakdown threshold of air?<br>  
+(e) What is the maximum achievable potential in air, and how long does it take to reach it?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -288,7 +288,7 @@ After 6 seconds, the dome reaches 900 kV and begins sparking. Any additional cha
 
 ---
 
-**Q6.** Which component of the Van de Graaff generator sprays charge onto the belt at the bottom?
+**Q6.** Which component of the Van de Graaff generator sprays charge onto the belt at the bottom?<br>
 
 (a) Collecting comb &emsp; (b) Metal dome &emsp; (c) Spray comb (ionising comb) &emsp; (d) Motor
 
@@ -304,7 +304,7 @@ After 6 seconds, the dome reaches 900 kV and begins sparking. Any additional cha
 
 ---
 
-**Q8.** What is the maximum kinetic energy a proton gains from a $3$ MV generator?
+**Q8.** What is the maximum kinetic energy a proton gains from a $3$ MV generator?<br>
 
 (a) $1.5$ MeV &emsp; (b) $3$ MeV &emsp; (c) $6$ MeV &emsp; (d) $9$ MeV
 
@@ -418,7 +418,7 @@ $t = Q_{max}/I = 83.3\times10^{-6}/(2\times10^{-6}) = \mathbf{41.7\,s}$
 
 ---
 
-**Q19.** Why can't a Van de Graaff generator be used to power household appliances?
+**Q19.** Why can't a Van de Graaff generator be used to power household appliances?<br>
 
 <details><summary><b>Answer</b></summary>
 
@@ -538,7 +538,7 @@ Total: $12$ MeV from a $6$ MV generator — double the conventional energy. No i
 
 ---
 
-**Q27.** The dome of a Van de Graaff is grounded accidentally (connected to earth). What happens?
+**Q27.** The dome of a Van de Graaff is grounded accidentally (connected to earth). What happens?<br>
 
 <details><summary><b>Answer</b></summary>
 
@@ -553,7 +553,7 @@ Removing the ground restores the normal operation.
 
 ---
 
-**Q28.** Why do Van de Graaff generators spark to nearby grounded conductors? Explain using the concept of breakdown field.
+**Q28.** Why do Van de Graaff generators spark to nearby grounded conductors?<br> Explain using the concept of breakdown field.
 
 <details><summary><b>Answer</b></summary>
 
@@ -589,7 +589,7 @@ So the spark can jump up to 15 cm — the same as the dome radius!
 
 ---
 
-**Q30.** A Van de Graaff generator has a dome of radius $R = 0.6$ m inside $SF_6$ ($E_{breakdown} = 9\times10^6$ V/m). The belt delivers $10\,\mu C/s$. How long does it take to reach max voltage? What current does it deliver at steady state once breakdown begins?
+**Q30.** A Van de Graaff generator has a dome of radius $R = 0.6$ m inside $SF_6$ ($E_{breakdown} = 9\times10^6$ V/m). The belt delivers $10\,\mu C/s$. How long does it take to reach max voltage?<br> What current does it deliver at steady state once breakdown begins?<br>
 
 <details><summary><b>Answer</b></summary>
 

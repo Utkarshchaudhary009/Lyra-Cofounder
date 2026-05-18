@@ -97,7 +97,7 @@ $\frac{1}{C_{eq}} = \frac{1}{2} + \frac{1}{3} + \frac{1}{6} = 1$
 $C_{eq} = \textbf{1 μF}$
 </details>
 
-**Problem 2:** What charge is stored on each capacitor?
+**Problem 2:** What charge is stored on each capacitor?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -106,7 +106,7 @@ In series, all capacitors have the same charge:
 $Q = C_{eq} V = 1 \times 10^{-6} \times 120 = \textbf{120 μC on each}$
 </details>
 
-**Problem 3:** What is the voltage across each capacitor?
+**Problem 3:** What is the voltage across each capacitor?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -123,7 +123,7 @@ Notice: the smallest capacitor has the largest voltage drop. In series, voltage 
 
 *She now disconnects the battery and connects a $4\mu F$ capacitor in parallel with $C_1$.*
 
-**Problem 4:** What is the new voltage across the parallel combination?
+**Problem 4:** What is the new voltage across the parallel combination?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -244,9 +244,9 @@ Check: $83.08 + 55.38 + 41.54 = 180$ V ✓
 
 **(b)** When reconnected in parallel (all positive plates together), total charge is conserved:
 
-$Q_{total} = Q_1 + Q_2 + Q_3 = 166.15 \times 3 = ?$
+$Q_{total} = Q_1 + Q_2 + Q_3 = 166.15 \times 3 = ?<br>$
 
-Wait — in series, **each** capacitor has charge $Q = 166.15\mu C$. So total charge on the positive plates = $166.15 + 166.15 + 166.15$? No!
+Wait — in series, **each** capacitor has charge $Q = 166.15\mu C$. So total charge on the positive plates = $166.15 + 166.15 + 166.15$?<br> No!
 
 In series, the charge is the **same** on each capacitor, not additive. When reconnected in parallel, we must think about what happens to the stored charge.
 
@@ -292,7 +292,7 @@ This energy is dissipated as heat in the wires during the transient redistributi
 
 ### Section A: MCQs (15 Questions)
 
-**Q1.** When capacitors are connected in parallel, which quantity is the same for all?
+**Q1.** When capacitors are connected in parallel, which quantity is the same for all?<br>
 
 (a) Charge &emsp; (b) Voltage &emsp; (c) Energy &emsp; (d) Capacitance
 
@@ -300,7 +300,7 @@ This energy is dissipated as heat in the wires during the transient redistributi
 
 ---
 
-**Q2.** When capacitors are connected in series, which quantity is the same for all?
+**Q2.** When capacitors are connected in series, which quantity is the same for all?<br>
 
 (a) Voltage &emsp; (b) Capacitance &emsp; (c) Charge &emsp; (d) Energy
 
@@ -464,7 +464,7 @@ $U_2 = Q^2/(2C_2) = (240)^2/(2\times6) = 4800\,\mu J = 4.8$ mJ
 
 ---
 
-**Q20.** Can a $5\,\mu F$ capacitor be made using only $10\,\mu F$ capacitors? Show the arrangement.
+**Q20.** Can a $5\,\mu F$ capacitor be made using only $10\,\mu F$ capacitors?<br> Show the arrangement.
 
 <details><summary><b>Answer</b></summary>
 

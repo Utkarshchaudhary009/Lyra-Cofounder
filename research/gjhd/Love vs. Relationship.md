@@ -1,4 +1,4 @@
-# Love vs. Relationship — Are They Even the Same Conversation?
+# Love vs. Relationship — Are They Even the Same Conversation?<br>
 
 You've made a sharp observation. I used "relationship" while talking about "love" as if they're the same thing. They're not. Let's separate them and question both.
 
@@ -32,45 +32,45 @@ Before I accept or reject this, let me understand it by questioning it.
 
 ## Cross-Questioning Your Framing
 
-### Question 1: If love is a hobby, whose hobby is it?
+### Question 1: If love is a hobby, whose hobby is it?<br>
 
 A hobby is a solo activity at its core. I paint because *I* enjoy painting. The painting doesn't need to consent.
 
-If love is YOUR hobby — then the person you love is... what? The canvas? The instrument? **They're an object in your leisure activity.** They exist in YOUR love story for YOUR enjoyment.
+If love is YOUR hobby — then the person you love is... what?<br> The canvas?<br> The instrument?<br> **They're an object in your leisure activity.** They exist in YOUR love story for YOUR enjoyment.
 
-Does the other person even matter in this model? Could you swap them out like switching from guitar to piano? If not — if the *specific person* matters — then it's not really a hobby anymore, is it? It's something that depends on an external, living, autonomous being. **No hobby does that.**
+Does the other person even matter in this model?<br> Could you swap them out like switching from guitar to piano?<br> If not — if the *specific person* matters — then it's not really a hobby anymore, is it?<br> It's something that depends on an external, living, autonomous being. **No hobby does that.**
 
-### Question 2: If love is a hobby, why does losing it hurt?
+### Question 2: If love is a hobby, why does losing it hurt?<br>
 
 I've dropped hobbies — stopped playing chess, stopped sketching. Felt nothing. Maybe mild nostalgia.
 
 But people who "lose love" — they collapse. Depression. Physical pain. Years of recovery.
 
-If love is a hobby, why does it break people in a way that no hobby does? Either:
+If love is a hobby, why does it break people in a way that no hobby does?<br> Either:
 - (a) Love is a much more serious hobby than any other — which makes the word "hobby" misleading, or
 - (b) Love isn't a hobby at all — it's something deeper that we're mislabeling
 
-### Question 3: If a relationship is a job, who's the employer?
+### Question 3: If a relationship is a job, who's the employer?<br>
 
 In a job, there's a clear hierarchy. Someone pays. Someone works. Someone sets the terms.
 
-In a relationship — who's the boss? If both people are employees, who are they working *for*? Each other? Themselves? The "relationship" itself as some abstract entity?
+In a relationship — who's the boss?<br> If both people are employees, who are they working *for*?<br> Each other?<br> Themselves?<br> The "relationship" itself as some abstract entity?<br>
 
-And here's the real problem: **in a job, if the pay stops, you leave.** Is that how relationships work? If your partner stops "paying" (attention, affection, support) — you quit? Many people would say yes. Many others would call that shallow.
+And here's the real problem: **in a job, if the pay stops, you leave.** Is that how relationships work?<br> If your partner stops "paying" (attention, affection, support) — you quit?<br> Many people would say yes. Many others would call that shallow.
 
-**So which is it?** Is it a job with fair exchange, or is it supposed to be something beyond transaction?
+**So which is it?<br>** Is it a job with fair exchange, or is it supposed to be something beyond transaction?<br>
 
-### Question 4: Can you have love without a relationship?
+### Question 4: Can you have love without a relationship?<br>
 
 This is where your distinction gets really interesting.
 
-- A parent loves a child who moved to another country and never calls. Is there love? Is there a relationship? **Love: maybe. Relationship: dead.**
+- A parent loves a child who moved to another country and never calls. Is there love?<br> Is there a relationship?<br> **Love: maybe. Relationship: dead.**
 - Someone secretly loves a coworker and never says a word. Love: present. Relationship: non-existent.
 - Two exes who still "love each other" but broke up. Love: claimed. Relationship: ended.
 
 So YES — love CAN exist without a relationship. This supports your split. They're different things.
 
-### Question 5: Can you have a relationship without love?
+### Question 5: Can you have a relationship without love?<br>
 
 - Business partnerships — relationship, no love.
 - Arranged marriages where two strangers build a life — relationship first, love maybe later, maybe never.
@@ -97,7 +97,7 @@ When someone says "our love died," they usually mean: **"the relationship stoppe
 
 So let me flip your framing:
 
-> **What if "love" as people commonly use it doesn't exist at all — and everything they call "love" is actually just relationship dynamics wearing a costume?**
+> **What if "love" as people commonly use it doesn't exist at all — and everything they call "love" is actually just relationship dynamics wearing a costume?<br>**
 
 Think about it:
 - "He doesn't love me" = He doesn't do what I expect → **Relationship complaint**
@@ -124,14 +124,14 @@ What they really mean is: "The hobby part disappeared and now all that's left is
 
 ## Questions That Remain
 
-1. **If love is a hobby, is it selfish by definition?** Hobbies serve the self. Does love serve the self? If yes — is that a problem?
+1. **If love is a hobby, is it selfish by definition?<br>** Hobbies serve the self. Does love serve the self?<br> If yes — is that a problem?<br>
 
-2. **Why do people demand that love (the hobby) come bundled with a relationship (the job)?** Why can't they accept love as a casual, come-and-go experience? Why must it be chained to commitment?
+2. **Why do people demand that love (the hobby) come bundled with a relationship (the job)?<br>** Why can't they accept love as a casual, come-and-go experience?<br> Why must it be chained to commitment?<br>
 
-3. **Is the source of almost all relationship suffering this exact confusion** — expecting a job to feel like a hobby, and getting angry when it doesn't?
+3. **Is the source of almost all relationship suffering this exact confusion** — expecting a job to feel like a hobby, and getting angry when it doesn't?<br>
 
-4. **Can the "hobby" survive inside the "job"?** Or does structure always kill spontaneity? Is long-term love an oxymoron?
+4. **Can the "hobby" survive inside the "job"?<br>** Or does structure always kill spontaneity?<br> Is long-term love an oxymoron?<br>
 
 ---
 
-Which thread do you want to pull? The selfishness of love? Why people can't separate the two? Or whether the hobby can survive the job?
+Which thread do you want to pull?<br> The selfishness of love?<br> Why people can't separate the two?<br> Or whether the hobby can survive the job?<br>

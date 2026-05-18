@@ -105,7 +105,7 @@
 
 In Phase 39, we saw how the "Silver Suppression" broke the supply chain. In Phase 40, we see how it broke the people. This isn't just a story about numbers on a screen; it's a story about the deliberate destruction of wealth and independence.
 
-For nearly two decades (2008-2026), the global financial system waged a quiet war against silver. Why? because silver is "honest money." It cannot be printed. It cannot be debased. A rising silver price is a report card that says the Government is failing. So, to keep the report card looking good, they rigged the test.
+For nearly two decades (2008-2026), the global financial system waged a quiet war against silver. Why?<br> because silver is "honest money." It cannot be printed. It cannot be debased. A rising silver price is a report card that says the Government is failing. So, to keep the report card looking good, they rigged the test.
 
 The "Impact" was catastrophic. In the mining heartlands of the Americas—from the Silver Valley in Idaho to the mountains of Potosí in Bolivia—the lights went out. We found the "hard evidence" in the bankruptcy filings of companies like Mercator Minerals and the 26% crash in Bolivia's mining revenue. These weren't bad businesses; they were victims of a manipulated price that made profitability impossible. The bankers in London didn't just short a stock; they shorted the livelihoods of thousands of miners.
 
@@ -129,62 +129,62 @@ Phase 40 proves that the "Grand Heist" wasn't just a theft of metal; it was a th
 
 ## 7. Comprehension Check (Critical Thinking)
 
-**Q1:** Why did silver mine bankruptcies spike in 2013-2015?
+**Q1:** Why did silver mine bankruptcies spike in 2013-2015?<br>
 **A:** Because the price of silver was manipulated below the cost of production, making even good mines unprofitable.
 **C:** Profitability is impossible when the price is a lie.
 
-**Q2:** How does the "Cantillon Effect" relate to silver?
+**Q2:** How does the "Cantillon Effect" relate to silver?<br>
 **A:** Money printing benefits those who get it first (banks). They used this advantage to suppress silver, preventing the poor (who get the money last) from protecting their savings.
 **C:** The system is rigged against the saver.
 
-**Q3:** What is the connection between US Deficits and Silver Suppression?
+**Q3:** What is the connection between US Deficits and Silver Suppression?<br>
 **A:** High deficits usually spike silver prices. To prevent this (and keep borrowing costs low), the price is suppressed to mask the danger of the debt.
 **C:** Silver is the canary in the coal mine; suppression is killing the canary.
 
-**Q4:** How did the West "subsidize" the East?
+**Q4:** How did the West "subsidize" the East?<br>
 **A:** By suppressing the price, the West made silver cheap. China and India bought this cheap physical silver, draining Western vaults.
 **C:** We sold our gold (and silver) for paper.
 
-**Q5:** Why is unemployment in mining towns a "hidden tax"?
+**Q5:** Why is unemployment in mining towns a "hidden tax"?<br>
 **A:** It's a cost paid by the community so that bankers could have cheap hedges and the government could have cheap debt.
 **C:** Wall Street profits, Main Street pays.
 
-**Q6:** What role did the "Northwest Territorial Mint" fraud play?
+**Q6:** What role did the "Northwest Territorial Mint" fraud play?<br>
 **A:** It showed how a broken, opaque market enables criminal behavior. Regulation failed to protect the public.
 **C:** In a rigged market, trust no one.
 
-**Q7:** How did suppression affect Bolivia?
+**Q7:** How did suppression affect Bolivia?<br>
 **A:** It slashed their national revenue by 26%, forcing cuts to social programs.
 **C:** Financial warfare has real-world casualties.
 
-**Q8:** Why didn't low interest rates help silver prices in 2013?
+**Q8:** Why didn't low interest rates help silver prices in 2013?<br>
 **A:** Because the banks used the cheap money to fund massive short positions, overriding the natural bullish signal of low rates.
 **C:** Cheap money is a weapon.
 
-**Q9:** What is "High-Grading" and why is it bad?
+**Q9:** What is "High-Grading" and why is it bad?<br>
 **A:** It's mining only the best ore to survive low prices. It wastes the rest of the mine's resources, shortening its life.
 **C:** Short-term survival kills long-term value.
 
-**Q10:** How does the "Paper Market" hurt the "Physical Miner"?
+**Q10:** How does the "Paper Market" hurt the "Physical Miner"?<br>
 **A:** The paper market sets the price based on leverage, ignoring the actual cost miners pay to dig metal out of the ground.
 **C:** The map is not the territory.
 
-**Q11:** Did the "Green Revolution" cause the shortage?
+**Q11:** Did the "Green Revolution" cause the shortage?<br>
 **A:** No, it *revealed* the shortage caused by years of underinvestment due to price suppression.
 **C:** You can't suppress price and expect supply to be there when you need it.
 
-**Q12:** What happened to the US Dollar's purchasing power during this era?
+**Q12:** What happened to the US Dollar's purchasing power during this era?<br>
 **A:** It collapsed by over 50%. Silver should have doubled, but suppression kept it volatile.
 **C:** The measuring stick is shrinking.
 
-**Q13:** Why did retail investors lose money on SLV?
+**Q13:** Why did retail investors lose money on SLV?<br>
 **A:** Because SLV tracks the paper price, which was manipulated. They bought the "fake" asset and suffered the "fake" price drops.
 **C:** If you don't hold it, you don't own it.
 
-**Q14:** What is the "Systemic Risk" revealed here?
+**Q14:** What is the "Systemic Risk" revealed here?<br>
 **A:** That the entire global economy is built on the assumption that resources will always be cheap. They won't be.
 **C:** The bill is coming due.
 
-**Q15:** How does this connect to "Modern Day"?
+**Q15:** How does this connect to "Modern Day"?<br>
 **A:** The destruction of the mining industry in Phase 40 is the direct cause of the supply squeeze we face today.
 **C:** We ate the seed corn.

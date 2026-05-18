@@ -8,7 +8,7 @@
 
 ### Q 1.14 ⭐
 
-An arbitrary surface encloses a dipole. What is the electric flux through this surface?
+An arbitrary surface encloses a dipole. What is the electric flux through this surface?<br>
 
 <details>
 <summary><b>Solution</b></summary>
@@ -28,7 +28,7 @@ The net electric flux through any closed surface enclosing a complete dipole is 
 
 ### Q 1.15 ⭐⭐
 
-A metallic spherical shell has an inner radius R₁ and outer radius R₂. A charge Q is placed at the centre of the spherical cavity. What will be the surface charge density on (i) the inner surface, and (ii) the outer surface?
+A metallic spherical shell has an inner radius R₁ and outer radius R₂. A charge Q is placed at the centre of the spherical cavity. What will be the surface charge density on (i) the inner surface, and (ii) the outer surface?<br>
 
 <details>
 <summary><b>Solution</b></summary>
@@ -60,7 +60,7 @@ $$\boxed{\sigma_{outer} = \frac{+Q}{4\pi R_2^2}}$$
 
 ### Q 1.16 ⭐
 
-The dimensions of an atom are of the order of an Angstrom. Thus there must be large electric fields between the protons and electrons. Why, then, is the electrostatic field inside a conductor zero?
+The dimensions of an atom are of the order of an Angstrom. Thus there must be large electric fields between the protons and electrons. Why, then, is the electrostatic field inside a conductor zero?<br>
 
 <details>
 <summary><b>Solution</b></summary>
@@ -82,18 +82,18 @@ The macroscopic field E (the one relevant to electrostatics) is this spatial ave
 
 ### Q 1.17 ⭐
 
-If the total charge enclosed by a surface is zero, does it imply that the electric field everywhere on the surface is zero? Conversely, if the electric field everywhere on a surface is zero, does it imply that net charge inside is zero?
+If the total charge enclosed by a surface is zero, does it imply that the electric field everywhere on the surface is zero?<br> Conversely, if the electric field everywhere on a surface is zero, does it imply that net charge inside is zero?<br>
 
 <details>
 <summary><b>Solution</b></summary>
 
-**Part 1: q_enclosed = 0 → E = 0 everywhere on surface?**
+**Part 1: q_enclosed = 0 → E = 0 everywhere on surface?<br>**
 
 **No.** The total flux ∮ E⃗ · dA⃗ = 0, but this does NOT mean E = 0 at every point. The field can be non-zero at individual points as long as the net flux (integral) is zero.
 
 **Example:** Place a dipole inside a closed surface. Net charge = 0, flux = 0, but E ≠ 0 at most points on the surface.
 
-**Part 2: E = 0 everywhere on surface → q_enclosed = 0?**
+**Part 2: E = 0 everywhere on surface → q_enclosed = 0?<br>**
 
 **Yes.** If E = 0 at every point on the surface, then ∮ E⃗ · dA⃗ = 0, which by Gauss's law means q_enclosed = 0.
 
@@ -130,7 +130,7 @@ Key features of the sketch:
 
 ### Q 1.19
 
-If the total charge contained in a volume is known, can the electric field on the surface enclosing the volume be determined using Gauss's Law? If not, what additional information is needed?
+If the total charge contained in a volume is known, can the electric field on the surface enclosing the volume be determined using Gauss's Law?<br> If not, what additional information is needed?<br>
 
 <details>
 <summary><b>Solution</b></summary>
@@ -159,7 +159,7 @@ Without such symmetry, Gauss's law is true but not computationally useful for fi
 
 ### Q 1.20 ⭐
 
-A paisa coin is made of Al-Mg alloy and weighs 0.75 g. It has a square shape and its diagonal measures 17 mm. It is electrically neutral and contains equal amounts of positive and negative charges. Treating the paisa coin as made of only Al (atomic mass = 26.98 g/mol, Z = 13), find the magnitude of the equal number of positive and negative charges. What conclusion do you draw from this magnitude?
+A paisa coin is made of Al-Mg alloy and weighs 0.75 g. It has a square shape and its diagonal measures 17 mm. It is electrically neutral and contains equal amounts of positive and negative charges. Treating the paisa coin as made of only Al (atomic mass = 26.98 g/mol, Z = 13), find the magnitude of the equal number of positive and negative charges. What conclusion do you draw from this magnitude?<br>
 
 <details>
 <summary><b>Solution</b></summary>
@@ -192,7 +192,7 @@ Total positive charge = N × Z × e
 Consider the coin of Q 1.20. It is electrically neutral and contains equal amounts of positive and negative charge of magnitude 34.8 kC. Suppose that these charges were concentrated in two point charges separated by:
 
 (i) 1 cm (= ½ diagonal) — Find the force.
-(ii) 100 m — Find the force. What do you conclude?
+(ii) 100 m — Find the force. What do you conclude?<br>
 
 <details>
 <summary><b>Solution</b></summary>
@@ -225,8 +225,8 @@ F = 9 × 10⁹ × 1.211 × 10⁹ / 10⁴ = **1.09 × 10¹⁵ N**
 
 Figure represents a crystal unit of caesium chloride (CsCl). The caesium atoms, each carrying a charge +e, are situated at the eight corners of a cube and a chlorine atom carrying a charge −e is at the centre of the cube. The edge length of the cube is 0.40 nm.
 
-(a) What is the net electric field on the Cl⁻ ion due to the eight Cs⁺ ions?
-(b) Suppose that the Cs⁺ ion at one corner A is missing. What is the net force now on the Cl⁻ ion due to the seven remaining Cs⁺ ions?
+(a) What is the net electric field on the Cl⁻ ion due to the eight Cs⁺ ions?<br>
+(b) Suppose that the Cs⁺ ion at one corner A is missing. What is the net force now on the Cl⁻ ion due to the seven remaining Cs⁺ ions?<br>
 
 <details>
 <summary><b>Solution</b></summary>
@@ -268,7 +268,7 @@ Direction: From the centre **toward corner A** (the Cl⁻ is pulled toward the v
 
 ### Q 1.23 ⭐⭐
 
-Two charges q and −3q are placed fixed on the x-axis separated by distance d. Where should a third charge 2q be placed such that it will not experience any force?
+Two charges q and −3q are placed fixed on the x-axis separated by distance d. Where should a third charge 2q be placed such that it will not experience any force?<br>
 
 <details>
 <summary><b>Solution</b></summary>
@@ -310,14 +310,14 @@ The charge 2q should be placed at distance **d(√3 + 1)/2 ≈ 1.37d** to the le
 
 Figure shows the electric field lines around three point charges A, B, and C.
 
-(a) Which charges are positive?
-(b) Which charge has the largest magnitude? Why?
-(c) In which region or regions of the picture could the electric field be zero? Justify.
+(a) Which charges are positive?<br>
+(b) Which charge has the largest magnitude?<br> Why?<br>
+(c) In which region or regions of the picture could the electric field be zero?<br> Justify.
 
 <details>
 <summary><b>Solution</b></summary>
 
-**(a) Which charges are positive?**
+**(a) Which charges are positive?<br>**
 
 Field lines **originate** from positive charges and **terminate** on negative charges.
 
@@ -325,7 +325,7 @@ Field lines **originate** from positive charges and **terminate** on negative ch
 - **C**: Lines emerge from C → **C is positive** ✓
 - **B**: Lines terminate on B → **B is negative**
 
-**(b) Which charge has the largest magnitude?**
+**(b) Which charge has the largest magnitude?<br>**
 
 The number of field lines is proportional to the magnitude of charge.
 
@@ -333,7 +333,7 @@ The number of field lines is proportional to the magnitude of charge.
 
 If A has N₁ lines and C has N₂ lines, then B has (N₁ + N₂) lines → |q_B| = |q_A| + |q_C| (all lines from A and C terminate on B).
 
-**(c) Where could E = 0?**
+**(c) Where could E = 0?<br>**
 
 For E = 0, we need a point where the fields from all three charges cancel.
 
@@ -350,9 +350,9 @@ The null point cannot be between A and B or between B and C (fields from both th
 
 Five charges, q each, are placed at the corners of a regular pentagon of side 'a'.
 
-(a) What will be the electric field at O, the centre of the pentagon?
-(b) What will be the electric field at O if the charge from one of the corners (say A) is removed?
-(c) What will be the electric field at O if the charge q at A is replaced by −q?
+(a) What will be the electric field at O, the centre of the pentagon?<br>
+(b) What will be the electric field at O if the charge from one of the corners (say A) is removed?<br>
+(c) What will be the electric field at O if the charge q at A is replaced by −q?<br>
 
 <details>
 <summary><b>Solution</b></summary>
@@ -412,16 +412,16 @@ $$\boxed{E = \frac{2kq}{r^2} = \frac{8kq\sin^2 36°}{a^2} \text{, directed from 
 ## Summary: Exam Readiness Checklist
 
 ### From the Exemplar MCQs:
-- [ ] Q 1.4 — Do I understand why E on the LHS of Gauss's law depends on ALL charges?
-- [ ] Q 1.7/1.13 — Can I analyze stability of a charge at the centre of a ring (plane vs axis)?
-- [ ] Q 1.8 — Zero flux ≠ zero field. Am I clear on this?
-- [ ] Q 1.11 — Do I know the multipole expansion (1/r³ dominance when net charge = 0)?
+- [ ] Q 1.4 — Do I understand why E on the LHS of Gauss's law depends on ALL charges?<br>
+- [ ] Q 1.7/1.13 — Can I analyze stability of a charge at the centre of a ring (plane vs axis)?<br>
+- [ ] Q 1.8 — Zero flux ≠ zero field. Am I clear on this?<br>
+- [ ] Q 1.11 — Do I know the multipole expansion (1/r³ dominance when net charge = 0)?<br>
 
 ### From the Exemplar SA/LA:
-- [ ] Q 1.15 — Can I find surface charge densities on inner/outer surfaces of a shell?
-- [ ] Q 1.22 — Can I use the symmetry trick (8 charges − 1 = 7 charges)?
-- [ ] Q 1.23 — Can I find equilibrium positions for unlike charges (null point outside)?
-- [ ] Q 1.25 — Can I apply the pentagon symmetry trick (remove/replace one charge)?
+- [ ] Q 1.15 — Can I find surface charge densities on inner/outer surfaces of a shell?<br>
+- [ ] Q 1.22 — Can I use the symmetry trick (8 charges − 1 = 7 charges)?<br>
+- [ ] Q 1.23 — Can I find equilibrium positions for unlike charges (null point outside)?<br>
+- [ ] Q 1.25 — Can I apply the pentagon symmetry trick (remove/replace one charge)?<br>
 
 ---
 

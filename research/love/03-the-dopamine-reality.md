@@ -77,7 +77,7 @@ This is why people say things like:
 
 ### The diagnostic question:
 
-> *Does this relationship feel like a warm constant or a fever spike?*
+> *Does this relationship feel like a warm constant or a fever spike?<br>*
 
 Warm constant = healthy. Potentially sustainable.
 Fever spike = addictive cycle. Feels like "passion" but is actually volatility.
@@ -110,7 +110,7 @@ Same with dopamine:
 **Person A (diversified portfolio — 5+ active sources):**
 If the partner becomes inconsistent or the relationship struggles, they hurt — but they don't collapse. They have a floor. They can evaluate clearly because their survival isn't threatened.
 
-They can ask "Is this person right for me?" and hear the honest answer because the honest answer doesn't equal "I will have nothing."
+They can ask "Is this person right for me?<br>" and hear the honest answer because the honest answer doesn't equal "I will have nothing."
 
 **Person B (concentrated — 1-2 sources, mostly the partner):**
 Partner IS the dopamine economy. Any threat to the relationship = existential crisis. They literally cannot think clearly about whether to stay or leave because their brain registers "leaving" as "cutting off oxygen."
@@ -151,7 +151,7 @@ The problem is not THAT they're a source. The problem is when they're **the only
 
 ### The Practical Test
 
-> *"If this person left tomorrow, would I be devastated but eventually rebuild my life? Or would I not know how to get through a single day?"*
+> *"If this person left tomorrow, would I be devastated but eventually rebuild my life?<br> Or would I not know how to get through a single day?<br>"*
 
 - **Devastated but rebuilds** = Healthy attachment. You chose them AND you have a self to return to.
 - **Cannot function** = Dependency. You didn't choose them — you outsourced your emotional survival to them.
@@ -170,7 +170,7 @@ The line between love and addiction is your dopamine portfolio diversity.
 | "Passion" vs. volatility | If it's a fever spike, it's addiction. If it's a warm constant, it's sustainable |
 | Dopamine portfolio | 5+ sources = clear thinking. 1–2 sources = compromised judgment |
 | Healthy balance | Partner should be a significant source, not the ONLY source |
-| The diagnostic | "Can I survive without them?" Yes = love. No = dependency |
+| The diagnostic | "Can I survive without them?<br>" Yes = love. No = dependency |
 
 ---
 

@@ -4,11 +4,11 @@
 
 ---
 
-## 1.1 What Does "Choosing a Person" Actually Mean?
+## 1.1 What Does "Choosing a Person" Actually Mean?<br>
 
 Most people hear this and think: *"I will find the right person and pick them."*
 
-**But is that what actually happens?**
+**But is that what actually happens?<br>**
 
 No. Three fundamental problems:
 
@@ -34,13 +34,13 @@ You don't pick perfection. **You pick which set of imperfections you can live wi
 
 You don't choose on a wedding day and it's done. You re-choose every morning. Every argument. Every boring Tuesday. Every crisis.
 
-People who think choice is a single event are the ones blindsided when things fall apart. **Choice is a continuous act.** The question isn't "did I choose right?" — it's "am I still choosing this person today, and are they still choosing me?"
+People who think choice is a single event are the ones blindsided when things fall apart. **Choice is a continuous act.** The question isn't "did I choose right?<br>" — it's "am I still choosing this person today, and are they still choosing me?<br>"
 
 ---
 
 ## 1.2 The Prerequisite Nobody Mentions
 
-> **Before asking "who should I choose," ask: "Am I someone worth choosing?"**
+> **Before asking "who should I choose," ask: "Am I someone worth choosing?<br>"**
 
 If you skip this, the entire framework collapses. You attract what you are, not what you want.
 
@@ -56,7 +56,7 @@ If you lack most of these, your pool of good options shrinks — not because goo
 
 ---
 
-## 1.3 Is There a "Right" Person?
+## 1.3 Is There a "Right" Person?<br>
 
 **No.** This is the single most damaging myth in relationship thinking.
 
@@ -78,7 +78,7 @@ Someone whose tradeoffs you can accept, whose growth trajectory is roughly paral
 
 ---
 
-## 1.4 Can You Trust Your Own Judgment?
+## 1.4 Can You Trust Your Own Judgment?<br>
 
 This is the question nobody asks. And the honest answer is: **not entirely.**
 
@@ -98,7 +98,7 @@ Your childhood wiring makes certain dynamics feel like "home." If neglect was yo
 
 **Social Pressure:**
 - Age timelines ("You should be married by 28")
-- Family expectations ("When are you settling down?")
+- Family expectations ("When are you settling down?<br>")
 - Peer comparison ("Everyone else has someone")
 - Cultural scripts about what a relationship "should" look like
 
@@ -117,13 +117,13 @@ Real intuition about character comes after you've seen someone:
 
 ## 1.5 The Knowing-Doing Gap
 
-Most people encounter these ideas and... walk right back to what they were doing. Why?
+Most people encounter these ideas and... walk right back to what they were doing. Why?<br>
 
-**Is it that the answers don't exist? Or that the answers are uncomfortable and the brain rejects them?**
+**Is it that the answers don't exist?<br> Or that the answers are uncomfortable and the brain rejects them?<br>**
 
 It's almost always the second.
 
-The brain doesn't optimize for truth. It optimizes for **energy conservation and pain avoidance.** When you ask yourself "Is this person right for me?" and the honest answer is "No," that answer triggers:
+The brain doesn't optimize for truth. It optimizes for **energy conservation and pain avoidance.** When you ask yourself "Is this person right for me?<br>" and the honest answer is "No," that answer triggers:
 
 1. **Anticipated loss** — Your brain models the pain of leaving (loneliness, withdrawal, identity disruption)
 2. **Cognitive load** — Acting on the answer requires effort, planning, emotional labor
@@ -133,9 +133,9 @@ So the brain does something elegant and terrible: **it reclassifies the question
 
 ### The counter-move:
 
-Don't ask yourself "Is this person right for me?" in the abstract.
+Don't ask yourself "Is this person right for me?<br>" in the abstract.
 
-Instead ask: **"If my closest friend described this exact relationship to me, word for word, what would I tell them?"**
+Instead ask: **"If my closest friend described this exact relationship to me, word for word, what would I tell them?<br>"**
 
 You already know the answer for others. The brain only blocks it when it's YOUR dopamine source at risk.
 

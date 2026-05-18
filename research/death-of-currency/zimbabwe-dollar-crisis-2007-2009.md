@@ -11,7 +11,7 @@
 2. [Historical Background](#historical-background)
 3. [The Causes - A Chain of Disasters](#the-causes)
 4. [Timeline of Events](#timeline-of-events)
-5. [The Numbers - How Bad Was It?](#the-numbers)
+5. [The Numbers - How Bad Was It?<br>](#the-numbers)
 6. [Daily Life During Hyperinflation](#daily-life)
 7. [Mental Models & Psychology](#mental-models)
 8. [Who Survived and How](#survivors)
@@ -109,7 +109,7 @@ Just when things were already bad, Mugabe decided to send troops to help Preside
 - Total cost: At least $260 million officially (real cost likely much higher)
 - The war lasted from 1998 to 2002
 
-**Why was this so bad?**
+**Why was this so bad?<br>**
 - Zimbabwe had already spent its reserves on the war veterans
 - The country had to print more money to pay for the war
 - The IMF and World Bank suspended aid because they didn't want to fund military adventures
@@ -231,7 +231,7 @@ Here's a chronological view of how Zimbabwe went from prosperity to collapse:
 
 ---
 
-## 5. The Numbers - How Bad Was It?
+## 5. The Numbers - How Bad Was It?<br>
 
 Let's put this in terms a 10th grader can understand:
 
@@ -352,7 +352,7 @@ He had to feed his wife and seven daughters. He sold everything:
 
 ### The Midwife's Walk of Shame
 
-Epiphnia Mudehwe, a midwife, boarded a bus to withdraw her salary of **1 billion Zimbabwe dollars**. Sounds impressive, right?
+Epiphnia Mudehwe, a midwife, boarded a bus to withdraw her salary of **1 billion Zimbabwe dollars**. Sounds impressive, right?<br>
 
 By the time she stood in the supermarket line, her money had already lost value. It couldn't buy any groceries. It couldn't even pay for the bus home. She walked three hours back to her tiny home.
 
@@ -391,7 +391,7 @@ A 2025 study coined the term **"Hyperinflation Induced Trauma (HIT)"** to descri
    - Real estate seen as the only "safe" investment
 
 3. **Short-term thinking**
-   - Every decision made with "what if hyperinflation comes back?" in mind
+   - Every decision made with "what if hyperinflation comes back?<br>" in mind
    - Businesses plan only 6 months ahead
    - "Kurara rimwe ziso wakasvinura" (Shona proverb: "Sleep with one eye open")
 
@@ -526,7 +526,7 @@ In Harare's most upmarket suburb, Borrowdale Brooke, construction boomed while t
 **Philip Chiyanga** - ZANU-PF politician and Mugabe's cousin:
 - Built 30-room mansion with 3 helicopter pads
 - Drove a Hummer
-- How? Access to preferential exchange rates
+- How?<br> Access to preferential exchange rates
 
 ### The Black Market Currency Dealers
 

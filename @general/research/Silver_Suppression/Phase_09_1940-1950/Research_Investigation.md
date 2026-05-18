@@ -66,7 +66,7 @@
 ## 3. The Deep Drill (10 Forensic Clues)
 
 ### Clue 1: WWII Silver Industrial Demands
-**The Simple Truth:** Imagine you’re building the world’s biggest flashlight, but you run out of copper for the wires. You’re in the middle of a war, so you can’t buy more. What do you do? You go to the world’s biggest bank (the U.S. Treasury) and ask to borrow their silver coins. You melt them down into massive heavy bars called "busbars" and use them to power your secret factories. That’s what the U.S. did. They used silver because it’s the "Super-Conductor" of the world. It moved electricity better than anything else, which was needed to make the materials for the first atomic bombs.
+**The Simple Truth:** Imagine you’re building the world’s biggest flashlight, but you run out of copper for the wires. You’re in the middle of a war, so you can’t buy more. What do you do?<br> You go to the world’s biggest bank (the U.S. Treasury) and ask to borrow their silver coins. You melt them down into massive heavy bars called "busbars" and use them to power your secret factories. That’s what the U.S. did. They used silver because it’s the "Super-Conductor" of the world. It moved electricity better than anything else, which was needed to make the materials for the first atomic bombs.
 
 **The Hard Evidence:**
 - **Amount:** 14,700 tons (approx. 430 million Troy ounces).
@@ -134,7 +134,7 @@
 **The Suppression Seed:** This massive hoard was the "Suppression Hammer." Modern central banks use "Paper Silver" (shorts) to suppress prices; the 1940s Treasury used "Physical Silver" (dumping) because they had so much of it.
 
 ### Clue 8: Post-War Coinage Changes
-**The Simple Truth:** In 1946, Britain decided they didn't want real silver in their coins anymore. They swapped it for a mix of copper and nickel. Why? Because they owed the U.S. a lot of silver! They melted their coins to pay their bills. This took silver out of the pockets of regular people and put it into big government boxes.
+**The Simple Truth:** In 1946, Britain decided they didn't want real silver in their coins anymore. They swapped it for a mix of copper and nickel. Why?<br> Because they owed the U.S. a lot of silver! They melted their coins to pay their bills. This took silver out of the pockets of regular people and put it into big government boxes.
 
 **The Hard Evidence:**
 - **Legislation:** Coinage Act of 1946 (UK).
@@ -237,64 +237,64 @@ The King wasn't just watering down the milk; he was taking the silver spoons fro
 
 ## 7. COMPREHENSION CHECK (Critical Thinking)
 
-1.  **Q:** Why did the US Treasury loan silver to the Manhattan Project instead of buying copper?
+1.  **Q:** Why did the US Treasury loan silver to the Manhattan Project instead of buying copper?<br>
     **A:** Copper was needed for bullets and shells; silver was sitting "idle" in vaults. By using silver, they could build the plant without taking copper away from the front lines.
-    **C:** Think about how much silver is "locked" in your phone today. Is it "idle" or is it "working"?
+    **C:** Think about how much silver is "locked" in your phone today. Is it "idle" or is it "working"?<br>
 
-2.  **Q:** What was the "91-cent ceiling" and who did it benefit?
+2.  **Q:** What was the "91-cent ceiling" and who did it benefit?<br>
     **A:** It was the price at which the Treasury sold silver. It benefited big industrial users (SUA) by ensuring they never had to pay a higher market price.
-    **C:** If a company can control the price of its raw materials, is it still a "free market"?
+    **C:** If a company can control the price of its raw materials, is it still a "free market"?<br>
 
-3.  **Q:** Why did the UK swap silver for cupro-nickel in 1946?
+3.  **Q:** Why did the UK swap silver for cupro-nickel in 1946?<br>
     **A:** To pay back the US for silver loaned during the war. They literally "liquidated" their currency to pay a debt.
-    **C:** What happens to a country's independence when its money is controlled by its debts?
+    **C:** What happens to a country's independence when its money is controlled by its debts?<br>
 
-4.  **Q:** How does photographic film "destroy" silver?
+4.  **Q:** How does photographic film "destroy" silver?<br>
     **A:** Unlike jewelry or bars, silver in film is chemically changed (halides) and often washed away during development, making it hard to recover.
     **C:** Research "Silver Recovery from X-rays" to see how we try to get it back today.
 
-5.  **Q:** What is the "Skin Effect" in radar?
+5.  **Q:** What is the "Skin Effect" in radar?<br>
     **A:** High-frequency waves travel only on the surface of a metal. Silver is the best surface for this, making it mandatory for radar.
-    **C:** Without silver, could we have won the "Electronic War"?
+    **C:** Without silver, could we have won the "Electronic War"?<br>
 
-6.  **Q:** What was the Silver Users Association's main goal?
+6.  **Q:** What was the Silver Users Association's main goal?<br>
     **A:** To keep the price of silver low by lobbying the government to sell its Treasury stocks.
-    **C:** Why don't we have a "Gold Users Association" trying to keep gold cheap?
+    **C:** Why don't we have a "Gold Users Association" trying to keep gold cheap?<br>
 
-7.  **Q:** Why was silver "ghosted" at Bretton Woods?
+7.  **Q:** Why was silver "ghosted" at Bretton Woods?<br>
     **A:** To simplify the world's money around the US Dollar and Gold, making silver an industrial commodity rather than a rival currency.
-    **C:** If you were a banker in 1944, would you want two "hard monies" or just one?
+    **C:** If you were a banker in 1944, would you want two "hard monies" or just one?<br>
 
-8.  **Q:** How did "War Nickels" trick the public?
+8.  **Q:** How did "War Nickels" trick the public?<br>
     **A:** People thought they were just using nickels, but for 3 years, they were holding 35% silver coins. It was a temporary "silver injection" that was quietly removed later.
-    **C:** Why did the government give people *better* money during the war? (To keep them calm).
+    **C:** Why did the government give people *better* money during the war?<br> (To keep them calm).
 
-9.  **Q:** What is the "Great Industrial Hijack"?
+9.  **Q:** What is the "Great Industrial Hijack"?<br>
     **A:** The transition of silver from being "Money for People" to "Metal for Machines."
-    **C:** Is silver still "Money" today, or just a "Metal"?
+    **C:** Is silver still "Money" today, or just a "Metal"?<br>
 
-10. **Q:** Why did the Treasury have 3.3 billion ounces of silver?
+10. **Q:** Why did the Treasury have 3.3 billion ounces of silver?<br>
     **A:** Due to the Silver Purchase Acts of the late 1800s and 1934, meant to support miners and inflate the money supply.
-    **C:** How did a "Prosperity Pile" become a "Suppression Pile"?
+    **C:** How did a "Prosperity Pile" become a "Suppression Pile"?<br>
 
-11. **Q:** What happened to the silver returned from the Manhattan Project?
+11. **Q:** What happened to the silver returned from the Manhattan Project?<br>
     **A:** It was eventually returned to the Treasury, but not until 1970, decades after it was "borrowed."
-    **C:** If you borrow something for 30 years, is it still a "loan"?
+    **C:** If you borrow something for 30 years, is it still a "loan"?<br>
 
-12. **Q:** How did post-war consumerism help suppress silver?
+12. **Q:** How did post-war consumerism help suppress silver?<br>
     **A:** The "Baby Boom" created huge demand for silverware and appliances, making the public dependent on "cheap silver" for their lifestyle.
-    **C:** Would you pay 5x more for your dishwasher if it meant your silver coins were worth more?
+    **C:** Would you pay 5x more for your dishwasher if it meant your silver coins were worth more?<br>
 
-13. **Q:** What is a "Silver Sink"?
+13. **Q:** What is a "Silver Sink"?<br>
     **A:** An industrial use (like mirrors or film) where silver is used up and not easily recycled.
-    **C:** How many "Silver Sinks" are in your house right now?
+    **C:** How many "Silver Sinks" are in your house right now?<br>
 
-14. **Q:** Why was the 90.5c purchase price important for miners?
+14. **Q:** Why was the 90.5c purchase price important for miners?<br>
     **A:** Use it as a "Floor." They knew they could always sell to the Treasury for at least that much.
-    **C:** But the "Ceiling" (91c) meant they could never make a big profit either. Was this a fair trade?
+    **C:** But the "Ceiling" (91c) meant they could never make a big profit either. Was this a fair trade?<br>
 
-15. **Q:** Why do we call this period "Phase 9"?
+15. **Q:** Why do we call this period "Phase 9"?<br>
     **A:** Because it’s the bridge between the old "Monetary World" and the new "Technological World."
-    **C:** Are you ready to see how the "Technological World" eventually drains the Treasury dry in Phase 10?
+    **C:** Are you ready to see how the "Technological World" eventually drains the Treasury dry in Phase 10?<br>
 
 **START PHASE 10 SOON. THE DRAIN BEGINS.**

@@ -128,62 +128,62 @@ We have moved from "Financial Games" to "Physical Scarcity." The turning points 
 
 ## 7. Comprehension Check (Critical Thinking)
 
-**Q1:** Why did silver rise after 1971?
+**Q1:** Why did silver rise after 1971?<br>
 **A:** Because the dollar was no longer backed by gold, so people rushed to real assets.
 **C:** Fiat money creates demand for hard money.
 
-**Q2:** How did COMEX stop the Hunt Brothers?
+**Q2:** How did COMEX stop the Hunt Brothers?<br>
 **A:** They changed the rules so you could only *sell*, not *buy* (Rule 7).
 **C:** It's easy to win when you control the referee.
 
-**Q3:** What happened to Bear Stearns' silver position?
+**Q3:** What happened to Bear Stearns' silver position?<br>
 **A:** The Fed helped JPMorgan acquire it, preventing a market squeeze.
 **C:** The government bailed out the short sellers.
 
-**Q4:** Why was the "Sunday Night Massacre" (2011) suspicious?
+**Q4:** Why was the "Sunday Night Massacre" (2011) suspicious?<br>
 **A:** Margin hikes usually happen gradually. 5 hikes in 2 weeks is aggressive intervention.
 **C:** Speed reveals intent.
 
-**Q5:** What did the 2020 Pandemic reveal?
+**Q5:** What did the 2020 Pandemic reveal?<br>
 **A:** That the paper price can drop while the physical price rises. The two markets decoupled.
 **C:** The chart is a lie.
 
-**Q6:** How was the 2021 Silver Squeeze different from 1980?
+**Q6:** How was the 2021 Silver Squeeze different from 1980?<br>
 **A:** It was decentralized (thousands of small buyers) rather than centralized (two brothers).
 **C:** You can't bankrupt a mob.
 
-**Q7:** Why did India buy 4,500 tons of silver in 2024?
+**Q7:** Why did India buy 4,500 tons of silver in 2024?<br>
 **A:** They needed it for solar panel manufacturing and feared a shortage.
 **C:** Industry panic is the ultimate price driver.
 
-**Q8:** What is "Margin"?
+**Q8:** What is "Margin"?<br>
 **A:** Borrowed money used to trade. Raising margin requirements makes it expensive to hold a position.
 **C:** The lever of control.
 
-**Q9:** Why is "Physical Demand" harder to suppress?
+**Q9:** Why is "Physical Demand" harder to suppress?<br>
 **A:** Because you have to deliver the actual metal. You can't just print a contract.
 **C:** Physicality is truth.
 
-**Q10:** What role did Social Media play?
+**Q10:** What role did Social Media play?<br>
 **A:** It allowed information to spread instantly, coordinating the "Retail Raid."
 **C:** The internet democratized the squeeze.
 
-**Q11:** Why did the Plaza Accord affect silver?
+**Q11:** Why did the Plaza Accord affect silver?<br>
 **A:** It devalued the dollar, making commodities cheaper for foreigners to buy.
 **C:** Currency wars are commodity wars.
 
-**Q12:** What is the "Retail Lockout"?
+**Q12:** What is the "Retail Lockout"?<br>
 **A:** When dealers run out of stock and refuse new orders.
 **C:** The store is closed.
 
-**Q13:** Why did OneGramCoin matter?
+**Q13:** Why did OneGramCoin matter?<br>
 **A:** It showed a desire to return to asset-backed currency using modern tech.
 **C:** The future is gold/silver on the blockchain.
 
-**Q14:** What is the "Suppression Seed" of 2008?
+**Q14:** What is the "Suppression Seed" of 2008?<br>
 **A:** The "Too Big To Fail" guarantee for short sellers.
 **C:** Moral hazard applied to silver.
 
-**Q15:** How does Phase 44 set up the end?
+**Q15:** How does Phase 44 set up the end?<br>
 **A:** It shows that every trick has been used. The Cartel is out of ammo.
 **C:** The next move is the endgame.

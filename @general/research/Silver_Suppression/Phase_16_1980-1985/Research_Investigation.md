@@ -29,7 +29,7 @@ The violent volatility was used as the perfect excuse to introduce **"Circuit Br
 ### Clue 2: Federal Reserve Silver Policy Reset
 
 **The Simple Truth:**  
-The "Bank of the United States" (The Fed) decided that inflation (rising prices) was the enemy. To fight it, they raised the cost of borrowing money to painful levels. This made the dollar stronger and "real things" like silver less attractive. If you can earn 20% interest just by keeping cash in the bank, why hold a silver bar that pays zero interest?
+The "Bank of the United States" (The Fed) decided that inflation (rising prices) was the enemy. To fight it, they raised the cost of borrowing money to painful levels. This made the dollar stronger and "real things" like silver less attractive. If you can earn 20% interest just by keeping cash in the bank, why hold a silver bar that pays zero interest?<br>
 
 **The Hard Evidence:**  
 *   **Paul Volcker (Fed Chairman):** Raised the **Federal Funds Rate to 20%** in June 1981.
@@ -68,7 +68,7 @@ This disconnect highlights the **Paper vs. Physical Divergence**. Industrial use
 ### Clue 5: Mining Industry Recovery
 
 **The Simple Truth:**  
-You would think that if the price of silver dropped by 90%, miners would stop digging. They didn't. They dug *more*. Why? Because silver is often a "by-product." Miners digging for copper or lead find silver by accident. They sell it no matter what the price is to pay their bills. This "inelastic" supply keeps prices low because the supply doesn't shrink when prices fall.
+You would think that if the price of silver dropped by 90%, miners would stop digging. They didn't. They dug *more*. Why?<br> Because silver is often a "by-product." Miners digging for copper or lead find silver by accident. They sell it no matter what the price is to pay their bills. This "inelastic" supply keeps prices low because the supply doesn't shrink when prices fall.
 
 **The Hard Evidence:**  
 *   **Production 1980:** 341.4 million ounces.
@@ -212,47 +212,49 @@ By 1985, the job was done. Silver was no longer "money"; it was just an industri
 
 ## 7. Comprehension Check (Critical Thinking)
 
-**Q1:** Why did the COMEX implement "Liquidation Only" instead of just halting trading?
+**Q1:** Why did the COMEX implement "Liquidation Only" instead of just halting trading?<br>
 **A:** "Liquidation Only" forces selling pressure (supply) while banning buying pressure (demand). Halting trading stops the price; Liquidation Only *guarantees* the price goes down.
 
-**Q2:** How did High Interest Rates (Volcker Shock) hurt silver?
+**Q2:** How did High Interest Rates (Volcker Shock) hurt silver?<br>
 **A:** High rates pay you to hold dollars (20% yield). Silver pays 0% yield. Investors sold silver to buy dollars to get the yield.
 
-**Q3:** If the price crashed 80%, why did miners produce *more* silver?
+**Q3:** If the price crashed 80%, why did miners produce *more* silver?<br>
 **A:** Because most silver is a **by-product** of copper/zinc mines. Those mines were digging for copper; the silver came out anyway, and they sold it regardless of price (Inelastic Supply).
 
-**Q4:** What is the "Shadow Supply" mentioned in Clue 8?
+**Q4:** What is the "Shadow Supply" mentioned in Clue 8?<br>
 **A:** Silver Leasing. It allows metal to be in the market (leased out) and in the vault (on the books) simultaneously.
 
-**Q5:** Why is "Liquidation Only" considered a manipulation??
+**Q5:** Why is "Liquidation Only" considered a manipulation?<br>?<br>
 **A:** Because a free market requires both buyers and sellers. Banning one side artificially forces the price in the other direction.
 
-**Q6:** What role did the US Government play in the 1980s market?
+**Q6:** What role did the US Government play in the 1980s market?<br>
 **A:** They were a massive seller (Strategic Stockpile sales), adding supply to a crashing market.
 
-**Q7:** How does the "Silver-to-Gold Ratio" rising from 29 to 52 show suppression?
+**Q7:** How does the "Silver-to-Gold Ratio" rising from 29 to 52 show suppression?<br>
 **A:** It shows silver was losing value *faster* than gold. Silver was being specifically targeted or abandoned more aggressively than the yellow metal.
 
-**Q8:** What is the difference between COMEX and OTC?
+**Q8:** What is the difference between COMEX and OTC?<br>
 **A:** COMEX is public (lit) trading; OTC is private (dark) trading. OTC allows big players to hide their moves.
 
-**Q9:** Why did the Hunts fail?
+**Q9:** Why did the Hunts fail?<br>
 **A:** They used leverage (borrowed money). When the rules changed (Margin Hikes), they couldn't pay the debt and were forced to sell.
 
-**Q10:** What is "Silver Rule 7"?
+**Q10:** What is "Silver Rule 7"?<br>
 **A:** The specific regulation that restricted margin buying, cutting off the Hunts' credit line.
 
-**Q11:** Did the Bank of England directly intervene?
+**Q11:** Did the Bank of England directly intervene?<br>
 **A:** No direct evidence of trading intervention, but they advised US regulators and managed the London end of the liquidity crisis.
 
-**Q12:** Why is "By-product" mining bad for silver bulls?
+**Q12:** Why is "By-product" mining bad for silver bulls?<br>
 **A:** It means supply doesn't stop even if the price is $1. It prevents a supply shortage from saving the price.
 
-**Q13:** What is a "Short Squeeze"?
+**Q13:** What is a "Short Squeeze"?<br>
 **A:** What the Hunts tried to do: force those who bet against silver (shorts) to buy it back at skyrocketing prices.
 
-**Q14:** How did the 1980 breach of $50/oz affect modern psychology?
+**Q14:** How did the 1980 breach of $50/oz affect modern psychology?<br>
 **A:** It set a psychological "All-Time High" that stood for 30 years, serving as a ceiling of resistance.
 
-**Q15:** **(Curiosity Spark)** If the government sold its silver stockpile in the 80s, does it have any left to suppress the price today?
-**A:** **(C)**: Effectively zero. This suggests that modern suppression *must* rely on paper derivatives and leasing, because the physical ammo is gone. (Lead-in to Phase 60).
+**Q15:** **(Curiosity Spark)** If the government sold its silver stockpile in the 80s, does it have any left to suppress the price today?<br>
+**A:** **<br>
+(C)
+**: Effectively zero. This suggests that modern suppression *must* rely on paper derivatives and leasing, because the physical ammo is gone. (Lead-in to Phase 60).

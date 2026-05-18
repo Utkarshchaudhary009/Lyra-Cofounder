@@ -81,7 +81,7 @@ Since all four surfaces enclose the same charge, the flux is identical for all.
 
 ### Q 1.4 ⭐⭐
 
-Five charges q₁, q₂, q₃, q₄, and q₅ are fixed at their positions as shown in Fig 1.4. S is a Gaussian surface. The Gauss's law is given by ∮ E⃗ · dS⃗ = q/ε₀. Which of the following statements is correct?
+Five charges q₁, q₂, q₃, q₄, and q₅ are fixed at their positions as shown in Fig 1.4. S is a Gaussian surface. The Gauss's law is given by ∮ E⃗ · dS⃗ = q/ε₀. Which of the following statements is correct?<br>
 
 (a) E on the LHS will have a contribution from q₁, q₅ and q₃ while q on the RHS will have a contribution from q₂ and q₄ only
 (b) E on the LHS will have a contribution from all charges while q on the RHS will have a contribution from q₂ and q₄ only
@@ -108,7 +108,7 @@ If q₂ and q₄ are inside surface S, then q = q₂ + q₄ on the RHS, but E on
 
 ### Q 1.5 ⭐
 
-Figure shows electric field lines in which an electric dipole p⃗ is placed as shown. Which of the following statements is correct?
+Figure shows electric field lines in which an electric dipole p⃗ is placed as shown. Which of the following statements is correct?<br>
 
 *(Field lines are converging from left to right, i.e., the field is non-uniform and stronger on the left)*
 

@@ -16,7 +16,7 @@ This is the fundamental principle of a capacitor: **two conductors separated by 
 
 ### Building the Concept: Capacitance
 
-#### What is a Capacitor?
+#### What is a Capacitor?<br>
 
 A capacitor is a system of two conductors (called **plates**) separated by an insulating medium (air, vacuum, or a dielectric). When connected to a battery:
 - One plate acquires charge $+Q$ 
@@ -105,7 +105,7 @@ $C = \frac{\epsilon_0 A}{d} = \frac{8.85 \times 10^{-12} \times 0.05}{10^{-3}} =
 $C = \textbf{4.425 × 10⁻¹⁰ F = 0.4425 nF ≈ 442.5 pF}$
 </details>
 
-**Problem 2:** The same capacitor is connected to a $50$ V battery. How much charge is stored?
+**Problem 2:** The same capacitor is connected to a $50$ V battery. How much charge is stored?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -131,7 +131,7 @@ The charge increased by a factor of 6 (the battery pumped additional charge to m
 
 *A student is building capacitors in the laboratory for different specifications.*
 
-**Problem 1:** Design a parallel plate capacitor with $C = 1 \mu F$ using air as dielectric. If the plate separation is $1$ mm, what plate area is needed?
+**Problem 1:** Design a parallel plate capacitor with $C = 1 \mu F$ using air as dielectric. If the plate separation is $1$ mm, what plate area is needed?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -144,7 +144,7 @@ That's larger than a tennis court! This illustrates why practical capacitors use
 
 *The student decides to use a dielectric with $K = 100$ (like barium titanate ceramic).*
 
-**Problem 2:** What plate area is needed now for $1 \mu F$?
+**Problem 2:** What plate area is needed now for $1 \mu F$?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -155,7 +155,7 @@ Much more reasonable, though still large. Modern capacitors use even thinner die
 
 *She has a capacitor ($A = 200$ cm², $d = 4$ mm, air gap) and inserts a metal slab of thickness $2$ mm between the plates.*
 
-**Problem 3:** What is the capacitance with the metal slab?
+**Problem 3:** What is the capacitance with the metal slab?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -168,7 +168,7 @@ $C = \textbf{8.85 × 10⁻¹¹ F = 88.5 pF}$
 Without the slab: $C_0 = \frac{1.77 \times 10^{-13}}{4 \times 10^{-3}} = 44.25$ pF. The metal slab doubled the capacitance.
 </details>
 
-**Problem 4:** She replaces the metal slab with a glass slab ($K = 5$) of the same thickness ($2$ mm). What is the capacitance now?
+**Problem 4:** She replaces the metal slab with a glass slab ($K = 5$) of the same thickness ($2$ mm). What is the capacitance now?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -225,7 +225,7 @@ Equivalent dielectric constant: $K_{eff} = \frac{C}{C_0} = \frac{9\epsilon_0 A/(
 
 (a) Calculate $C_0$, $Q_0$, and $E_0$.  
 (b) While the battery stays connected, a dielectric slab ($K = 4$, thickness $t = 3$ mm) is inserted between the plates. Find the new $C$, $Q$, $E$ in the dielectric, and $E$ in the remaining air gap.  
-(c) What additional charge did the battery supply when the dielectric was inserted?
+(c) What additional charge did the battery supply when the dielectric was inserted?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -319,7 +319,7 @@ The battery supplied this additional charge to maintain the constant voltage acr
 
 ---
 
-**Q8.** Which of the following increases capacitance the most?
+**Q8.** Which of the following increases capacitance the most?<br>
 
 (a) Doubling $d$ &emsp; (b) Halving $A$ &emsp; (c) Filling with dielectric ($K = 10$) &emsp; (d) Removing the dielectric
 
@@ -428,7 +428,7 @@ $\sigma_2/\sigma_1 = K$. The capacitor with dielectric stores $K$ times more cha
 
 ---
 
-**Q20.** A student says "A 1 Farad capacitor is the world's largest capacitor." Is this correct?
+**Q20.** A student says "A 1 Farad capacitor is the world's largest capacitor." Is this correct?<br>
 
 <details><summary><b>Answer</b></summary>
 
@@ -458,7 +458,7 @@ This confirms $C = Q/V = \epsilon_0 A/d$.
 
 ---
 
-**Q22.** A capacitor is charged to $V_0$ with a battery and then disconnected. The plate separation is then tripled. What happens to $E$ and $V$?
+**Q22.** A capacitor is charged to $V_0$ with a battery and then disconnected. The plate separation is then tripled. What happens to $E$ and $V$?<br>
 
 <details><summary><b>Answer</b></summary>
 
@@ -519,7 +519,7 @@ $V = \sqrt{2U/C} = \sqrt{2\times10^{-6}/(50\times10^{-12})} = \sqrt{4\times10^4}
 
 ---
 
-**Q26.** At what plate area would a parallel plate air capacitor (separation $1$ mm) have the same capacitance as Earth ($711\,\mu F$)?
+**Q26.** At what plate area would a parallel plate air capacitor (separation $1$ mm) have the same capacitance as Earth ($711\,\mu F$)?<br>
 
 <details><summary><b>Answer</b></summary>
 
@@ -530,7 +530,7 @@ $A = Cd/\epsilon_0 = 711\times10^{-6}\times10^{-3}/(8.85\times10^{-12}) = 711\ti
 
 ---
 
-**Q27.** A capacitor is charged and the battery disconnected. A metal slab of thickness $d/3$ is inserted. By what factor does the capacitance change? What happens to energy?
+**Q27.** A capacitor is charged and the battery disconnected. A metal slab of thickness $d/3$ is inserted. By what factor does the capacitance change?<br> What happens to energy?<br>
 
 <details><summary><b>Answer</b></summary>
 
@@ -545,7 +545,7 @@ Energy decreases to $2/3$ of original.
 
 ---
 
-**Q28.** The capacitance of a capacitor is $8$ pF when filled with a dielectric of $K = 4$. What is the capacitance with: (a) $K = 2$ dielectric, (b) air, (c) another dielectric of $K = 8$?
+**Q28.** The capacitance of a capacitor is $8$ pF when filled with a dielectric of $K = 4$. What is the capacitance with: (a) $K = 2$ dielectric, (b) air, (c) another dielectric of $K = 8$?<br>
 
 <details><summary><b>Answer</b></summary>
 

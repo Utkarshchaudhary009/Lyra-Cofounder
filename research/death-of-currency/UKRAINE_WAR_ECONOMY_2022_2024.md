@@ -117,7 +117,7 @@ In every chaos, there are those who don't just survive—they thrive. They benef
 
 ---
 
-## 7. Deep Insights: What Can We Learn?
+## 7. Deep Insights: What Can We Learn?<br>
 
 ### Learning 1: Resilience is Decentralization
 Centralized systems (one big power plant, one big factory) are targets. Decentralized systems (Starlink, IT workers, small generator networks) are unkillable. **Starlink** saved Ukraine's localized communication when huge cell towers were blown up.

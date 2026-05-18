@@ -149,7 +149,7 @@ Direction: radially outward from the wire.
 **Practice:**
 
 1. 🟢 λ = 2 μC/m. Find E at 20 cm. *(Ans: 1.8 × 10⁵ N/C)*
-2. 🟡 At what distance from a wire (λ = 3 × 10⁻⁸ C/m) is E = 27 N/C? *(Ans: 20 m)*
+2. 🟡 At what distance from a wire (λ = 3 × 10⁻⁸ C/m) is E = 27 N/C?<br> *(Ans: 20 m)*
 3. 🟡 ⭐ Two parallel infinite wires, separated by distance d, carry charges +λ and −λ per unit length. Find E at the midpoint. *(Ans: 2 × 2kλ/d = 4kλ/d = 2λ/(πε₀d), directed from +λ to −λ)*
 
 ---
@@ -229,7 +229,7 @@ E_net = **σ/(2ε₀)** (rightward)
 
 **Practice:**
 
-1. 🟡 Shell of radius R, charge Q. At what distance outside is E = E_surface/4? *(Ans: 2R)*
+1. 🟡 Shell of radius R, charge Q. At what distance outside is E = E_surface/4?<br> *(Ans: 2R)*
 2. 🟡 ⭐ A conducting sphere of radius 10 cm has charge 2 μC. Find E at r = 5 cm, 10 cm, 15 cm. *(Ans: 0, 1.8 × 10⁶ N/C, 8 × 10⁵ N/C)*
 3. 🔴 Two concentric shells: inner (radius R₁, charge +Q) and outer (radius R₂, charge −Q). Find E for r < R₁, R₁ < r < R₂, and r > R₂.
 
@@ -259,7 +259,7 @@ Direction: radially away from wire (both charge and wire are positive).
 **Practice:**
 
 1. 🟡 An electron is 1 mm from an infinite sheet (σ = 5 × 10⁻⁹ C/m²). Find its acceleration. *(Ans: E = σ/2ε₀ ≈ 282 N/C, a = eE/m ≈ 4.95 × 10¹³ m/s²)*
-2. 🔴 A charge +q is at distance d from the centre of a spherical shell (radius R > d, charge +Q). What is the force on q? *(Ans: 0 — E inside shell = 0)*
+2. 🔴 A charge +q is at distance d from the centre of a spherical shell (radius R > d, charge +Q). What is the force on q?<br> *(Ans: 0 — E inside shell = 0)*
 
 ---
 
@@ -301,7 +301,7 @@ Direction: radially away from wire (both charge and wire are positive).
 
 1. 🟡 Sketch E vs r for a uniformly charged solid sphere.
 2. 🟡 ⭐ Sketch E vs r for two concentric shells with charges +Q (inner) and +2Q (outer).
-3. 🟡 At what point is E maximum for a solid uniformly charged sphere? *(Ans: at the surface, r = R)*
+3. 🟡 At what point is E maximum for a solid uniformly charged sphere?<br> *(Ans: at the surface, r = R)*
 
 ---
 
@@ -469,19 +469,19 @@ You've worked through **all 10 chapters** of Electric Charges and Fields. Here's
 
 ### Board Exam Readiness ✅
 
-- [ ] Can I write the 3 Gauss's law derivations in under 10 minutes each?
-- [ ] Can I derive E on axial and equatorial lines of a dipole?
-- [ ] Can I derive the torque on a dipole in a uniform field?
-- [ ] Do I know all properties of electric field lines?
-- [ ] Can I solve charge quantization problems quickly?
+- [ ] Can I write the 3 Gauss's law derivations in under 10 minutes each?<br>
+- [ ] Can I derive E on axial and equatorial lines of a dipole?<br>
+- [ ] Can I derive the torque on a dipole in a uniform field?<br>
+- [ ] Do I know all properties of electric field lines?<br>
+- [ ] Can I solve charge quantization problems quickly?<br>
 
 ### JEE Mains Readiness ✅
 
-- [ ] Can I find null points for any two-charge system?
-- [ ] Can I handle polygon geometry problems (triangle, square, hexagon)?
-- [ ] Do I know the difference between shell and solid sphere?
-- [ ] Can I compute flux through cubes (centre, corner, edge)?
-- [ ] Can I analyze motion of charged particles in fields?
+- [ ] Can I find null points for any two-charge system?<br>
+- [ ] Can I handle polygon geometry problems (triangle, square, hexagon)?<br>
+- [ ] Do I know the difference between shell and solid sphere?<br>
+- [ ] Can I compute flux through cubes (centre, corner, edge)?<br>
+- [ ] Can I analyze motion of charged particles in fields?<br>
 
 > **Go back to any chapter where you're not confident. The 6-stage method works only if you actually DO every problem, not just read the solutions.**
 

@@ -18,16 +18,16 @@
 
 **How to observe:**
 
-How do they behave when stressed, tired, hungry, scared, or overwhelmed? This is who they actually are. Composure under comfort means nothing. Grace under pressure means everything.
+How do they behave when stressed, tired, hungry, scared, or overwhelmed?<br> This is who they actually are. Composure under comfort means nothing. Grace under pressure means everything.
 
 **Specifically watch:**
-- What do they do to YOU when THEY are stressed? 
-  - Do they withdraw? 
-  - Attack? 
-  - Lean in for support? 
-  - Shut down completely?
-- Do they take responsibility for their stress, or do they spray it onto everyone around them?
-- Can they communicate "I'm struggling" before they reach breaking point?
+- What do they do to YOU when THEY are stressed?<br> 
+  - Do they withdraw?<br> 
+  - Attack?<br> 
+  - Lean in for support?<br> 
+  - Shut down completely?<br>
+- Do they take responsibility for their stress, or do they spray it onto everyone around them?<br>
+- Can they communicate "I'm struggling" before they reach breaking point?<br>
 
 **Healthy:** "I'm having a rough day and I might be short — it's not about you." Then managing their behavior accordingly.
 
@@ -41,7 +41,7 @@ How do they behave when stressed, tired, hungry, scared, or overwhelmed? This is
 
 **How to observe:**
 
-How do they treat people who have NO power over them?
+How do they treat people who have NO power over them?<br>
 - Waiters and service staff
 - Janitors, cleaning staff
 - Delivery drivers
@@ -51,9 +51,9 @@ How do they treat people who have NO power over them?
 - The elderly
 - People who are lost, confused, or struggling
 
-**What you're looking for:** Is their kindness conditional on audience or leverage? Kindness that requires an audience is performance. Kindness without an audience is character.
+**What you're looking for:** Is their kindness conditional on audience or leverage?<br> Kindness that requires an audience is performance. Kindness without an audience is character.
 
-**The deepest version of this test:** How do they respond when someone makes an honest mistake that inconveniences them? (Wrong coffee order, delayed delivery, slow cashier.) The patience they show people who can do nothing for them is the patience they'll eventually show you.
+**The deepest version of this test:** How do they respond when someone makes an honest mistake that inconveniences them?<br> (Wrong coffee order, delayed delivery, slow cashier.) The patience they show people who can do nothing for them is the patience they'll eventually show you.
 
 ---
 
@@ -64,12 +64,12 @@ How do they treat people who have NO power over them?
 **How to observe:**
 
 Not "how much do they have" but:
-- Are they honest about their financial situation?
-- Do they live within their means?
-- Can they discuss money without ego, shame, or defensiveness?
-- Do they have a plan, or just impulses?
-- How do they handle shared expenses? (Generous? Stingy? Anxious? Avoidant?)
-- How do they react to YOUR financial decisions? (Controlling? Supportive? Indifferent?)
+- Are they honest about their financial situation?<br>
+- Do they live within their means?<br>
+- Can they discuss money without ego, shame, or defensiveness?<br>
+- Do they have a plan, or just impulses?<br>
+- How do they handle shared expenses?<br> (Generous?<br> Stingy?<br> Anxious?<br> Avoidant?<br>)
+- How do they react to YOUR financial decisions?<br> (Controlling?<br> Supportive?<br> Indifferent?<br>)
 
 **Why this matters more than people think:** Financial dishonesty or chronic irresponsibility is a character signal, not a "phase." Someone who can't manage money likely can't manage other forms of delayed gratification — including the emotional delayed gratification that sustaining a relationship requires.
 
@@ -83,7 +83,7 @@ Not "how much do they have" but:
 
 **How to observe:**
 
-Do they fight to WIN or fight to RESOLVE?
+Do they fight to WIN or fight to RESOLVE?<br>
 
 | Fighting to Win | Fighting to Resolve |
 |----------------|-------------------|
@@ -94,7 +94,7 @@ Do they fight to WIN or fight to RESOLVE?
 | Silent treatment as punishment | Requests space, states when they'll return |
 | "You always..." / "You never..." | "When X happened, I felt Y" |
 
-**The key metric:** After a real fight, how do you feel?
+**The key metric:** After a real fight, how do you feel?<br>
 - **Closer** (because it was resolved, understood, and repaired) → Healthy conflict
 - **More distant** (because it was destructive, unresolved, or punishing) → Toxic conflict
 
@@ -108,13 +108,13 @@ Do they fight to WIN or fight to RESOLVE?
 
 **How to observe:**
 
-Are they growing or stagnant? Not just career growth — emotional, intellectual, and character growth.
+Are they growing or stagnant?<br> Not just career growth — emotional, intellectual, and character growth.
 
-- Do they read? Learn? Seek new perspectives?
-- Can they reflect on their own behavior honestly?
-- Do they seek feedback? (From you, from others?)
-- Can they admit flaws AND work on them? (Not just admit them as personality quirks they're "proud of")
-- Are they a better version of themselves than they were a year ago? Two years ago?
+- Do they read?<br> Learn?<br> Seek new perspectives?<br>
+- Can they reflect on their own behavior honestly?<br>
+- Do they seek feedback?<br> (From you, from others?<br>)
+- Can they admit flaws AND work on them?<br> (Not just admit them as personality quirks they're "proud of")
+- Are they a better version of themselves than they were a year ago?<br> Two years ago?<br>
 
 **Why this matters long-term:** A person who stopped growing at 25 will be unbearable at 45. The gap between where you're going and where they've stopped will become the defining tension of the relationship.
 
@@ -130,10 +130,10 @@ Are they growing or stagnant? Not just career growth — emotional, intellectual
 
 Watch their family dynamics. You are inheriting patterns, whether you like it or not.
 
-- **How do their parents treat each other?** This is their blueprint for "normal" relationship behavior.
-- **How do they interact with siblings?** This reveals their competition/cooperation instincts, boundary patterns, and conflict muscle memory.
-- **What is normalized in their household?** Yelling? Passive-aggression? Warmth? Coldness? Enmeshment? Independence? Emotional avoidance?
-- **How do they react to their family's patterns?** Are they aware? Critical of unhealthy patterns? Or completely blind to them?
+- **How do their parents treat each other?<br>** This is their blueprint for "normal" relationship behavior.
+- **How do they interact with siblings?<br>** This reveals their competition/cooperation instincts, boundary patterns, and conflict muscle memory.
+- **What is normalized in their household?<br>** Yelling?<br> Passive-aggression?<br> Warmth?<br> Coldness?<br> Enmeshment?<br> Independence?<br> Emotional avoidance?<br>
+- **How do they react to their family's patterns?<br>** Are they aware?<br> Critical of unhealthy patterns?<br> Or completely blind to them?<br>
 
 **The critical insight:** You're not just choosing a person — you're choosing a **family system's programming.** They may override it through self-awareness and effort, but you need to know what the default setting is. Because under stress, defaults activate.
 
@@ -147,18 +147,18 @@ Watch their family dynamics. You are inheriting patterns, whether you like it or
 
 **How to observe:**
 
-Can they be alone? Happily? For extended periods?
+Can they be alone?<br> Happily?<br> For extended periods?<br>
 
-- Do they have interests, hobbies, and friendships independent of you?
-- Can they spend a weekend alone without anxiety?
-- Do they have internal stability that doesn't require your constant presence to maintain?
-- When you're unavailable, do they respect that or guilt-trip/pressure?
+- Do they have interests, hobbies, and friendships independent of you?<br>
+- Can they spend a weekend alone without anxiety?<br>
+- Do they have internal stability that doesn't require your constant presence to maintain?<br>
+- When you're unavailable, do they respect that or guilt-trip/pressure?<br>
 
 **Why this matters:** Someone who CANNOT be alone will drain you. They're not choosing you — they're choosing "not alone." You are a solution to their emptiness, not a partner they genuinely selected.
 
 **Healthy partners have a self they return to.** They enjoy your company as enhancement, not replacement. Their life works without you — it just works BETTER with you.
 
-**The reverse test on yourself:** Can YOU be alone without it feeling like crisis? If not, your choice of partner is compromised by your own inability to tolerate solitude. You'll accept anyone who fills the silence.
+**The reverse test on yourself:** Can YOU be alone without it feeling like crisis?<br> If not, your choice of partner is compromised by your own inability to tolerate solitude. You'll accept anyone who fills the silence.
 
 ---
 
@@ -168,7 +168,7 @@ Can they be alone? Happily? For extended periods?
 
 **How to observe:**
 
-Do they still choose you when novelty wears off?
+Do they still choose you when novelty wears off?<br>
 
 The first 6–18 months are chemically assisted. Nature makes new relationships feel euphoric to promote bonding. This is not love — this is biology marketing.
 
@@ -181,10 +181,10 @@ The first 6–18 months are chemically assisted. Nature makes new relationships 
 - There's nothing "new" to discover — just the daily choice to stay
 
 **What to watch for:**
-- Do they still show effort? (Date planning, thoughtful gestures, genuine interest in your day)
-- Do they still prioritize your needs alongside theirs?
-- Do they still choose quality time, or has everything become passive coexistence?
-- Is the affection maintained, or has it silently disappeared?
+- Do they still show effort?<br> (Date planning, thoughtful gestures, genuine interest in your day)
+- Do they still prioritize your needs alongside theirs?<br>
+- Do they still choose quality time, or has everything become passive coexistence?<br>
+- Is the affection maintained, or has it silently disappeared?<br>
 
 **The signal:** Someone who still shows up with effort after novelty fades is someone who chose YOU — not the dopamine you provided.
 
@@ -196,13 +196,13 @@ The first 6–18 months are chemically assisted. Nature makes new relationships 
 
 **How to observe:**
 
-How do they respond to YOUR success?
+How do they respond to YOUR success?<br>
 
-- Do they celebrate genuinely? Or do you sense competition, jealousy, or diminishment?
-- Can they handle you being more successful than them in some dimension?
-- Do they amplify your wins or subtly undercut them?
-- Do they take credit for your achievements? ("You couldn't have done that without my support")
-- When you share good news, does their face match their words?
+- Do they celebrate genuinely?<br> Or do you sense competition, jealousy, or diminishment?<br>
+- Can they handle you being more successful than them in some dimension?<br>
+- Do they amplify your wins or subtly undercut them?<br>
+- Do they take credit for your achievements?<br> ("You couldn't have done that without my support")
+- When you share good news, does their face match their words?<br>
 
 **Why this reveals so much:** Most people can be generous about a stranger's success. It costs nothing. But YOUR success — the person closest to them — triggers either security ("Your win doesn't threaten my identity") or insecurity ("Your win makes me feel less").
 
@@ -218,7 +218,7 @@ An insecure partner will eventually sabotage you or resent you. Not always consc
 
 **How to observe:**
 
-Can they say "I was wrong" — cleanly, without conditions?
+Can they say "I was wrong" — cleanly, without conditions?<br>
 
 **Levels of accountability:**
 
@@ -232,7 +232,7 @@ Can they say "I was wrong" — cleanly, without conditions?
 
 **The pattern to track:** Not whether they get it right every time — but whether their AVERAGE level of accountability is acceptable. Someone who mostly operates at Level 4 with occasional Level 5 is workable. Someone who lives at Level 1-2 is not.
 
-**The reciprocal question:** What level do YOU operate at? If you can't model accountability, you can't expect it.
+**The reciprocal question:** What level do YOU operate at?<br> If you can't model accountability, you can't expect it.
 
 ---
 
@@ -240,16 +240,16 @@ Can they say "I was wrong" — cleanly, without conditions?
 
 | Test | Core Question | What It Reveals |
 |------|--------------|----------------|
-| Stress | How do they behave when things are hard? | True temperament |
-| Power | How do they treat the powerless? | Authentic kindness vs. performance |
-| Money | What's their financial character? | Delayed gratification, honesty, values |
-| Conflict | Do fights make you closer or more distant? | Conflict sustainability |
-| Growth | Are they still becoming? | Long-term trajectory |
-| Family | What patterns did they inherit? | Default programming |
-| Solitude | Can they be alone? | Whole person vs. dependent person |
-| Time | Do they still choose you after novelty? | Genuine choice vs. chemistry |
-| Success | How do they handle YOUR wins? | Security vs. insecurity |
-| Accountability | Can they say "I was wrong" cleanly? | Emotional maturity |
+| Stress | How do they behave when things are hard?<br> | True temperament |
+| Power | How do they treat the powerless?<br> | Authentic kindness vs. performance |
+| Money | What's their financial character?<br> | Delayed gratification, honesty, values |
+| Conflict | Do fights make you closer or more distant?<br> | Conflict sustainability |
+| Growth | Are they still becoming?<br> | Long-term trajectory |
+| Family | What patterns did they inherit?<br> | Default programming |
+| Solitude | Can they be alone?<br> | Whole person vs. dependent person |
+| Time | Do they still choose you after novelty?<br> | Genuine choice vs. chemistry |
+| Success | How do they handle YOUR wins?<br> | Security vs. insecurity |
+| Accountability | Can they say "I was wrong" cleanly?<br> | Emotional maturity |
 
 ---
 

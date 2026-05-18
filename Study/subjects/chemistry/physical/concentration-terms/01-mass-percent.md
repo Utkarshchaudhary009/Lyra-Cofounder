@@ -5,15 +5,15 @@
 
 ## 🎯 Stage 1: The Core Idea
 
-### What is Mass Percent?
+### What is Mass Percent?<br>
 
-Imagine you make a glass of lemonade. You take 10 grams of sugar and dissolve it in 90 grams of water. Now someone asks: "How sweet is this lemonade?"
+Imagine you make a glass of lemonade. You take 10 grams of sugar and dissolve it in 90 grams of water. Now someone asks: "How sweet is this lemonade?<br>"
 
 You could say "it has 10 grams of sugar." But that's useless — 10 grams in a glass vs 10 grams in a swimming pool are very different things. What matters is **how much sugar compared to the total**.
 
 **Mass percent answers this question:**
 
-> Out of every 100 grams of solution, how many grams are solute?
+> Out of every 100 grams of solution, how many grams are solute?<br>
 
 In your lemonade: total solution = 10 + 90 = 100 g. Sugar = 10 g. So mass percent = **10%**.
 
@@ -112,11 +112,11 @@ Answer: 15%
 | 1.1a | 25 g of sugar is dissolved in 475 g of water. Find mass percent of sugar. | 🟢 |
 | 1.1b | 4 g of NaOH is dissolved in 96 g of water. Find mass percent. | 🟢 |
 | 1.1c | A solution contains 12 g of urea (NH₂CONH₂) in 188 g of water. Find mass percent of urea. | 🟢 |
-| 1.1d | 30 g of ethanol is mixed with 70 g of water. What is the mass percent of ethanol? | 🟢 |
+| 1.1d | 30 g of ethanol is mixed with 70 g of water. What is the mass percent of ethanol?<br> | 🟢 |
 | 1.1e | A solution is prepared by dissolving 5.3 g of Na₂CO₃ in 94.7 g of water. Find w/w% of Na₂CO₃. | 🟢 |
 | 1.1f | A geological sample contains 0.5 g of gold embedded in 19.5 g of quartz rock. Calculate the mass percent of gold in the entire mineral sample. | 🟢 |
 | 1.1g | In a metallurgical process, 45 kg of iron is alloyed with 5 kg of carbon to form steel. Determine the mass percent of carbon in the resulting steel alloy. | 🟢 |
-| 1.1h | A cough syrup formulation requires dissolving 2.5 g of active pharmaceutical ingredient (API) in 197.5 g of sucrose syrup. What is the mass percent of the API in the medication? | 🟢 |
+| 1.1h | A cough syrup formulation requires dissolving 2.5 g of active pharmaceutical ingredient (API) in 197.5 g of sucrose syrup. What is the mass percent of the API in the medication?<br> | 🟢 |
 
 <details>
 <summary>💡 Detailed Solutions for Type 1</summary>
@@ -169,14 +169,14 @@ Answer: 15%
 **The Pattern:** You know the concentration and total amount. Find how much solute is present.
 
 #### Solved Example 1.2
-**Q:** A 500 g solution of glucose is 18% by mass. How much glucose is present in the solution? 🟢
+**Q:** A 500 g solution of glucose is 18% by mass. How much glucose is present in the solution?<br> 🟢
 
 **Solution:**
 ```
 Step 1: Identify what's given
     w/w% = 18%
     W_solution = 500 g
-    W_solute = ?
+    W_solute = ?<br>
 
 Step 2: Rearrange formula
     W_solute = (w/w% × W_solution) / 100
@@ -194,10 +194,10 @@ Answer: 90 g of glucose
 | # | Question | Difficulty |
 |---|----------|------------|
 | 1.2a | Find the mass of KCl in 250 g of a 12% (w/w) KCl solution. | 🟢 |
-| 1.2b | How much NaOH is present in 2 kg of a 5% NaOH solution? | 🟢 |
+| 1.2b | How much NaOH is present in 2 kg of a 5% NaOH solution?<br> | 🟢 |
 | 1.2c | A 400 g solution is 35% H₂SO₄ by mass. Find mass of H₂SO₄ and mass of water. | 🟡 |
-| 1.2d | A bottle contains 1.5 kg of 10% (w/w) acetic acid solution. How many grams of acetic acid are present? | 🟢 |
-| 1.2e | A patient requires an intravenous drip of 0.9% (w/w) normal saline. If the IV bag contains a total mass of 1000 g of solution, exactly how many grams of sodium chloride are present? | 🟢 |
+| 1.2d | A bottle contains 1.5 kg of 10% (w/w) acetic acid solution. How many grams of acetic acid are present?<br> | 🟢 |
+| 1.2e | A patient requires an intravenous drip of 0.9% (w/w) normal saline. If the IV bag contains a total mass of 1000 g of solution, exactly how many grams of sodium chloride are present?<br> | 🟢 |
 | 1.2f | To clean a commercial boiler, engineers use a 500 kg batch of a descaling solution that is 15% (w/w) sulfamic acid. Calculate the mass of pure sulfamic acid used in the batch. | 🟢 |
 | 1.2g | An artisan cheese maker prepares a brine solution that is 18% (w/w) salt. If a large vat holds 30 kg of this brine, determine the exact mass of salt dissolved in the mixture. | 🟢 |
 
@@ -261,10 +261,10 @@ Answer: 240 g of water
 |---|----------|------------|
 | 1.3a | A 15% sugar solution weighs 600 g. Find mass of water. | 🟢 |
 | 1.3b | In a 40% (w/w) H₂SO₄ solution of 250 g, find mass of solvent. | 🟢 |
-| 1.3c | A solution is 8% NaCl by mass. If it contains 24 g of NaCl, what is the total mass of solvent? | 🟡 |
-| 1.3d | A pharmacist prepares 800 g of a 2% (w/w) iodine tincture solution. What mass of the alcohol solvent is required to make this specific batch? | 🟢 |
+| 1.3c | A solution is 8% NaCl by mass. If it contains 24 g of NaCl, what is the total mass of solvent?<br> | 🟡 |
+| 1.3d | A pharmacist prepares 800 g of a 2% (w/w) iodine tincture solution. What mass of the alcohol solvent is required to make this specific batch?<br> | 🟢 |
 | 1.3e | A 25 kg batch of industrial antifreeze is 40% (w/w) ethylene glycol. Calculate the mass of water that acts as the solvent in this batch. | 🟢 |
-| 1.3f | An aquarium enthusiast prepares a 3.5% (w/w) synthetic seawater solution weighing exactly 200 kg. How much pure distilled water was needed to dissolve the sea salt mix? | 🟡 |
+| 1.3f | An aquarium enthusiast prepares a 3.5% (w/w) synthetic seawater solution weighing exactly 200 kg. How much pure distilled water was needed to dissolve the sea salt mix?<br> | 🟡 |
 
 <details>
 <summary>💡 Detailed Solutions for Type 3</summary>
@@ -301,12 +301,12 @@ Answer: 240 g of water
 
 ---
 
-### Type 4: Making a solution — How much solute to add?
+### Type 4: Making a solution — How much solute to add?<br>
 
-**The Pattern:** "I want to make X grams of Y% solution. How much solute do I need?"
+**The Pattern:** "I want to make X grams of Y% solution. How much solute do I need?<br>"
 
 #### Solved Example 1.4
-**Q:** How much NaOH is needed to prepare 500 g of a 10% (w/w) NaOH solution? How much water is needed? 🟢
+**Q:** How much NaOH is needed to prepare 500 g of a 10% (w/w) NaOH solution?<br> How much water is needed?<br> 🟢
 
 **Solution:**
 ```
@@ -326,8 +326,8 @@ Answer: Dissolve 50 g NaOH in 450 g water
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 1.4a | How would you prepare 200 g of 25% (w/w) glucose solution? State mass of glucose and water needed. | 🟢 |
-| 1.4b | A lab needs 1 kg of 5% KMnO₄ solution. How much KMnO₄ and how much water? | 🟢 |
+| 1.4a | How would you prepare 200 g of 25% (w/w) glucose solution?<br> State mass of glucose and water needed. | 🟢 |
+| 1.4b | A lab needs 1 kg of 5% KMnO₄ solution. How much KMnO₄ and how much water?<br> | 🟢 |
 | 1.4c | You need 2.5 kg of 8% NaCl solution for an experiment. Calculate the required masses. | 🟡 |
 | 1.4d | A photographic lab needs exactly 500 g of a 12% (w/w) silver nitrate solution. Calculate the individual masses of solid silver nitrate and distilled water required to prepare this. | 🟢 |
 | 1.4e | For a pickling process, a food manufacturer must prepare 5 kg of an 8% (w/w) acetic acid solution. State the exact masses of pure acetic acid and water that must be mixed. | 🟢 |
@@ -473,10 +473,10 @@ Answer: 343 g of H₂SO₄
 |---|----------|------------|
 | 1.6a | A 37% HCl solution has density 1.19 g/mL. Find mass of HCl in 1 litre of this solution. | 🟡 |
 | 1.6b | A 20% NaOH solution has density 1.22 g/mL. Find mass of NaOH in 250 mL. | 🟡 |
-| 1.6c | A 10% Na₂CO₃ solution has density 1.1 g/mL. How much Na₂CO₃ is in 2 litres? | 🟡 |
+| 1.6c | A 10% Na₂CO₃ solution has density 1.1 g/mL. How much Na₂CO₃ is in 2 litres?<br> | 🟡 |
 | 1.6d | Concentrated H₂SO₄ is 98% by mass with density 1.84 g/mL. Find mass of H₂SO₄ in 100 mL. ⭐ | 🟡 |
 | 1.6e | Automotive battery acid is roughly 38% (w/w) sulfuric acid with a density of 1.29 g/mL. Calculate the mass of pure sulfuric acid contained within exactly 2 litres of this fluid. | 🟡 |
-| 1.6f | A fruit juice concentrate has a sugar mass percent of 45% and a density of 1.20 g/mL. How many grams of sugar are ingested if a person consumes 200 mL of the concentrate? | 🟡 |
+| 1.6f | A fruit juice concentrate has a sugar mass percent of 45% and a density of 1.20 g/mL. How many grams of sugar are ingested if a person consumes 200 mL of the concentrate?<br> | 🟡 |
 | 1.6g | A liquid fertilizer is 15% (w/w) urea and has a density of 1.05 g/mL. A farmer applies 50 L of this fertilizer to a field. Calculate the total mass of urea applied. ⭐ | 🔴 |
 
 <details>
@@ -526,9 +526,9 @@ Answer: 343 g of H₂SO₄
 
 #### Solved Example 1.7
 **Q:** A commercial bottle of hydrochloric acid states: "37% HCl, density = 1.19 g/mL". 
-(a) What does "37% HCl" mean?
-(b) How many grams of HCl are in every 100 g of this solution?
-(c) How many grams of water are in every 100 g of this solution? 🟢
+(a) What does "37% HCl" mean?<br>
+(b) How many grams of HCl are in every 100 g of this solution?<br>
+(c) How many grams of water are in every 100 g of this solution?<br> 🟢
 
 **Solution:**
 ```
@@ -541,7 +541,7 @@ Answer: 343 g of H₂SO₄
 ```
 
 #### Solved Example 1.7B
-**Q:** Concentrated sulphuric acid is 98% H₂SO₄ by mass (d = 1.84 g/mL). A student needs 49 g of pure H₂SO₄. What volume of concentrated acid should they measure out? 🟡 ⭐
+**Q:** Concentrated sulphuric acid is 98% H₂SO₄ by mass (d = 1.84 g/mL). A student needs 49 g of pure H₂SO₄. What volume of concentrated acid should they measure out?<br> 🟡 ⭐
 
 **Solution:**
 ```
@@ -560,11 +560,11 @@ Answer: Measure out 27.17 mL of concentrated H₂SO₄
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 1.7a | A bottle reads "68% HNO₃, d = 1.41 g/mL". What mass of HNO₃ is in 1 L? | 🟡 |
+| 1.7a | A bottle reads "68% HNO₃, d = 1.41 g/mL". What mass of HNO₃ is in 1 L?<br> | 🟡 |
 | 1.7b | "40% formaldehyde solution (formalin), d = 1.09 g/mL". Find mass of HCHO in 500 mL. | 🟡 |
-| 1.7c | Concentrated H₂SO₄ (98%, d = 1.84 g/mL). A student needs exactly 196 g of H₂SO₄. What volume of conc. acid is needed? ⭐ | 🟡 |
-| 1.7d | A bottle of commercial bleach reads "5.25% NaOCl by mass, d = 1.08 g/mL". How many grams of sodium hypochlorite (NaOCl) are present in a 400 mL cup of this bleach? | 🟡 |
-| 1.7e | Concentrated ammonia solution is sold as "28% NH₃, d = 0.90 g/mL". A cleaning formulation requires exactly 126 g of pure NH₃. What volume of the concentrated ammonia should be used? | 🟡 |
+| 1.7c | Concentrated H₂SO₄ (98%, d = 1.84 g/mL). A student needs exactly 196 g of H₂SO₄. What volume of conc. acid is needed?<br> ⭐ | 🟡 |
+| 1.7d | A bottle of commercial bleach reads "5.25% NaOCl by mass, d = 1.08 g/mL". How many grams of sodium hypochlorite (NaOCl) are present in a 400 mL cup of this bleach?<br> | 🟡 |
+| 1.7e | Concentrated ammonia solution is sold as "28% NH₃, d = 0.90 g/mL". A cleaning formulation requires exactly 126 g of pure NH₃. What volume of the concentrated ammonia should be used?<br> | 🟡 |
 | 1.7f | An industrial solvent cleaner is labeled "60% IPA by mass, d = 0.85 g/mL". Calculate the mass of water present in exactly 3 litres of the cleaner, assuming water is the only other component. ⭐ | 🔴 |
 
 <details>
@@ -606,7 +606,7 @@ Answer: Measure out 27.17 mL of concentrated H₂SO₄
 
 ### Type 8: Temperature Independence — Conceptual
 
-**The Pattern:** Why doesn't mass percent change with temperature?
+**The Pattern:** Why doesn't mass percent change with temperature?<br>
 
 #### Solved Example 1.8
 **Q:** Explain why mass percent is temperature-independent, while molarity is temperature-dependent. 🟢
@@ -634,10 +634,10 @@ Therefore:
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 1.8a | A 15% NaCl solution is heated from 25°C to 75°C. Does the mass percent change? Explain. | 🟢 |
+| 1.8a | A 15% NaCl solution is heated from 25°C to 75°C. Does the mass percent change?<br> Explain. | 🟢 |
 | 1.8b | Classify these as temperature-dependent or independent: w/w%, v/v%, molarity, molality, mole fraction, ppm. | 🟡 |
-| 1.8c | A student argues: "If I heat a solution, water evaporates, so mass percent changes." Is this argument valid? Under what conditions? | 🔴 |
-| 1.8d | A laboratory technician accidentally leaves a 10% (w/w) standard salt solution in a hot room where it undergoes thermal expansion without evaporating. Does the mass percent increase, decrease, or remain the same? | 🟢 |
+| 1.8c | A student argues: "If I heat a solution, water evaporates, so mass percent changes." Is this argument valid?<br> Under what conditions?<br> | 🔴 |
+| 1.8d | A laboratory technician accidentally leaves a 10% (w/w) standard salt solution in a hot room where it undergoes thermal expansion without evaporating. Does the mass percent increase, decrease, or remain the same?<br> | 🟢 |
 | 1.8e | If an experiment requires highly precise concentration measurements spanning from 5°C to 80°C, explain whether the researcher should choose mass percent or molarity to express concentration. | 🟡 |
 | 1.8f | Compare two solutions prepared at 25°C: 10% (w/w) NaCl and 1.5 M NaCl. If both solutions are stored in a cold room at 4°C, explain the fundamental reason why the stated concentration of one becomes inaccurate while the other remains perfectly true. | 🔴 |
 
@@ -673,10 +673,10 @@ These problems combine multiple types. **Identify which types are being used bef
 | # | Question | Types Used | Difficulty |
 |---|----------|------------|------------|
 | 1.M1 | A 20% (w/w) NaCl solution has density 1.15 g/mL. Find (a) mass of NaCl in 500 mL (b) mass of water in 500 mL. | T6 + T3 | 🟡 |
-| 1.M2 | How would you prepare 2 L of 15% H₂SO₄ solution (d = 1.10 g/mL) from pure H₂SO₄ and water? State masses of each. | T4 + T6 | 🟡 |
+| 1.M2 | How would you prepare 2 L of 15% H₂SO₄ solution (d = 1.10 g/mL) from pure H₂SO₄ and water?<br> State masses of each. | T4 + T6 | 🟡 |
 | 1.M3 | A commercial HCl solution is 37% by mass (d = 1.19 g/mL). If a student takes 200 mL of this solution, find (a) mass of HCl (b) mass of water (c) mass percent of water. | T7 + T6 + T3 | 🟡 |
 | 1.M4 | 40 g of NaOH is dissolved in 360 g of water. (a) Find w/w%. (b) If the density of this solution is 1.11 g/mL, find the volume of this solution. | T5 + T6 (reverse) | 🟡 |
-| 1.M5 | A solution of urea has mass percent 10%. If someone adds 50 g more water to 200 g of this solution, what is the new mass percent? | T2 + T5 | 🔴 |
+| 1.M5 | A solution of urea has mass percent 10%. If someone adds 50 g more water to 200 g of this solution, what is the new mass percent?<br> | T2 + T5 | 🔴 |
 
 <details>
 <summary>💡 Detailed Solutions for Type Mixer</summary>
@@ -718,7 +718,7 @@ These problems combine multiple types. **Identify which types are being used bef
 | 1.B2 | Calculate the mass percent of benzene (C₆H₆) in solution containing 80 g of benzene in 320 g of carbon tetrachloride (CCl₄). | 🟢 |
 | 1.B3 | A solution of glucose has a mass percentage of 36%. Calculate the mass of glucose to be dissolved in 800 g of water to prepare this solution. ⭐ | 🟡 |
 | 1.B4 | If 20 mL of ethanol (d = 0.789 g/mL) is dissolved in 80 mL of water (d = 1.0 g/mL), calculate the mass percent of ethanol. | 🟡 |
-| 1.B5 | Concentrated nitric acid has a mass percentage of 68% and density 1.41 g/mL. What mass of HNO₃ is present in 500 mL of this acid? | 🟡 |
+| 1.B5 | Concentrated nitric acid has a mass percentage of 68% and density 1.41 g/mL. What mass of HNO₃ is present in 500 mL of this acid?<br> | 🟡 |
 
 <details>
 <summary>💡 Detailed Solutions for Board Arsenal</summary>
@@ -759,7 +759,7 @@ These problems combine multiple types. **Identify which types are being used bef
 |---|----------|------------|
 | 1.J1 | A 62% (w/w) H₂SO₄ solution has density 1.52 g/mL. Calculate the mass of water in 1.5 L of this solution. | 🟡 |
 | 1.J2 | 10 g of glucose is dissolved in 90 g of water. If the density of the solution is 1.02 g/mL, express the concentration in (a) mass percent (b) grams per litre. ⭐ | 🟡 |
-| 1.J3 | A solution is prepared by mixing 100 g of 30% NaCl solution with 200 g of 15% NaCl solution. What is the mass percent of the resulting solution? | 🔴 |
+| 1.J3 | A solution is prepared by mixing 100 g of 30% NaCl solution with 200 g of 15% NaCl solution. What is the mass percent of the resulting solution?<br> | 🔴 |
 | 1.J4 | Commercial sulphuric acid is 98% by mass (d = 1.84 g/mL). If 50 mL of this acid is diluted with water to make 1 L of solution (d = 1.07 g/mL), find the mass percent of the diluted solution. ⭐ | 🔴 |
 | 1.J5 | An aqueous solution contains 36% HCl by mass. If 1 mole of HCl weighs 36.5 g and the density of the solution is 1.18 g/mL, find the mass of solution that contains exactly 1 mole of HCl. | 🔴 |
 

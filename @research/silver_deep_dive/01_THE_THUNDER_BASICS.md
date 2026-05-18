@@ -25,10 +25,10 @@ Long before antibiotics, ancient civilizations knew silver kept them safe. They 
 *   **No Resistance:** Because silver attacks on multiple fronts, it is very hard for bacteria to become immune to it (unlike modern antibiotics). This is why silver is used today in burn creams, bandages, and hospital tools.
 
 ## 3. The Indispensable Tech Metal: Why We Can't Just Use Copper
-A common question is: "If silver runs out, can't we just use copper?" In high-tech applications, the answer is **no**.
+A common question is: "If silver runs out, can't we just use copper?<br>" In high-tech applications, the answer is **no**.
 
 *   **The Solar Choke Point:** In solar panels, efficiency is everything. Silver paste is printed onto the cells to collect the electricity.
-    *   *Why not Copper?* Copper oxidizes (rusts) easily. If you used copper in a solar panel, it would corrode and fail within a few years. Silver does tarnish, but silver oxide is *still conductive*! This makes silver the only reliable choice for 25-year solar panels.
+    *   *Why not Copper?<br>* Copper oxidizes (rusts) easily. If you used copper in a solar panel, it would corrode and fail within a few years. Silver does tarnish, but silver oxide is *still conductive*! This makes silver the only reliable choice for 25-year solar panels.
 *   **The "Switch" of the Future:** Silver Oxide batteries are used in watches, hearing aids, and military tech because they pack a huge amount of energy into a tiny space and keep a steady voltage until they die (unlike alkaline batteries that get weaker slowly).
 *   **Quantum Magic:** At the nano-scale (quantum nanoparticles), silver does strange things. It resonates with light (Surface Plasmon Resonance) in ways that can be used to detect single cancer cells or make cloaking devices.
 

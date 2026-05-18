@@ -7,7 +7,7 @@
 ## 🎯 Stage 1: The Core Idea
 
 ### Why Batteries Die
-When you buy a brand new standard Daniell cell, its EMF is $1.10\ V$. But as you use it to power a bulb, the voltage slowly drops. Why?
+When you buy a brand new standard Daniell cell, its EMF is $1.10\ V$. But as you use it to power a bulb, the voltage slowly drops. Why?<br>
 As the battery runs, the chemical reaction ($Zn + Cu^{2+} \rightarrow Zn^{2+} + Cu$) moves forward. 
 - The reactant ($Cu^{2+}$) gets used up $\rightarrow$ Its concentration decreases.
 - The product ($Zn^{2+}$) is created $\rightarrow$ Its concentration increases.
@@ -61,25 +61,25 @@ $$ E_{cell} = E^\circ_{cell} - \frac{0.0591}{n} \log \frac{[\text{Anode Ion}]^x}
 
 **Practice:**
 
-1. 🟢 Write the Nernst expression for $Zn\ |\ Zn^{2+}\ ||\ Ag^+\ |\ Ag$. What is $n$?
+1. 🟢 Write the Nernst expression for $Zn\ |\ Zn^{2+}\ ||\ Ag^+\ |\ Ag$. What is $n$?<br>
 <details><summary><b>Answer</b></summary>
 $Zn \rightarrow Zn^{2+} + 2e^-$. $2Ag^+ + 2e^- \rightarrow 2Ag$. **$n = 2$**.
 Expression: **$E = E^\circ - \frac{0.0591}{2} \log \frac{[Zn^{2+}]}{[Ag^+]^2}$**.
 </details>
 
-2. 🟢 Write the Nernst expression for $Fe\ |\ Fe^{2+}\ ||\ Pb^{2+}\ |\ Pb$. What is $n$?
+2. 🟢 Write the Nernst expression for $Fe\ |\ Fe^{2+}\ ||\ Pb^{2+}\ |\ Pb$. What is $n$?<br>
 <details><summary><b>Answer</b></summary>
 Both are divalent. $n = 2$.
 Expression: **$E = E^\circ - \frac{0.0591}{2} \log \frac{[Fe^{2+}]}{[Pb^{2+}]}$**.
 </details>
 
-3. 🟡 Write the Nernst expression for $Cr\ |\ Cr^{3+}\ ||\ Fe^{2+}\ |\ Fe$. What is $n$?
+3. 🟡 Write the Nernst expression for $Cr\ |\ Cr^{3+}\ ||\ Fe^{2+}\ |\ Fe$. What is $n$?<br>
 <details><summary><b>Answer</b></summary>
 $Cr \rightarrow Cr^{3+} + 3e^-$ (multiply by 2). $Fe^{2+} + 2e^- \rightarrow Fe$ (multiply by 3). **$n = 6$**.
 Expression: **$E = E^\circ - \frac{0.0591}{6} \log \frac{[Cr^{3+}]^2}{[Fe^{2+}]^3}$**.
 </details>
 
-4. 🟡 A cell reaction is $H_2(g, 1\ atm) + 2Ag^+(aq) \rightarrow 2H^+(aq) + 2Ag(s)$. What is the $Q$ expression?
+4. 🟡 A cell reaction is $H_2(g, 1\ atm) + 2Ag^+(aq) \rightarrow 2H^+(aq) + 2Ag(s)$. What is the $Q$ expression?<br>
 <details><summary><b>Answer</b></summary>
 Products: $H^+$. Reactants: $Ag^+$, $H_2$.
 $Q = \frac{[H^+]^2}{[Ag^+]^2 \cdot P_{H_2}}$. Since $P_{H_2} = 1\ atm$, it is **$\frac{[H^+]^2}{[Ag^+]^2}$**.
@@ -123,7 +123,7 @@ $E_{cell} = 1.10 - \frac{0.0591}{2} \log \frac{0.01}{0.1} = 1.10 - 0.0295 \log(1
 $E_{cell} = 1.10 - 0.0295(-1) = 1.10 + 0.0295 = \textbf{+1.1295\ V}$.
 </details>
 
-2. 🟢 Given $E^\circ_{cell} = 0.59\ V$ for $Fe\ |\ Fe^{2+}(0.1\ M)\ ||\ Ni^{2+}(0.1\ M)\ |\ Ni$. Without calculating, what is $E_{cell}$?
+2. 🟢 Given $E^\circ_{cell} = 0.59\ V$ for $Fe\ |\ Fe^{2+}(0.1\ M)\ ||\ Ni^{2+}(0.1\ M)\ |\ Ni$. Without calculating, what is $E_{cell}$?<br>
 <details><summary><b>Answer</b></summary>
 Since both concentrations are equal ($0.1\ M$) and $n$ is the same, the ratio is $0.1 / 0.1 = 1$.
 $\log(1) = 0$. The whole term drops out. $E_{cell} = E^\circ_{cell} = \textbf{0.59\ V}$.
@@ -135,14 +135,14 @@ $E_{cell} = 0.36 - \frac{0.0591}{2} \log \frac{10^{-3}}{10^{-1}} = 0.36 - 0.0295
 $E_{cell} = 0.36 - 0.0295(-2) = 0.36 + 0.059 = \textbf{+0.419\ V}$.
 </details>
 
-4. 🟡 A cell $A\ |\ A^{2+}(10^{-4}\ M)\ ||\ B^{2+}(10^{-2}\ M)\ |\ B$ has $E_{cell} = 1.00\ V$. What is $E^\circ_{cell}$?
+4. 🟡 A cell $A\ |\ A^{2+}(10^{-4}\ M)\ ||\ B^{2+}(10^{-2}\ M)\ |\ B$ has $E_{cell} = 1.00\ V$. What is $E^\circ_{cell}$?<br>
 <details><summary><b>Answer</b></summary>
 $1.00 = E^\circ_{cell} - \frac{0.0591}{2} \log \frac{10^{-4}}{10^{-2}}$
 $1.00 = E^\circ_{cell} - 0.0295 \log(10^{-2}) = E^\circ_{cell} + 0.059$
 $E^\circ_{cell} = 1.00 - 0.059 = \textbf{+0.941\ V}$.
 </details>
 
-5. 🔴 Consider $Pb\ |\ Pb^{2+}(C_1)\ ||\ Cu^{2+}(C_2)\ |\ Cu$. If you increase both $C_1$ and $C_2$ by a factor of 10, how much does $E_{cell}$ change?
+5. 🔴 Consider $Pb\ |\ Pb^{2+}(C_1)\ ||\ Cu^{2+}(C_2)\ |\ Cu$. If you increase both $C_1$ and $C_2$ by a factor of 10, how much does $E_{cell}$ change?<br>
 <details><summary><b>Answer</b></summary>
 Ratio is $\frac{C_1}{C_2}$. If both are multiplied by 10, the new ratio is $\frac{10 \times C_1}{10 \times C_2} = \frac{C_1}{C_2}$. The ratio does not change.
 Therefore, the $E_{cell}$ **does not change at all**.
@@ -201,7 +201,7 @@ $E = 0.80 - \frac{0.0591}{2} \log \frac{(10^{-3})^2}{(10^{-2})^2} = 0.80 - 0.029
 $E = 0.80 - 0.0295 \log(10^{-2}) = 0.80 - 0.0295(-2) = 0.80 + 0.059 = \textbf{+0.859\ V}$.
 </details>
 
-5. 🔴 In the $Mg/Ag^+$ cell from the solved example, what happens to the potential if we multiply the stoichiometric equation by 2?
+5. 🔴 In the $Mg/Ag^+$ cell from the solved example, what happens to the potential if we multiply the stoichiometric equation by 2?<br>
 <details><summary><b>Answer</b></summary>
 $n$ doubles (from 2 to 4). The powers in the log term double (squaring the fraction). 
 $E_{cell} = E^\circ_{cell} - \frac{0.0591}{4} \log \left(\frac{[Mg^{2+}]}{[Ag^+]^2}\right)^2$
@@ -228,7 +228,7 @@ It returns to the exact same formula. The potential **remains completely unchang
 
 **Practice:**
 
-1. 🟢 For a concentration cell to be spontaneous ($E_{cell} > 0$), must the Anode concentration be higher or lower than the Cathode concentration?
+1. 🟢 For a concentration cell to be spontaneous ($E_{cell} > 0$), must the Anode concentration be higher or lower than the Cathode concentration?<br>
 <details><summary><b>Answer</b></summary>
 From $E_{cell} = - \frac{0.0591}{n} \log \frac{C_{anode}}{C_{cathode}}$, to make $E_{cell}$ positive, the log term must be negative. This happens when the fraction is $< 1$. Therefore, **Anode concentration must be lower** than Cathode concentration. ($C_1 < C_2$).
 </details>
@@ -244,7 +244,7 @@ $E^\circ_{cell} = 0$. $n = 1$.
 $E_{cell} = -0.0591 \log \frac{0.001}{0.1} = -0.0591 \log(10^{-2}) = -0.0591(-2) = \textbf{+0.1182\ V}$.
 </details>
 
-4. 🟡 A concentration cell $H_2(1\ atm)\ |\ H^+(pH = x)\ ||\ H^+(pH = y)\ |\ H_2(1\ atm)$ generates voltage. In which compartment is the pH higher?
+4. 🟡 A concentration cell $H_2(1\ atm)\ |\ H^+(pH = x)\ ||\ H^+(pH = y)\ |\ H_2(1\ atm)$ generates voltage. In which compartment is the pH higher?<br>
 <details><summary><b>Answer</b></summary>
 For a spontaneous cell, Anode concentration must be lower than Cathode concentration.
 $[H^+]_{anode} < [H^+]_{cathode}$.
@@ -252,7 +252,7 @@ Since pH is the negative log, a lower concentration means a higher pH.
 Therefore, the **Anode compartment has the higher pH** ($x > y$).
 </details>
 
-5. 🔴 Given $H_2(P_1\ atm)\ |\ H^+(1\ M)\ ||\ H^+(1\ M)\ |\ H_2(P_2\ atm)$. This is a gas concentration cell. For this cell to be spontaneous, what must be the relation between $P_1$ and $P_2$?
+5. 🔴 Given $H_2(P_1\ atm)\ |\ H^+(1\ M)\ ||\ H^+(1\ M)\ |\ H_2(P_2\ atm)$. This is a gas concentration cell. For this cell to be spontaneous, what must be the relation between $P_1$ and $P_2$?<br>
 <details><summary><b>Answer</b></summary>
 Reaction: $H_2(P_1) + 2H^+(1M) \rightarrow 2H^+(1M) + H_2(P_2)$.
 Net reaction: $H_2(P_1) \rightarrow H_2(P_2)$.
@@ -268,7 +268,7 @@ To make $E$ positive, $\frac{P_2}{P_1} < 1$, which means **$P_1 > P_2$**. Gas fl
 **Pattern:** "Using qualitative logic to predict if $E_{cell}$ increases or decreases when you mess with the beakers."
 
 **Solved Example** 🟡
-> Consider a standard Daniell cell ($Zn/Cu$). What happens to the EMF of the cell if you dissolve some solid $ZnSO_4$ into the anode compartment?
+> Consider a standard Daniell cell ($Zn/Cu$). What happens to the EMF of the cell if you dissolve some solid $ZnSO_4$ into the anode compartment?<br>
 
 <details><summary><b>Solution</b></summary>
 - Reaction: $Zn + Cu^{2+} \rightarrow Zn^{2+} + Cu$.
@@ -280,27 +280,27 @@ To make $E$ positive, $\frac{P_2}{P_1} < 1$, which means **$P_1 > P_2$**. Gas fl
 
 **Practice:**
 
-1. 🟢 In a $Zn/Cu$ cell, what happens to EMF if you add water to the Cathode ($Cu$) compartment?
+1. 🟢 In a $Zn/Cu$ cell, what happens to EMF if you add water to the Cathode ($Cu$) compartment?<br>
 <details><summary><b>Answer</b></summary>
 Adding water dilutes the $Cu^{2+}$ ions (reactant). Decreasing reactant shifts equilibrium backward. **EMF decreases**.
 </details>
 
-2. 🟢 In a $Zn/Cu$ cell, what happens to EMF if you add water to the Anode ($Zn$) compartment?
+2. 🟢 In a $Zn/Cu$ cell, what happens to EMF if you add water to the Anode ($Zn$) compartment?<br>
 <details><summary><b>Answer</b></summary>
 Adding water dilutes the $Zn^{2+}$ ions (product). Decreasing product shifts equilibrium forward. **EMF increases**.
 </details>
 
-3. 🟡 If you add ammonia ($NH_3$) to the cathode compartment of a $Zn/Cu$ cell, $NH_3$ forms a complex with $Cu^{2+}$, effectively removing free $Cu^{2+}$ ions from the solution. What happens to the cell EMF?
+3. 🟡 If you add ammonia ($NH_3$) to the cathode compartment of a $Zn/Cu$ cell, $NH_3$ forms a complex with $Cu^{2+}$, effectively removing free $Cu^{2+}$ ions from the solution. What happens to the cell EMF?<br>
 <details><summary><b>Answer</b></summary>
 Removing free $Cu^{2+}$ (a reactant) decreases its concentration. This shifts the equilibrium backward. **EMF decreases drastically**.
 </details>
 
-4. 🟡 For the cell $Fe\ |\ Fe^{2+}\ ||\ Ag^+\ |\ Ag$, what is the effect on EMF if the size of the Silver electrode is doubled?
+4. 🟡 For the cell $Fe\ |\ Fe^{2+}\ ||\ Ag^+\ |\ Ag$, what is the effect on EMF if the size of the Silver electrode is doubled?<br>
 <details><summary><b>Answer</b></summary>
 Solid metals do not appear in the Nernst equation ($[Ag(s)] = 1$). Changing the size or mass of the electrodes **has no effect on the EMF**. (It only increases the cell's physical capacity/lifespan).
 </details>
 
-5. 🔴 A cell consists of $SHE\ ||\ Ag^+(1\ M)\ |\ Ag$. If you bubble $H_2S$ gas into the cathode compartment, it precipitates out $Ag_2S$. What happens to the cell voltage?
+5. 🔴 A cell consists of $SHE\ ||\ Ag^+(1\ M)\ |\ Ag$. If you bubble $H_2S$ gas into the cathode compartment, it precipitates out $Ag_2S$. What happens to the cell voltage?<br>
 <details><summary><b>Answer</b></summary>
 Precipitating $Ag^+$ removes the reactant ions from the solution, massively dropping $[Ag^+]$. This shifts the equilibrium backward. The **cell voltage decreases**.
 </details>
@@ -359,7 +359,7 @@ As products form and reactants deplete, $Q$ increases. As $Q$ increases, $\log Q
 
 ## 🔀 Stage 5: Type Mixer
 
-**Q1.** 🟡 ⭐ A cell is constructed: $Ag\ |\ Ag^+(0.1\ M)\ ||\ Ag^+(x\ M)\ |\ Ag$. If the measured cell potential is $0.0591\ V$ at $298\ K$, calculate the unknown concentration $x$. Is the right compartment the anode or the cathode?
+**Q1.** 🟡 ⭐ A cell is constructed: $Ag\ |\ Ag^+(0.1\ M)\ ||\ Ag^+(x\ M)\ |\ Ag$. If the measured cell potential is $0.0591\ V$ at $298\ K$, calculate the unknown concentration $x$. Is the right compartment the anode or the cathode?<br>
 
 <details><summary><b>Solution</b></summary>
 - Since it's written in standard notation, Right is Cathode. (To verify: $E_{cell}$ is positive, so the standard setup is spontaneous. Yes, Right is Cathode).
@@ -373,7 +373,7 @@ As products form and reactants deplete, $Q$ increases. As $Q$ increases, $\log Q
 **Q2.** 🔴 For $Sn\ |\ Sn^{2+}(0.1\ M)\ ||\ H^+(pH = 2)\ |\ H_2(1\ atm)\ |\ Pt$. Given $E^\circ_{Sn} = -0.14\ V$.
 (a) Calculate $E^\circ_{cell}$.
 (b) Calculate $E_{cell}$ at $298\ K$.
-(c) Will the cell work as written?
+(c) Will the cell work as written?<br>
 
 <details><summary><b>Solution</b></summary>
 (a) $E^\circ_{cell} = E^\circ_{SHE} - E^\circ_{Sn} = 0.00 - (-0.14) = \textbf{+0.14\ V}$.
@@ -394,13 +394,13 @@ $E = 0.14 - 0.0295(3) = 0.14 - 0.0885 = \textbf{+0.0515\ V}$.
 $E_{cell} = E^\circ_{cell} - \frac{2.303 RT}{nF} \log \frac{[C]^c [D]^d}{[A]^a [B]^b}$
 </details>
 
-**Q2.** 🟡 What is a concentration cell? Give an example. *(2 marks)*
+**Q2.** 🟡 What is a concentration cell?<br> Give an example. *(2 marks)*
 <details><summary><b>Model Answer</b></summary>
 A Galvanic cell in which both the electrodes are made of the same material, but the concentrations of the electrolyte solutions in the two half-cells are different. 
 Example: $Cu(s)\ |\ Cu^{2+}(0.1\ M)\ ||\ Cu^{2+}(1.0\ M)\ |\ Cu(s)$.
 </details>
 
-**Q3.** 🟡 Why does the voltage of a Galvanic cell drop to zero after some time? *(2 marks)*
+**Q3.** 🟡 Why does the voltage of a Galvanic cell drop to zero after some time?<br> *(2 marks)*
 <details><summary><b>Model Answer</b></summary>
 As the cell operates, reactants are consumed (decreasing their concentration) and products are formed (increasing their concentration). According to the Nernst equation, this causes a steady decrease in $E_{cell}$. Eventually, the system reaches chemical equilibrium, at which point the driving force is zero, and $E_{cell} = 0$.
 </details>
@@ -409,7 +409,7 @@ As the cell operates, reactants are consumed (decreasing their concentration) an
 
 ## 🚀 Stage 7: JEE Mains Arena
 
-**Q1.** 🔴 ⭐ An electrochemical cell is set up: $Pt\ |\ H_2(1\ atm)\ |\ HA(0.1\ M)\ ||\ HCl(0.1\ M)\ |\ H_2(1\ atm)\ |\ Pt$. The measured cell potential is $0.1182\ V$. What is the acid dissociation constant ($K_a$) of the weak acid HA?
+**Q1.** 🔴 ⭐ An electrochemical cell is set up: $Pt\ |\ H_2(1\ atm)\ |\ HA(0.1\ M)\ ||\ HCl(0.1\ M)\ |\ H_2(1\ atm)\ |\ Pt$. The measured cell potential is $0.1182\ V$. What is the acid dissociation constant ($K_a$) of the weak acid HA?<br>
 (a) $10^{-3}$
 (b) $10^{-5}$
 (c) $10^{-4}$

@@ -8,7 +8,7 @@
 
 Here is a fact that should astonish you: during a lightning storm, the safest place to be is **inside a metal car**. Not because of the rubber tires (a common myth), but because the metal body acts as a **Faraday cage** — the electric field inside the car is exactly zero, regardless of how intense the lightning is outside.
 
-But wait. Metal is a *conductor*. It is full of free electrons. If a massive electric field hits the outside of the car, why doesn't it penetrate through the metal and electrocute the passengers inside?
+But wait. Metal is a *conductor*. It is full of free electrons. If a massive electric field hits the outside of the car, why doesn't it penetrate through the metal and electrocute the passengers inside?<br>
 
 The answer reveals something profound about conductors: they don't just *passively sit* in an electric field. They *actively rearrange themselves* to nullify the field inside. The free electrons redistribute almost instantaneously, creating a counter-field that perfectly cancels the external field within the bulk of the conductor.
 
@@ -112,7 +112,7 @@ $V = \frac{kQ}{R} = \frac{9 \times 10^9 \times 2.22 \times 10^{-7}}{0.1} = \text
 
 *A physicist has a solid conducting sphere of radius $a = 5$ cm carrying charge $+Q_1 = +6\mu C$. She then encloses it inside a hollow conducting spherical shell (inner radius $b = 10$ cm, outer radius $c = 15$ cm) carrying a net charge of $+Q_2 = +4\mu C$.*
 
-**Problem 1:** What are the charges on the inner and outer surfaces of the shell?
+**Problem 1:** What are the charges on the inner and outer surfaces of the shell?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -173,7 +173,7 @@ $V = \textbf{1.14 × 10⁶ V ≈ 1.14 MV}$
 
 ### Checkpoint 3: Electrostatic Shielding
 
-**Problem 1:** A sensitive galvanometer is placed inside a thick hollow metal box. A strong external electric field of $10^6$ V/m is applied. What electric field does the galvanometer experience?
+**Problem 1:** A sensitive galvanometer is placed inside a thick hollow metal box. A strong external electric field of $10^6$ V/m is applied. What electric field does the galvanometer experience?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -182,7 +182,7 @@ $E_{inside} = \textbf{0}$
 The metal box acts as a Faraday cage. Free electrons in the box rearrange to completely cancel the external field within the cavity. The galvanometer is perfectly shielded.
 </details>
 
-**Problem 2:** Can we shield a region from a *gravitational* field using a similar approach?
+**Problem 2:** Can we shield a region from a *gravitational* field using a similar approach?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -195,10 +195,10 @@ The metal box acts as a Faraday cage. Free electrons in the box rearrange to com
 
 **Synthesis Problem:** A large flat conducting plate has a surface charge density of $\sigma = 2 \times 10^{-6}$ C/m² on its upper surface. A small metal sphere of radius $1$ cm, initially uncharged, is placed $0.5$ m above the plate.
 
-(a) What is the electric field between the plate and the sphere (ignoring edge effects)?  
-(b) Does the sphere become charged? If so, what kind of charge appears on its lower surface?  
-(c) The sphere is now grounded (connected to Earth) briefly and then disconnected. What charge does it acquire?  
-(d) After grounding, is the sphere attracted to or repelled from the plate?
+(a) What is the electric field between the plate and the sphere (ignoring edge effects)?<br>  
+(b) Does the sphere become charged?<br> If so, what kind of charge appears on its lower surface?<br>  
+(c) The sphere is now grounded (connected to Earth) briefly and then disconnected. What charge does it acquire?<br>  
+(d) After grounding, is the sphere attracted to or repelled from the plate?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -317,7 +317,7 @@ For a sphere of radius $R$ at potential $V$: $Q = \frac{VR}{k} = \frac{1.13 \tim
 
 ---
 
-**Q12.** A neutral conducting shell surrounds a $+Q$ charge at its center. What charge appears on the outer surface?
+**Q12.** A neutral conducting shell surrounds a $+Q$ charge at its center. What charge appears on the outer surface?<br>
 
 (a) $0$ &emsp; (b) $-Q$ &emsp; (c) $+Q$ &emsp; (d) $+2Q$
 
@@ -419,7 +419,7 @@ $E = k(Q+q)/(2b)^2 = k(Q+q)/(4b^2)$; $V = k(Q+q)/(2b)$
 
 ---
 
-**Q20.** Why is it unsafe to stand under a tall isolated tree during a lightning storm, but relatively safe inside a car?
+**Q20.** Why is it unsafe to stand under a tall isolated tree during a lightning storm, but relatively safe inside a car?<br>
 
 <details><summary><b>Answer</b></summary>
 
@@ -573,7 +573,7 @@ Final charge: $Q_1' = V_f R_1/k = 166.7\times0.10/(9\times10^9) = 1.85\times10^{
 
 ---
 
-**Q30.** Can a conductor have a region of positive surface charge density and another region of negative surface charge density simultaneously? If yes, give an example.
+**Q30.** Can a conductor have a region of positive surface charge density and another region of negative surface charge density simultaneously?<br> If yes, give an example.
 
 <details><summary><b>Answer</b></summary>
 

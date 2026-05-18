@@ -8,7 +8,7 @@
 
 ### The Problem with "Action at a Distance"
 
-Coulomb's law says two charges exert forces on each other across empty space. But *how*? Does charge q₁ somehow "know" that q₂ exists 10 cm away?
+Coulomb's law says two charges exert forces on each other across empty space. But *how*?<br> Does charge q₁ somehow "know" that q₂ exists 10 cm away?<br>
 
 This bothered Michael Faraday. His answer changed physics forever:
 
@@ -29,11 +29,11 @@ The electric field **E⃗** at a point in space is defined as the force experien
 
 $$\vec{E} = \frac{\vec{F}}{q_0}$$
 
-> ⚠️ **Why "small" test charge?** If q₀ is too large, it would disturb the original charge distribution, changing the very field we're trying to measure. In the limit q₀ → 0, this disturbance vanishes.
+> ⚠️ **Why "small" test charge?<br>** If q₀ is too large, it would disturb the original charge distribution, changing the very field we're trying to measure. In the limit q₀ → 0, this disturbance vanishes.
 
 ### Physical Significance of Electric Field ⭐
 
-Why introduce E instead of just using Coulomb's law?
+Why introduce E instead of just using Coulomb's law?<br>
 
 1. **Time delay:** When a charge moves, the information doesn't reach another charge instantly — it travels at the speed of light. The electric field is the *mediator* that propagates this information.
 
@@ -94,7 +94,7 @@ Direction: radially outward from the positive charge.
 **Practice:**
 
 1. 🟢 E at 10 cm from −3 μC. *(Ans: 2.7 × 10⁶ N/C, directed toward the charge)*
-2. 🟢 At what distance from a +2 μC charge is E = 9 × 10⁴ N/C? *(Ans: ~0.447 m)*
+2. 🟢 At what distance from a +2 μC charge is E = 9 × 10⁴ N/C?<br> *(Ans: ~0.447 m)*
 3. 🟡 Two points A and B are at distances 10 cm and 20 cm from a point charge. Find E_A/E_B. *(Ans: 4 — inverse square law)*
 
 ---
@@ -157,7 +157,7 @@ E_net = E₁ + E₂ = **8 × 10⁷ N/C in the +x direction**
 
 **Solved Example** 🟡
 
-> Two charges +4Q and +Q are at distance d apart. Where is E = 0?
+> Two charges +4Q and +Q are at distance d apart. Where is E = 0?<br>
 
 **Solution:**
 
@@ -174,7 +174,7 @@ E = 0 at **2d/3 from the larger charge**.
 **Practice:**
 
 1. 🟡 +9Q and +Q at distance d. Find null point. *(Ans: 3d/4 from +9Q)*
-2. 🔴 +4Q and −Q at distance d. Where is E = 0? *(Ans: outside, at distance d from −Q, i.e., 2d from +4Q)*
+2. 🔴 +4Q and −Q at distance d. Where is E = 0?<br> *(Ans: outside, at distance d from −Q, i.e., 2d from +4Q)*
 
 ---
 
@@ -199,7 +199,7 @@ Direction: **upward** (electron accelerates opposite to E, since it's negative).
 
 **Practice:**
 
-1. 🟡 A proton is released from rest in E = 1000 N/C. How far does it travel in 2 μs? *(Ans: ~0.192 m)*
+1. 🟡 A proton is released from rest in E = 1000 N/C. How far does it travel in 2 μs?<br> *(Ans: ~0.192 m)*
 2. 🔴 ⭐ An electron is projected horizontally at 2 × 10⁶ m/s into a vertical E field of 5000 N/C. Find (a) time to travel 10 cm horizontally, (b) vertical deflection, (c) velocity at that point.
 
 ---
@@ -281,7 +281,7 @@ E_x = kQ/(2√2 d²), E_y = kQ/d² − kQ/(2√2 d²)
 
 ## 📋 Stage 5: Board Arsenal
 
-**Q1.** 🟢 ⭐ Define electric field. What is its SI unit? *(2 marks)*
+**Q1.** 🟢 ⭐ Define electric field. What is its SI unit?<br> *(2 marks)*
 
 <details>
 <summary><b>Model Answer</b></summary>
@@ -293,7 +293,7 @@ E⃗ = F⃗/q₀ (in the limit q₀ → 0)
 **SI unit:** Newton per coulomb (N/C) or equivalently Volt per metre (V/m).
 </details>
 
-**Q2.** 🟡 ⭐ What is the physical significance of the electric field? *(2 marks)*
+**Q2.** 🟡 ⭐ What is the physical significance of the electric field?<br> *(2 marks)*
 
 <details>
 <summary><b>Model Answer</b></summary>
@@ -328,7 +328,7 @@ where r̂ is the unit vector from Q to the field point.
 
 ## 🚀 Stage 6: JEE Mains Arena
 
-**Q1.** 🟡 ⭐ The electric field at a distance r from a charge Q is E. At what distance from a charge 4Q will the field be E/2?
+**Q1.** 🟡 ⭐ The electric field at a distance r from a charge Q is E. At what distance from a charge 4Q will the field be E/2?<br>
 
 (a) 2r &emsp; (b) 2√2 r &emsp; (c) 4r &emsp; (d) r/2
 

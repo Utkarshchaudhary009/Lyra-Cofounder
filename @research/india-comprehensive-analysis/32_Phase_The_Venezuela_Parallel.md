@@ -21,7 +21,7 @@
 ## 5. Welfare as a Weapon: Buying Loyalty
 *   **The Strategy:** Massive handouts to keep the poor dependent on the party.
 *   **The Trap:** The poor stayed poor and dependent.
-*   **India:** 800 million people on free food rations. Is it a safety net or a political tool?
+*   **India:** 800 million people on free food rations. Is it a safety net or a political tool?<br>
 
 ## 6. Brain Drain: Losing the Builders
 *   **The Exodus:** Millions of Venezuelans fled. Engineers, doctors, teachers left first.

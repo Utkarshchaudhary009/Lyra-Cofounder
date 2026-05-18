@@ -46,7 +46,7 @@ The entire electrochemical series boils down to reading the $E^\circ$ values cor
 > $A^{2+}/A = -0.76\ V$
 > $B^{2+}/B = +0.34\ V$
 > $C^{3+}/C = -1.66\ V$
-> Which metal is the strongest reducing agent? Which ion is the strongest oxidizing agent?
+> Which metal is the strongest reducing agent?<br> Which ion is the strongest oxidizing agent?<br>
 
 <details><summary><b>Solution</b></summary>
 - **Strongest Reducing Agent:** Wants to lose electrons the most. Look for the most *negative* reduction potential. That is C ($-1.66\ V$). The solid metal **C** is the strongest reducing agent.
@@ -55,12 +55,12 @@ The entire electrochemical series boils down to reading the $E^\circ$ values cor
 
 **Practice:**
 
-1. 🟢 $E^\circ$ values for $P, Q, R$ and $S$ are $-2.90\ V$, $+1.50\ V$, $-0.74\ V$, and $+0.34\ V$ respectively. Which is the strongest oxidizing agent?
+1. 🟢 $E^\circ$ values for $P, Q, R$ and $S$ are $-2.90\ V$, $+1.50\ V$, $-0.74\ V$, and $+0.34\ V$ respectively. Which is the strongest oxidizing agent?<br>
 <details><summary><b>Answer</b></summary>
 The highest positive value is $+1.50\ V$. Therefore, the ion corresponding to **Q** is the strongest oxidizing agent.
 </details>
 
-2. 🟢 Given $E^\circ_{Ag^+/Ag} = +0.80\ V$ and $E^\circ_{Zn^{2+}/Zn} = -0.76\ V$. Which is a better reducing agent, $Ag$ or $Zn$?
+2. 🟢 Given $E^\circ_{Ag^+/Ag} = +0.80\ V$ and $E^\circ_{Zn^{2+}/Zn} = -0.76\ V$. Which is a better reducing agent, $Ag$ or $Zn$?<br>
 <details><summary><b>Answer</b></summary>
 Lower reduction potential means better reducing agent. $-0.76\ V < +0.80\ V$. Therefore, **$Zn$** is the better reducing agent.
 </details>
@@ -78,7 +78,7 @@ So, reducing power of ions increases as $E^\circ$ becomes less positive.
 Order: **$F^- < Cl^- < Br^- < I^-$**.
 </details>
 
-5. 🔴 Consider $E^\circ_{Sn^{4+}/Sn^{2+}} = +0.15\ V$ and $E^\circ_{Cr^{3+}/Cr} = -0.74\ V$. Is $Sn^{2+}$ a better reducing agent than $Cr$?
+5. 🔴 Consider $E^\circ_{Sn^{4+}/Sn^{2+}} = +0.15\ V$ and $E^\circ_{Cr^{3+}/Cr} = -0.74\ V$. Is $Sn^{2+}$ a better reducing agent than $Cr$?<br>
 <details><summary><b>Answer</b></summary>
 - For $Sn^{2+}$ to be a reducing agent, it must oxidize to $Sn^{4+}$. $E^\circ_{ox} = -0.15\ V$.
 - For $Cr$ to be a reducing agent, it must oxidize to $Cr^{3+}$. $E^\circ_{ox} = +0.74\ V$.
@@ -89,10 +89,10 @@ Order: **$F^- < Cl^- < Br^- < I^-$**.
 
 ### Type 2: Displacement of Metals from Salt Solutions ⭐
 
-**Pattern:** "Can metal A displace metal B from its salt solution? (Or can we store B's salt in an A container?)"
+**Pattern:** "Can metal A displace metal B from its salt solution?<br> (Or can we store B's salt in an A container?<br>)"
 
 **Solved Example** 🟡
-> Can we store a solution of Copper Sulphate ($CuSO_4$) in an Iron ($Fe$) vessel?
+> Can we store a solution of Copper Sulphate ($CuSO_4$) in an Iron ($Fe$) vessel?<br>
 > Given: $E^\circ_{Fe^{2+}/Fe} = -0.44\ V$, $E^\circ_{Cu^{2+}/Cu} = +0.34\ V$.
 
 <details><summary><b>Solution</b></summary>
@@ -105,29 +105,29 @@ Order: **$F^- < Cl^- < Br^- < I^-$**.
 
 **Practice:**
 
-1. 🟢 Can $Zn$ displace $Ag$ from $AgNO_3$ solution? ($E^\circ_{Zn^{2+}/Zn} = -0.76\ V$, $E^\circ_{Ag^+/Ag} = +0.80\ V$).
+1. 🟢 Can $Zn$ displace $Ag$ from $AgNO_3$ solution?<br> ($E^\circ_{Zn^{2+}/Zn} = -0.76\ V$, $E^\circ_{Ag^+/Ag} = +0.80\ V$).
 <details><summary><b>Answer</b></summary>
 Zn has a lower $E^\circ$ (more negative). Therefore, **Yes**, Zn can displace Ag.
 </details>
 
-2. 🟢 Can we stir a solution of $ZnSO_4$ with a silver spoon?
+2. 🟢 Can we stir a solution of $ZnSO_4$ with a silver spoon?<br>
 <details><summary><b>Answer</b></summary>
 Ag has a higher $E^\circ$ ($+0.80\ V$) than Zn ($-0.76\ V$). It cannot displace Zn. No reaction occurs. Therefore, **Yes**, we can use the silver spoon.
 </details>
 
-3. 🟡 A solution contains both $Cu^{2+}$ and $Ag^+$ ions. If you drop a piece of Zinc into it, what happens?
+3. 🟡 A solution contains both $Cu^{2+}$ and $Ag^+$ ions. If you drop a piece of Zinc into it, what happens?<br>
 <details><summary><b>Answer</b></summary>
 Zn ($-0.76\ V$) has a lower potential than both Cu ($+0.34\ V$) and Ag ($+0.80\ V$). Zn will act as a reducing agent and displace **both** metals from the solution as solids.
 </details>
 
-4. 🟡 Based on the electrochemical series, which of the following metals can be extracted from their salts by using aluminum ($E^\circ = -1.66\ V$)? 
+4. 🟡 Based on the electrochemical series, which of the following metals can be extracted from their salts by using aluminum ($E^\circ = -1.66\ V$)?<br> 
 Options: Na ($-2.71\ V$), Mg ($-2.37\ V$), Fe ($-0.44\ V$).
 <details><summary><b>Answer</b></summary>
 Aluminum can only displace metals that have a *higher* (less negative) reduction potential than itself. 
 Only **Fe ($-0.44\ V$)** is higher than Al.
 </details>
 
-5. 🔴 You have three containers made of Cu, Zn, and Ag. In which container can you safely store $1\ M\ FeSO_4$ solution? ($E^\circ_{Fe^{2+}/Fe} = -0.44\ V$, Cu = $+0.34\ V$, Zn = $-0.76\ V$, Ag = $+0.80\ V$).
+5. 🔴 You have three containers made of Cu, Zn, and Ag. In which container can you safely store $1\ M\ FeSO_4$ solution?<br> ($E^\circ_{Fe^{2+}/Fe} = -0.44\ V$, Cu = $+0.34\ V$, Zn = $-0.76\ V$, Ag = $+0.80\ V$).
 <details><summary><b>Answer</b></summary>
 You must choose a container whose metal has a *higher* reduction potential than Fe, so it cannot displace Fe.
 - Cu ($+0.34\ V$) > Fe ($-0.44\ V$) $\rightarrow$ Safe.
@@ -140,10 +140,10 @@ Answer: **Cu and Ag containers**.
 
 ### Type 3: Displacement of Hydrogen from Acids ⭐
 
-**Pattern:** "Will metal X react with dilute acids to evolve $H_2$ gas?"
+**Pattern:** "Will metal X react with dilute acids to evolve $H_2$ gas?<br>"
 
 **Solved Example** 🟢
-> Will Copper ($E^\circ_{Cu^{2+}/Cu} = +0.34\ V$) react with dilute $HCl$ to release hydrogen gas?
+> Will Copper ($E^\circ_{Cu^{2+}/Cu} = +0.34\ V$) react with dilute $HCl$ to release hydrogen gas?<br>
 
 <details><summary><b>Solution</b></summary>
 - For a metal to displace Hydrogen ($H^+$) from an acid, the metal must act as an anode against the $H^+/H_2$ couple ($E^\circ = 0.00\ V$).
@@ -154,7 +154,7 @@ Answer: **Cu and Ag containers**.
 
 **Practice:**
 
-1. 🟢 Will Magnesium ($E^\circ = -2.37\ V$) evolve $H_2$ gas from dilute $H_2SO_4$?
+1. 🟢 Will Magnesium ($E^\circ = -2.37\ V$) evolve $H_2$ gas from dilute $H_2SO_4$?<br>
 <details><summary><b>Answer</b></summary>
 Yes. Its $E^\circ$ is negative, meaning it is a stronger reducing agent than $H_2$.
 </details>
@@ -164,17 +164,17 @@ Yes. Its $E^\circ$ is negative, meaning it is a stronger reducing agent than $H_
 **Copper (Cu), Silver (Ag), or Gold (Au)**. All have positive reduction potentials.
 </details>
 
-3. 🟡 Why does Copper dissolve in Nitric acid ($HNO_3$) if it cannot displace hydrogen?
+3. 🟡 Why does Copper dissolve in Nitric acid ($HNO_3$) if it cannot displace hydrogen?<br>
 <details><summary><b>Answer</b></summary>
 Nitric acid is a strong **oxidizing acid**. Copper does not displace $H^+$ to form $H_2$. Instead, the nitrate ion ($NO_3^-$) acts as the oxidizing agent (it has a higher reduction potential than Cu) and reduces to $NO$ or $NO_2$ gas, while oxidizing Cu to $Cu^{2+}$.
 </details>
 
-4. 🟡 An unknown metal dissolves in $HCl$ with effervescence. What can you definitely conclude about its standard reduction potential?
+4. 🟡 An unknown metal dissolves in $HCl$ with effervescence. What can you definitely conclude about its standard reduction potential?<br>
 <details><summary><b>Answer</b></summary>
 The effervescence is $H_2$ gas. Since it displaced hydrogen, its standard reduction potential must be **negative**.
 </details>
 
-5. 🔴 Given $E^\circ_{Pb^{2+}/Pb} = -0.13\ V$. Will Lead displace hydrogen from acid? Why is the reaction practically very slow?
+5. 🔴 Given $E^\circ_{Pb^{2+}/Pb} = -0.13\ V$. Will Lead displace hydrogen from acid?<br> Why is the reaction practically very slow?<br>
 <details><summary><b>Answer</b></summary>
 Thermodynamically, **Yes**, it should displace hydrogen since $E^\circ$ is negative. However, the potential difference is very small ($-0.13\ V$ vs $0.00\ V$), providing a very weak driving force. Kinetically, Lead often forms an insoluble protective coating (like $PbCl_2$ or $PbSO_4$) that stops the reaction quickly.
 </details>
@@ -200,22 +200,22 @@ Thermodynamically, **Yes**, it should displace hydrogen since $E^\circ$ is negat
 
 **Practice:**
 
-1. 🟢 Is the reaction $Ni + 2Ag^+ \rightarrow Ni^{2+} + 2Ag$ feasible? ($E^\circ_{Ni^{2+}/Ni} = -0.25\ V$, $E^\circ_{Ag^+/Ag} = +0.80\ V$).
+1. 🟢 Is the reaction $Ni + 2Ag^+ \rightarrow Ni^{2+} + 2Ag$ feasible?<br> ($E^\circ_{Ni^{2+}/Ni} = -0.25\ V$, $E^\circ_{Ag^+/Ag} = +0.80\ V$).
 <details><summary><b>Answer</b></summary>
 In the reaction, Ag+ is reducing. Since $E^\circ_{Ag} > E^\circ_{Ni}$, Ag+ wants to reduce more. **Yes, it is feasible.**
 </details>
 
-2. 🟢 Is the reaction $Cu + Zn^{2+} \rightarrow Cu^{2+} + Zn$ feasible?
+2. 🟢 Is the reaction $Cu + Zn^{2+} \rightarrow Cu^{2+} + Zn$ feasible?<br>
 <details><summary><b>Answer</b></summary>
 In the reaction, Zn2+ is reducing. But $E^\circ_{Zn} < E^\circ_{Cu}$. Zn2+ is a weaker oxidizing agent and cannot take electrons from Cu. **No, it is not feasible.**
 </details>
 
-3. 🟡 Can you oxidize $Fe^{2+}$ to $Fe^{3+}$ using $Br_2$ water? ($E^\circ_{Fe^{3+}/Fe^{2+}} = +0.77\ V$, $E^\circ_{Br_2/Br^-} = +1.09\ V$).
+3. 🟡 Can you oxidize $Fe^{2+}$ to $Fe^{3+}$ using $Br_2$ water?<br> ($E^\circ_{Fe^{3+}/Fe^{2+}} = +0.77\ V$, $E^\circ_{Br_2/Br^-} = +1.09\ V$).
 <details><summary><b>Answer</b></summary>
 $Br_2$ has a higher reduction potential ($+1.09\ V$) than $Fe^{3+}$ ($+0.77\ V$). Thus, $Br_2$ will act as the cathode (reduce) and force $Fe^{2+}$ to oxidize. **Yes, you can.**
 </details>
 
-4. 🟡 Can you reduce $Cr^{3+}$ to $Cr$ using solid $Sn$? ($E^\circ_{Cr^{3+}/Cr} = -0.74\ V$, $E^\circ_{Sn^{2+}/Sn} = -0.14\ V$).
+4. 🟡 Can you reduce $Cr^{3+}$ to $Cr$ using solid $Sn$?<br> ($E^\circ_{Cr^{3+}/Cr} = -0.74\ V$, $E^\circ_{Sn^{2+}/Sn} = -0.14\ V$).
 <details><summary><b>Answer</b></summary>
 For Sn to reduce $Cr^{3+}$, Sn must act as anode (oxidize). Thus, $E^\circ_{Sn}$ must be lower than $E^\circ_{Cr}$. 
 But $-0.14\ V$ is greater than $-0.74\ V$. Sn cannot force Cr3+ to reduce. **No.**
@@ -233,7 +233,7 @@ $Fe^{3+}$ is reducing in this equation. Since $E^\circ_{Fe}$ (+0.77 V) > $E^\cir
 **Pattern:** "Displacement rules for non-metals (Halogens). It is the inverse of metals!"
 
 **Solved Example** 🟡
-> Which of the following halogens can displace Bromine ($Br_2$) from an aqueous solution of Potassium Bromide ($KBr$)? 
+> Which of the following halogens can displace Bromine ($Br_2$) from an aqueous solution of Potassium Bromide ($KBr$)?<br> 
 > Options: $F_2, Cl_2, I_2$.
 > Values: $F_2 (+2.87\ V), Cl_2 (+1.36\ V), Br_2 (+1.09\ V), I_2 (+0.54\ V)$.
 
@@ -247,12 +247,12 @@ $Fe^{3+}$ is reducing in this equation. Since $E^\circ_{Fe}$ (+0.77 V) > $E^\cir
 
 **Practice:**
 
-1. 🟢 Can Chlorine ($Cl_2$) water displace Iodine from $KI$ solution?
+1. 🟢 Can Chlorine ($Cl_2$) water displace Iodine from $KI$ solution?<br>
 <details><summary><b>Answer</b></summary>
 $Cl_2$ (+1.36 V) > $I_2$ (+0.54 V). Yes, Chlorine is a stronger oxidizing agent. **Yes, it can.**
 </details>
 
-2. 🟢 Can Iodine ($I_2$) displace Chlorine from $KCl$ solution?
+2. 🟢 Can Iodine ($I_2$) displace Chlorine from $KCl$ solution?<br>
 <details><summary><b>Answer</b></summary>
 $I_2$ (+0.54 V) < $Cl_2$ (+1.36 V). Iodine is a weaker oxidizing agent. **No, it cannot.**
 </details>
@@ -262,12 +262,12 @@ $I_2$ (+0.54 V) < $Cl_2$ (+1.36 V). Iodine is a weaker oxidizing agent. **No, it
 $Cl_2(g) + 2NaBr(aq) \rightarrow 2NaCl(aq) + Br_2(aq)$
 </details>
 
-4. 🟡 A solution turns brown when a certain gas is passed through it, indicating the release of $Br_2$ or $I_2$. If the original solution was a mixture of $KBr$ and $KI$, and you pass exactly enough $Cl_2$ gas to react with one species, which gas is released first?
+4. 🟡 A solution turns brown when a certain gas is passed through it, indicating the release of $Br_2$ or $I_2$. If the original solution was a mixture of $KBr$ and $KI$, and you pass exactly enough $Cl_2$ gas to react with one species, which gas is released first?<br>
 <details><summary><b>Answer</b></summary>
 $Cl_2$ will oxidize the easiest species first. $I^-$ is the easiest to oxidize (lowest reduction potential of $+0.54\ V$). Therefore, **$I_2$** is released first.
 </details>
 
-5. 🔴 Why does Fluorine ($F_2$) not simply displace $Cl^-$ from aqueous $NaCl$ in a standard laboratory setup? (Hint: Think about water).
+5. 🔴 Why does Fluorine ($F_2$) not simply displace $Cl^-$ from aqueous $NaCl$ in a standard laboratory setup?<br> (Hint: Think about water).
 <details><summary><b>Answer</b></summary>
 Fluorine is such an overwhelmingly strong oxidizing agent ($+2.87\ V$) that it prefers to oxidize the *water* itself rather than waiting for the $Cl^-$ ions. It reacts explosively with water to produce Oxygen gas ($2F_2 + 2H_2O \rightarrow 4HF + O_2$).
 </details>
@@ -276,10 +276,10 @@ Fluorine is such an overwhelmingly strong oxidizing agent ($+2.87\ V$) that it p
 
 ### Type 6: Determining Reaction Paths in Mixtures ⭐
 
-**Pattern:** "If a solution contains multiple ions, which one gets reduced/oxidized first at the electrodes?"
+**Pattern:** "If a solution contains multiple ions, which one gets reduced/oxidized first at the electrodes?<br>"
 
 **Solved Example** 🔴
-> A solution contains $1\ M$ of $Zn^{2+}$, $Cu^{2+}$, and $Ag^+$. If you start electroplating metal onto a cathode by slowly applying a negative voltage, in what order will the metals deposit?
+> A solution contains $1\ M$ of $Zn^{2+}$, $Cu^{2+}$, and $Ag^+$. If you start electroplating metal onto a cathode by slowly applying a negative voltage, in what order will the metals deposit?<br>
 > ($Zn^{2+} = -0.76\ V$, $Cu^{2+} = +0.34\ V$, $Ag^+ = +0.80\ V$)
 
 <details><summary><b>Solution</b></summary>
@@ -292,27 +292,27 @@ Fluorine is such an overwhelmingly strong oxidizing agent ($+2.87\ V$) that it p
 
 **Practice:**
 
-1. 🟢 A solution contains $Fe^{2+} (-0.44\ V)$ and $Pb^{2+} (-0.13\ V)$. Which metal will deposit first on the cathode during electrolysis?
+1. 🟢 A solution contains $Fe^{2+} (-0.44\ V)$ and $Pb^{2+} (-0.13\ V)$. Which metal will deposit first on the cathode during electrolysis?<br>
 <details><summary><b>Answer</b></summary>
 $Pb^{2+}$ has the higher reduction potential ($-0.13\ V$ is higher than $-0.44\ V$). **Lead ($Pb$)** will deposit first.
 </details>
 
-2. 🟢 A mixture of $Br^-$ ($+1.09\ V$) and $I^-$ ($+0.54\ V$) is subjected to oxidation at an anode. Which halogen gas is evolved first?
+2. 🟢 A mixture of $Br^-$ ($+1.09\ V$) and $I^-$ ($+0.54\ V$) is subjected to oxidation at an anode. Which halogen gas is evolved first?<br>
 <details><summary><b>Answer</b></summary>
 At the anode, oxidation occurs. The species that *hates* reduction the most (lowest reduction potential) is the easiest to oxidize. $I^-$ (+0.54 V) < $Br^-$ (+1.09 V). Therefore, **Iodine ($I_2$)** is evolved first.
 </details>
 
-3. 🟡 During the electrolysis of aqueous $NaCl$, both $Na^+$ ($-2.71\ V$) and $H_2O$ (which reduces to $H_2$ at $-0.83\ V$) are at the cathode. Which gets reduced?
+3. 🟡 During the electrolysis of aqueous $NaCl$, both $Na^+$ ($-2.71\ V$) and $H_2O$ (which reduces to $H_2$ at $-0.83\ V$) are at the cathode. Which gets reduced?<br>
 <details><summary><b>Answer</b></summary>
 Water has a much higher reduction potential ($-0.83\ V$) compared to Sodium ions ($-2.71\ V$). Therefore, **Water is reduced**, evolving $H_2$ gas. Sodium ions remain in solution.
 </details>
 
-4. 🟡 A beaker contains $Ag^+$ ions. You drop a piece of $Zn$ and a piece of $Cu$ connected by a wire into the beaker. Which metal will act as the primary anode to reduce the silver?
+4. 🟡 A beaker contains $Ag^+$ ions. You drop a piece of $Zn$ and a piece of $Cu$ connected by a wire into the beaker. Which metal will act as the primary anode to reduce the silver?<br>
 <details><summary><b>Answer</b></summary>
 Zn has a much lower potential ($-0.76\ V$) than Cu ($+0.34\ V$). Zn is the much stronger reducing agent. **Zinc** will primarily oxidize and act as the anode until it is consumed.
 </details>
 
-5. 🔴 A solution contains $H^+$ and $Cu^{2+}$. If you pass hydrogen gas through this solution, what happens?
+5. 🔴 A solution contains $H^+$ and $Cu^{2+}$. If you pass hydrogen gas through this solution, what happens?<br>
 <details><summary><b>Answer</b></summary>
 $Cu^{2+}$ has $E^\circ = +0.34\ V$. $H^+$ has $E^\circ = 0.00\ V$.
 Since $Cu^{2+}$ is a stronger oxidizing agent than $H^+$, it can oxidize $H_2$ gas. 
@@ -344,7 +344,7 @@ Lowest $E^\circ$ (K, -2.93) $\rightarrow$ Highest reducing power.
 Sequence: Ag < Hg < Cr < Mg < K.
 </details>
 
-**Q2. (Board Type)** 🟡 Can a solution of $1\ M\ CuSO_4$ be stored in a vessel made of Nickel? ($E^\circ_{Ni^{2+}/Ni} = -0.25\ V$, $E^\circ_{Cu^{2+}/Cu} = +0.34\ V$).
+**Q2. (Board Type)** 🟡 Can a solution of $1\ M\ CuSO_4$ be stored in a vessel made of Nickel?<br> ($E^\circ_{Ni^{2+}/Ni} = -0.25\ V$, $E^\circ_{Cu^{2+}/Cu} = +0.34\ V$).
 (a) Yes, because Ni has a lower standard reduction potential.
 (b) Yes, because Cu has a lower standard reduction potential.
 (c) No, because Ni is a stronger reducing agent and will displace Cu.
@@ -372,7 +372,7 @@ $E^\circ_{cell} = 0.77\ V - (-0.14\ V) = 0.77 + 0.14 = \textbf{+0.91\ V}$.
 *(Note: Do not multiply the 0.77 by 2. $E^\circ$ is an intensive property).*
 </details>
 
-**Q4. (Exemplar Type)** 🟡 Which of the following displacement reactions is highly favored thermodynamically?
+**Q4. (Exemplar Type)** 🟡 Which of the following displacement reactions is highly favored thermodynamically?<br>
 (a) $Cu(s) + ZnSO_4(aq) \rightarrow CuSO_4(aq) + Zn(s)$
 (b) $2F^-(aq) + Cl_2(g) \rightarrow F_2(g) + 2Cl^-(aq)$
 (c) $Zn(s) + 2AgNO_3(aq) \rightarrow Zn(NO_3)_2(aq) + 2Ag(s)$
@@ -391,8 +391,8 @@ $E^\circ_{cell} = 0.77\ V - (-0.14\ V) = 0.77 + 0.14 = \textbf{+0.91\ V}$.
 ## 🔀 Stage 5: Type Mixer
 
 **Q1.** 🟡 ⭐ You are given an aqueous solution containing $FeCl_2$, $ZnCl_2$, and $CuCl_2$. 
-(a) If you add Chlorine gas ($Cl_2$) to this mixture, which metal ion, if any, will be oxidized further? ($E^\circ_{Cl_2/Cl^-} = +1.36\ V$, $E^\circ_{Fe^{3+}/Fe^{2+}} = +0.77\ V$, $E^\circ_{Cu^{2+}/Cu^+} = +0.15\ V$).
-(b) If you instead drop a Magnesium ribbon into the mixture, what sequence of solid metals will precipitate? ($E^\circ_{Mg} = -2.37\ V$, $E^\circ_{Zn} = -0.76\ V$, $E^\circ_{Fe} = -0.44\ V$, $E^\circ_{Cu} = +0.34\ V$).
+(a) If you add Chlorine gas ($Cl_2$) to this mixture, which metal ion, if any, will be oxidized further?<br> ($E^\circ_{Cl_2/Cl^-} = +1.36\ V$, $E^\circ_{Fe^{3+}/Fe^{2+}} = +0.77\ V$, $E^\circ_{Cu^{2+}/Cu^+} = +0.15\ V$).
+(b) If you instead drop a Magnesium ribbon into the mixture, what sequence of solid metals will precipitate?<br> ($E^\circ_{Mg} = -2.37\ V$, $E^\circ_{Zn} = -0.76\ V$, $E^\circ_{Fe} = -0.44\ V$, $E^\circ_{Cu} = +0.34\ V$).
 
 <details><summary><b>Solution</b></summary>
 (a) Chlorine is a strong oxidizing agent ($+1.36\ V$). It can oxidize anything with a lower reduction potential. It can oxidize $Fe^{2+}$ to $Fe^{3+}$ ($+0.77\ V$) and $Cu^+$ to $Cu^{2+}$ ($+0.15\ V$). But wait! The solution contains $Cu^{2+}$, which is already fully oxidized in this context. Therefore, $Cl_2$ will only oxidize **$Fe^{2+}$ to $Fe^{3+}$**.
@@ -400,14 +400,16 @@ $E^\circ_{cell} = 0.77\ V - (-0.14\ V) = 0.77 + 0.14 = \textbf{+0.91\ V}$.
 </details>
 
 **Q2.** 🔴 Standard reduction potentials for $A, B$, and $C$ are $+0.68\ V$, $-2.50\ V$, and $-0.50\ V$ respectively. 
-(a) Which metal can displace C from its salt solution?
-(b) Which metal can displace hydrogen from dilute acid?
-(c) Can A and B react spontaneously? If so, write the generic redox equation.
+(a) Which metal can displace C from its salt solution?<br>
+(b) Which metal can displace hydrogen from dilute acid?<br>
+(c) Can A and B react spontaneously?<br> If so, write the generic redox equation.
 
 <details><summary><b>Solution</b></summary>
 (a) To displace C ($-0.50\ V$), the metal must have a *lower* reduction potential. That is **Metal B** ($-2.50\ V$).
 (b) To displace Hydrogen ($0.00\ V$), the metal must have a negative potential. That is **Metal B and Metal C**.
-(c) Yes. The metal with lower potential (B) will oxidize, and higher potential (A) will reduce.
+(c) Yes. The metal with lower potential <br>
+(B) will oxidize, and higher potential <br>
+(A) will reduce.
 Generic equation: $B(s) + A^{n+}(aq) \rightarrow B^{m+}(aq) + A(s)$.
 </details>
 
@@ -415,17 +417,17 @@ Generic equation: $B(s) + A^{n+}(aq) \rightarrow B^{m+}(aq) + A(s)$.
 
 ## 📋 Stage 6: Board Arsenal
 
-**Q1.** 🟢 What is the electrochemical series? *(1 mark)*
+**Q1.** 🟢 What is the electrochemical series?<br> *(1 mark)*
 <details><summary><b>Model Answer</b></summary>
 The arrangement of various elements and their ions in increasing or decreasing order of their standard reduction potentials is called the electrochemical series.
 </details>
 
-**Q2.** 🟡 Why does the bluish color of Copper Sulphate solution fade when an iron nail is dipped into it? *(2 marks)*
+**Q2.** 🟡 Why does the bluish color of Copper Sulphate solution fade when an iron nail is dipped into it?<br> *(2 marks)*
 <details><summary><b>Model Answer</b></summary>
 Iron ($E^\circ = -0.44\ V$) is placed lower than Copper ($E^\circ = +0.34\ V$) in the electrochemical series. Being a stronger reducing agent, iron displaces copper from the solution ($Fe + Cu^{2+} \rightarrow Fe^{2+} + Cu$). The blue $Cu^{2+}$ ions get consumed and replaced by pale green $Fe^{2+}$ ions, causing the color to fade.
 </details>
 
-**Q3.** 🟡 Out of Zinc and Tin, which one protects Iron better from corrosion and why? ($E^\circ_{Zn} = -0.76\ V$, $E^\circ_{Fe} = -0.44\ V$, $E^\circ_{Sn} = -0.14\ V$). *(2 marks)*
+**Q3.** 🟡 Out of Zinc and Tin, which one protects Iron better from corrosion and why?<br> ($E^\circ_{Zn} = -0.76\ V$, $E^\circ_{Fe} = -0.44\ V$, $E^\circ_{Sn} = -0.14\ V$). *(2 marks)*
 <details><summary><b>Model Answer</b></summary>
 **Zinc protects better.** Zinc has a lower reduction potential than Iron, meaning it acts as the anode and preferentially oxidizes (sacrificial protection). Tin has a higher potential than Iron, so if the coating breaks, Iron becomes the anode and rusts even faster in the presence of Tin.
 </details>
@@ -454,7 +456,7 @@ $Li^+$ (-3.05) has a much lower potential than Water (-0.83 V). So water will re
 </details>
 
 **Q2.** 🔴 Given $E^\circ_{O_2/H_2O} = +1.23\ V$ and $E^\circ_{S_2O_8^{2-}/SO_4^{2-}} = +2.05\ V$. 
-Which of the following is true regarding the electrolysis of dilute $H_2SO_4$ vs concentrated $H_2SO_4$ at the anode?
+Which of the following is true regarding the electrolysis of dilute $H_2SO_4$ vs concentrated $H_2SO_4$ at the anode?<br>
 (a) $O_2$ is produced in both cases.
 (b) $S_2O_8^{2-}$ is produced in both cases.
 (c) $O_2$ is produced in dilute, $S_2O_8^{2-}$ is produced in concentrated.

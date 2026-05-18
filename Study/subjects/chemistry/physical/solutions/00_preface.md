@@ -3,7 +3,7 @@
 
 ---
 
-## Who Is This Book For?
+## Who Is This Book For?<br>
 
 You're a Class 12 student. You've solved a hundred concentration-term questions. You can write Raoult's Law in your sleep. And yet — when the examiner asks *why* vapour pressure decreases, or asks you to find molar mass from osmotic pressure, something clicks wrong.
 
@@ -15,7 +15,7 @@ It doesn't hand you formulas to memorise. It builds your **chemical intuition** 
 
 ## How This Book Works
 
-### The 6-Stage Method (Per Chapter)
+### The 8-Stage Method (Per Chapter)
 
 Every chapter follows the same ruthless progression:
 
@@ -27,6 +27,8 @@ Every chapter follows the same ruthless progression:
 | **🔀 Stage 4: Type Mixer** | 3–5 problems combining 2–3 types from the same chapter | You learn to identify *which type* a question belongs to |
 | **📋 Stage 5: Board Arsenal** | NCERT + Board-style questions with model answers | Clean, direct — score these first every time |
 | **🚀 Stage 6: JEE Mains Arena** | 5 MCQs with traps + full explained solutions | The real test of understanding |
+| **🧠 Stage 7: Assertion-Reasoning** | Statement & A-R questions with detailed explanation | Trains you to dissect tricky phrasing and detect subtle errors |
+| **🏆 Stage 8: MCQ Mastery** | 15 curated MCQs targeting every trap in the chapter | The final boss — combine speed, accuracy, and concept clarity |
 
 ### Difficulty Tags
 
@@ -52,7 +54,7 @@ Every problem is tagged:
 
 | Ch | File | Topic | Key Skill |
 |----|------|-------|-----------|
-| 1 | [01_what_is_a_solution.md](./01_what_is_a_solution.md) | What Is a Solution? | Types by state, solute vs. solvent, binary/ternary |
+| 1 | [01_what_is_a_solution.md](./01_what_is_a_solution.md) | What Is a Solution?<br> | Types by state, solute vs. solvent, binary/ternary |
 | 2 | [02_concentration_terms.md](./02_concentration_terms.md) | The Language of Concentration | All 6 units — comparison, formula overview |
 
 ### Part II — Concentration Mastery

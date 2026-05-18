@@ -138,62 +138,62 @@ By the end of 2024, the world had bifurcated. In the paper world, silver was sti
 
 ## Comprehension Check: Spot the Scam
 
-**Q1:** If the silver deficit was 148 million ounces, why didn't the price triple immediately?
+**Q1:** If the silver deficit was 148 million ounces, why didn't the price triple immediately?<br>
 **A:** Because the "Paper Market" (COMEX) sets the price, not the physical market. Banks sold paper silver to fill the demand gap, suppressing the price signal.
 **C:** *Investigate "Paper to Silver Ratio" to see how many paper claims exist for each real ounce.*
 
-**Q2:** Why did miners not produce more silver when the price hit $30?
+**Q2:** Why did miners not produce more silver when the price hit $30?<br>
 **A:** Inflation raised their costs (AISC) so much that their profit margins didn't expand enough to justify new expensive mines.
 **C:** *Look up "Capital Destruction" in mining to see why investors hate building new mines.*
 
-**Q3:** How can India import 4,000 tons if the deficit is so big?
+**Q3:** How can India import 4,000 tons if the deficit is so big?<br>
 **A:** They drained the "Above Ground Stocks" (London Vaults). They didn't buy new mining supply; they bought existing bars from Western investors.
-**C:** *What happens when the London vaults are empty?*
+**C:** *What happens when the London vaults are empty?<br>*
 
-**Q4:** Why does the Shanghai price matter more than the New York price?
+**Q4:** Why does the Shanghai price matter more than the New York price?<br>
 **A:** Because Shanghai deals in physical metal delivery, while New York deals mostly in cash settlement. Physical markets eventually dictate the truth.
 **C:** *Search "Arbitrage Window" to see why traders couldn't just ship silver to China to profit.*
 
-**Q5:** What is "The Big Short" Ted Butler warned about?
+**Q5:** What is "The Big Short" Ted Butler warned about?<br>
 **A:** A massive bet by a bank that silver prices would fall, holding a position larger than the entire output of the world's biggest mine.
-**C:** *Who was on the other side of that trade?*
+**C:** *Who was on the other side of that trade?<br>*
 
-**Q6:** Why is "TOPCon" technology a nightmare for silver shorts?
+**Q6:** Why is "TOPCon" technology a nightmare for silver shorts?<br>
 **A:** It requires 30% more silver per watt. It turns silver from a "precious metal" into an "irreplaceable industrial energy metal."
-**C:** *Is there any substitute for silver in solar panels? (Spoiler: No).*
+**C:** *Is there any substitute for silver in solar panels?<br> (Spoiler: No).*
 
-**Q7:** Why did Russia buying silver change the game?
+**Q7:** Why did Russia buying silver change the game?<br>
 **A:** Central Banks usually only buy gold. A nuclear power treating silver as a strategic reserve asset validates it as "money" again.
-**C:** *Did the US government use to hold strategic silver? (See Phase 48).*
+**C:** *Did the US government use to hold strategic silver?<br> (See Phase 48).*
 
-**Q8:** What does "Backwardation" in silver signal?
+**Q8:** What does "Backwardation" in silver signal?<br>
 **A:** It means traders are willing to pay MORE for silver today than for silver next month. It proves a desperate physical shortage.
 **C:** *Check the "SiFo" (Silver Forward Rate) for 2024.*
 
-**Q9:** Why is Costco selling silver important?
+**Q9:** Why is Costco selling silver important?<br>
 **A:** It bypasses the banking system. It shows that the "Main Street" demand is real and massive, stripping physical ounces directly from the refiners.
-**C:** *How much inventory does Costco keep?*
+**C:** *How much inventory does Costco keep?<br>*
 
-**Q10:** If the "Registered" inventory at COMEX drops to zero, what happens?
+**Q10:** If the "Registered" inventory at COMEX drops to zero, what happens?<br>
 **A:** The exchange declares "Force Majeure" and settles contracts in cash instead of metal. This is a default.
-**C:** *Has this happened before in other metals? (Check Nickel 2022).*
+**C:** *Has this happened before in other metals?<br> (Check Nickel 2022).*
 
-**Q11:** Why do "By-product credits" matter for primary miners?
+**Q11:** Why do "By-product credits" matter for primary miners?<br>
 **A:** They lower the *reported* cost of mining silver. If zinc prices crash, the cost to mine silver seemingly skyrockets.
-**C:** *Is silver mostly mined alone or with other metals?*
+**C:** *Is silver mostly mined alone or with other metals?<br>*
 
-**Q12:** What is the "Green Energy Paradox" for silver?
+**Q12:** What is the "Green Energy Paradox" for silver?<br>
 **A:** Governments want cheap green energy (solar/EVs) but their inflation policies make mining the necessary silver too expensive.
-**C:** *Can you have a Green Transition without cheap silver?*
+**C:** *Can you have a Green Transition without cheap silver?<br>*
 
-**Q13:** Why did the "Shanghai Premium" not disappear?
+**Q13:** Why did the "Shanghai Premium" not disappear?<br>
 **A:** Export controls and physical scarcity meant metal couldn't flow into China fast enough to lower the price difference.
-**C:** *What is "Capital Control"?*
+**C:** *What is "Capital Control"?<br>*
 
-**Q14:** What is the role of "Leasing" in silver suppression?
+**Q14:** What is the role of "Leasing" in silver suppression?<br>
 **A:** Banks lend silver they don't have to short sellers, creating "phantom supply" to dampen the price.
-**C:** *Who regulates silver leasing rates?*
+**C:** *Who regulates silver leasing rates?<br>*
 
-**Q15:** How does 2024 set the stage for Phase 60 (The End)?
+**Q15:** How does 2024 set the stage for Phase 60 (The End)?<br>
 **A:** It is the moment the physical market finally broke away from the paper market. The "bifurcation" is the death rattle of the manipulation system.
-**C:** *What will replace the COMEX?*
+**C:** *What will replace the COMEX?<br>*

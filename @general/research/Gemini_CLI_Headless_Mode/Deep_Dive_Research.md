@@ -8,7 +8,7 @@
 ## Table of Contents
 
 1. [Executive Summary](#executive-summary)
-2. [What is Headless Mode?](#what-is-headless-mode)
+2. [What is Headless Mode?<br>](#what-is-headless-mode)
 3. [Core Architecture & How It Works](#core-architecture--how-it-works)
 4. [Authentication Mechanisms](#authentication-mechanisms)
 5. [Input Methods](#input-methods)
@@ -42,7 +42,7 @@ This makes it ideal for:
 
 ---
 
-## What is Headless Mode?
+## What is Headless Mode?<br>
 
 ### Definition
 
@@ -112,7 +112,7 @@ This makes it ideal for:
 ┌─────────────────────────────────────────────────────────────┐
 │  5. EXIT                                                    │
 │     • Returns exit code (0 = success, non-zero = error)     │
-│     • Script can check $? for status                        │
+│     • Script can check $?<br> for status                        │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -150,7 +150,7 @@ Headless mode **requires non-interactive authentication** since browser-based OA
 
 3. **Run Gemini CLI:**
    ```bash
-   gemini -p "What is machine learning?"
+   gemini -p "What is machine learning?<br>"
    ```
 
 #### In CI/CD (GitHub Actions Example):
@@ -214,7 +214,7 @@ Headless mode **requires non-interactive authentication** since browser-based OA
 
 5. **Use curl to send callback to server:**
    ```bash
-   curl "http://localhost:PORT/callback?code=AUTH_CODE"
+   curl "http://localhost:PORT/callback?<br>code=AUTH_CODE"
    ```
 
 ---
@@ -233,7 +233,7 @@ gemini -p "Your prompt here"  # Short form
 
 **Examples:**
 ```bash
-gemini -p "What is the capital of France?"
+gemini -p "What is the capital of France?<br>"
 gemini --prompt "Explain quantum computing in simple terms"
 ```
 
@@ -299,7 +299,7 @@ gemini -p "Hello, Gemini!"
 
 **Output:**
 ```
-Hello! How can I help you today? I'm ready to assist with your coding needs.
+Hello! How can I help you today?<br> I'm ready to assist with your coding needs.
 ```
 
 ### 2. JSON Output
@@ -308,7 +308,7 @@ Hello! How can I help you today? I'm ready to assist with your coding needs.
 
 **Syntax:**
 ```bash
-gemini -p "What is AI?" --output-format json
+gemini -p "What is AI?<br>" --output-format json
 ```
 
 **Output Structure:**
@@ -331,7 +331,7 @@ gemini -p "What is AI?" --output-format json
 
 **Parsing Example (Bash):**
 ```bash
-response=$(gemini -p "what is 2+2?" --output-format json | jq -r '.response')
+response=$(gemini -p "what is 2+2?<br>" --output-format json | jq -r '.response')
 echo "Answer: $response"
 ```
 
@@ -486,13 +486,13 @@ The Gemini CLI provides **consistent exit codes** for programmatic error handlin
 ```bash
 #!/bin/bash
 
-gemini -p "What is AI?" --output-format json > output.json
+gemini -p "What is AI?<br>" --output-format json > output.json
 
-if [ $? -eq 0 ]; then
+if [ $?<br> -eq 0 ]; then
   echo "Success!"
   cat output.json | jq '.response'
 else
-  echo "Error occurred (exit code: $?)"
+  echo "Error occurred (exit code: $?<br>)"
   exit 1
 fi
 ```
@@ -504,7 +504,7 @@ fi
 
 set -euo pipefail  # Exit on error, undefined variables, pipe failures
 
-OUTPUT=$(gemini -p "Review this code" --output-format json 2>&1) || EXIT_CODE=$?
+OUTPUT=$(gemini -p "Review this code" --output-format json 2>&1) || EXIT_CODE=$?<br>
 
 case ${EXIT_CODE:-0} in
   0)
@@ -587,7 +587,7 @@ for i in $(seq 1 $max_retries); do
     echo "✅ Success!"
     break
   else
-    exit_code=$?
+    exit_code=$?<br>
     echo "❌ Failed with exit code $exit_code"
     
     if [ $i -lt $max_retries ]; then
@@ -1265,7 +1265,7 @@ wait  # 10x faster than sequential
 
 ### 3. Error Handling & Resilience
 
-- Always check exit codes (`$?`)
+- Always check exit codes (`$?<br>`)
 - Implement retry logic with exponential backoff
 - Log errors to files for debugging
 - Use JSON output for easier error parsing
@@ -1309,7 +1309,7 @@ LOG_FILE="gemini-audit.log"
 function gemini_logged() {
   echo "[$(date)] Running: gemini $@" >> "$LOG_FILE"
   gemini "$@"
-  EXIT_CODE=$?
+  EXIT_CODE=$?<br>
   echo "[$(date)] Exit code: $EXIT_CODE" >> "$LOG_FILE"
   return $EXIT_CODE
 }

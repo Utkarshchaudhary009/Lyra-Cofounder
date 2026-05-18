@@ -14,7 +14,7 @@ Silver is more than just money or an industrial component. It is a material that
 *   **China's Checkmate:** China controls 70% of silver refining and is hoarding the metal. By restricting exports (as seen in 2026), they can strangle the West's green energy transition. Silver is no longer just a trade good; it is a weapon of economic war.
 
 ## 3. The New Mining Frontier
-We have scraped the surface of the Earth clean. Where do we go next?
+We have scraped the surface of the Earth clean. Where do we go next?<br>
 *   **Deep Sea Mining:** The ocean floor is covered in "polymetallic nodules" rich in manganese, nickel, and *silver*. But extracting them is an environmental and engineering nightmare.
 *   **Phytomining:** Imagine planting a crop that sucks silver out of the soil. "Hyperaccumulator" plants (like certain mustards) can do this. It sounds like sci-fi, but it is a real technology being developed to "grow" metal.
 *   **Asteroid Mining:** The dream of mining space rocks for silver is exactly that—a dream. The economics won't make sense until well after 2050.

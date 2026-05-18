@@ -26,14 +26,14 @@ Your brain is not finished. You are operating with incomplete hardware for the m
 ### What to Focus On
 
 **Self-knowledge — not choosing others.**
-- What are your values? (Not what you SAY your values are — what do your ACTIONS reveal?)
-- What triggers you? What makes you disproportionately angry, anxious, or desperate?
-- What are your attachment patterns? (Anxious? Avoidant? Disorganized? Secure?)
-- What do you confuse for love? (Anxiety? Validation-seeking? Fear of abandonment? Intensity?)
+- What are your values?<br> (Not what you SAY your values are — what do your ACTIONS reveal?<br>)
+- What triggers you?<br> What makes you disproportionately angry, anxious, or desperate?<br>
+- What are your attachment patterns?<br> (Anxious?<br> Avoidant?<br> Disorganized?<br> Secure?<br>)
+- What do you confuse for love?<br> (Anxiety?<br> Validation-seeking?<br> Fear of abandonment?<br> Intensity?<br>)
 
 **Pattern recognition.**
 - Date (casually, without permanent commitment) to LEARN
-- Notice: What type of person do you attract? What type do you chase? Are those healthy patterns or wounded ones?
+- Notice: What type of person do you attract?<br> What type do you chase?<br> Are those healthy patterns or wounded ones?<br>
 - Start seeing relationships as data about yourself, not just experiences to enjoy
 
 **Standards formation.**
@@ -54,7 +54,7 @@ You haven't felt much yet. Your reference library is nearly empty. The intensity
 
 ### Common-Sense Question to Sit With
 
-> *If the relationship ended tomorrow, would I still know who I am?*
+> *If the relationship ended tomorrow, would I still know who I am?<br>*
 
 If no — you've lost yourself. That's not a relationship. That's dependency.
 
@@ -95,11 +95,11 @@ Work on ALL of them. The quality of person you can attract is directly proportio
 **Observing under pressure.**
 
 You should now be evaluating how partners handle:
-- Money stress — how do they respond when money is tight?
-- Career disappointment — what happens when they fail or are rejected?
-- Family conflict — how do they navigate their own family's dysfunction?
-- YOUR success — do they celebrate or compete?
-- YOUR other relationships — do they support your friendships or isolate you?
+- Money stress — how do they respond when money is tight?<br>
+- Career disappointment — what happens when they fail or are rejected?<br>
+- Family conflict — how do they navigate their own family's dysfunction?<br>
+- YOUR success — do they celebrate or compete?<br>
+- YOUR other relationships — do they support your friendships or isolate you?<br>
 
 ### What NOT to Do
 
@@ -109,7 +109,7 @@ You should now be evaluating how partners handle:
 
 ### Common-Sense Question
 
-> *Am I choosing this person, or am I choosing "not being alone"?*
+> *Am I choosing this person, or am I choosing "not being alone"?<br>*
 
 These produce vastly different decisions.
 
@@ -125,45 +125,45 @@ This is the critical window. You have enough data — you've been burned, you've
 **Character confirmation over LONG periods.**
 
 Not 3 months. **1–2 years minimum** before major commitments. In that time, observe:
-- How did they handle that family crisis?
-- That career setback?
-- That argument where you were clearly right?
-- That one where THEY were right — did you get a respectful correction or a weaponized superiority moment?
+- How did they handle that family crisis?<br>
+- That career setback?<br>
+- That argument where you were clearly right?<br>
+- That one where THEY were right — did you get a respectful correction or a weaponized superiority moment?<br>
 
 **The Practical Compatibility Audit.**
 
 Have the explicit, uncomfortable conversations:
 
 *Money:*
-- What's the debt situation? Open books.
-- What's the savings philosophy? Aligned?
-- What are the earning expectations? Is one person expected to be the primary earner?
-- How are expenses shared? Proportional? Equal? Pooled?
+- What's the debt situation?<br> Open books.
+- What's the savings philosophy?<br> Aligned?<br>
+- What are the earning expectations?<br> Is one person expected to be the primary earner?<br>
+- How are expenses shared?<br> Proportional?<br> Equal?<br> Pooled?<br>
 
 *Children:*
 - Not "someday" — specific timelines
 - Parenting philosophies (compare BEFORE children arrive, not after)
-- Sacrifice willingness — who adjusts career? For how long? What's the plan?
+- Sacrifice willingness — who adjusts career?<br> For how long?<br> What's the plan?<br>
 
 *Lifestyle:*
-- Where to live? For how long? Is either person flexible?
-- How social? How much independence vs. togetherness?
+- Where to live?<br> For how long?<br> Is either person flexible?<br>
+- How social?<br> How much independence vs. togetherness?<br>
 - Daily rhythm compatibility (early bird vs. night owl, high-energy vs. low-key)
 
 *Family dynamics:*
-- What role do parents play? How much influence? How are boundaries maintained?
-- What behaviors are normalized in their family that would be unacceptable in yours?
+- What role do parents play?<br> How much influence?<br> How are boundaries maintained?<br>
+- What behaviors are normalized in their family that would be unacceptable in yours?<br>
 - Observe their family — you're inheriting its programming
 
 **The Respect Test.**
 
-Not "do I love this person" but **"do I RESPECT this person?"**
+Not "do I love this person" but **"do I RESPECT this person?<br>"**
 
 Love fluctuates. Respect sustains. Ask yourself:
-- Can I look at this person in 10, 20, 30 years and feel genuine respect for who they are?
-- Do I respect how they handle difficulty?
-- Do I respect their mind? Their character? Their choices?
-- Would I want my children to turn out like them?
+- Can I look at this person in 10, 20, 30 years and feel genuine respect for who they are?<br>
+- Do I respect how they handle difficulty?<br>
+- Do I respect their mind?<br> Their character?<br> Their choices?<br>
+- Would I want my children to turn out like them?<br>
 
 ### What NOT to Do
 
@@ -179,7 +179,7 @@ Potential is not partnership material. Demonstrated behavior is.
 
 ### Common-Sense Question
 
-> *If this person never changed — not one thing — could I build a life with exactly who they are today?*
+> *If this person never changed — not one thing — could I build a life with exactly who they are today?<br>*
 
 If not, you're not choosing them. You're choosing a fantasy.
 
@@ -188,39 +188,39 @@ If not, you're not choosing them. You're choosing a fantasy.
 ## 4.5 Ages 30–35: THE DECISION PHASE
 
 ### The Core Reality
-If you haven't chosen, pressure intensifies — both internal ("am I running out of time?") and external ("when are you settling down?"). This is where wisdom must overpower urgency.
+If you haven't chosen, pressure intensifies — both internal ("am I running out of time?<br>") and external ("when are you settling down?<br>"). This is where wisdom must overpower urgency.
 
 ### What to Focus On
 
 **Peace over passion.**
 
 Excitement fades. Always. What remains is:
-- Can you sit in silence with this person?
-- Can you handle a boring Wednesday with them?
-- Can you be sick around them without performing wellness?
-- Can you be ugly, tired, stressed, and unimpressive — and still feel safe?
+- Can you sit in silence with this person?<br>
+- Can you handle a boring Wednesday with them?<br>
+- Can you be sick around them without performing wellness?<br>
+- Can you be ugly, tired, stressed, and unimpressive — and still feel safe?<br>
 
-That's the real test. Not "do they make my heart race?" but "do they make my nervous system calm?"
+That's the real test. Not "do they make my heart race?<br>" but "do they make my nervous system calm?<br>"
 
 **Demonstrated track record over potential.**
 
 At 30+, evaluate EVIDENCE, not promises:
-- How have they managed their finances over the last decade?
-- Their health?
-- Their relationships (friendships, family, past partners)?
-- Their career?
-- Their personal growth?
+- How have they managed their finances over the last decade?<br>
+- Their health?<br>
+- Their relationships (friendships, family, past partners)?<br>
+- Their career?<br>
+- Their personal growth?<br>
 
 Past behavior is the best predictor of future behavior.
 
 **Partnership mechanics.**
 
 This is now a business decision AND an emotional one:
-- Are you compatible operators of a shared life?
-- Can you manage a household together?
-- Can you make financial decisions together without resentment?
-- Can you navigate crises as a team, not opponents?
-- Can you divide labor fairly and adjust when circumstances change?
+- Are you compatible operators of a shared life?<br>
+- Can you manage a household together?<br>
+- Can you make financial decisions together without resentment?<br>
+- Can you navigate crises as a team, not opponents?<br>
+- Can you divide labor fairly and adjust when circumstances change?<br>
 
 ### What NOT to Do
 
@@ -230,7 +230,7 @@ This is now a business decision AND an emotional one:
 
 ### Common-Sense Question
 
-> *Am I choosing from abundance (genuine desire for THIS person) or scarcity (fear of being alone)?*
+> *Am I choosing from abundance (genuine desire for THIS person) or scarcity (fear of being alone)?<br>*
 
 Scarcity choices almost always need to be revised later — at much higher cost.
 
@@ -246,36 +246,36 @@ You have the most data, the most self-knowledge, and (ideally) the most emotiona
 **Companionship quality.**
 
 Physical attraction matters but it decays — guaranteed. What matters now:
-- Do you enjoy this person's mind?
-- Can you talk for decades?
-- Do they make the mundane meaningful?
-- Is there genuine intellectual and emotional curiosity between you?
+- Do you enjoy this person's mind?<br>
+- Can you talk for decades?<br>
+- Do they make the mundane meaningful?<br>
+- Is there genuine intellectual and emotional curiosity between you?<br>
 
 **Demonstrated stability.**
 
 At this point, someone should have a visible track record:
 - Financial habits — observable over years
-- Relationship history — not just "what happened" but "what did they learn?"
-- Health management — do they take care of themselves?
-- Emotional maturity — how do they process difficulty?
+- Relationship history — not just "what happened" but "what did they learn?<br>"
+- Health management — do they take care of themselves?<br>
+- Emotional maturity — how do they process difficulty?<br>
 
 Trust the data. There's enough of it now.
 
 **Shared purpose.**
 
 Attraction initiated things. Character sustained things. But PURPOSE gives it direction:
-- Where are you going together?
-- What are you building?
-- What's the shared mission beyond "being happy"?
+- Where are you going together?<br>
+- What are you building?<br>
+- What's the shared mission beyond "being happy"?<br>
 
 Relationships without shared purpose drift. They become cohabitation without intention.
 
 **Flexibility.**
 
 You're both more formed now. Rigidity is the enemy:
-- Can you both bend without breaking?
-- Can you accommodate another fully-formed human's needs, habits, and history?
-- Can you integrate without requiring the other person to become someone else?
+- Can you both bend without breaking?<br>
+- Can you accommodate another fully-formed human's needs, habits, and history?<br>
+- Can you integrate without requiring the other person to become someone else?<br>
 
 ### What NOT to Do
 

@@ -6,7 +6,7 @@
 
 ## 2.1 The Two Dimensions
 
-Most people evaluate partners on a single dimension: **"How do they make me feel?"**
+Most people evaluate partners on a single dimension: **"How do they make me feel?<br>"**
 
 This is like evaluating a house by how the front door looks. You're going to live inside it for decades — and the plumbing, foundation, and wiring matter far more than the paint color.
 
@@ -31,13 +31,13 @@ Character is who they are when:
 
 | Trait | How to Observe It | Red Flag |
 |-------|------------------|----------|
-| **Honesty** | Do their stories stay consistent? Do they admit small lies? Do they handle inconvenient truths or dodge them? | Casual dishonesty with others — "they'll do it to you too." Small lies treated as "no big deal." |
-| **Accountability** | Can they say "I was wrong" without deflecting to you? Without adding "but you..."? Clean, no conditions? | Every conflict ends with YOU apologizing. They always have an explanation for why it's not their fault. |
-| **Emotional Regulation** | How do they handle anger, disappointment, fear? Do they process or explode? | Explosive reactions, silent treatment as punishment, punishing withdrawal, walls slamming, name-calling |
-| **Respect** | How do they treat waiters, drivers, their parents, strangers, people who serve them? | Kindness with an audience, cruelty without one. Different person to different people depending on what they need from them. |
-| **Generosity** | Not just money — attention, time, credit, patience, forgiveness. Do they give when there's no reward? | Scorekeeping ("I did X for you so you owe me Y"). Transactional kindness. Giving only when they want something. |
-| **Impulse Control** | Can they delay gratification? Handle frustration without acting out? Sit with discomfort? | Addictive patterns (substance, spending, attention-seeking). Reckless decisions. Inability to wait for anything. |
-| **Consistency** | Are they the same person in different contexts? Same character at home, at work, with friends, with family? | Dramatically different personality depending on who's around. You wonder "which one is the real them?" |
+| **Honesty** | Do their stories stay consistent?<br> Do they admit small lies?<br> Do they handle inconvenient truths or dodge them?<br> | Casual dishonesty with others — "they'll do it to you too." Small lies treated as "no big deal." |
+| **Accountability** | Can they say "I was wrong" without deflecting to you?<br> Without adding "but you..."?<br> Clean, no conditions?<br> | Every conflict ends with YOU apologizing. They always have an explanation for why it's not their fault. |
+| **Emotional Regulation** | How do they handle anger, disappointment, fear?<br> Do they process or explode?<br> | Explosive reactions, silent treatment as punishment, punishing withdrawal, walls slamming, name-calling |
+| **Respect** | How do they treat waiters, drivers, their parents, strangers, people who serve them?<br> | Kindness with an audience, cruelty without one. Different person to different people depending on what they need from them. |
+| **Generosity** | Not just money — attention, time, credit, patience, forgiveness. Do they give when there's no reward?<br> | Scorekeeping ("I did X for you so you owe me Y"). Transactional kindness. Giving only when they want something. |
+| **Impulse Control** | Can they delay gratification?<br> Handle frustration without acting out?<br> Sit with discomfort?<br> | Addictive patterns (substance, spending, attention-seeking). Reckless decisions. Inability to wait for anything. |
+| **Consistency** | Are they the same person in different contexts?<br> Same character at home, at work, with friends, with family?<br> | Dramatically different personality depending on who's around. You wonder "which one is the real them?<br>" |
 
 ### The 90-Day Minimum
 
@@ -45,7 +45,7 @@ Character doesn't reveal itself in a weekend or even a month. You need to see so
 - **Stress** — work pressure, financial trouble, health scare
 - **Boredom** — nothing exciting happening, just regular life
 - **Conflict** — real disagreement where both people feel strongly
-- **Joy** — YOUR success, not just shared success (do they celebrate or compete?)
+- **Joy** — YOUR success, not just shared success (do they celebrate or compete?<br>)
 - **Loss** — disappointment, failure, grief
 
 Give it **at least 90 days** of genuine, below-the-surface interaction before drawing character conclusions. And even then — stay observant. Character reveals itself in layers.
@@ -65,11 +65,11 @@ Compatibility is not about matching interests. Two people who both like hiking b
 Not "how much do they have" — but the **philosophy**.
 
 Questions that reveal alignment:
-- Saver vs. spender? Where do they fall?
-- What's their relationship with debt?
-- Risk-tolerant (investing, entrepreneurship) or security-seeking (stable job, savings)?
-- Financial transparency or financial independence within the relationship?
-- How do they handle shared expenses? Generous? Stingy? Anxious?
+- Saver vs. spender?<br> Where do they fall?<br>
+- What's their relationship with debt?<br>
+- Risk-tolerant (investing, entrepreneurship) or security-seeking (stable job, savings)?<br>
+- Financial transparency or financial independence within the relationship?<br>
+- How do they handle shared expenses?<br> Generous?<br> Stingy?<br> Anxious?<br>
 
 **Why this matters most:** Financial disagreement causes more relationship failures than infidelity. It's a daily friction source. You can disagree about a movie and move on. You disagree about money every single day.
 
@@ -81,26 +81,26 @@ How each person handles disagreement:
 - "Let's talk now" vs. "I need space first"
 - Attack-mode vs. withdrawal-mode
 
-**These don't need to match perfectly, but they need to be reconcilable.** A fighter and an avoider CAN work — if the fighter learns patience and the avoider learns engagement. But two fighters with no cooling mechanism? Or two avoiders who never surface problems? Those systems fail.
+**These don't need to match perfectly, but they need to be reconcilable.** A fighter and an avoider CAN work — if the fighter learns patience and the avoider learns engagement. But two fighters with no cooling mechanism?<br> Or two avoiders who never surface problems?<br> Those systems fail.
 
 #### 3. Life Trajectory
 
-Where is each person heading?
-- Compatible ambition levels? (One person driving 80-hour weeks while the other wants work-life balance = friction)
-- Agreed on geography? (City vs. small town, home country vs. abroad)
-- Lifestyle expectations? (Social life size, travel frequency, daily rhythm)
-- Career flexibility? (Can either adapt if the other needs to relocate, change fields?)
+Where is each person heading?<br>
+- Compatible ambition levels?<br> (One person driving 80-hour weeks while the other wants work-life balance = friction)
+- Agreed on geography?<br> (City vs. small town, home country vs. abroad)
+- Lifestyle expectations?<br> (Social life size, travel frequency, daily rhythm)
+- Career flexibility?<br> (Can either adapt if the other needs to relocate, change fields?<br>)
 
 **Two people going in opposite directions don't become compatible because they love each other.** Love doesn't solve logistics. It makes you willing to try — but if the directions are fundamentally opposed, willingness runs out.
 
 #### 4. Family and Children
 
-This is more than "do you want kids?"
+This is more than "do you want kids?<br>"
 
-- **Timeline:** When? Is there agreement or will one person pressure the other?
-- **Parenting philosophy:** Strict or relaxed? Religious upbringing or secular? Public or private school? Division of parenting labor?
-- **In-law involvement:** What role do parents play? How much influence? How are boundaries managed?
-- **Sacrifice willingness:** Who adjusts career? Who handles the sleep-deprived years? What are the expectations?
+- **Timeline:** When?<br> Is there agreement or will one person pressure the other?<br>
+- **Parenting philosophy:** Strict or relaxed?<br> Religious upbringing or secular?<br> Public or private school?<br> Division of parenting labor?<br>
+- **In-law involvement:** What role do parents play?<br> How much influence?<br> How are boundaries managed?<br>
+- **Sacrifice willingness:** Who adjusts career?<br> Who handles the sleep-deprived years?<br> What are the expectations?<br>
 
 **There is no compromise on "I want children" vs. "I don't want children."** Someone will resent the outcome. This must be aligned, not negotiated.
 
@@ -108,8 +108,8 @@ This is more than "do you want kids?"
 
 - Physical affection frequency and style
 - Emotional vulnerability expectations (how deep, how often)
-- Quality time requirements (how much togetherness is enough?)
-- Independence needs (how much space is needed without it meaning rejection?)
+- Quality time requirements (how much togetherness is enough?<br>)
+- Independence needs (how much space is needed without it meaning rejection?<br>)
 
 **Mismatches here breed resentment silently.** One person feels neglected. The other feels smothered. Both feel unloved. Neither is wrong — they're just misaligned.
 

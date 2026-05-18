@@ -324,7 +324,7 @@ Due to "Guns and Butter" spending (Vietnam War + Great Society programs), the US
 - **Debt-fueled Consumption:** US became the "consumer of last resort," running massive trade deficits paid for by printing dollars.
 - **2008 Crisis:** The housing bubble burst, revealing the system was leveraged on bad debt.
 
-### The Decline Phase? (2008-Present)
+### The Decline Phase?<br> (2008-Present)
 
 **Current Metrics (2024):**
 - **Debt:** National Debt >$34 Trillion. **Debt-to-GDP: ~124%** (WWII levels).
@@ -385,7 +385,7 @@ In every empire, as they become rich, labor becomes expensive. It becomes cheape
 ### Historical Parallels
 - **Dutch vs British:** Trade wars, Naval wars. **Winner: British.**
 - **British vs German:** WWI/WWII. **Winner: American** (Third party beneficiary).
-- **US vs China:** ?
+- **US vs China:** ?<br>
 
 ---
 
@@ -394,8 +394,8 @@ In every empire, as they become rich, labor becomes expensive. It becomes cheape
 | Cycle Stage | Dutch | British | American | Current Status |
 |-------------|-------|---------|----------|----------------|
 | **1. Rise** | 1580-1650 | 1760-1850 | 1945-1970 | **China (Rising)** |
-| **2. Peak** | 1650-1750 | 1850-1914 | 1970-2000 | **US (Post-Peak?)** |
-| **3. Decline**| 1750-1795 | 1914-1945 | 2008-?? | **US (Decline Signs)** |
+| **2. Peak** | 1650-1750 | 1850-1914 | 1970-2000 | **US (Post-Peak?<br>)** |
+| **3. Decline**| 1750-1795 | 1914-1945 | 2008-?<br>?<br> | **US (Decline Signs)** |
 
 **The 3 Big Warning Signs the US is flashing:**
 1.  **Debt Spiral:** Interest payments on US debt now exceed Defense spending.
@@ -409,6 +409,6 @@ History suggests we are in the late stages of the American "Big Cycle." The tran
 
 ## Research Sources Used
 - **Ray Dalio:** *Principles for Dealing with the Changing World Order*
-- **Graham Allison:** *Destined for War: Can America and China Escape Thucydides's Trap?*
+- **Graham Allison:** *Destined for War: Can America and China Escape Thucydides's Trap?<br>*
 - **Historical Data:** British ONS, US Federal Reserve (FRED), World Bank, CIA World Factbook.
 - **Key Events:** 1609 (Bank of Amsterdam), 1694 (Bank of England), 1944 (Bretton Woods), 1971 (Nixon Shock).

@@ -6,11 +6,11 @@
 
 ## 🎯 Stage 1: The Core Idea
 
-### Where Does the Energy Go?
+### Where Does the Energy Go?<br>
 
 When a battery pushes electrons through a wire, it does **work**. The electric field accelerates the electrons, increasing their kinetic energy.
 
-But wait—drift velocity is constant! If the electrons are constantly being accelerated by the field, why don't they keep getting faster and faster? 
+But wait—drift velocity is constant! If the electrons are constantly being accelerated by the field, why don't they keep getting faster and faster?<br> 
 
 **The Collisions.** 
 Electrons constantly smash into the heavy, vibrating positive ions of the metal lattice. In every collision, the electron loses its gained kinetic energy, transferring it to the ion. The ion vibrates harder, which means the metal **heats up**.
@@ -36,7 +36,7 @@ $$P = VI$$
 
 Using Ohm's Law ($V=IR$), we get three forms of the power equation. **Knowing when to use which is the secret to solving all power problems:**
 
-| Formula | When to use it? |
+| Formula | When to use it?<br> |
 |---------|----------------|
 | **$P = VI$** | When Voltage and Current are known. |
 | **$P = I^2R$** | **SERIES CIRCUITS:** Current ($I$) is constant. Use this to compare power of resistors in series. ($P \propto R$) |
@@ -79,7 +79,7 @@ $H = P \times t = 500 \times 30 = \mathbf{15,000\text{ J}}$ (or $15\text{ kJ}$).
 
 **Practice:**
 
-1. 🟢 A $12\text{ V}$ car battery is connected to a headlight of resistance $4\text{ } \Omega$. What is the power of the headlight?
+1. 🟢 A $12\text{ V}$ car battery is connected to a headlight of resistance $4\text{ } \Omega$. What is the power of the headlight?<br>
 
 <details>
 <summary><b>Answer</b></summary>
@@ -105,7 +105,7 @@ $P = V^2 / R \implies R = V^2 / P = (250 \times 250) / 2000 = 62500 / 2000 = \ma
 $P = VI \implies I = P / V = 2000 / 250 = \mathbf{8\text{ A}}$.
 </details>
 
-4. 🟡 How many Joules are in $2.5\text{ kWh}$ of energy?
+4. 🟡 How many Joules are in $2.5\text{ kWh}$ of energy?<br>
 
 <details>
 <summary><b>Answer</b></summary>
@@ -117,7 +117,7 @@ $2.5 \times (3.6 \times 10^6) = \mathbf{9 \times 10^6\text{ J}}$.
 
 ### Type 2: Series vs Parallel Brightness Comparison ⭐⭐⭐
 
-**Pattern:** "Two bulbs are rated $P_1$ and $P_2$. Which glows brighter in series? Which glows brighter in parallel?"
+**Pattern:** "Two bulbs are rated $P_1$ and $P_2$. Which glows brighter in series?<br> Which glows brighter in parallel?<br>"
 
 > 🔑 **THE MASTER TRICK:**
 > 1. Find Resistance first! $R = V_{rated}^2 / P_{rated}$. (Lower rated power = Higher resistance).
@@ -126,7 +126,7 @@ $2.5 \times (3.6 \times 10^6) = \mathbf{9 \times 10^6\text{ J}}$.
 
 **Solved Example** 🔴
 
-> Two bulbs rated $60\text{W}, 220\text{V}$ and $100\text{W}, 220\text{V}$ are connected in series across a $220\text{V}$ supply. Which will glow brighter? What if they are connected in parallel?
+> Two bulbs rated $60\text{W}, 220\text{V}$ and $100\text{W}, 220\text{V}$ are connected in series across a $220\text{V}$ supply. Which will glow brighter?<br> What if they are connected in parallel?<br>
 
 <details>
 <summary><b>Solution</b></summary>
@@ -166,7 +166,7 @@ In parallel, higher rated power = lower resistance = draws more current = bright
 Dimmest to brightest: **$40\text{W} < 60\text{W} < 100\text{W}$**.
 </details>
 
-3. 🔴 A $25\text{W}, 220\text{V}$ bulb and a $100\text{W}, 220\text{V}$ bulb are connected in series across a $440\text{V}$ supply. What will happen?
+3. 🔴 A $25\text{W}, 220\text{V}$ bulb and a $100\text{W}, 220\text{V}$ bulb are connected in series across a $440\text{V}$ supply. What will happen?<br>
 
 <details>
 <summary><b>Answer</b></summary>
@@ -188,7 +188,7 @@ The $25\text{W}$ bulb is subjected to $352\text{ V}$ (way above its $220\text{ V
 
 **Solved Example** 🟡
 
-> An electric bulb is rated $100\text{W}, 200\text{V}$. What is the power consumed if it is operated on a $100\text{V}$ supply?
+> An electric bulb is rated $100\text{W}, 200\text{V}$. What is the power consumed if it is operated on a $100\text{V}$ supply?<br>
 
 <details>
 <summary><b>Solution</b></summary>
@@ -231,7 +231,7 @@ Total power = $250 + 250 = \mathbf{500\text{W}}$.
 
 **Solved Example** 🔴
 
-> An electric kettle has a resistance of $50\text{ } \Omega$. How long will it take to heat $1\text{ kg}$ of water from $20^\circ\text{C}$ to $100^\circ\text{C}$ if connected to a $200\text{V}$ supply? (Specific heat of water = $4200\text{ J/kg}^\circ\text{C}$)
+> An electric kettle has a resistance of $50\text{ } \Omega$. How long will it take to heat $1\text{ kg}$ of water from $20^\circ\text{C}$ to $100^\circ\text{C}$ if connected to a $200\text{V}$ supply?<br> (Specific heat of water = $4200\text{ J/kg}^\circ\text{C}$)
 
 <details>
 <summary><b>Solution</b></summary>
@@ -248,7 +248,7 @@ $t = 336,000 / 800 = \mathbf{420\text{ seconds}}$ (or 7 minutes).
 
 **Practice:**
 
-1. 🔴 A $1\text{ kW}$ heater operates on $220\text{V}$. How much time will it take to melt $2\text{ kg}$ of ice at $0^\circ\text{C}$ into water at $0^\circ\text{C}$? (Latent heat of fusion of ice = $3.36 \times 10^5\text{ J/kg}$).
+1. 🔴 A $1\text{ kW}$ heater operates on $220\text{V}$. How much time will it take to melt $2\text{ kg}$ of ice at $0^\circ\text{C}$ into water at $0^\circ\text{C}$?<br> (Latent heat of fusion of ice = $3.36 \times 10^5\text{ J/kg}$).
 
 <details>
 <summary><b>Answer</b></summary>
@@ -282,7 +282,7 @@ $t_p = (10 \times 15) / (10 + 15) = 150 / 25 = \mathbf{6\text{ min}}$.
 
 ## 🔀 Stage 4: Type Mixer
 
-**Q1.** 🔴 A fuse wire limits current to $5\text{A}$. If a $1000\text{W}, 220\text{V}$ heater is connected in the circuit, can a $200\text{W}, 220\text{V}$ TV be operated simultaneously without blowing the fuse?
+**Q1.** 🔴 A fuse wire limits current to $5\text{A}$. If a $1000\text{W}, 220\text{V}$ heater is connected in the circuit, can a $200\text{W}, 220\text{V}$ TV be operated simultaneously without blowing the fuse?<br>
 
 <details>
 <summary><b>Solution</b></summary>
@@ -312,7 +312,7 @@ Maximum power $P_{max} = \frac{\varepsilon^2 r}{(2r)^2} = \mathbf{\frac{\varepsi
 
 ## 📋 Stage 5: Board Arsenal
 
-**Q1.** 🟢 Why do the connecting wires in a circuit not get as hot as the heating element (like a toaster wire), even though the same current flows through both? *(2 marks)*
+**Q1.** 🟢 Why do the connecting wires in a circuit not get as hot as the heating element (like a toaster wire), even though the same current flows through both?<br> *(2 marks)*
 
 <details>
 <summary><b>Model Answer</b></summary>
@@ -332,7 +332,7 @@ From Ohm's law, $I = V/R$.
 Substituting $I$: $P = V \left(\frac{V}{R}\right) = \mathbf{\frac{V^2}{R}}$.
 </details>
 
-**Q3.** 🟡 A bulb is rated $40\text{W}, 220\text{V}$. Find the current drawn by it when connected to a $220\text{V}$ supply. Also find its resistance. If it is connected to a $110\text{V}$ supply, what will be its power consumption? *(3 marks)*
+**Q3.** 🟡 A bulb is rated $40\text{W}, 220\text{V}$. Find the current drawn by it when connected to a $220\text{V}$ supply. Also find its resistance. If it is connected to a $110\text{V}$ supply, what will be its power consumption?<br> *(3 marks)*
 
 <details>
 <summary><b>Model Answer</b></summary>

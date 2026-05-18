@@ -47,7 +47,7 @@ We see the playground that became a parking lot while no one was looking.
 
 *[Pause.]*
 
-We are not too young to notice. Why are we too young to fix?
+We are not too young to notice. Why are we too young to fix?<br>
 
 ---
 

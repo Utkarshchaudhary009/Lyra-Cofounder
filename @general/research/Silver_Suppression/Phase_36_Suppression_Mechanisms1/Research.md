@@ -88,7 +88,7 @@ This is the digital version of **"Rumor Mongering" (Phase 11)**. In the old days
 ### Clue 6: Circuit Breaker Halt Limits
 
 **The Simple Truth:**
-When the price moves too fast, the exchange Unplugs the game. These are "Circuit Breakers." They are supposed to stop panic. But in silver, they often stop *rallies*. If silver shoots up too fast, the market halts, killing the momentum. But when silver crashes? The halts seem... slower to trigger. The rules are designed to prevent a "melt-up" (price explosion) more aggressively than a "melt-down."
+When the price moves too fast, the exchange Unplugs the game. These are "Circuit Breakers." They are supposed to stop panic. But in silver, they often stop *rallies*. If silver shoots up too fast, the market halts, killing the momentum. But when silver crashes?<br> The halts seem... slower to trigger. The rules are designed to prevent a "melt-up" (price explosion) more aggressively than a "melt-down."
 
 **The Hard Evidence:**
 *   **Limit Up/Down:** e.g., $1.50 or $2.25 moves.
@@ -205,7 +205,7 @@ Next, the **Futures Market (COMEX)** amplifies this. Using **Position Limit Exem
 
 If the buyers persist and price spikes, the Exchange pulls the **Margin Hike** lever. By doubling the cost to hold a position overnight, they force the "Longs" (speculators) to sell, triggering a cascade of stop-loss orders. The price crashes, the banks cover their shorts at a profit, and the machine resets.
 
-And if anyone actually demands the metal? The **EFP Mechanism** quietly shuffles the obligation to London, burying the default in an opaque over-the-counter market. This is not a market; it is a mechanism of control. It disconnects Price from Value, ensuring Silver remains a slave to the Dollar.
+And if anyone actually demands the metal?<br> The **EFP Mechanism** quietly shuffles the obligation to London, burying the default in an opaque over-the-counter market. This is not a market; it is a mechanism of control. It disconnects Price from Value, ensuring Silver remains a slave to the Dollar.
 
 ---
 
@@ -218,62 +218,62 @@ And if anyone actually demands the metal? The **EFP Mechanism** quietly shuffles
 
 ## 6. Comprehension Check (Critical Thinking)
 
-**Q1:** Why is "Naked Shorting" allowed in silver futures when it is illegal in stocks?
+**Q1:** Why is "Naked Shorting" allowed in silver futures when it is illegal in stocks?<br>
 **A:** It is disguised as "Market Making" or "Hedging." The lines are blurred in commodities to "ensure liquidity," providing a legal shield for suppression.
-**C:** *Investigate Phase 50: How does Tokenization solve/worsen this?*
+**C:** *Investigate Phase 50: How does Tokenization solve/worsen this?<br>*
 
-**Q2:** How does a "Margin Hike" specifically target the Longs?
+**Q2:** How does a "Margin Hike" specifically target the Longs?<br>
 **A:** Banks (Shorts) usually have deeper pockets/credit lines. Speculators (Longs) trade on margin. Raising the cash requirement forces the "weak hands" (Longs) to sell, while Banks can absorb the cost.
 **C:** *Check Phase 17: The Hunt Brothers were destroyed by this exact mechanic.*
 
-**Q3:** What is the vital difference between "Eligible" and "Registered" silver involved in suppression?
+**Q3:** What is the vital difference between "Eligible" and "Registered" silver involved in suppression?<br>
 **A:** "Eligible" is private storage (not for sale). "Registered" is for sale. Banks often move metal to "Registered" briefly to make supply look huge, then move it back. It is optical manipulation.
-**C:** *How does this compare to "Window Dressing" in stock audits?*
+**C:** *How does this compare to "Window Dressing" in stock audits?<br>*
 
-**Q4:** Why is the "Concentration" of shorts the statistically impossible anomaly?
+**Q4:** Why is the "Concentration" of shorts the statistically impossible anomaly?<br>
 **A:** In a free market, thousands of traders would balance the short side. 4 banks holding 80% represents a cartel, not a market.
 **C:** *Phase 5: The "Guilds" of the Middle Ages. Controlled access.*
 
-**Q5:** If "Spoofing" is illegal, why does it continue?
+**Q5:** If "Spoofing" is illegal, why does it continue?<br>
 **A:** The fines (e.g., $920M) are viewed as a "Cost of Doing Business" compared to the billions made or the strategic value of suppressing the price.
-**C:** *Phase 55: AI Policing. Will robots catch the robots?*
+**C:** *Phase 55: AI Policing. Will robots catch the robots?<br>*
 
-**Q6:** How does "Leasing" create "Phantom Silver"?
+**Q6:** How does "Leasing" create "Phantom Silver"?<br>
 **A:** It allows two parties to report ownership of the same bar. It expands the balance sheet of the market without expanding the vault.
 **C:** *Phase 16: Fractional Reserve Banking. The same math.*
 
-**Q7:** What stops an EFP from failing?
+**Q7:** What stops an EFP from failing?<br>
 **A:** Trust in the London market. If London runs out of silver (backwardation), the EFP link snaps, and COMEX defaults.
 **C:** *Phase 35: The 2025 breakdown showed this link snapping.*
 
-**Q8:** Why are Circuit Breakers asymmetric in effect?
+**Q8:** Why are Circuit Breakers asymmetric in effect?<br>
 **A:** Panic selling is allowed to flush out speculators. Panic buying is halted to "protect" the system. The system prefers low prices.
 **C:** *Phase 13: Bank Holidays.*
 
-**Q9:** How do "Unallocated Accounts" support leasing?
+**Q9:** How do "Unallocated Accounts" support leasing?<br>
 **A:** Unallocated accounts don't require specific bars. This "pool" of metal is easier to lease out since no specific client notices their bar is gone.
 **C:** *Phase 12: The Gold Pool.*
 
-**Q10:** Why is the Silver market smaller than the Gold market, yet more manipulated?
+**Q10:** Why is the Silver market smaller than the Gold market, yet more manipulated?<br>
 **A:** Smaller market cap = Easier to move. A billion dollars in silver moves the price more than a billion in gold. It is the "weakest link" in the precious metals complex.
 **C:** *Phase 59: The Snapback.*
 
-**Q11:** What is the relationship between SIFO and LIBOR?
+**Q11:** What is the relationship between SIFO and LIBOR?<br>
 **A:** SIFO should be LIBOR minus Lease Rate. Manipulating this spread creates arbitrage that banks exploit to suppress price.
 **C:** *Phase 28: LIBOR Scandal.*
 
-**Q12:** Why do banks want to suppress silver if they can make money letting it ride?
+**Q12:** Why do banks want to suppress silver if they can make money letting it ride?<br>
 **A:** Silver competes with the Dollar. A rising silver price signals inflation/currency weakness. Banks protect the Dollar system.
 **C:** *Phase 1: Debasement. Protect the King's Coin.*
 
-**Q13:** What is "Wash Trading"?
+**Q13:** What is "Wash Trading"?<br>
 **A:** Buying and selling to yourself. It creates fake volume to lure in algo traders or paint a price on the chart.
 **C:** *Phase 58: Crypto Wash Trading.*
 
-**Q14:** How does "Bona Fide Hedging" fail the "Smell Test"?
+**Q14:** How does "Bona Fide Hedging" fail the "Smell Test"?<br>
 **A:** Banks claim to hedge silver they don't produce. True hedgers are Miners (who have metal) or refiners. Banks are *financial* entities, not producers.
 **C:** *Phase 17: "The House always wins."*
 
-**Q15:** Can this machine be broken?
+**Q15:** Can this machine be broken?<br>
 **A:** Only by physical removal. If you take the metal home, they can't lease, short, or spoof it.
 **C:** *Phase 40: The Run on the Vaults.*

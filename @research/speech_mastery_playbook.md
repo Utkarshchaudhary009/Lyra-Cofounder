@@ -26,7 +26,7 @@ No "Good morning," no "Thank you for inviting me." Just a confessional bomb. Eve
 
 ### Example — Brené Brown, TED Talk on Vulnerability (2010)
 
-> *"So I'll start with this: a couple of years ago, an event planner called me because I was going to do a speaking engagement. She said, 'I'm going to struggle with how to write about you on the little pamphlet.' And I said, 'Well, what's the issue?' And she said, 'Well, I saw you speak, and I'm going to call you a researcher, I think, but I'm afraid if I call you a researcher, no one will come, because they'll think you're boring and irrelevant.'"*
+> *"So I'll start with this: a couple of years ago, an event planner called me because I was going to do a speaking engagement. She said, 'I'm going to struggle with how to write about you on the little pamphlet.' And I said, 'Well, what's the issue?<br>' And she said, 'Well, I saw you speak, and I'm going to call you a researcher, I think, but I'm afraid if I call you a researcher, no one will come, because they'll think you're boring and irrelevant.'"*
 
 She opened by calling herself boring. The room laughed. The guard dropped. She owned the room for 20 minutes.
 
@@ -45,7 +45,7 @@ She opened by calling herself boring. The room laughed. The guard dropped. She o
 
 ### Example — Simon Sinek, TED Talk "Start With Why"
 
-> *"How do you explain when things don't go as we assume? Or better yet, how do you explain when others are able to achieve things that seem to defy all of the assumptions?"*
+> *"How do you explain when things don't go as we assume?<br> Or better yet, how do you explain when others are able to achieve things that seem to defy all of the assumptions?<br>"*
 
 He didn't say "Today I'll discuss leadership." He asked why the world doesn't make sense — and everyone leaned in.
 
@@ -53,7 +53,7 @@ He didn't say "Today I'll discuss leadership." He asked why the world doesn't ma
 
 > *"I spend most of my time in jails, in prisons, on death row. I spend most of my time in very low-income communities... And yet, this is what I've come to say to you today: our identity is at stake."*
 
-He didn't ask a literal question. He posed an *implied* question: *What does a death row lawyer have to say to a room full of tech executives?*
+He didn't ask a literal question. He posed an *implied* question: *What does a death row lawyer have to say to a room full of tech executives?<br>*
 
 ### How to apply it:
 - Don't ask yes/no questions — ask questions that STING
@@ -99,7 +99,7 @@ Four people will die during *this talk*. The clock started. Now nobody could lea
 
 > *"My contention is that creativity now is as important in education as literacy, and we should treat it with the same status."*
 
-In 2006, this was heresy. Creativity = literacy? The entire education establishment would disagree. 72 million views later, he proved his point.
+In 2006, this was heresy. Creativity = literacy?<br> The entire education establishment would disagree. 72 million views later, he proved his point.
 
 ### Example — Malcolm Gladwell (multiple talks)
 
@@ -172,7 +172,7 @@ Her entire career is built on opening with vulnerability. She regularly starts w
 
 ### Example — Apollo Robbins, TED Talk
 
-> *"Do you think it's possible to control someone's attention?"* — then he pickpocketed the host on stage.
+> *"Do you think it's possible to control someone's attention?<br>"* — then he pickpocketed the host on stage.
 
 Not a confession, but a vulnerability of a different kind: he made the audience realize *they* were vulnerable.
 
@@ -520,7 +520,7 @@ Every topic, no matter how technical, affects a person. Find that person. Tell t
 
 ### Step 2: Raise the Stakes
 
-Ask: "What happens if this goes WRONG?" Then describe that world vividly.
+Ask: "What happens if this goes WRONG?<br>" Then describe that world vividly.
 
 - Tax policy → "Without this change, 12 million families will choose between food and medicine this winter."
 - Database migration → "If we fail, every photo your grandmother ever sent you disappears. Permanently."
@@ -528,10 +528,10 @@ Ask: "What happens if this goes WRONG?" Then describe that world vividly.
 
 ### Step 3: Deliver the Surprise
 
-Find the counterintuitive angle. The thing that makes the audience say "Wait — really?"
+Find the counterintuitive angle. The thing that makes the audience say "Wait — really?<br>"
 
 - "The most boring-sounding regulation in American history — the Glass-Steagall Act — is the only reason your savings account exists."
-- "The reason your package arrives in two days? A 400-year-old mathematical formula that nobody at Amazon will talk about."
+- "The reason your package arrives in two days?<br> A 400-year-old mathematical formula that nobody at Amazon will talk about."
 
 ---
 
@@ -613,7 +613,7 @@ Find the counterintuitive angle. The thing that makes the audience say "Wait —
 | **Bryan Stevenson** | TED 2012 — "We Need to Talk About Injustice" | Emotional storytelling, structure |
 | **Brené Brown** | TED 2010 — "The Power of Vulnerability" | Vulnerability as authority |
 | **Hans Rosling** | Any TED talk | Making data thrilling |
-| **Sir Ken Robinson** | TED 2006 — "Do Schools Kill Creativity?" | Humor as a weapon |
+| **Sir Ken Robinson** | TED 2006 — "Do Schools Kill Creativity?<br>" | Humor as a weapon |
 | **Steve Jobs** | Stanford 2005 Commencement | Story architecture |
 | **Martin Luther King Jr.** | "I Have a Dream" (1963) | Anaphora, rhythm, crescendo |
 | **Winston Churchill** | "We Shall Fight on the Beaches" | Gravity, pauses, resolve |
@@ -625,4 +625,4 @@ Find the counterintuitive angle. The thing that makes the audience say "Wait —
 
 > *"A speech is not about what you say. It's about what the audience FEELS, THINKS, and DOES after you stop talking."*
 
-**The ultimate test:** If you removed your name from the speech and someone else delivered it — would it still be powerful? If yes, your words are strong. If no, you're relying on charisma, not craft. **Great speakers have both. Legendary speakers don't need charisma at all.**
+**The ultimate test:** If you removed your name from the speech and someone else delivered it — would it still be powerful?<br> If yes, your words are strong. If no, you're relying on charisma, not craft. **Great speakers have both. Legendary speakers don't need charisma at all.**

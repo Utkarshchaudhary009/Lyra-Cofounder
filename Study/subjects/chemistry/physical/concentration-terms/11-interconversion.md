@@ -5,11 +5,11 @@
 
 ## 🎯 Stage 1: The Core Idea
 
-### Why Inter-conversion?
+### Why Inter-conversion?<br>
 
 Every competitive exam question on solutions ultimately reduces to this: **"Convert from one concentration term to another."** You'll be given mass%, molality, mole fraction, or molarity — and asked to find a different one. Sometimes you'll chain 2-3 conversions in a single problem.
 
-> **The master skill isn't memorizing formulas — it's knowing which formula to use, and what information you need (density? molar mass?) to bridge the gap.**
+> **The master skill isn't memorizing formulas — it's knowing which formula to use, and what information you need (density?<br> molar mass?<br>) to bridge the gap.**
 
 ### The Conversion Landscape
 
@@ -44,7 +44,7 @@ Conversions between w/w%, molality, and mole fraction do NOT need density.
 
 ### All Master Formulas in One Place
 
-| From → To | Formula | Requires Density? |
+| From → To | Formula | Requires Density?<br> |
 |-----------|---------|-------------------|
 | w/w% → M | `M = (w/w% × d × 10) / M_solute` | ✅ Yes |
 | w/w% → m | `m = (w/w% × 1000) / ((100 - w/w%) × M_solute)` | ❌ No |
@@ -272,7 +272,7 @@ Answer: M ≈ 1.88 M
 | 11.3a | 2 M glucose (M=180), d = 1.09 g/mL. Find m. ⭐ | 🟡 |
 | 11.3b | 5 m NaOH (M=40), d = 1.18 g/mL. Find M. ⭐ | 🟡 |
 | 11.3c | 18 M H₂SO₄, d = 1.84 g/mL, M=98. Find m. ⭐⭐ | 🔴 |
-| 11.3d | If M = m for a solution, what is the density? (M_solute = 100) Derive the general condition. ⭐⭐ | 🔴 |
+| 11.3d | If M = m for a solution, what is the density?<br> (M_solute = 100) Derive the general condition. ⭐⭐ | 🔴 |
 
 <details>
 <summary>💡 Detailed Solutions for Type 3</summary>
@@ -515,7 +515,7 @@ Answer: d = 1.04 g/mL
 |---|----------|------------|
 | 11.7a | M = 2, m = 2.5, M_solute = 40. Find d. ⭐ | 🔴 |
 | 11.7b | M = 10, m = 12, M_solute = 98 (H₂SO₄). Find d. | 🔴 |
-| 11.7c | If M = m, show that d = 1 + M × M_solute/1000. For water as solvent and M_solute = 100, d = ? | 🔴 |
+| 11.7c | If M = m, show that d = 1 + M × M_solute/1000. For water as solvent and M_solute = 100, d = ?<br> | 🔴 |
 
 <details>
 <summary>💡 Detailed Solutions for Type 7</summary>
@@ -695,7 +695,7 @@ Answer: (a) 18.4 M  (b) 500 m  (c) 0.9  (d) 36.8 N
 |---|----------|------------|
 | 11.J1 | Conc. H₂SO₄ (98%, d=1.84, M=98). Find ALL: M, m, χ, N. Then find volume needed for 500 mL of 0.1 M. ⭐⭐⭐ | 🔴 |
 | 11.J2 | A solution has M = 5 and m = 6. M_solute = 80. Find (a) density (b) w/w% (c) mole fraction. ⭐⭐ | 🔴 |
-| 11.J3 | Two solutions: Sol A (M_A = 4, d_A = 1.2, M_solute = 60) and Sol B (m_B = 5, M_solute = 60, M_solvent = 18). (a) Find m_A and M_B (if d_B = 1.15). (b) Are they the same solution? | 🔴 |
+| 11.J3 | Two solutions: Sol A (M_A = 4, d_A = 1.2, M_solute = 60) and Sol B (m_B = 5, M_solute = 60, M_solvent = 18). (a) Find m_A and M_B (if d_B = 1.15). (b) Are they the same solution?<br> | 🔴 |
 | 11.J4 | An aqueous solution has the property that its molarity equals its molality (M = m). Derive a general formula for the density of such a solution in terms of M_solute. For M_solute = 180 (glucose), find d. ⭐⭐ | 🔴 |
 | 11.J5 | Given only that a 2.5 m aqueous glucose (M=180) solution has d = 1.07 g/mL, find ALL of: M, w/w%, χ, N (n=1), and ppm (for comparison). ⭐⭐ | 🔴 |
 
@@ -741,14 +741,14 @@ Answer: (a) 18.4 M  (b) 500 m  (c) 0.9  (d) 36.8 N
 
 ---
 
-## Quick Reference: "Which Formula When?"
+## Quick Reference: "Which Formula When?<br>"
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │                 CONVERSION DECISION TREE                     │
 ├─────────────────────────────────────────────────────────────┤
 │                                                              │
-│  Q: Do you HAVE density?                                     │
+│  Q: Do you HAVE density?<br>                                     │
 │                                                              │
 │  YES → You can convert TO/FROM Molarity                     │
 │        • w/w% + d → M: use (% × d × 10)/M_s               │
@@ -761,11 +761,11 @@ Answer: (a) 18.4 M  (b) 500 m  (c) 0.9  (d) 36.8 N
 │       • χ → m: (1000 × χ)/((1-χ) × M_solvent)             │
 │       • These three are "mass-only" terms                    │
 │                                                              │
-│  HAVE both M and m?                                          │
+│  HAVE both M and m?<br>                                          │
 │       → You can FIND density!                                │
 │       d = M(1000 + m × M_s)/(m × 1000)                     │
 │                                                              │
-│  NEED Normality?                                             │
+│  NEED Normality?<br>                                             │
 │       → Find M first, then N = n-factor × M                │
 │                                                              │
 └─────────────────────────────────────────────────────────────┘

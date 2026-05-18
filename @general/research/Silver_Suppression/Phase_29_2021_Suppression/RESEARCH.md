@@ -133,48 +133,48 @@ The price collapsed. The "Silver Squeeze" was labeled a failure by the mainstrea
 *   **INSIGHT:** **The Deficit Era** — This phase marks the beginning of the mathematical end game. Suppression can hide a deficit for a while by selling vault stocks, but it cannot hide a deficit forever. 2021 started the clock on the vault depletion.
 
 ## Comprehension Check
-*   **Q:** What did the CFTC Chairman admit to doing in February 2021?
+*   **Q:** What did the CFTC Chairman admit to doing in February 2021?<br>
     *   **A:** He admitted to "tamping down" the silver price to prevent a "worse situation" (a market crash/default).
     *   **C:** *This links to Phase 30: The definition of "Market Integrity" vs. "Price Manipulation".*
-*   **Q:** How does raising margin requirements crash the price?
+*   **Q:** How does raising margin requirements crash the price?<br>
     *   **A:** It forces traders who are "maxed out" to sell their contracts immediately to cover the new higher fee, creating a wave of forced selling.
     *   **C:** *Investigate Phase 31: The timing of margin hikes vs. price peaks.*
-*   **Q:** Why did SLV change its prospectus?
+*   **Q:** Why did SLV change its prospectus?<br>
     *   **A:** To legally protect itself from lawsuits if it couldn't find enough physical silver to back its shares during the squeeze.
     *   **C:** *Phase 32: The divergence of "Paper Silver" ETFs from physical reality.*
-*   **Q:** Who was the new "Big Short" identified in 2021?
+*   **Q:** Who was the new "Big Short" identified in 2021?<br>
     *   **A:** Bank of America, with an estimated 800 million ounce short position.
     *   **C:** *Phase 33: The rotation of short positions between major banks.*
-*   **Q:** What is a "Structural Deficit"?
+*   **Q:** What is a "Structural Deficit"?<br>
     *   **A:** When annual consumption exceeds annual production for years in a row, meaning the world is running out of available inventory.
     *   **C:** *Phase 34: The mathematics of vault depletion.*
-*   **Q:** Why were lease rates negative?
+*   **Q:** Why were lease rates negative?<br>
     *   **A:** It was a market anomaly indicating a glut of paper/leasing supply trying to override the physical signal, effectively "paying" people to borrow metal.
     *   **C:** *Phase 35: Anomalies as evidence of intervention.*
-*   **Q:** Did the Silver Squeeze fail?
+*   **Q:** Did the Silver Squeeze fail?<br>
     *   **A:** It failed to break the COMEX price in the short term, but it succeeded in draining physical vaults and exposing the suppression mechanism.
     *   **C:** *Phase 36: The long-term consequences of the 2021 squeeze.*
-*   **Q:** What role did "Reddit" play?
+*   **Q:** What role did "Reddit" play?<br>
     *   **A:** They acted as the decentralized "Whistleblower" army, analyzing data and coordinating the buying pressure that forced the regulators to act.
     *   **C:** *Phase 37: The power of decentralized analysis.*
-*   **Q:** Why didn't the shortage of silver in 2021 cause a price rise?
+*   **Q:** Why didn't the shortage of silver in 2021 cause a price rise?<br>
     *   **A:** Because the price is set by paper futures, not physical metal. The banks sold enough paper to offset the physical buying.
     *   **C:** *Phase 38: The mechanics of "Paper Dilution".*
-*   **Q:** What is the "Kill Switch"?
+*   **Q:** What is the "Kill Switch"?<br>
     *   **A:** The combination of Margin Hikes, Regulatory Statements, and Rule Changes used to stop a rally instantly.
     *   **C:** *Phase 39: The coordinated defense of the fiat currency system.*
-*   **Q:** How much silver did the market lose in 2021?
+*   **Q:** How much silver did the market lose in 2021?<br>
     *   **A:** 89 Million ounces (net deficit).
     *   **C:** *Phase 40: Tracking the cumulative deficit.*
-*   **Q:** Why is the "Tamp Down" quote important for history?
+*   **Q:** Why is the "Tamp Down" quote important for history?<br>
     *   **A:** It removes the "conspiracy theory" label. It is a documented historical fact of government intervention in the silver price.
     *   **C:** *Phase 41: Writing the history of the "Open Conspiracy".*
-*   **Q:** What happened to the premiums after Feb 2021?
+*   **Q:** What happened to the premiums after Feb 2021?<br>
     *   **A:** They stayed high, creating a permanent two-tier market (Paper Price vs. Street Price).
     *   **C:** *Phase 42: The death of the "Spot Price" as a reliable indicator.*
-*   **Q:** Why did BofA take such a big short position?
+*   **Q:** Why did BofA take such a big short position?<br>
     *   **A:** Likely to lease metal from other central banks/holders and sell it into the market to satisfy the massive retail demand without price rising.
     *   **C:** *Phase 43: The role of bullion banks as "Market Makers" (aka suppressors).*
-*   **Q:** What is the "Smokescreen"?
+*   **Q:** What is the "Smokescreen"?<br>
     *   **A:** Using "Volatility" and "Market Stability" as excuses to crush a price rise that threatens the banks.
     *   **C:** *Phase 44: Decoding regulatory language.*

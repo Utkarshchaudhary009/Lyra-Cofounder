@@ -5,15 +5,15 @@
 
 ## 🎯 Stage 1: The Core Idea
 
-### What is Volume Percent?
+### What is Volume Percent?<br>
 
 Walk into any liquor store. Pick up a bottle of whiskey. It says: **"42% v/v"**.
 
-What does that mean? It means: **out of every 100 mL of that liquid, 42 mL is pure alcohol and the remaining 58 mL is water (and other stuff).**
+What does that mean?<br> It means: **out of every 100 mL of that liquid, 42 mL is pure alcohol and the remaining 58 mL is water (and other stuff).**
 
 That's volume percent — expressing concentration as the volume of solute in every 100 units of solution volume.
 
-### When Do We Use It?
+### When Do We Use It?<br>
 
 Volume percent is used when **both solute and solvent are liquids** — and we measure them by volume (because pouring liquids by volume is easier than weighing them).
 
@@ -24,7 +24,7 @@ Common examples:
 
 ### The Key Limitation
 
-Volume percent is **temperature-dependent**. Why? Because liquids expand when heated. The same mass of liquid occupies more volume at higher temperature. So the ratio of volumes changes with temperature.
+Volume percent is **temperature-dependent**. Why?<br> Because liquids expand when heated. The same mass of liquid occupies more volume at higher temperature. So the ratio of volumes changes with temperature.
 
 Also, **volumes are NOT always additive** when mixing liquids. 50 mL ethanol + 50 mL water ≠ 100 mL solution (it's actually ~96 mL). This is a crucial real-world fact, though most exam problems ignore it.
 
@@ -119,7 +119,7 @@ Answer: 30% v/v ethanol
 | 2.1c | A solution contains 40 mL of glycerol in a total volume of 250 mL. Find v/v%. | 🟢 |
 | 2.1d | 200 mL of ethanol is present in 1.5 L of a perfume solution. Find v/v%. | 🟢 |
 | 2.1e | A laboratory technician mixes 45 mL of glacial acetic acid with 455 mL of distilled water. Assuming volumes are perfectly additive, calculate the volume percent of acetic acid. | 🟢 |
-| 2.1f | An automotive engineer formulates a cooling fluid by combining 2.5 L of ethylene glycol with 7.5 L of water. What is the volume percent of ethylene glycol in the radiator fluid? | 🟢 |
+| 2.1f | An automotive engineer formulates a cooling fluid by combining 2.5 L of ethylene glycol with 7.5 L of water. What is the volume percent of ethylene glycol in the radiator fluid?<br> | 🟢 |
 | 2.1g | A pharmacist adds 15 mL of eucalyptus oil to a carrier solvent, bringing the total final volume of the medicinal liniment to 120 mL. Find the volume percent of eucalyptus oil. | 🟢 |
 
 <details>
@@ -165,7 +165,7 @@ Answer: 30% v/v ethanol
 **The Pattern:** Concentration and total volume known → find how much solute.
 
 #### Solved Example 2.2
-**Q:** A 750 mL bottle of wine is 12% v/v ethanol. What volume of pure ethanol is present? 🟢
+**Q:** A 750 mL bottle of wine is 12% v/v ethanol. What volume of pure ethanol is present?<br> 🟢
 
 **Solution:**
 ```
@@ -186,12 +186,12 @@ Answer: 90 mL of pure ethanol
 | # | Question | Difficulty |
 |---|----------|------------|
 | 2.2a | A 500 mL bottle of rubbing alcohol is 70% v/v isopropanol. Find volume of isopropanol. | 🟢 |
-| 2.2b | A 2 L antiseptic solution is 5% v/v povidone-iodine. What volume of iodine solution is present? | 🟢 |
-| 2.2c | A 330 mL can of beer is 4.5% v/v ethanol. How many mL of pure ethanol does it contain? | 🟢 |
+| 2.2b | A 2 L antiseptic solution is 5% v/v povidone-iodine. What volume of iodine solution is present?<br> | 🟢 |
+| 2.2c | A 330 mL can of beer is 4.5% v/v ethanol. How many mL of pure ethanol does it contain?<br> | 🟢 |
 | 2.2d | A hand sanitizer (100 mL) is 62% v/v ethanol. Find volume of ethanol and volume of other components. | 🟡 |
 | 2.2e | A standard bottle of mouthwash (500 mL) indicates it contains 21.6% v/v alcohol. Calculate the exact volume of pure alcohol in this bottle. | 🟢 |
 | 2.2f | To disinfect clinical instruments, a nurse prepares a 5 L bath of a 4% v/v chlorhexidine solution. Determine the volume of pure chlorhexidine required for this bath. | 🟢 |
-| 2.2g | A 750 mL bottle of a flavored syrup contains 1.5% v/v vanilla extract. How many milliliters of pure vanilla extract are present? | 🟢 |
+| 2.2g | A 750 mL bottle of a flavored syrup contains 1.5% v/v vanilla extract. How many milliliters of pure vanilla extract are present?<br> | 🟢 |
 
 <details>
 <summary>💡 Detailed Solutions for Type 2</summary>
@@ -233,7 +233,7 @@ Answer: 90 mL of pure ethanol
 **The Pattern:** Real-world alcohol labeling interpretation.
 
 #### Solved Example 2.3
-**Q:** A bottle of vodka says "40% v/v". A person drinks 60 mL of vodka. How much pure alcohol has they consumed? If the density of ethanol is 0.789 g/mL, what mass of alcohol is this? 🟡
+**Q:** A bottle of vodka says "40% v/v". A person drinks 60 mL of vodka. How much pure alcohol has they consumed?<br> If the density of ethanol is 0.789 g/mL, what mass of alcohol is this?<br> 🟡
 
 **Solution:**
 ```
@@ -253,9 +253,9 @@ Answer: 24 mL or 18.94 g of pure ethanol
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 2.3a | A 750 mL bottle of rum (42% v/v) is consumed entirely. How much pure ethanol was consumed? (d_ethanol = 0.789 g/mL) | 🟡 |
-| 2.3b | "Proof" is defined as 2 × v/v%. A 100-proof whiskey — what is its v/v%? How much alcohol in 200 mL? | 🟡 |
-| 2.3c | Is 500 mL of 8% beer or 60 mL of 40% vodka more alcohol? Calculate both. | 🟡 |
+| 2.3a | A 750 mL bottle of rum (42% v/v) is consumed entirely. How much pure ethanol was consumed?<br> (d_ethanol = 0.789 g/mL) | 🟡 |
+| 2.3b | "Proof" is defined as 2 × v/v%. A 100-proof whiskey — what is its v/v%?<br> How much alcohol in 200 mL?<br> | 🟡 |
+| 2.3c | Is 500 mL of 8% beer or 60 mL of 40% vodka more alcohol?<br> Calculate both. | 🟡 |
 | 2.3d | A cocktail recipe calls for 45 mL of gin (47% v/v ethanol). Calculate the mass of pure ethanol added to the drink. (d_ethanol = 0.789 g/mL) | 🟡 |
 | 2.3e | A medical tincture is labeled 60% v/v alcohol. If a patient takes a 5 mL dose, calculate the mass of pure alcohol consumed. (d_ethanol = 0.789 g/mL) | 🟡 |
 | 2.3f | 150 mL of wine (13% v/v) is poured into a glass. Calculate the mass of the alcohol present and compare it to the mass of alcohol in a 40 mL shot of tequila (38% v/v). (d_ethanol = 0.789 g/mL) | 🟡 |
@@ -299,7 +299,7 @@ Answer: 24 mL or 18.94 g of pure ethanol
 **The Pattern:** "Prepare X mL of Y% v/v solution" → find volumes to mix.
 
 #### Solved Example 2.4
-**Q:** How would you prepare 500 mL of 20% v/v ethanol solution? 🟢
+**Q:** How would you prepare 500 mL of 20% v/v ethanol solution?<br> 🟢
 
 **Solution:**
 ```
@@ -318,12 +318,12 @@ Answer: Mix 100 mL ethanol with 400 mL water
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 2.4a | Prepare 1 L of 30% v/v methanol solution. How much methanol and water? | 🟢 |
+| 2.4a | Prepare 1 L of 30% v/v methanol solution. How much methanol and water?<br> | 🟢 |
 | 2.4b | Prepare 250 mL of 10% v/v glycerol solution. | 🟢 |
-| 2.4c | A lab needs 2 L of 5% v/v acetone in water. How much pure acetone is required? | 🟢 |
+| 2.4c | A lab needs 2 L of 5% v/v acetone in water. How much pure acetone is required?<br> | 🟢 |
 | 2.4d | An industrial chemist must prepare 50 L of a 15% v/v isopropyl alcohol (IPA) solution for a printing process. State the volume of pure IPA and the volume of water needed (assuming volumes add). | 🟢 |
 | 2.4e | Prepare 400 mL of a 2.5% v/v hydrogen peroxide topical solution. Calculate the pure hydrogen peroxide volume and the water volume required. | 🟢 |
-| 2.4f | A botanist needs 10 L of a 0.5% v/v pesticide spray. How many milliliters of the pure liquid pesticide should be thoroughly mixed with water? | 🟢 |
+| 2.4f | A botanist needs 10 L of a 0.5% v/v pesticide spray. How many milliliters of the pure liquid pesticide should be thoroughly mixed with water?<br> | 🟢 |
 
 <details>
 <summary>💡 Detailed Solutions for Type 4</summary>
@@ -364,7 +364,7 @@ Answer: Mix 100 mL ethanol with 400 mL water
 **The Pattern:** Understanding why v/v% changes with temperature.
 
 #### Solved Example 2.5
-**Q:** A solution is 25% v/v at 20°C. If the solution is heated to 50°C, will the volume percent remain the same? Explain. 🟡
+**Q:** A solution is 25% v/v at 20°C. If the solution is heated to 50°C, will the volume percent remain the same?<br> Explain. 🟡
 
 **Solution:**
 ```
@@ -388,11 +388,11 @@ This almost never happens in practice.
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 2.5a | Which concentration terms are temperature-dependent: w/w%, v/v%, molarity, molality? Explain each. | 🟡 |
-| 2.5b | "A solution is 40% v/v at 25°C and remains 40% v/v at 100°C." Under what condition could this be true? | 🔴 |
+| 2.5a | Which concentration terms are temperature-dependent: w/w%, v/v%, molarity, molality?<br> Explain each. | 🟡 |
+| 2.5b | "A solution is 40% v/v at 25°C and remains 40% v/v at 100°C." Under what condition could this be true?<br> | 🔴 |
 | 2.5c | A scientist measures a solution to be exactly 15.00% v/v at 20°C. If taken into a walk-in freezer at -5°C, explain specifically why the printed label on the flask is no longer accurate. | 🟡 |
-| 2.5d | During summer, 50 L of 10% v/v ethanol is stored outdoors in a sealed drum. The ethanol expands significantly more than the water. Does the true v/v% increase, decrease, or stay the same? | 🔴 |
-| 2.5e | Why is mass percent (w/w%) preferred over volume percent (v/v%) in rigorous analytical chemistry involving extreme temperature variations? | 🟡 |
+| 2.5d | During summer, 50 L of 10% v/v ethanol is stored outdoors in a sealed drum. The ethanol expands significantly more than the water. Does the true v/v% increase, decrease, or stay the same?<br> | 🔴 |
+| 2.5e | Why is mass percent (w/w%) preferred over volume percent (v/v%) in rigorous analytical chemistry involving extreme temperature variations?<br> | 🟡 |
 
 <details>
 <summary>💡 Detailed Solutions for Type 5</summary>
@@ -504,9 +504,9 @@ Answer: 16.27% w/w
 | # | Question | Types Used | Difficulty |
 |---|----------|------------|------------|
 | 2.M1 | A hand sanitizer is 62% v/v ethanol (d = 0.789 g/mL) with total density 0.87 g/mL. For a 500 mL bottle: (a) find volume of ethanol (b) find mass of ethanol (c) find w/w% of ethanol. | T2 + T3 + T6 | 🟡 |
-| 2.M2 | How would you prepare 2 L of 15% v/v acetone solution? If d_acetone = 0.791 g/mL, what mass of acetone is needed? | T4 + T6 | 🟡 |
+| 2.M2 | How would you prepare 2 L of 15% v/v acetone solution?<br> If d_acetone = 0.791 g/mL, what mass of acetone is needed?<br> | T4 + T6 | 🟡 |
 | 2.M3 | A 40% v/v ethanol solution (d_solution = 0.95 g/mL) is heated so its density becomes 0.935 g/mL. If the volume expands by 2%, estimate the new v/v% approximately. | T5 + T1 | 🔴 |
-| 2.M4 | Compare two drinks: 500 mL of 5% v/v beer and 30 mL of 40% v/v whiskey. Which contains more alcohol by mass? (d_ethanol = 0.789 g/mL) | T3 + T2 | 🟡 |
+| 2.M4 | Compare two drinks: 500 mL of 5% v/v beer and 30 mL of 40% v/v whiskey. Which contains more alcohol by mass?<br> (d_ethanol = 0.789 g/mL) | T3 + T2 | 🟡 |
 
 <details>
 <summary>💡 Detailed Solutions for Type Mixer</summary>
@@ -540,8 +540,8 @@ Answer: 16.27% w/w
 | # | Question | Difficulty |
 |---|----------|------------|
 | 2.B1 | Calculate the volume percent of ethanol in a solution prepared by dissolving 50 mL of ethanol in 200 mL of solution. | 🟢 |
-| 2.B2 | A solution of ethanol in water has 35% v/v concentration. What volume of ethanol is present in 2 L of this solution? | 🟢 |
-| 2.B3 | A cough syrup contains 10% v/v alcohol. How much alcohol is in a 200 mL bottle? | 🟢 |
+| 2.B2 | A solution of ethanol in water has 35% v/v concentration. What volume of ethanol is present in 2 L of this solution?<br> | 🟢 |
+| 2.B3 | A cough syrup contains 10% v/v alcohol. How much alcohol is in a 200 mL bottle?<br> | 🟢 |
 | 2.B4 | If 30 mL of methanol (d = 0.792 g/mL) is mixed with water to prepare 150 mL of solution, find (a) v/v% and (b) mass of methanol. | 🟡 |
 
 <details>
@@ -572,7 +572,7 @@ Answer: 16.27% w/w
 |---|----------|------------|
 | 2.J1 | A solution is labelled "25% v/v ethanol" (d_solution = 0.96 g/mL, d_ethanol = 0.789 g/mL). Find (a) w/w% of ethanol (b) mass of water in 1 L of solution. ⭐ | 🟡 |
 | 2.J2 | 50 mL of ethanol (d = 0.789 g/mL) and 50 mL of water (d = 1.0 g/mL) are mixed. The actual volume of the solution is 96 mL. Find (a) the v/v% assuming ideal mixing (b) the actual v/v% (c) the w/w%. | 🔴 |
-| 2.J3 | A pharmacist needs to prepare 500 mL of a 12% v/v ethanol solution from a stock solution that is 60% v/v. What volume of stock solution is needed? (This previews Chapter 8: Dilution) | 🟡 |
+| 2.J3 | A pharmacist needs to prepare 500 mL of a 12% v/v ethanol solution from a stock solution that is 60% v/v. What volume of stock solution is needed?<br> (This previews Chapter 8: Dilution) | 🟡 |
 | 2.J4 | At 25°C, a solution is 15% v/v (d_solution = 1.02 g/mL). At 60°C, the volume of the same solution increases by 3% while the mass remains constant. Calculate the new density and new v/v% at 60°C if the solute expansion is 4%. | 🔴 |
 
 <details>

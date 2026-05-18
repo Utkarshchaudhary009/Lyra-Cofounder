@@ -154,7 +154,7 @@
 **Location:** A Smoke-Filled Room, Threadneedle Street, London
 **Subject:** Case File #06: The Silver "Gleam" Heist
 
-Listen up, kid. We just finished investigating the most successful bank robbery in history, and the crazy part? The robbers are the ones who own the banks. Most of the world is out in the streets right now, dancing because "The Great War" is over. They think they’re entering a new era of peace and paper wealth. But poor souls, they don't realize that while they were looking at the fireworks, the "Omni-Architects" of the global financial system were quietly replacing the silver in their pockets with junk metal and empty promises.
+Listen up, kid. We just finished investigating the most successful bank robbery in history, and the crazy part?<br> The robbers are the ones who own the banks. Most of the world is out in the streets right now, dancing because "The Great War" is over. They think they’re entering a new era of peace and paper wealth. But poor souls, they don't realize that while they were looking at the fireworks, the "Omni-Architects" of the global financial system were quietly replacing the silver in their pockets with junk metal and empty promises.
 
 Let me take you back to 1914. At that time, a British Shilling or a silver Morgan Dollar wasn't just "currency"—it was a solid, heavy anchor of reality. It was "Sterling." It was "Hard." It was 92.5% pure silver. You could carry a handfull of those coins across the ocean to Africa, China, or the mountains of Nepal, and everyone would know exactly what they were worth. That silver was your "Shield" against a lying government. If the king decided to print a trillion pieces of paper, your silver coin would still buy you a loaf of bread.
 
@@ -166,7 +166,7 @@ But the real drama was happening in the East. In India, the people aren't as eas
 
 Senator Key Pittman—don't let the name fool you, he was a mining man from Nevada—convinced the US government to melt down 270 million Silver Dollars. Think about that, kid. That’s 270 million individual pieces of American history, constitutional wealth, "Morgan" dollars, turned into white-hot liquid slag. They poured the liquid into bars and shipped them in secret across the ocean to save the British Banks from their own stupidity. It was the world's first "Global Bullion Swap." 
 
-By 1919, the market finally caught on. People realized that silver was becoming rarer than a honest politician. The price started to rocket. It hit $1.32 in New York and nearly 92 pence in London. We call this the "Melting Point." Why? Because at that price, the silver inside a dollar was worth MORE than one dollar. If the price went one cent higher, everyone in the world would have run to their jars, emptied their coins, and melted them into bars to sell to the jewelry makers and the camera factories.
+By 1919, the market finally caught on. People realized that silver was becoming rarer than a honest politician. The price started to rocket. It hit $1.32 in New York and nearly 92 pence in London. We call this the "Melting Point." Why?<br> Because at that price, the silver inside a dollar was worth MORE than one dollar. If the price went one cent higher, everyone in the world would have run to their jars, emptied their coins, and melted them into bars to sell to the jewelry makers and the camera factories.
 
 The Central Bankers saw the writing on the wall. If silver prices kept going up, people would realize that the paper money was the real scam. So, the "Establishment" hit the "Kill Switch." 
 
@@ -174,7 +174,7 @@ On one side, they raised interest rates to 7%—the equivalent of a financial he
 
 They "watered the milk," kid. They took two high-quality silver coins, melted them down, added some cheap copper and nickel, and made *three* low-quality coins. They pocketed the "extra" silver for themselves and called it "stabilization." It was the first time in 700 years that Britain had hacked away at its own monetary honor.
 
-The result? The silver price crashed from $1.37 down to 60 cents in a few months. The "Heist" was a success. The banks had their silver hoards back, the governments had refreshed their paper systems, and the public was left with "junk silver" that looked like trash. 
+The result?<br> The silver price crashed from $1.37 down to 60 cents in a few months. The "Heist" was a success. The banks had their silver hoards back, the governments had refreshed their paper systems, and the public was left with "junk silver" that looked like trash. 
 
 Today, people think silver is just an "industrial metal" for cell phones and solar panels. But don't you forget it—this decade, 1910 to 1920, is when they stole the "Money" out of the silver. The "Grand Heist" proved that if you can control the price of silver, you can control the world. We're just living in the shadows of the deal they made in 1920.
 
@@ -191,65 +191,65 @@ Today, people think silver is just an "industrial metal" for cell phones and sol
 
 ## 6. COMPREHENSION CHECK (Critical Thinking)
 
-1.  **Q:** Why did the British government care so much about people in India wanting silver coins?
+1.  **Q:** Why did the British government care so much about people in India wanting silver coins?<br>
     **A:** Because India was a "Silver Standard" economy. If they couldn't get silver for their paper notes, the British pound would look like a scam, and the Indian people would revolt against British rule.
     **C:** Think about what happens today if everyone tries to take their cash out of the bank at once.
 
-2.  **Q:** How did George Eastman (Kodak) affect the price of your grandfather's coins?
+2.  **Q:** How did George Eastman (Kodak) affect the price of your grandfather's coins?<br>
     **A:** He turned silver from a coin into a "consumable." Once silver is in a photo, it’s gone from the money supply. This created a new demand that competed with the government's need for coins.
-    **C:** Why don't we see silver in digital photos today? What replaced it?
+    **C:** Why don't we see silver in digital photos today?<br> What replaced it?<br>
 
-3.  **Q:** What was the "Seigniorage Scam" in the 1920 UK Coinage Act?
+3.  **Q:** What was the "Seigniorage Scam" in the 1920 UK Coinage Act?<br>
     **A:** The government took old 92.5% coins, melted them, and made twice as many 50% coins. They kept the "leftover" silver for themselves to pay debts, while telling the public the new coins were just as good.
-    **C:** Is it "stealing" if the government does it to everyone at once?
+    **C:** Is it "stealing" if the government does it to everyone at once?<br>
 
-4.  **Q:** Why did Senator Key Pittman want to melt down US silver dollars?
+4.  **Q:** Why did Senator Key Pittman want to melt down US silver dollars?<br>
     **A:** To save the silver mines in his state (Nevada). By melting the coins and selling them at $1/oz, and then forcing the US to buy them back later, he guaranteed his mining friends a profit even if the market crashed.
-    **C:** Does your local politician pass laws that help their own neighborhood's businesses?
+    **C:** Does your local politician pass laws that help their own neighborhood's businesses?<br>
 
-5.  **Q:** How did World War 1 "blind" the generals without silver?
+5.  **Q:** How did World War 1 "blind" the generals without silver?<br>
     **A:** No silver meant no camera film. No film meant no aerial maps of the enemy. In modern terms: Imagine a war where the satellites and GPS don't work.
-    **C:** What other metals are needed for war today? (Look up Lithium or Cobalt).
+    **C:** What other metals are needed for war today?<br> (Look up Lithium or Cobalt).
 
-6.  **Q:** Why did silver crash from $1.37 to 60 cents in 1920?
+6.  **Q:** Why did silver crash from $1.37 to 60 cents in 1920?<br>
     **A:** Because Central Banks raised interest rates to 7% and governments stopped buying silver for coins. They "engineered" the crash to save their paper money systems.
-    **C:** Can a bank "decide" what something is worth, or does the market decide?
+    **C:** Can a bank "decide" what something is worth, or does the market decide?<br>
 
-7.  **Q:** What happened to the Russian Tsar's silver during the Bolshevik Revolution?
+7.  **Q:** What happened to the Russian Tsar's silver during the Bolshevik Revolution?<br>
     **A:** It was seized ("Gokhran") and used to fund the new communist government. It was removed from the global economy social circle and used as an internal "Hard Asset" shield.
-    **C:** When a government falls, who gets the gold/silver in the basement?
+    **C:** When a government falls, who gets the gold/silver in the basement?<br>
 
-8.  **Q:** Why did China ban silver exports in 1919?
+8.  **Q:** Why did China ban silver exports in 1919?<br>
     **A:** Because the "Market Price" in Europe was so high that people were literally shipping China's money away to melt it down, leaving no money left for people to buy bread inside China.
-    **C:** If your country's money was made of chocolate, and the price of chocolate went up, would you eat your money or spend it?
+    **C:** If your country's money was made of chocolate, and the price of chocolate went up, would you eat your money or spend it?<br>
 
-9.  **Q:** Why is the year 1920 called the "Watershed Moment" for silver suppression?
+9.  **Q:** Why is the year 1920 called the "Watershed Moment" for silver suppression?<br>
     **A:** It was the first time the dominant global power (Britain) admitted it could no longer afford to use real silver for its people's money.
-    **C:** If the #1 country in the world runs out of metal, what does that say about the "War" they just fought?
+    **C:** If the #1 country in the world runs out of metal, what does that say about the "War" they just fought?<br>
 
-10. **Q:** What is the difference between "Sterling" and "500 fine" silver?
+10. **Q:** What is the difference between "Sterling" and "500 fine" silver?<br>
     **A:** Sterling is 92.5% pure silver. 500 fine is only 50% silver. The rest is usually copper. One feels and looks like a treasure; the other looks like a gray industrial washer.
-    **C:** Go find a coin from 1910 and 1921. Can you feel the difference in weight?
+    **C:** Go find a coin from 1910 and 1921. Can you feel the difference in weight?<br>
 
-11. **Q:** Why did the US Treasury buy back domestic silver at $1 when the world price was 60 cents?
+11. **Q:** Why did the US Treasury buy back domestic silver at $1 when the world price was 60 cents?<br>
     **A:** To prevent the US mining industry from going bankrupt. It was a "Price Floor" that favored Americans over foreigners.
-    **C:** Is it fair for one country to have a different "Price" for the same metal?
+    **C:** Is it fair for one country to have a different "Price" for the same metal?<br>
 
-12. **Q:** How did German propaganda in India lead to the melting of American Morgan Dollars?
+12. **Q:** How did German propaganda in India lead to the melting of American Morgan Dollars?<br>
     **A:** German "Fake News" caused a bank run in India -> Britain panicked -> US (Pittman) melted the dollars to send bullion to India to stop the run. It was a global "Domino Effect."
-    **C:** Does "Fake News" today have the power to change the price of Gold or Silver?
+    **C:** Does "Fake News" today have the power to change the price of Gold or Silver?<br>
 
-13. **Q:** Why were "Export Licenses" used to suppress silver prices?
+13. **Q:** Why were "Export Licenses" used to suppress silver prices?<br>
     **A:** By stopping people from shipping silver to India (where it was expensive), the US kept the price lower in New York than it should have been.
-    **C:** If you can't sell your car outside your own city, does that make your car worth more or less?
+    **C:** If you can't sell your car outside your own city, does that make your car worth more or less?<br>
 
-14. **Q:** What was the "London Silver Fix"?
+14. **Q:** What was the "London Silver Fix"?<br>
     **A:** A group of 4 big brokers (like Samuel Montagu) who met every day to "decide" the price of silver for the whole world. They did it in "secrecy" for the government.
-    **C:** Does a "Secret Meeting" sound like a fair way to decide the price of anything?
+    **C:** Does a "Secret Meeting" sound like a fair way to decide the price of anything?<br>
 
-15. **Q:** Why did the "Industrial Boom" of 1910-1920 kill the "Silver Standard"?
+15. **Q:** Why did the "Industrial Boom" of 1910-1920 kill the "Silver Standard"?<br>
     **A:** Because the world realized silver was "Too Useful" to be used as mere money. It was like using original Picasso paintings as floor mats—eventually, someone says "Wait, this is worth more as art than as a rug!"
-    **C:** What other things do we use as money today that might be "Too Useful" for something else? (Look up Bitcoin energy usage).
+    **C:** What other things do we use as money today that might be "Too Useful" for something else?<br> (Look up Bitcoin energy usage).
 
 ---
 **END OF PHASE 06 RESEARCH**

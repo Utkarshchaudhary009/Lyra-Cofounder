@@ -112,7 +112,7 @@ The early 1990s were the scene of a "Grand Heist" so sophisticated that most of 
 
 Imagine you are a detective. You see that every new technology—from the sleek Motorola cell phones to the hum of the first internet servers—requires a specific "Magic Ingredient" to function. This ingredient is Silver. Without it, the "Information Superhighway" would be a dead end. You also see that the world is running out of this ingredient. Mines are producing less than the world is consuming. This is a "Physical Deficit." In a normal world, the price of this ingredient should skyrocket. But when you look at the "Price Ticker" at the COMEX, you see something impossible. The price is falling. It hits $3.53 in 1993—the lowest in a decade.
 
-**How did they pull it off?**
+**How did they pull it off?<br>**
 The "Grand Heist" had three phases. First, the **Physical Flood.** The US government opened its secret vaults (the Strategic Stockpile) and dumped millions of ounces of silver into the market. This made it look like there was a surplus when there was actually a shortage. It was like the King watering down the milk so no one would notice the cows were dying. By 1995, they even stopped reporting the numbers, "stopping the clocks" right as the vault hit empty.
 
 Second, the **Paper Ghost.** In 1994, banks like J.P. Morgan invented new "Derivatives." These were financial "Ghosts"—contracts that allowed banks to sell "Paper Silver" that didn't exist. For every real ounce of silver in a vault, they sold 100 "Paper Ounces." This diluted the value of the real metal, making it look common and cheap. When Brooksley Born, the head of the CFTC, tried to regulate these "Ghosts," the leaders of the Fed and the Treasury (Greenspan and Rubin) literally passed laws to stop her. They made it *illegal* to look into the bank’s books.
@@ -133,62 +133,62 @@ The 1990-1995 era was the moment the "Paper Price" system was perfected. It was 
 ---
 
 ## 6. COMPREHENSION CHECK (Critical Thinking)
-1. **Q:** Why did TDK spend millions to switch from silver to nickel in 1993 when silver was at a record-low price?
+1. **Q:** Why did TDK spend millions to switch from silver to nickel in 1993 when silver was at a record-low price?<br>
    **A:** Because they knew the physical supply was disappearing and the low price was a fake "Paper Wall" that would eventually break.
    **C:** This leads us to investigate Phase 19: The 1996 Silver Squeeze.
 
-2. **Q:** If the world was in a "Structural Deficit" (consuming more than mining), where did the extra silver come from?
+2. **Q:** If the world was in a "Structural Deficit" (consuming more than mining), where did the extra silver come from?<br>
    **A:** It came from the liquidation of the U.S. Strategic Stockpile and the secretive "Leasing" of central bank silver.
    **C:** Discover how this "Inventory Heist" reached its breaking point in the late 90s.
 
-3. **Q:** How can a bank sell 100 ounces of silver if they only have 1 ounce in the vault?
+3. **Q:** How can a bank sell 100 ounces of silver if they only have 1 ounce in the vault?<br>
    **A:** Through "Derivatives"—paper contracts that bet on the price without requiring the physical metal to be delivered.
    **C:** See how this "Ghost Supply" became the primary tool of the Fed in Phase 20.
 
-4. **Q:** Why did the US government stop reporting its silver inventory in 1995?
+4. **Q:** Why did the US government stop reporting its silver inventory in 1995?<br>
    **A:** To hide the fact that the "Strategic Stockpile" was nearly empty, preventing a panic-buy from the public.
    **C:** The "Transparency Blackout" of 1995 is the smoking gun for Phase 18.
 
-5. **Q:** Why did the Gold-Silver ratio hit 100:1 in 1991?
+5. **Q:** Why did the Gold-Silver ratio hit 100:1 in 1991?<br>
    **A:** To make silver look "worthless" compared to gold, discouraging investors from holding it as a safe haven during the Gulf War.
    **C:** This ratio is the "Psychological Cap" we will track all the way to Phase 60.
 
-6. **Q:** Why was the "Death of Film" a myth in the early 90s?
+6. **Q:** Why was the "Death of Film" a myth in the early 90s?<br>
    **A:** Because photographic silver consumption actually increased throughout the 90s, peaking in 1999.
    **C:** The "Narrative Mirage" is a recurring theme in every phase of the suppression.
 
-7. **Q:** What is a "Tomahawk Drain"?
+7. **Q:** What is a "Tomahawk Drain"?<br>
    **A:** The classified, unrecorded consumption of high-purity silver in military munitions that are fired and never recycled.
-   **C:** How much silver is currently at the bottom of the ocean? We investigate in Phase 25.
+   **C:** How much silver is currently at the bottom of the ocean?<br> We investigate in Phase 25.
 
-8. **Q:** How did the "Tequila Crisis" help silver suppressors?
+8. **Q:** How did the "Tequila Crisis" help silver suppressors?<br>
    **A:** It devalued the Mexican Peso, making silver mining 50% cheaper in dollar terms, allowing miners to survive at suppressed prices.
    **C:** Currency warfare is the "Hidden Partner" of metal suppression.
 
-9. **Q:** What was the role of the "Plunge Protection Team" in 1995?
+9. **Q:** What was the role of the "Plunge Protection Team" in 1995?<br>
    **A:** To coordinate secret interventions in the market to prevent a silver breakout from threatening the US Dollar during global chaos.
    **C:** The PPT is the "Final Boss" of our investigation.
 
-10. **Q:** Why is silver in electronics a "Suicide Mission"?
+10. **Q:** Why is silver in electronics a "Suicide Mission"?<br>
     **A:** Because the silver is used in such tiny amounts that it is never profitable to recycle, meaning it is gone from the supply forever.
     **C:** This "Permanent Deletion" is the ticking time bomb of the silver market.
 
-11. **Q:** Why did central banks start "Leasing" silver in 1995?
+11. **Q:** Why did central banks start "Leasing" silver in 1995?<br>
     **A:** To provide the bullion banks with physical metal to sell into the market to hide the growing physical shortage.
     **C:** Leasing is the "Synthetic Life Support" for the paper market.
 
-12. **Q:** What did the Sumitomo Copper Scandal teach silver suppressors?
+12. **Q:** What did the Sumitomo Copper Scandal teach silver suppressors?<br>
     **A:** That you can control a global market if you control the paper warrants, but you must hide your tracks better than Hamanaka did.
     **C:** The Sumitomo "Live Test" changed the way banks traded silver forever.
 
-13. **Q:** Why was the 1994 "Bond Market Massacre" a threat to silver?
+13. **Q:** Why was the 1994 "Bond Market Massacre" a threat to silver?<br>
     **A:** A bond crash usually sends investors into silver; suppressors had to smash silver prices to prevent a "Flight to Quality."
     **C:** Silver suppression is a "Defense Mechanism" for the bond market.
 
-14. **Q:** How did "Low-E Glass" turn skyscrapers into silver vaults?
+14. **Q:** How did "Low-E Glass" turn skyscrapers into silver vaults?<br>
     **A:** It used nanometer-thin layers of silver to reflect heat, consuming millions of ounces that will never be recycled.
     **C:** The "Green Revolution" is the greatest silver consumer in history.
 
-15. **Q:** What is the "Oracle’s Value Trap"?
+15. **Q:** What is the "Oracle’s Value Trap"?<br>
     **A:** When Warren Buffett saw "falling inventories" in 1997, it proved the physical shortage had been ignored by the price for the entire 1990-1995 era.
     **C:** Even the world's greatest investor was late to the party—because the price was rigged.

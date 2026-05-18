@@ -147,38 +147,38 @@ The 1930-1940 silver suppression program directly connects to modern precious me
 
 ## Comprehension Check: 15+ Critical Thinking Questions
 
-1. How did the U.S. silver policy of the 1930s differ from gold policy in terms of its international impact?
+1. How did the U.S. silver policy of the 1930s differ from gold policy in terms of its international impact?<br>
 
-2. Why did the U.S. initially pursue pro-silver policies only to reverse course by 1935?
+2. Why did the U.S. initially pursue pro-silver policies only to reverse course by 1935?<br>
 
-3. What role did industrial demand for silver play in justifying government intervention?
+3. What role did industrial demand for silver play in justifying government intervention?<br>
 
-4. How did the Chinese silver standard collapse differ from European gold standard departures?
+4. How did the Chinese silver standard collapse differ from European gold standard departures?<br>
 
-5. What evidence suggests the Depression-era silver manipulation was coordinated rather than accidental?
+5. What evidence suggests the Depression-era silver manipulation was coordinated rather than accidental?<br>
 
-6. How did silver policies contribute to the geopolitical tensions that led to WWII?
+6. How did silver policies contribute to the geopolitical tensions that led to WWII?<br>
 
-7. What parallels exist between Depression-era silver controls and modern precious metals regulation?
+7. What parallels exist between Depression-era silver controls and modern precious metals regulation?<br>
 
-8. How did the concept of "monetary hegemony" manifest in U.S. silver policy?
+8. How did the concept of "monetary hegemony" manifest in U.S. silver policy?<br>
 
-9. What were the long-term economic consequences for Asian nations from U.S. silver policy?
+9. What were the long-term economic consequences for Asian nations from U.S. silver policy?<br>
 
-10. How did the War Production Board's silver requisitions differ from civilian market controls?
+10. How did the War Production Board's silver requisitions differ from civilian market controls?<br>
 
-11. What role did the Treasury's massive silver hoarding play in post-war economic planning?
+11. What role did the Treasury's massive silver hoarding play in post-war economic planning?<br>
 
-12. How did the artificial creation of industrial demand for silver manipulate market fundamentals?
+12. How did the artificial creation of industrial demand for silver manipulate market fundamentals?<br>
 
-13. What lessons from the Depression-era silver suppression apply to modern market manipulation?
+13. What lessons from the Depression-era silver suppression apply to modern market manipulation?<br>
 
-14. How did FDR's personal views on silver evolve during his presidency?
+14. How did FDR's personal views on silver evolve during his presidency?<br>
 
-15. What evidence suggests the silver suppression program was more about geopolitics than economics?
+15. What evidence suggests the silver suppression program was more about geopolitics than economics?<br>
 
-16. How did the silver-to-gold ratio changes reflect underlying monetary policy shifts?
+16. How did the silver-to-gold ratio changes reflect underlying monetary policy shifts?<br>
 
-17. What connections exist between Depression-era silver manipulation and current precious metals market structures?
+17. What connections exist between Depression-era silver manipulation and current precious metals market structures?<br>
 
 This systematic investigation reveals that silver price suppression during the 1930-1940 Depression & War era was not merely a historical footnote but a foundational episode in the development of modern monetary manipulation and market control systems.

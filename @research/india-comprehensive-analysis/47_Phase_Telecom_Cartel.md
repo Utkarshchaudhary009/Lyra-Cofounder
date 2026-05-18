@@ -19,7 +19,7 @@ This document analyzes the 2024 tariff hikes and the consolidation of the teleco
 *   **The Return:** Monetization is low. The tariff hikes are a way to make the existing 4G/5G users pay for this infrastructure.
 *   **SIM Consolidation:** Following the hike, Jio lost ~11 million subscribers (mostly inactive/secondary SIMs), proving that the poor are price-sensitive.
 
-## 4. Synthesis: Utility or Luxury?
+## 4. Synthesis: Utility or Luxury?<br>
 1.  **No Choice:** Consumers have nowhere to go. All operators raised prices simultaneously.
 2.  **Rural Pain:** A 25% hike hurts the rural poor (who use data for UPI/Education) disproportionately.
 3.  **The Verdict:** Cheap data (the Jio revolution) is over. We are entering an era of "High Cost Data," controlled by a private cartel.

@@ -24,7 +24,7 @@ The cornerstone of the 2023-2025 AI bubble was a financial mechanism known as **
     *   **Regulatory Backlash**: By 2024-2025, the FTC and SEC began probing these "circular deals" as potential distortion of fair competition.
 
 ### 1.2 The $600 Billion Question & The CapEx Crisis
-In late 2023, Sequoia Capital posed the "AWS Question" of the AI era: **where is the revenue?**
+In late 2023, Sequoia Capital posed the "AWS Question" of the AI era: **where is the revenue?<br>**
 *   **The Math of Impossibility**:
     *   Nvidia's data center revenue run-rate was ~$150B.
     *   The total cost of AI data centers is ~2x the chip cost (Energy + Buildings + Chips) -> $300B.
@@ -49,7 +49,7 @@ While the US focused on building "Moats" (Closed Source: GPT-4, Gemini), China e
 *   **The Weapon - Qwen & DeepSeek**:
     *   **Price War**: Alibaba slashed Qwen-Long prices by **97%**, making it ~1/400th the cost of GPT-4.
     *   **The DeepSeek Effect**: DeepSeek V2/V3 introduced "Mixture-of-Experts" (MoE) architectures that slashed training costs by 42.5%, proving that you don't need US-level budgets to build SOTA models.
-    *   **Impact**: This effectively capped the profit margin for US proprietary models. Why pay OpenAI $20/month when a Qwen-derivative is free?
+    *   **Impact**: This effectively capped the profit margin for US proprietary models. Why pay OpenAI $20/month when a Qwen-derivative is free?<br>
 
 ### 2.2 The Sanctions Paradox & The Black Market
 The US enacted strict export controls (October 2023, 2024 revisions) to starve China of Compute (H100/H200s). The result was the creation of the largest chip black market in history.

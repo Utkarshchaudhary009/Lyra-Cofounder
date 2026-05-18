@@ -8,7 +8,7 @@
 
 ### The Most Important Equation in Electrostatics
 
-Two point charges, sitting quietly in space, exert a force on each other. The question that haunted physicists for centuries: *how much force?*
+Two point charges, sitting quietly in space, exert a force on each other. The question that haunted physicists for centuries: *how much force?<br>*
 
 Charles-Augustin de Coulomb answered in 1785 using a torsion balance:
 
@@ -21,7 +21,7 @@ Imagine two people shouting at each other across a field.
 - The **farther apart** they are → the weaker the sound (force drops with distance²).
 - If both are angry (same sign) → they push away. If one is calling with love (opposite sign) → they pull together.
 
-### Why Is This Law So Important?
+### Why Is This Law So Important?<br>
 
 Coulomb's law is to electrostatics what Newton's law of gravitation is to gravity. In fact, they have the **exact same mathematical form**:
 
@@ -45,7 +45,9 @@ $$F = \frac{1}{4\pi\varepsilon_0} \cdot \frac{|q_1||q_2|}{r^2}$$
 | Symbol | Name | Value / Unit |
 |--------|------|-------------|
 | F | Force between charges | Newton (N) |
-| q₁, q₂ | The two point charges | Coulomb (C) |
+| q₁, q₂ | The two point charges | Coulomb <br>
+(C)
+ |
 | r | Distance between centres of charges | metre (m) |
 | ε₀ | Permittivity of free space | 8.854 × 10⁻¹² C²N⁻¹m⁻² |
 | k = 1/(4πε₀) | Coulomb's constant | **9 × 10⁹ Nm²C⁻²** |
@@ -105,7 +107,7 @@ Where **K = εᵣ** = dielectric constant (relative permittivity) of the medium.
 
 1. 🟢 Find force between +2 μC and +4 μC separated by 20 cm in vacuum. *(Ans: 1.8 N, repulsive)*
 2. 🟢 Two electrons are 1 Å apart (10⁻¹⁰ m). Find the electrostatic force. *(Ans: 2.3 × 10⁻⁸ N)*
-3. 🟡 ⭐ What is the force between +1 C and +1 C placed 1 m apart? Comment on its magnitude. *(Ans: 9 × 10⁹ N ≈ weight of ~1 million tonnes! Shows 1 C is enormous.)*
+3. 🟡 ⭐ What is the force between +1 C and +1 C placed 1 m apart?<br> Comment on its magnitude. *(Ans: 9 × 10⁹ N ≈ weight of ~1 million tonnes! Shows 1 C is enormous.)*
 
 ---
 
@@ -124,9 +126,9 @@ Where **K = εᵣ** = dielectric constant (relative permittivity) of the medium.
 
 **Practice:**
 
-1. 🟢 Force between two charges in vacuum is 10 N. What is the force in a medium with K = 5? *(Ans: 2 N)*
-2. 🟡 The force between two charges in air is F. At what distance in a medium (K = 4) would the force be the same F? *(Ans: r/2 — half the original distance)*
-3. 🟡 ⭐ Two charges experience force F at distance r in vacuum. In a medium of K = 9, at what distance is the force still F? *(Ans: r/3)*
+1. 🟢 Force between two charges in vacuum is 10 N. What is the force in a medium with K = 5?<br> *(Ans: 2 N)*
+2. 🟡 The force between two charges in air is F. At what distance in a medium (K = 4) would the force be the same F?<br> *(Ans: r/2 — half the original distance)*
+3. 🟡 ⭐ Two charges experience force F at distance r in vacuum. In a medium of K = 9, at what distance is the force still F?<br> *(Ans: r/3)*
 
 ---
 
@@ -136,7 +138,7 @@ Where **K = εᵣ** = dielectric constant (relative permittivity) of the medium.
 
 **Solved Example** 🟡
 
-> If the distance between two charges is halved, by what factor does the force change?
+> If the distance between two charges is halved, by what factor does the force change?<br>
 
 **Solution:**
 - F ∝ 1/r² → If r → r/2, then F → F × (r/(r/2))² = F × 4 = **4F**
@@ -151,10 +153,10 @@ Where **K = εᵣ** = dielectric constant (relative permittivity) of the medium.
 
 **Practice:**
 
-1. 🟢 Distance is doubled → Force = ? *(Ans: F/4)*
-2. 🟡 One charge is tripled, distance is halved → Force = ? *(Ans: 12F)*
-3. 🟡 ⭐ Both charges doubled, distance doubled, medium changed from vacuum to K = 2 → Force = ? *(Ans: 4F/(4×2) = F/2)*
-4. 🔴 Force between two charges in vacuum at distance d is F. They are placed in a medium of K = 4 at distance d/2. What is the new force? *(Ans: F)*
+1. 🟢 Distance is doubled → Force = ?<br> *(Ans: F/4)*
+2. 🟡 One charge is tripled, distance is halved → Force = ?<br> *(Ans: 12F)*
+3. 🟡 ⭐ Both charges doubled, distance doubled, medium changed from vacuum to K = 2 → Force = ?<br> *(Ans: 4F/(4×2) = F/2)*
+4. 🔴 Force between two charges in vacuum at distance d is F. They are placed in a medium of K = 4 at distance d/2. What is the new force?<br> *(Ans: F)*
 
 ---
 
@@ -174,7 +176,7 @@ Where **K = εᵣ** = dielectric constant (relative permittivity) of the medium.
 
 1. 🟢 Force of 100 N between charges +2 μC and q₂ at 6 cm. Find q₂. *(Ans: 20 μC)*
 2. 🟡 Two charges of 3 μC and 5 μC repel with 0.54 N. Find the separation. *(Ans: 50 cm)*
-3. 🟡 At what distance will two protons experience the same force as two electrons at 1 Å? *(Ans: 1 Å — same charges, same distance gives same force)*
+3. 🟡 At what distance will two protons experience the same force as two electrons at 1 Å?<br> *(Ans: 1 Å — same charges, same distance gives same force)*
 
 ---
 
@@ -186,7 +188,7 @@ Where **K = εᵣ** = dielectric constant (relative permittivity) of the medium.
 
 **Solved Example** 🔴
 
-> Two charges q₁ = +4Q and q₂ = +Q are fixed at distance L apart. Where should a third charge q₃ be placed so that the net force on it is zero?
+> Two charges q₁ = +4Q and q₂ = +Q are fixed at distance L apart. Where should a third charge q₃ be placed so that the net force on it is zero?<br>
 
 **Solution:**
 
@@ -204,8 +206,8 @@ The third charge must be placed at **2L/3 from the larger charge** (closer to th
 
 **Practice:**
 
-1. 🟡 ⭐ Charges +9Q and +Q are separated by distance d. Where is the null point? *(Ans: 3d/4 from +9Q, or d/4 from +Q — but let's verify: 3/(3d/4) = 1/(d/4)? → 4/d = 4/d ✓... Actually: 9Q/x² = Q/(d-x)² → 3/(x) = 1/(d-x) → x = 3d/4)*
-2. 🔴 Charges +4Q and −Q are fixed at distance L. Where should a third charge be placed for equilibrium? *(Ans: outside, at distance L from −Q, i.e., 2L from +4Q)*
+1. 🟡 ⭐ Charges +9Q and +Q are separated by distance d. Where is the null point?<br> *(Ans: 3d/4 from +9Q, or d/4 from +Q — but let's verify: 3/(3d/4) = 1/(d/4)?<br> → 4/d = 4/d ✓... Actually: 9Q/x² = Q/(d-x)² → 3/(x) = 1/(d-x) → x = 3d/4)*
+2. 🔴 Charges +4Q and −Q are fixed at distance L. Where should a third charge be placed for equilibrium?<br> *(Ans: outside, at distance L from −Q, i.e., 2L from +4Q)*
 3. 🔴 ⭐ Two fixed charges +Q are at distance 2d apart. A charge −q (mass m) is placed at the midpoint and slightly displaced along the line. Show that it oscillates with SHM and find the period.
 
 <details>
@@ -282,7 +284,7 @@ Direction: along the diagonal, away from C.
 **Practice:**
 
 1. 🟡 Find the distance at which two protons have electrostatic force of 1 N. *(Ans: ≈ 1.52 × 10⁻¹⁴ m)*
-2. 🟡 At what distance would two 1 kg masses need to be placed for their gravitational force to equal the Coulomb force between two 1 C charges at 1 m? *(Ans: impossible — would need distance ~2.7 × 10⁻¹¹ m, below atomic scale)*
+2. 🟡 At what distance would two 1 kg masses need to be placed for their gravitational force to equal the Coulomb force between two 1 C charges at 1 m?<br> *(Ans: impossible — would need distance ~2.7 × 10⁻¹¹ m, below atomic scale)*
 
 ---
 
@@ -323,7 +325,7 @@ So q ≈ 0.854Q or q ≈ 0.146Q (two solutions, symmetric about Q/2).
 
 ## 🔀 Stage 4: Type Mixer
 
-**Q1.** 🔴 ⭐ Two point charges +4 μC and +1 μC are fixed at positions (0, 0) and (6, 0) cm respectively. At what point on the x-axis is the net electric force on a test charge zero? What if the second charge is −1 μC?
+**Q1.** 🔴 ⭐ Two point charges +4 μC and +1 μC are fixed at positions (0, 0) and (6, 0) cm respectively. At what point on the x-axis is the net electric force on a test charge zero?<br> What if the second charge is −1 μC?<br>
 
 <details>
 <summary><b>Solution</b></summary>
@@ -391,7 +393,7 @@ where r̂₁₂ is the unit vector from q₂ to q₁. This form automatically ac
 Both follow inverse-square law and are central forces.
 </details>
 
-**Q3.** 🟡 What is the effect of the medium on electrostatic force? Define dielectric constant. *(2 marks)*
+**Q3.** 🟡 What is the effect of the medium on electrostatic force?<br> Define dielectric constant. *(2 marks)*
 
 <details>
 <summary><b>Model Answer</b></summary>

@@ -36,7 +36,7 @@ When a metal is placed in a solution of its own ions, a potential difference dev
 **Type 3: Identifying Strongest Oxidizing/Reducing Agent**
 *Strategy:* Highest +ve $E^\circ$ = Strongest Oxidizing Agent (gets reduced easily). Lowest -ve $E^\circ$ = Strongest Reducing Agent (gets oxidized easily).
 
-**Type 4: Can we store X in vessel Y?**
+**Type 4: Can we store X in vessel Y?<br>**
 *Strategy:* The vessel is the solid metal (potential anode). The solution contains ions (potential cathode). Calculate $E^\circ_{cell}$. If positive, reaction occurs, so DO NOT store.
 
 **Type 5: Displacement Reactions**
@@ -47,402 +47,653 @@ When a metal is placed in a solution of its own ions, a potential difference dev
 
 **Q1. The standard electrode potential of SHE is zero. This is because:**
 
-- (A) Hydrogen is highly reactive
-- (B) Hydrogen is the lightest element
-- (C) It is arbitrarily assumed to be zero
-- (D) The potential difference is perfectly balanced
+- <br>
+(A) Hydrogen is highly reactive
+- <br>
+(B) Hydrogen is the lightest element
+- <br>
+(C)
+ It is arbitrarily assumed to be zero
+- <br>
+(D) The potential difference is perfectly balanced
 
-<details><summary>Solution</summary><b>Answer: (C) It is arbitrarily assumed to be zero</b><br>The zero value for SHE is an arbitrary convention chosen to measure other electrode potentials.</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(C)
+ It is arbitrarily assumed to be zero</b><br>The zero value for SHE is an arbitrary convention chosen to measure other electrode potentials.</details>
 
 
 **Q2. Platinum black is used in Standard Hydrogen Electrode because:**
 
-- (A) Both A and C
-- (B) It is an inert metal and does not participate in the reaction
-- (C) It acts as a catalyst and increases the surface area for rapid attainment of equilibrium
-- (D) It prevents the oxidation of hydrogen
+- <br>
+(A) Both A and C
+- <br>
+(B) It is an inert metal and does not participate in the reaction
+- <br>
+(C)
+ It acts as a catalyst and increases the surface area for rapid attainment of equilibrium
+- <br>
+(D) It prevents the oxidation of hydrogen
 
-<details><summary>Solution</summary><b>Answer: (A) Both A and C</b><br>Pt provides a surface for H2 to adsorb and also acts as an inert conductor.</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(A) Both A and C</b><br>Pt provides a surface for H2 to adsorb and also acts as an inert conductor.</details>
 
 
-**Q3. Which of the following metals cannot liberate hydrogen gas from dilute acids?**
+**Q3. Which of the following metals cannot liberate hydrogen gas from dilute acids?<br>**
 
-- (A) Cu
-- (B) Mg
-- (C) Fe
-- (D) Zn
+- <br>
+(A) Cu
+- <br>
+(B) Mg
+- <br>
+(C)
+ Fe
+- <br>
+(D) Zn
 
-<details><summary>Solution</summary><b>Answer: (A) Cu</b><br>Metals with positive standard reduction potentials (like Cu, Ag, Au) cannot displace hydrogen from acids.</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(A) Cu</b><br>Metals with positive standard reduction potentials (like Cu, Ag, Au) cannot displace hydrogen from acids.</details>
 
 
 **Q4. By IUPAC convention, standard electrode potential refers to:**
 
-- (A) Standard Reduction Potential
-- (B) Standard Oxidation Potential
-- (C) Zero potential
-- (D) Standard EMF of the cell
+- <br>
+(A) Standard Reduction Potential
+- <br>
+(B) Standard Oxidation Potential
+- <br>
+(C)
+ Zero potential
+- <br>
+(D) Standard EMF of the cell
 
-<details><summary>Solution</summary><b>Answer: (A) Standard Reduction Potential</b><br>All standard potentials in the electrochemical series are given as reduction potentials.</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(A) Standard Reduction Potential</b><br>All standard potentials in the electrochemical series are given as reduction potentials.</details>
 
 
 **Q5. A solution of Copper Sulphate ($CuSO_4$) can be safely stored in a vessel made of:**
 
-- (A) Magnesium
-- (B) Iron
-- (C) Zinc
-- (D) Silver
+- <br>
+(A) Magnesium
+- <br>
+(B) Iron
+- <br>
+(C)
+ Zinc
+- <br>
+(D) Silver
+
+<details><summary>Solution</summary><b>Answer: <br>
+(D) Silver</b><br>Silver has a higher reduction potential (0.80V) than Copper (0.34V), so it will not displace copper from its solution. Zn, Fe, and Mg have lower potentials and would react.</details>
+
+
+**Q6. Can we store a solution containing Mg2+ ions in a container made of Na?<br> ($E^\circ_{Na+/Na} = -2.71 V$, $E^\circ_{Mg2+/Mg} = -2.36 V$)**
+
+- <br>
+(A) Yes
+- <br>
+(B) No
+- <br>
+(C)
+ Only under standard conditions
+- <br>
+(D) None of the above
+
+<details><summary>Solution</summary><b>Answer: <br>
+(B) No</b><br>If $E^\circ_{Na+/Na} < E^\circ_{Mg2+/Mg}$, Na will displace Mg from the solution. Hence, we can only store it if the container metal has a HIGHER reduction potential.</details>
+
+
+**Q7. Can we store a solution containing Na+ ions in a container made of Ca?<br> ($E^\circ_{Ca2+/Ca} = -2.87 V$, $E^\circ_{Na+/Na} = -2.71 V$)**
+
+- <br>
+(A) None of the above
+- <br>
+(B) Only under standard conditions
+- <br>
+(C)
+ No
+- <br>
+(D) Yes
+
+<details><summary>Solution</summary><b>Answer: <br>
+(C)
+ No</b><br>If $E^\circ_{Ca2+/Ca} < E^\circ_{Na+/Na}$, Ca will displace Na from the solution. Hence, we can only store it if the container metal has a HIGHER reduction potential.</details>
+
+
+**Q8. Among Hg2+ and Au3+, which is the stronger oxidizing agent?<br> ($E^\circ_{Hg2+/Hg} = 0.85 V$, $E^\circ_{Au3+/Au} = 1.5 V$)**
+
+- <br>
+(A) Au
+- <br>
+(B) Hg
+- <br>
+(C)
+ Au3+
+- <br>
+(D) Hg2+
+
+<details><summary>Solution</summary><b>Answer: <br>
+(C)
+ Au3+</b><br>Higher standard reduction potential means greater tendency to get reduced, hence a stronger oxidizing agent.</details>
+
+
+**Q9. Given standard reduction potentials $E^\circ_{Li+/Li} = -3.05 V$ and $E^\circ_{Sn2+/Sn} = -0.14 V$. What is the standard EMF of the cell formed by these two electrodes?<br>**
+
+- <br>
+(A) 2.91 V
+- <br>
+(B) -3.19 V
+- <br>
+(C)
+ -2.91 V
+- <br>
+(D) 3.19 V
+
+<details><summary>Solution</summary><b>Answer: <br>
+(A) 2.91 V</b><br>$E^\circ_{cell} = E^\circ_{cathode} - E^\circ_{anode}$. The one with higher (more positive) potential is cathode. Max(-3.05, -0.14) - Min(-3.05, -0.14) = 2.91 V.</details>
+
+
+**Q10. Given standard reduction potentials $E^\circ_{Pb2+/Pb} = -0.13 V$ and $E^\circ_{Li+/Li} = -3.05 V$. What is the standard EMF of the cell formed by these two electrodes?<br>**
+
+- <br>
+(A) -2.92 V
+- <br>
+(B) 2.92 V
+- <br>
+(C)
+ 3.18 V
+- <br>
+(D) -3.18 V
+
+<details><summary>Solution</summary><b>Answer: <br>
+(B) 2.92 V</b><br>$E^\circ_{cell} = E^\circ_{cathode} - E^\circ_{anode}$. The one with higher (more positive) potential is cathode. Max(-0.13, -3.05) - Min(-0.13, -3.05) = 2.92 V.</details>
+
+
+**Q11. Among Ag+ and K+, which is the stronger oxidizing agent?<br> ($E^\circ_{Ag+/Ag} = 0.8 V$, $E^\circ_{K+/K} = -2.93 V$)**
+
+- <br>
+(A) K
+- <br>
+(B) Ag
+- <br>
+(C)
+ Ag+
+- <br>
+(D) K+
+
+<details><summary>Solution</summary><b>Answer: <br>
+(C)
+ Ag+</b><br>Higher standard reduction potential means greater tendency to get reduced, hence a stronger oxidizing agent.</details>
+
 
-<details><summary>Solution</summary><b>Answer: (D) Silver</b><br>Silver has a higher reduction potential (0.80V) than Copper (0.34V), so it will not displace copper from its solution. Zn, Fe, and Mg have lower potentials and would react.</details>
+**Q12. Among Ni2+ and Mg2+, which is the stronger oxidizing agent?<br> ($E^\circ_{Ni2+/Ni} = -0.25 V$, $E^\circ_{Mg2+/Mg} = -2.36 V$)**
+
+- <br>
+(A) Ni2+
+- <br>
+(B) Mg
+- <br>
+(C)
+ Ni
+- <br>
+(D) Mg2+
+
+<details><summary>Solution</summary><b>Answer: <br>
+(A) Ni2+</b><br>Higher standard reduction potential means greater tendency to get reduced, hence a stronger oxidizing agent.</details>
+
 
+**Q13. Can we store a solution containing Al3+ ions in a container made of H?<br> ($E^\circ_{H+/H} = 0.0 V$, $E^\circ_{Al3+/Al} = -1.66 V$)**
+
+- <br>
+(A) None of the above
+- <br>
+(B) Only under standard conditions
+- <br>
+(C)
+ Yes
+- <br>
+(D) No
+
+<details><summary>Solution</summary><b>Answer: <br>
+(C)
+ Yes</b><br>If $E^\circ_{H+/H} < E^\circ_{Al3+/Al}$, H will displace Al from the solution. Hence, we can only store it if the container metal has a HIGHER reduction potential.</details>
 
-**Q6. Can we store a solution containing Mg2+ ions in a container made of Na? ($E^\circ_{Na+/Na} = -2.71 V$, $E^\circ_{Mg2+/Mg} = -2.36 V$)**
-
-- (A) Yes
-- (B) No
-- (C) Only under standard conditions
-- (D) None of the above
-
-<details><summary>Solution</summary><b>Answer: (B) No</b><br>If $E^\circ_{Na+/Na} < E^\circ_{Mg2+/Mg}$, Na will displace Mg from the solution. Hence, we can only store it if the container metal has a HIGHER reduction potential.</details>
-
-
-**Q7. Can we store a solution containing Na+ ions in a container made of Ca? ($E^\circ_{Ca2+/Ca} = -2.87 V$, $E^\circ_{Na+/Na} = -2.71 V$)**
-
-- (A) None of the above
-- (B) Only under standard conditions
-- (C) No
-- (D) Yes
-
-<details><summary>Solution</summary><b>Answer: (C) No</b><br>If $E^\circ_{Ca2+/Ca} < E^\circ_{Na+/Na}$, Ca will displace Na from the solution. Hence, we can only store it if the container metal has a HIGHER reduction potential.</details>
-
-
-**Q8. Among Hg2+ and Au3+, which is the stronger oxidizing agent? ($E^\circ_{Hg2+/Hg} = 0.85 V$, $E^\circ_{Au3+/Au} = 1.5 V$)**
-
-- (A) Au
-- (B) Hg
-- (C) Au3+
-- (D) Hg2+
-
-<details><summary>Solution</summary><b>Answer: (C) Au3+</b><br>Higher standard reduction potential means greater tendency to get reduced, hence a stronger oxidizing agent.</details>
-
-
-**Q9. Given standard reduction potentials $E^\circ_{Li+/Li} = -3.05 V$ and $E^\circ_{Sn2+/Sn} = -0.14 V$. What is the standard EMF of the cell formed by these two electrodes?**
-
-- (A) 2.91 V
-- (B) -3.19 V
-- (C) -2.91 V
-- (D) 3.19 V
-
-<details><summary>Solution</summary><b>Answer: (A) 2.91 V</b><br>$E^\circ_{cell} = E^\circ_{cathode} - E^\circ_{anode}$. The one with higher (more positive) potential is cathode. Max(-3.05, -0.14) - Min(-3.05, -0.14) = 2.91 V.</details>
-
-
-**Q10. Given standard reduction potentials $E^\circ_{Pb2+/Pb} = -0.13 V$ and $E^\circ_{Li+/Li} = -3.05 V$. What is the standard EMF of the cell formed by these two electrodes?**
-
-- (A) -2.92 V
-- (B) 2.92 V
-- (C) 3.18 V
-- (D) -3.18 V
-
-<details><summary>Solution</summary><b>Answer: (B) 2.92 V</b><br>$E^\circ_{cell} = E^\circ_{cathode} - E^\circ_{anode}$. The one with higher (more positive) potential is cathode. Max(-0.13, -3.05) - Min(-0.13, -3.05) = 2.92 V.</details>
-
-
-**Q11. Among Ag+ and K+, which is the stronger oxidizing agent? ($E^\circ_{Ag+/Ag} = 0.8 V$, $E^\circ_{K+/K} = -2.93 V$)**
-
-- (A) K
-- (B) Ag
-- (C) Ag+
-- (D) K+
-
-<details><summary>Solution</summary><b>Answer: (C) Ag+</b><br>Higher standard reduction potential means greater tendency to get reduced, hence a stronger oxidizing agent.</details>
-
-
-**Q12. Among Ni2+ and Mg2+, which is the stronger oxidizing agent? ($E^\circ_{Ni2+/Ni} = -0.25 V$, $E^\circ_{Mg2+/Mg} = -2.36 V$)**
-
-- (A) Ni2+
-- (B) Mg
-- (C) Ni
-- (D) Mg2+
-
-<details><summary>Solution</summary><b>Answer: (A) Ni2+</b><br>Higher standard reduction potential means greater tendency to get reduced, hence a stronger oxidizing agent.</details>
-
-
-**Q13. Can we store a solution containing Al3+ ions in a container made of H? ($E^\circ_{H+/H} = 0.0 V$, $E^\circ_{Al3+/Al} = -1.66 V$)**
-
-- (A) None of the above
-- (B) Only under standard conditions
-- (C) Yes
-- (D) No
-
-<details><summary>Solution</summary><b>Answer: (C) Yes</b><br>If $E^\circ_{H+/H} < E^\circ_{Al3+/Al}$, H will displace Al from the solution. Hence, we can only store it if the container metal has a HIGHER reduction potential.</details>
-
-
-**Q14. Can we store a solution containing Pb2+ ions in a container made of Na? ($E^\circ_{Na+/Na} = -2.71 V$, $E^\circ_{Pb2+/Pb} = -0.13 V$)**
-
-- (A) No
-- (B) None of the above
-- (C) Yes
-- (D) Only under standard conditions
-
-<details><summary>Solution</summary><b>Answer: (A) No</b><br>If $E^\circ_{Na+/Na} < E^\circ_{Pb2+/Pb}$, Na will displace Pb from the solution. Hence, we can only store it if the container metal has a HIGHER reduction potential.</details>
-
-
-**Q15. Among H+ and Hg2+, which is the stronger oxidizing agent? ($E^\circ_{H+/H} = 0.0 V$, $E^\circ_{Hg2+/Hg} = 0.85 V$)**
-
-- (A) Hg2+
-- (B) H
-- (C) Hg
-- (D) H+
-
-<details><summary>Solution</summary><b>Answer: (A) Hg2+</b><br>Higher standard reduction potential means greater tendency to get reduced, hence a stronger oxidizing agent.</details>
-
-
-**Q16. Among Au3+ and Na+, which is the stronger oxidizing agent? ($E^\circ_{Au3+/Au} = 1.5 V$, $E^\circ_{Na+/Na} = -2.71 V$)**
-
-- (A) Au3+
-- (B) Na
-- (C) Au
-- (D) Na+
-
-<details><summary>Solution</summary><b>Answer: (A) Au3+</b><br>Higher standard reduction potential means greater tendency to get reduced, hence a stronger oxidizing agent.</details>
-
-
-**Q17. Can we store a solution containing H+ ions in a container made of Fe? ($E^\circ_{Fe2+/Fe} = -0.44 V$, $E^\circ_{H+/H} = 0.0 V$)**
-
-- (A) Only under standard conditions
-- (B) No
-- (C) None of the above
-- (D) Yes
-
-<details><summary>Solution</summary><b>Answer: (B) No</b><br>If $E^\circ_{Fe2+/Fe} < E^\circ_{H+/H}$, Fe will displace H from the solution. Hence, we can only store it if the container metal has a HIGHER reduction potential.</details>
-
-
-**Q18. Given standard reduction potentials $E^\circ_{K+/K} = -2.93 V$ and $E^\circ_{H+/H} = 0.0 V$. What is the standard EMF of the cell formed by these two electrodes?**
-
-- (A) -2.93 V
-- (B) 2.93 V
-- (C) 2.93 V
-- (D) -2.93 V
-
-<details><summary>Solution</summary><b>Answer: (B) 2.93 V</b><br>$E^\circ_{cell} = E^\circ_{cathode} - E^\circ_{anode}$. The one with higher (more positive) potential is cathode. Max(-2.93, 0.0) - Min(-2.93, 0.0) = 2.93 V.</details>
-
-
-**Q19. Is the reaction $2Ag(s) + 3Pb2+(aq) \rightarrow 2Ag+(aq) + 3Pb(s)$ feasible? Given $E^\circ_{Ag+/Ag} = 0.8 V$ and $E^\circ_{Pb2+/Pb} = -0.13 V$.**
-
-- (A) Cannot be determined
-- (B) Depends on temperature
-- (C) Yes
-- (D) No
-
-<details><summary>Solution</summary><b>Answer: (D) No</b><br>Reaction involves oxidation of Ag and reduction of Pb2+. $E^\circ_{cell} = E^\circ_{cathode} - E^\circ_{anode} = -0.13 - (0.8) = -0.93 V$. If positive, it is feasible.</details>
-
-
-**Q20. Among Ca2+ and Sn2+, which is the stronger oxidizing agent? ($E^\circ_{Ca2+/Ca} = -2.87 V$, $E^\circ_{Sn2+/Sn} = -0.14 V$)**
-
-- (A) Ca
-- (B) Sn
-- (C) Sn2+
-- (D) Ca2+
-
-<details><summary>Solution</summary><b>Answer: (C) Sn2+</b><br>Higher standard reduction potential means greater tendency to get reduced, hence a stronger oxidizing agent.</details>
-
-
-**Q21. Is the reaction $2Mg(s) + 3Pb2+(aq) \rightarrow 2Mg2+(aq) + 3Pb(s)$ feasible? Given $E^\circ_{Mg2+/Mg} = -2.36 V$ and $E^\circ_{Pb2+/Pb} = -0.13 V$.**
-
-- (A) Depends on temperature
-- (B) Cannot be determined
-- (C) No
-- (D) Yes
-
-<details><summary>Solution</summary><b>Answer: (D) Yes</b><br>Reaction involves oxidation of Mg and reduction of Pb2+. $E^\circ_{cell} = E^\circ_{cathode} - E^\circ_{anode} = -0.13 - (-2.36) = 2.23 V$. If positive, it is feasible.</details>
-
-
-**Q22. Is the reaction $2Mg(s) + 3Li+(aq) \rightarrow 2Mg2+(aq) + 3Li(s)$ feasible? Given $E^\circ_{Mg2+/Mg} = -2.36 V$ and $E^\circ_{Li+/Li} = -3.05 V$.**
-
-- (A) No
-- (B) Depends on temperature
-- (C) Cannot be determined
-- (D) Yes
-
-<details><summary>Solution</summary><b>Answer: (A) No</b><br>Reaction involves oxidation of Mg and reduction of Li+. $E^\circ_{cell} = E^\circ_{cathode} - E^\circ_{anode} = -3.05 - (-2.36) = -0.69 V$. If positive, it is feasible.</details>
-
-
-**Q23. Among Zn2+ and Ca2+, which is the stronger oxidizing agent? ($E^\circ_{Zn2+/Zn} = -0.76 V$, $E^\circ_{Ca2+/Ca} = -2.87 V$)**
-
-- (A) Zn2+
-- (B) Zn
-- (C) Ca2+
-- (D) Ca
-
-<details><summary>Solution</summary><b>Answer: (A) Zn2+</b><br>Higher standard reduction potential means greater tendency to get reduced, hence a stronger oxidizing agent.</details>
-
-
-**Q24. Can we store a solution containing Au3+ ions in a container made of Na? ($E^\circ_{Na+/Na} = -2.71 V$, $E^\circ_{Au3+/Au} = 1.5 V$)**
-
-- (A) None of the above
-- (B) Only under standard conditions
-- (C) Yes
-- (D) No
-
-<details><summary>Solution</summary><b>Answer: (D) No</b><br>If $E^\circ_{Na+/Na} < E^\circ_{Au3+/Au}$, Na will displace Au from the solution. Hence, we can only store it if the container metal has a HIGHER reduction potential.</details>
-
-
-**Q25. Is the reaction $2Au(s) + 3Cu2+(aq) \rightarrow 2Au3+(aq) + 3Cu(s)$ feasible? Given $E^\circ_{Au3+/Au} = 1.5 V$ and $E^\circ_{Cu2+/Cu} = 0.34 V$.**
-
-- (A) Depends on temperature
-- (B) No
-- (C) Yes
-- (D) Cannot be determined
-
-<details><summary>Solution</summary><b>Answer: (B) No</b><br>Reaction involves oxidation of Au and reduction of Cu2+. $E^\circ_{cell} = E^\circ_{cathode} - E^\circ_{anode} = 0.34 - (1.5) = -1.16 V$. If positive, it is feasible.</details>
-
-
-**Q26. Is the reaction $2Al(s) + 3Pb2+(aq) \rightarrow 2Al3+(aq) + 3Pb(s)$ feasible? Given $E^\circ_{Al3+/Al} = -1.66 V$ and $E^\circ_{Pb2+/Pb} = -0.13 V$.**
-
-- (A) Cannot be determined
-- (B) No
-- (C) Yes
-- (D) Depends on temperature
-
-<details><summary>Solution</summary><b>Answer: (C) Yes</b><br>Reaction involves oxidation of Al and reduction of Pb2+. $E^\circ_{cell} = E^\circ_{cathode} - E^\circ_{anode} = -0.13 - (-1.66) = 1.53 V$. If positive, it is feasible.</details>
-
-
-**Q27. Given standard reduction potentials $E^\circ_{Al3+/Al} = -1.66 V$ and $E^\circ_{Ni2+/Ni} = -0.25 V$. What is the standard EMF of the cell formed by these two electrodes?**
-
-- (A) 1.41 V
-- (B) -1.41 V
-- (C) -1.91 V
-- (D) 1.91 V
-
-<details><summary>Solution</summary><b>Answer: (A) 1.41 V</b><br>$E^\circ_{cell} = E^\circ_{cathode} - E^\circ_{anode}$. The one with higher (more positive) potential is cathode. Max(-1.66, -0.25) - Min(-1.66, -0.25) = 1.41 V.</details>
-
-
-**Q28. Given standard reduction potentials $E^\circ_{Zn2+/Zn} = -0.76 V$ and $E^\circ_{H+/H} = 0.0 V$. What is the standard EMF of the cell formed by these two electrodes?**
-
-- (A) 0.76 V
-- (B) -0.76 V
-- (C) 0.76 V
-- (D) -0.76 V
-
-<details><summary>Solution</summary><b>Answer: (A) 0.76 V</b><br>$E^\circ_{cell} = E^\circ_{cathode} - E^\circ_{anode}$. The one with higher (more positive) potential is cathode. Max(-0.76, 0.0) - Min(-0.76, 0.0) = 0.76 V.</details>
-
-
-**Q29. Can we store a solution containing Au3+ ions in a container made of Fe? ($E^\circ_{Fe2+/Fe} = -0.44 V$, $E^\circ_{Au3+/Au} = 1.5 V$)**
-
-- (A) Yes
-- (B) No
-- (C) Only under standard conditions
-- (D) None of the above
-
-<details><summary>Solution</summary><b>Answer: (B) No</b><br>If $E^\circ_{Fe2+/Fe} < E^\circ_{Au3+/Au}$, Fe will displace Au from the solution. Hence, we can only store it if the container metal has a HIGHER reduction potential.</details>
-
-
-**Q30. Is the reaction $2Fe(s) + 3Ca2+(aq) \rightarrow 2Fe2+(aq) + 3Ca(s)$ feasible? Given $E^\circ_{Fe2+/Fe} = -0.44 V$ and $E^\circ_{Ca2+/Ca} = -2.87 V$.**
-
-- (A) Depends on temperature
-- (B) Cannot be determined
-- (C) Yes
-- (D) No
-
-<details><summary>Solution</summary><b>Answer: (D) No</b><br>Reaction involves oxidation of Fe and reduction of Ca2+. $E^\circ_{cell} = E^\circ_{cathode} - E^\circ_{anode} = -2.87 - (-0.44) = -2.43 V$. If positive, it is feasible.</details>
-
-
-**Q31. Given standard reduction potentials $E^\circ_{Fe2+/Fe} = -0.44 V$ and $E^\circ_{H+/H} = 0.0 V$. What is the standard EMF of the cell formed by these two electrodes?**
-
-- (A) 0.44 V
-- (B) 0.44 V
-- (C) -0.44 V
-- (D) -0.44 V
-
-<details><summary>Solution</summary><b>Answer: (A) 0.44 V</b><br>$E^\circ_{cell} = E^\circ_{cathode} - E^\circ_{anode}$. The one with higher (more positive) potential is cathode. Max(-0.44, 0.0) - Min(-0.44, 0.0) = 0.44 V.</details>
-
-
-**Q32. Among Na+ and Au3+, which is the stronger oxidizing agent? ($E^\circ_{Na+/Na} = -2.71 V$, $E^\circ_{Au3+/Au} = 1.5 V$)**
-
-- (A) Au3+
-- (B) Au
-- (C) Na+
-- (D) Na
-
-<details><summary>Solution</summary><b>Answer: (A) Au3+</b><br>Higher standard reduction potential means greater tendency to get reduced, hence a stronger oxidizing agent.</details>
-
-
-**Q33. Can we store a solution containing Li+ ions in a container made of Hg? ($E^\circ_{Hg2+/Hg} = 0.85 V$, $E^\circ_{Li+/Li} = -3.05 V$)**
-
-- (A) Only under standard conditions
-- (B) Yes
-- (C) None of the above
-- (D) No
-
-<details><summary>Solution</summary><b>Answer: (B) Yes</b><br>If $E^\circ_{Hg2+/Hg} < E^\circ_{Li+/Li}$, Hg will displace Li from the solution. Hence, we can only store it if the container metal has a HIGHER reduction potential.</details>
-
-
-**Q34. Is the reaction $2Cu(s) + 3Pb2+(aq) \rightarrow 2Cu2+(aq) + 3Pb(s)$ feasible? Given $E^\circ_{Cu2+/Cu} = 0.34 V$ and $E^\circ_{Pb2+/Pb} = -0.13 V$.**
-
-- (A) No
-- (B) Depends on temperature
-- (C) Yes
-- (D) Cannot be determined
-
-<details><summary>Solution</summary><b>Answer: (A) No</b><br>Reaction involves oxidation of Cu and reduction of Pb2+. $E^\circ_{cell} = E^\circ_{cathode} - E^\circ_{anode} = -0.13 - (0.34) = -0.47 V$. If positive, it is feasible.</details>
-
-
-**Q35. Is the reaction $2Au(s) + 3Na+(aq) \rightarrow 2Au3+(aq) + 3Na(s)$ feasible? Given $E^\circ_{Au3+/Au} = 1.5 V$ and $E^\circ_{Na+/Na} = -2.71 V$.**
-
-- (A) Depends on temperature
-- (B) Cannot be determined
-- (C) No
-- (D) Yes
-
-<details><summary>Solution</summary><b>Answer: (C) No</b><br>Reaction involves oxidation of Au and reduction of Na+. $E^\circ_{cell} = E^\circ_{cathode} - E^\circ_{anode} = -2.71 - (1.5) = -4.21 V$. If positive, it is feasible.</details>
-
-
-**Q36. Is the reaction $2H(s) + 3Cu2+(aq) \rightarrow 2H+(aq) + 3Cu(s)$ feasible? Given $E^\circ_{H+/H} = 0.0 V$ and $E^\circ_{Cu2+/Cu} = 0.34 V$.**
-
-- (A) Depends on temperature
-- (B) No
-- (C) Yes
-- (D) Cannot be determined
-
-<details><summary>Solution</summary><b>Answer: (C) Yes</b><br>Reaction involves oxidation of H and reduction of Cu2+. $E^\circ_{cell} = E^\circ_{cathode} - E^\circ_{anode} = 0.34 - (0.0) = 0.34 V$. If positive, it is feasible.</details>
-
-
-**Q37. Is the reaction $2Li(s) + 3Ca2+(aq) \rightarrow 2Li+(aq) + 3Ca(s)$ feasible? Given $E^\circ_{Li+/Li} = -3.05 V$ and $E^\circ_{Ca2+/Ca} = -2.87 V$.**
-
-- (A) Cannot be determined
-- (B) No
-- (C) Depends on temperature
-- (D) Yes
-
-<details><summary>Solution</summary><b>Answer: (D) Yes</b><br>Reaction involves oxidation of Li and reduction of Ca2+. $E^\circ_{cell} = E^\circ_{cathode} - E^\circ_{anode} = -2.87 - (-3.05) = 0.18 V$. If positive, it is feasible.</details>
-
-
-**Q38. Is the reaction $2Mg(s) + 3Fe2+(aq) \rightarrow 2Mg2+(aq) + 3Fe(s)$ feasible? Given $E^\circ_{Mg2+/Mg} = -2.36 V$ and $E^\circ_{Fe2+/Fe} = -0.44 V$.**
-
-- (A) Cannot be determined
-- (B) Depends on temperature
-- (C) Yes
-- (D) No
-
-<details><summary>Solution</summary><b>Answer: (C) Yes</b><br>Reaction involves oxidation of Mg and reduction of Fe2+. $E^\circ_{cell} = E^\circ_{cathode} - E^\circ_{anode} = -0.44 - (-2.36) = 1.92 V$. If positive, it is feasible.</details>
-
-
-**Q39. Among Mg2+ and Fe2+, which is the stronger oxidizing agent? ($E^\circ_{Mg2+/Mg} = -2.36 V$, $E^\circ_{Fe2+/Fe} = -0.44 V$)**
-
-- (A) Fe
-- (B) Fe2+
-- (C) Mg
-- (D) Mg2+
-
-<details><summary>Solution</summary><b>Answer: (B) Fe2+</b><br>Higher standard reduction potential means greater tendency to get reduced, hence a stronger oxidizing agent.</details>
-
-
-**Q40. Given standard reduction potentials $E^\circ_{Au3+/Au} = 1.5 V$ and $E^\circ_{K+/K} = -2.93 V$. What is the standard EMF of the cell formed by these two electrodes?**
-
-- (A) -4.43 V
-- (B) -1.43 V
-- (C) 4.43 V
-- (D) 1.43 V
-
-<details><summary>Solution</summary><b>Answer: (C) 4.43 V</b><br>$E^\circ_{cell} = E^\circ_{cathode} - E^\circ_{anode}$. The one with higher (more positive) potential is cathode. Max(1.5, -2.93) - Min(1.5, -2.93) = 4.43 V.</details>
+
+**Q14. Can we store a solution containing Pb2+ ions in a container made of Na?<br> ($E^\circ_{Na+/Na} = -2.71 V$, $E^\circ_{Pb2+/Pb} = -0.13 V$)**
+
+- <br>
+(A) No
+- <br>
+(B) None of the above
+- <br>
+(C)
+ Yes
+- <br>
+(D) Only under standard conditions
+
+<details><summary>Solution</summary><b>Answer: <br>
+(A) No</b><br>If $E^\circ_{Na+/Na} < E^\circ_{Pb2+/Pb}$, Na will displace Pb from the solution. Hence, we can only store it if the container metal has a HIGHER reduction potential.</details>
+
+
+**Q15. Among H+ and Hg2+, which is the stronger oxidizing agent?<br> ($E^\circ_{H+/H} = 0.0 V$, $E^\circ_{Hg2+/Hg} = 0.85 V$)**
+
+- <br>
+(A) Hg2+
+- <br>
+(B) H
+- <br>
+(C)
+ Hg
+- <br>
+(D) H+
+
+<details><summary>Solution</summary><b>Answer: <br>
+(A) Hg2+</b><br>Higher standard reduction potential means greater tendency to get reduced, hence a stronger oxidizing agent.</details>
+
+
+**Q16. Among Au3+ and Na+, which is the stronger oxidizing agent?<br> ($E^\circ_{Au3+/Au} = 1.5 V$, $E^\circ_{Na+/Na} = -2.71 V$)**
+
+- <br>
+(A) Au3+
+- <br>
+(B) Na
+- <br>
+(C)
+ Au
+- <br>
+(D) Na+
+
+<details><summary>Solution</summary><b>Answer: <br>
+(A) Au3+</b><br>Higher standard reduction potential means greater tendency to get reduced, hence a stronger oxidizing agent.</details>
+
+
+**Q17. Can we store a solution containing H+ ions in a container made of Fe?<br> ($E^\circ_{Fe2+/Fe} = -0.44 V$, $E^\circ_{H+/H} = 0.0 V$)**
+
+- <br>
+(A) Only under standard conditions
+- <br>
+(B) No
+- <br>
+(C)
+ None of the above
+- <br>
+(D) Yes
+
+<details><summary>Solution</summary><b>Answer: <br>
+(B) No</b><br>If $E^\circ_{Fe2+/Fe} < E^\circ_{H+/H}$, Fe will displace H from the solution. Hence, we can only store it if the container metal has a HIGHER reduction potential.</details>
+
+
+**Q18. Given standard reduction potentials $E^\circ_{K+/K} = -2.93 V$ and $E^\circ_{H+/H} = 0.0 V$. What is the standard EMF of the cell formed by these two electrodes?<br>**
+
+- <br>
+(A) -2.93 V
+- <br>
+(B) 2.93 V
+- <br>
+(C)
+ 2.93 V
+- <br>
+(D) -2.93 V
+
+<details><summary>Solution</summary><b>Answer: <br>
+(B) 2.93 V</b><br>$E^\circ_{cell} = E^\circ_{cathode} - E^\circ_{anode}$. The one with higher (more positive) potential is cathode. Max(-2.93, 0.0) - Min(-2.93, 0.0) = 2.93 V.</details>
+
+
+**Q19. Is the reaction $2Ag(s) + 3Pb2+(aq) \rightarrow 2Ag+(aq) + 3Pb(s)$ feasible?<br> Given $E^\circ_{Ag+/Ag} = 0.8 V$ and $E^\circ_{Pb2+/Pb} = -0.13 V$.**
+
+- <br>
+(A) Cannot be determined
+- <br>
+(B) Depends on temperature
+- <br>
+(C)
+ Yes
+- <br>
+(D) No
+
+<details><summary>Solution</summary><b>Answer: <br>
+(D) No</b><br>Reaction involves oxidation of Ag and reduction of Pb2+. $E^\circ_{cell} = E^\circ_{cathode} - E^\circ_{anode} = -0.13 - (0.8) = -0.93 V$. If positive, it is feasible.</details>
+
+
+**Q20. Among Ca2+ and Sn2+, which is the stronger oxidizing agent?<br> ($E^\circ_{Ca2+/Ca} = -2.87 V$, $E^\circ_{Sn2+/Sn} = -0.14 V$)**
+
+- <br>
+(A) Ca
+- <br>
+(B) Sn
+- <br>
+(C)
+ Sn2+
+- <br>
+(D) Ca2+
+
+<details><summary>Solution</summary><b>Answer: <br>
+(C)
+ Sn2+</b><br>Higher standard reduction potential means greater tendency to get reduced, hence a stronger oxidizing agent.</details>
+
+
+**Q21. Is the reaction $2Mg(s) + 3Pb2+(aq) \rightarrow 2Mg2+(aq) + 3Pb(s)$ feasible?<br> Given $E^\circ_{Mg2+/Mg} = -2.36 V$ and $E^\circ_{Pb2+/Pb} = -0.13 V$.**
+
+- <br>
+(A) Depends on temperature
+- <br>
+(B) Cannot be determined
+- <br>
+(C)
+ No
+- <br>
+(D) Yes
+
+<details><summary>Solution</summary><b>Answer: <br>
+(D) Yes</b><br>Reaction involves oxidation of Mg and reduction of Pb2+. $E^\circ_{cell} = E^\circ_{cathode} - E^\circ_{anode} = -0.13 - (-2.36) = 2.23 V$. If positive, it is feasible.</details>
+
+
+**Q22. Is the reaction $2Mg(s) + 3Li+(aq) \rightarrow 2Mg2+(aq) + 3Li(s)$ feasible?<br> Given $E^\circ_{Mg2+/Mg} = -2.36 V$ and $E^\circ_{Li+/Li} = -3.05 V$.**
+
+- <br>
+(A) No
+- <br>
+(B) Depends on temperature
+- <br>
+(C)
+ Cannot be determined
+- <br>
+(D) Yes
+
+<details><summary>Solution</summary><b>Answer: <br>
+(A) No</b><br>Reaction involves oxidation of Mg and reduction of Li+. $E^\circ_{cell} = E^\circ_{cathode} - E^\circ_{anode} = -3.05 - (-2.36) = -0.69 V$. If positive, it is feasible.</details>
+
+
+**Q23. Among Zn2+ and Ca2+, which is the stronger oxidizing agent?<br> ($E^\circ_{Zn2+/Zn} = -0.76 V$, $E^\circ_{Ca2+/Ca} = -2.87 V$)**
+
+- <br>
+(A) Zn2+
+- <br>
+(B) Zn
+- <br>
+(C)
+ Ca2+
+- <br>
+(D) Ca
+
+<details><summary>Solution</summary><b>Answer: <br>
+(A) Zn2+</b><br>Higher standard reduction potential means greater tendency to get reduced, hence a stronger oxidizing agent.</details>
+
+
+**Q24. Can we store a solution containing Au3+ ions in a container made of Na?<br> ($E^\circ_{Na+/Na} = -2.71 V$, $E^\circ_{Au3+/Au} = 1.5 V$)**
+
+- <br>
+(A) None of the above
+- <br>
+(B) Only under standard conditions
+- <br>
+(C)
+ Yes
+- <br>
+(D) No
+
+<details><summary>Solution</summary><b>Answer: <br>
+(D) No</b><br>If $E^\circ_{Na+/Na} < E^\circ_{Au3+/Au}$, Na will displace Au from the solution. Hence, we can only store it if the container metal has a HIGHER reduction potential.</details>
+
+
+**Q25. Is the reaction $2Au(s) + 3Cu2+(aq) \rightarrow 2Au3+(aq) + 3Cu(s)$ feasible?<br> Given $E^\circ_{Au3+/Au} = 1.5 V$ and $E^\circ_{Cu2+/Cu} = 0.34 V$.**
+
+- <br>
+(A) Depends on temperature
+- <br>
+(B) No
+- <br>
+(C)
+ Yes
+- <br>
+(D) Cannot be determined
+
+<details><summary>Solution</summary><b>Answer: <br>
+(B) No</b><br>Reaction involves oxidation of Au and reduction of Cu2+. $E^\circ_{cell} = E^\circ_{cathode} - E^\circ_{anode} = 0.34 - (1.5) = -1.16 V$. If positive, it is feasible.</details>
+
+
+**Q26. Is the reaction $2Al(s) + 3Pb2+(aq) \rightarrow 2Al3+(aq) + 3Pb(s)$ feasible?<br> Given $E^\circ_{Al3+/Al} = -1.66 V$ and $E^\circ_{Pb2+/Pb} = -0.13 V$.**
+
+- <br>
+(A) Cannot be determined
+- <br>
+(B) No
+- <br>
+(C)
+ Yes
+- <br>
+(D) Depends on temperature
+
+<details><summary>Solution</summary><b>Answer: <br>
+(C)
+ Yes</b><br>Reaction involves oxidation of Al and reduction of Pb2+. $E^\circ_{cell} = E^\circ_{cathode} - E^\circ_{anode} = -0.13 - (-1.66) = 1.53 V$. If positive, it is feasible.</details>
+
+
+**Q27. Given standard reduction potentials $E^\circ_{Al3+/Al} = -1.66 V$ and $E^\circ_{Ni2+/Ni} = -0.25 V$. What is the standard EMF of the cell formed by these two electrodes?<br>**
+
+- <br>
+(A) 1.41 V
+- <br>
+(B) -1.41 V
+- <br>
+(C)
+ -1.91 V
+- <br>
+(D) 1.91 V
+
+<details><summary>Solution</summary><b>Answer: <br>
+(A) 1.41 V</b><br>$E^\circ_{cell} = E^\circ_{cathode} - E^\circ_{anode}$. The one with higher (more positive) potential is cathode. Max(-1.66, -0.25) - Min(-1.66, -0.25) = 1.41 V.</details>
+
+
+**Q28. Given standard reduction potentials $E^\circ_{Zn2+/Zn} = -0.76 V$ and $E^\circ_{H+/H} = 0.0 V$. What is the standard EMF of the cell formed by these two electrodes?<br>**
+
+- <br>
+(A) 0.76 V
+- <br>
+(B) -0.76 V
+- <br>
+(C)
+ 0.76 V
+- <br>
+(D) -0.76 V
+
+<details><summary>Solution</summary><b>Answer: <br>
+(A) 0.76 V</b><br>$E^\circ_{cell} = E^\circ_{cathode} - E^\circ_{anode}$. The one with higher (more positive) potential is cathode. Max(-0.76, 0.0) - Min(-0.76, 0.0) = 0.76 V.</details>
+
+
+**Q29. Can we store a solution containing Au3+ ions in a container made of Fe?<br> ($E^\circ_{Fe2+/Fe} = -0.44 V$, $E^\circ_{Au3+/Au} = 1.5 V$)**
+
+- <br>
+(A) Yes
+- <br>
+(B) No
+- <br>
+(C)
+ Only under standard conditions
+- <br>
+(D) None of the above
+
+<details><summary>Solution</summary><b>Answer: <br>
+(B) No</b><br>If $E^\circ_{Fe2+/Fe} < E^\circ_{Au3+/Au}$, Fe will displace Au from the solution. Hence, we can only store it if the container metal has a HIGHER reduction potential.</details>
+
+
+**Q30. Is the reaction $2Fe(s) + 3Ca2+(aq) \rightarrow 2Fe2+(aq) + 3Ca(s)$ feasible?<br> Given $E^\circ_{Fe2+/Fe} = -0.44 V$ and $E^\circ_{Ca2+/Ca} = -2.87 V$.**
+
+- <br>
+(A) Depends on temperature
+- <br>
+(B) Cannot be determined
+- <br>
+(C)
+ Yes
+- <br>
+(D) No
+
+<details><summary>Solution</summary><b>Answer: <br>
+(D) No</b><br>Reaction involves oxidation of Fe and reduction of Ca2+. $E^\circ_{cell} = E^\circ_{cathode} - E^\circ_{anode} = -2.87 - (-0.44) = -2.43 V$. If positive, it is feasible.</details>
+
+
+**Q31. Given standard reduction potentials $E^\circ_{Fe2+/Fe} = -0.44 V$ and $E^\circ_{H+/H} = 0.0 V$. What is the standard EMF of the cell formed by these two electrodes?<br>**
+
+- <br>
+(A) 0.44 V
+- <br>
+(B) 0.44 V
+- <br>
+(C)
+ -0.44 V
+- <br>
+(D) -0.44 V
+
+<details><summary>Solution</summary><b>Answer: <br>
+(A) 0.44 V</b><br>$E^\circ_{cell} = E^\circ_{cathode} - E^\circ_{anode}$. The one with higher (more positive) potential is cathode. Max(-0.44, 0.0) - Min(-0.44, 0.0) = 0.44 V.</details>
+
+
+**Q32. Among Na+ and Au3+, which is the stronger oxidizing agent?<br> ($E^\circ_{Na+/Na} = -2.71 V$, $E^\circ_{Au3+/Au} = 1.5 V$)**
+
+- <br>
+(A) Au3+
+- <br>
+(B) Au
+- <br>
+(C)
+ Na+
+- <br>
+(D) Na
+
+<details><summary>Solution</summary><b>Answer: <br>
+(A) Au3+</b><br>Higher standard reduction potential means greater tendency to get reduced, hence a stronger oxidizing agent.</details>
+
+
+**Q33. Can we store a solution containing Li+ ions in a container made of Hg?<br> ($E^\circ_{Hg2+/Hg} = 0.85 V$, $E^\circ_{Li+/Li} = -3.05 V$)**
+
+- <br>
+(A) Only under standard conditions
+- <br>
+(B) Yes
+- <br>
+(C)
+ None of the above
+- <br>
+(D) No
+
+<details><summary>Solution</summary><b>Answer: <br>
+(B) Yes</b><br>If $E^\circ_{Hg2+/Hg} < E^\circ_{Li+/Li}$, Hg will displace Li from the solution. Hence, we can only store it if the container metal has a HIGHER reduction potential.</details>
+
+
+**Q34. Is the reaction $2Cu(s) + 3Pb2+(aq) \rightarrow 2Cu2+(aq) + 3Pb(s)$ feasible?<br> Given $E^\circ_{Cu2+/Cu} = 0.34 V$ and $E^\circ_{Pb2+/Pb} = -0.13 V$.**
+
+- <br>
+(A) No
+- <br>
+(B) Depends on temperature
+- <br>
+(C)
+ Yes
+- <br>
+(D) Cannot be determined
+
+<details><summary>Solution</summary><b>Answer: <br>
+(A) No</b><br>Reaction involves oxidation of Cu and reduction of Pb2+. $E^\circ_{cell} = E^\circ_{cathode} - E^\circ_{anode} = -0.13 - (0.34) = -0.47 V$. If positive, it is feasible.</details>
+
+
+**Q35. Is the reaction $2Au(s) + 3Na+(aq) \rightarrow 2Au3+(aq) + 3Na(s)$ feasible?<br> Given $E^\circ_{Au3+/Au} = 1.5 V$ and $E^\circ_{Na+/Na} = -2.71 V$.**
+
+- <br>
+(A) Depends on temperature
+- <br>
+(B) Cannot be determined
+- <br>
+(C)
+ No
+- <br>
+(D) Yes
+
+<details><summary>Solution</summary><b>Answer: <br>
+(C)
+ No</b><br>Reaction involves oxidation of Au and reduction of Na+. $E^\circ_{cell} = E^\circ_{cathode} - E^\circ_{anode} = -2.71 - (1.5) = -4.21 V$. If positive, it is feasible.</details>
+
+
+**Q36. Is the reaction $2H(s) + 3Cu2+(aq) \rightarrow 2H+(aq) + 3Cu(s)$ feasible?<br> Given $E^\circ_{H+/H} = 0.0 V$ and $E^\circ_{Cu2+/Cu} = 0.34 V$.**
+
+- <br>
+(A) Depends on temperature
+- <br>
+(B) No
+- <br>
+(C)
+ Yes
+- <br>
+(D) Cannot be determined
+
+<details><summary>Solution</summary><b>Answer: <br>
+(C)
+ Yes</b><br>Reaction involves oxidation of H and reduction of Cu2+. $E^\circ_{cell} = E^\circ_{cathode} - E^\circ_{anode} = 0.34 - (0.0) = 0.34 V$. If positive, it is feasible.</details>
+
+
+**Q37. Is the reaction $2Li(s) + 3Ca2+(aq) \rightarrow 2Li+(aq) + 3Ca(s)$ feasible?<br> Given $E^\circ_{Li+/Li} = -3.05 V$ and $E^\circ_{Ca2+/Ca} = -2.87 V$.**
+
+- <br>
+(A) Cannot be determined
+- <br>
+(B) No
+- <br>
+(C)
+ Depends on temperature
+- <br>
+(D) Yes
+
+<details><summary>Solution</summary><b>Answer: <br>
+(D) Yes</b><br>Reaction involves oxidation of Li and reduction of Ca2+. $E^\circ_{cell} = E^\circ_{cathode} - E^\circ_{anode} = -2.87 - (-3.05) = 0.18 V$. If positive, it is feasible.</details>
+
+
+**Q38. Is the reaction $2Mg(s) + 3Fe2+(aq) \rightarrow 2Mg2+(aq) + 3Fe(s)$ feasible?<br> Given $E^\circ_{Mg2+/Mg} = -2.36 V$ and $E^\circ_{Fe2+/Fe} = -0.44 V$.**
+
+- <br>
+(A) Cannot be determined
+- <br>
+(B) Depends on temperature
+- <br>
+(C)
+ Yes
+- <br>
+(D) No
+
+<details><summary>Solution</summary><b>Answer: <br>
+(C)
+ Yes</b><br>Reaction involves oxidation of Mg and reduction of Fe2+. $E^\circ_{cell} = E^\circ_{cathode} - E^\circ_{anode} = -0.44 - (-2.36) = 1.92 V$. If positive, it is feasible.</details>
+
+
+**Q39. Among Mg2+ and Fe2+, which is the stronger oxidizing agent?<br> ($E^\circ_{Mg2+/Mg} = -2.36 V$, $E^\circ_{Fe2+/Fe} = -0.44 V$)**
+
+- <br>
+(A) Fe
+- <br>
+(B) Fe2+
+- <br>
+(C)
+ Mg
+- <br>
+(D) Mg2+
+
+<details><summary>Solution</summary><b>Answer: <br>
+(B) Fe2+</b><br>Higher standard reduction potential means greater tendency to get reduced, hence a stronger oxidizing agent.</details>
+
+
+**Q40. Given standard reduction potentials $E^\circ_{Au3+/Au} = 1.5 V$ and $E^\circ_{K+/K} = -2.93 V$. What is the standard EMF of the cell formed by these two electrodes?<br>**
+
+- <br>
+(A) -4.43 V
+- <br>
+(B) -1.43 V
+- <br>
+(C)
+ 4.43 V
+- <br>
+(D) 1.43 V
+
+<details><summary>Solution</summary><b>Answer: <br>
+(C)
+ 4.43 V</b><br>$E^\circ_{cell} = E^\circ_{cathode} - E^\circ_{anode}$. The one with higher (more positive) potential is cathode. Max(1.5, -2.93) - Min(1.5, -2.93) = 4.43 V.</details>
 
 
 --- 
@@ -450,7 +701,7 @@ When a metal is placed in a solution of its own ions, a potential difference dev
 
 ### Board Arsenal & JEE Foundations
 
-**Q1.** You are provided with a container made of Na and a solution containing Ni2+ ions. Can you safely store the solution in the container? Justify your answer using standard reduction potentials. ($E^\circ_{Na+/Na} = -2.71 V$, $E^\circ_{Ni2+/Ni} = -0.25 V$)
+**Q1.** You are provided with a container made of Na and a solution containing Ni2+ ions. Can you safely store the solution in the container?<br> Justify your answer using standard reduction potentials. ($E^\circ_{Na+/Na} = -2.71 V$, $E^\circ_{Ni2+/Ni} = -0.25 V$)
 
 <details><summary>Solution</summary>
 For the container Na to react with Ni2+, the cell potential must be positive. Reaction: $Na + Ni2+ \rightarrow Na+ + Ni$.
@@ -459,7 +710,7 @@ $E^\circ_{reaction} = -0.25 - (-2.71) = 2.46 V$.
 </details>
 
 
-**Q2.** You are provided with a container made of Mg and a solution containing Ca2+ ions. Can you safely store the solution in the container? Justify your answer using standard reduction potentials. ($E^\circ_{Mg2+/Mg} = -2.36 V$, $E^\circ_{Ca2+/Ca} = -2.87 V$)
+**Q2.** You are provided with a container made of Mg and a solution containing Ca2+ ions. Can you safely store the solution in the container?<br> Justify your answer using standard reduction potentials. ($E^\circ_{Mg2+/Mg} = -2.36 V$, $E^\circ_{Ca2+/Ca} = -2.87 V$)
 
 <details><summary>Solution</summary>
 For the container Mg to react with Ca2+, the cell potential must be positive. Reaction: $Mg + Ca2+ \rightarrow Mg2+ + Ca$.
@@ -537,7 +788,7 @@ H2: 0.00 V
 </details>
 
 
-**Q10.** You are provided with a container made of Na and a solution containing Zn2+ ions. Can you safely store the solution in the container? Justify your answer using standard reduction potentials. ($E^\circ_{Na+/Na} = -2.71 V$, $E^\circ_{Zn2+/Zn} = -0.76 V$)
+**Q10.** You are provided with a container made of Na and a solution containing Zn2+ ions. Can you safely store the solution in the container?<br> Justify your answer using standard reduction potentials. ($E^\circ_{Na+/Na} = -2.71 V$, $E^\circ_{Zn2+/Zn} = -0.76 V$)
 
 <details><summary>Solution</summary>
 For the container Na to react with Zn2+, the cell potential must be positive. Reaction: $Na + Zn2+ \rightarrow Na+ + Zn$.
@@ -566,7 +817,7 @@ Since $E^\circ_{cell}$ is positive, the reaction is **spontaneous**.
 </details>
 
 
-**Q13.** You are provided with a container made of Al and a solution containing Na+ ions. Can you safely store the solution in the container? Justify your answer using standard reduction potentials. ($E^\circ_{Al3+/Al} = -1.66 V$, $E^\circ_{Na+/Na} = -2.71 V$)
+**Q13.** You are provided with a container made of Al and a solution containing Na+ ions. Can you safely store the solution in the container?<br> Justify your answer using standard reduction potentials. ($E^\circ_{Al3+/Al} = -1.66 V$, $E^\circ_{Na+/Na} = -2.71 V$)
 
 <details><summary>Solution</summary>
 For the container Al to react with Na+, the cell potential must be positive. Reaction: $Al + Na+ \rightarrow Al3+ + Na$.
@@ -595,7 +846,7 @@ $E^\circ_{reaction} = -2.71 - (-1.66) = -1.05 V$.
 </details>
 
 
-**Q16.** You are provided with a container made of Ni and a solution containing Mg2+ ions. Can you safely store the solution in the container? Justify your answer using standard reduction potentials. ($E^\circ_{Ni2+/Ni} = -0.25 V$, $E^\circ_{Mg2+/Mg} = -2.36 V$)
+**Q16.** You are provided with a container made of Ni and a solution containing Mg2+ ions. Can you safely store the solution in the container?<br> Justify your answer using standard reduction potentials. ($E^\circ_{Ni2+/Ni} = -0.25 V$, $E^\circ_{Mg2+/Mg} = -2.36 V$)
 
 <details><summary>Solution</summary>
 For the container Ni to react with Mg2+, the cell potential must be positive. Reaction: $Ni + Mg2+ \rightarrow Ni2+ + Mg$.
@@ -615,7 +866,7 @@ H2: 0.00 V
 </details>
 
 
-**Q18.** You are provided with a container made of K and a solution containing Li+ ions. Can you safely store the solution in the container? Justify your answer using standard reduction potentials. ($E^\circ_{K+/K} = -2.93 V$, $E^\circ_{Li+/Li} = -3.05 V$)
+**Q18.** You are provided with a container made of K and a solution containing Li+ ions. Can you safely store the solution in the container?<br> Justify your answer using standard reduction potentials. ($E^\circ_{K+/K} = -2.93 V$, $E^\circ_{Li+/Li} = -3.05 V$)
 
 <details><summary>Solution</summary>
 For the container K to react with Li+, the cell potential must be positive. Reaction: $K + Li+ \rightarrow K+ + Li$.
@@ -624,7 +875,7 @@ $E^\circ_{reaction} = -3.05 - (-2.93) = -0.12 V$.
 </details>
 
 
-**Q19.** You are provided with a container made of Zn and a solution containing Au3+ ions. Can you safely store the solution in the container? Justify your answer using standard reduction potentials. ($E^\circ_{Zn2+/Zn} = -0.76 V$, $E^\circ_{Au3+/Au} = 1.5 V$)
+**Q19.** You are provided with a container made of Zn and a solution containing Au3+ ions. Can you safely store the solution in the container?<br> Justify your answer using standard reduction potentials. ($E^\circ_{Zn2+/Zn} = -0.76 V$, $E^\circ_{Au3+/Au} = 1.5 V$)
 
 <details><summary>Solution</summary>
 For the container Zn to react with Au3+, the cell potential must be positive. Reaction: $Zn + Au3+ \rightarrow Zn2+ + Au$.
@@ -654,7 +905,7 @@ H2: 0.00 V
 </details>
 
 
-**Q22.** You are provided with a container made of Au and a solution containing Ag+ ions. Can you safely store the solution in the container? Justify your answer using standard reduction potentials. ($E^\circ_{Au3+/Au} = 1.5 V$, $E^\circ_{Ag+/Ag} = 0.8 V$)
+**Q22.** You are provided with a container made of Au and a solution containing Ag+ ions. Can you safely store the solution in the container?<br> Justify your answer using standard reduction potentials. ($E^\circ_{Au3+/Au} = 1.5 V$, $E^\circ_{Ag+/Ag} = 0.8 V$)
 
 <details><summary>Solution</summary>
 For the container Au to react with Ag+, the cell potential must be positive. Reaction: $Au + Ag+ \rightarrow Au3+ + Ag$.
@@ -694,7 +945,7 @@ H2: 0.00 V
 </details>
 
 
-**Q26.** You are provided with a container made of Li and a solution containing Cu2+ ions. Can you safely store the solution in the container? Justify your answer using standard reduction potentials. ($E^\circ_{Li+/Li} = -3.05 V$, $E^\circ_{Cu2+/Cu} = 0.34 V$)
+**Q26.** You are provided with a container made of Li and a solution containing Cu2+ ions. Can you safely store the solution in the container?<br> Justify your answer using standard reduction potentials. ($E^\circ_{Li+/Li} = -3.05 V$, $E^\circ_{Cu2+/Cu} = 0.34 V$)
 
 <details><summary>Solution</summary>
 For the container Li to react with Cu2+, the cell potential must be positive. Reaction: $Li + Cu2+ \rightarrow Li+ + Cu$.
@@ -703,7 +954,7 @@ $E^\circ_{reaction} = 0.34 - (-3.05) = 3.39 V$.
 </details>
 
 
-**Q27.** You are provided with a container made of Ca and a solution containing Cu2+ ions. Can you safely store the solution in the container? Justify your answer using standard reduction potentials. ($E^\circ_{Ca2+/Ca} = -2.87 V$, $E^\circ_{Cu2+/Cu} = 0.34 V$)
+**Q27.** You are provided with a container made of Ca and a solution containing Cu2+ ions. Can you safely store the solution in the container?<br> Justify your answer using standard reduction potentials. ($E^\circ_{Ca2+/Ca} = -2.87 V$, $E^\circ_{Cu2+/Cu} = 0.34 V$)
 
 <details><summary>Solution</summary>
 For the container Ca to react with Cu2+, the cell potential must be positive. Reaction: $Ca + Cu2+ \rightarrow Ca2+ + Cu$.
@@ -786,7 +1037,7 @@ H2: 0.00 V
 </details>
 
 
-**Q35.** You are provided with a container made of Au and a solution containing Pb2+ ions. Can you safely store the solution in the container? Justify your answer using standard reduction potentials. ($E^\circ_{Au3+/Au} = 1.5 V$, $E^\circ_{Pb2+/Pb} = -0.13 V$)
+**Q35.** You are provided with a container made of Au and a solution containing Pb2+ ions. Can you safely store the solution in the container?<br> Justify your answer using standard reduction potentials. ($E^\circ_{Au3+/Au} = 1.5 V$, $E^\circ_{Pb2+/Pb} = -0.13 V$)
 
 <details><summary>Solution</summary>
 For the container Au to react with Pb2+, the cell potential must be positive. Reaction: $Au + Pb2+ \rightarrow Au3+ + Pb$.
@@ -795,7 +1046,7 @@ $E^\circ_{reaction} = -0.13 - (1.5) = -1.63 V$.
 </details>
 
 
-**Q36.** You are provided with a container made of Au and a solution containing Na+ ions. Can you safely store the solution in the container? Justify your answer using standard reduction potentials. ($E^\circ_{Au3+/Au} = 1.5 V$, $E^\circ_{Na+/Na} = -2.71 V$)
+**Q36.** You are provided with a container made of Au and a solution containing Na+ ions. Can you safely store the solution in the container?<br> Justify your answer using standard reduction potentials. ($E^\circ_{Au3+/Au} = 1.5 V$, $E^\circ_{Na+/Na} = -2.71 V$)
 
 <details><summary>Solution</summary>
 For the container Au to react with Na+, the cell potential must be positive. Reaction: $Au + Na+ \rightarrow Au3+ + Na$.
@@ -853,7 +1104,7 @@ H2: 0.00 V
 </details>
 
 
-**Q42.** You are provided with a container made of Ni and a solution containing Pb2+ ions. Can you safely store the solution in the container? Justify your answer using standard reduction potentials. ($E^\circ_{Ni2+/Ni} = -0.25 V$, $E^\circ_{Pb2+/Pb} = -0.13 V$)
+**Q42.** You are provided with a container made of Ni and a solution containing Pb2+ ions. Can you safely store the solution in the container?<br> Justify your answer using standard reduction potentials. ($E^\circ_{Ni2+/Ni} = -0.25 V$, $E^\circ_{Pb2+/Pb} = -0.13 V$)
 
 <details><summary>Solution</summary>
 For the container Ni to react with Pb2+, the cell potential must be positive. Reaction: $Ni + Pb2+ \rightarrow Ni2+ + Pb$.
@@ -910,7 +1161,7 @@ Since $E^\circ_{cell}$ is positive, the reaction is **spontaneous**.
 </details>
 
 
-**Q48.** You are provided with a container made of Zn and a solution containing Mg2+ ions. Can you safely store the solution in the container? Justify your answer using standard reduction potentials. ($E^\circ_{Zn2+/Zn} = -0.76 V$, $E^\circ_{Mg2+/Mg} = -2.36 V$)
+**Q48.** You are provided with a container made of Zn and a solution containing Mg2+ ions. Can you safely store the solution in the container?<br> Justify your answer using standard reduction potentials. ($E^\circ_{Zn2+/Zn} = -0.76 V$, $E^\circ_{Mg2+/Mg} = -2.36 V$)
 
 <details><summary>Solution</summary>
 For the container Zn to react with Mg2+, the cell potential must be positive. Reaction: $Zn + Mg2+ \rightarrow Zn2+ + Mg$.
@@ -1012,7 +1263,7 @@ H2: 0.00 V
 </details>
 
 
-**Q58.** You are provided with a container made of Mg and a solution containing Na+ ions. Can you safely store the solution in the container? Justify your answer using standard reduction potentials. ($E^\circ_{Mg2+/Mg} = -2.36 V$, $E^\circ_{Na+/Na} = -2.71 V$)
+**Q58.** You are provided with a container made of Mg and a solution containing Na+ ions. Can you safely store the solution in the container?<br> Justify your answer using standard reduction potentials. ($E^\circ_{Mg2+/Mg} = -2.36 V$, $E^\circ_{Na+/Na} = -2.71 V$)
 
 <details><summary>Solution</summary>
 For the container Mg to react with Na+, the cell potential must be positive. Reaction: $Mg + Na+ \rightarrow Mg2+ + Na$.
@@ -1032,7 +1283,7 @@ H2: 0.00 V
 </details>
 
 
-**Q60.** You are provided with a container made of Na and a solution containing Hg2+ ions. Can you safely store the solution in the container? Justify your answer using standard reduction potentials. ($E^\circ_{Na+/Na} = -2.71 V$, $E^\circ_{Hg2+/Hg} = 0.85 V$)
+**Q60.** You are provided with a container made of Na and a solution containing Hg2+ ions. Can you safely store the solution in the container?<br> Justify your answer using standard reduction potentials. ($E^\circ_{Na+/Na} = -2.71 V$, $E^\circ_{Hg2+/Hg} = 0.85 V$)
 
 <details><summary>Solution</summary>
 For the container Na to react with Hg2+, the cell potential must be positive. Reaction: $Na + Hg2+ \rightarrow Na+ + Hg$.
@@ -1089,7 +1340,7 @@ Since $E^\circ_{cell}$ is positive, the reaction is **spontaneous**.
 </details>
 
 
-**Q66.** You are provided with a container made of H and a solution containing Sn2+ ions. Can you safely store the solution in the container? Justify your answer using standard reduction potentials. ($E^\circ_{H+/H} = 0.0 V$, $E^\circ_{Sn2+/Sn} = -0.14 V$)
+**Q66.** You are provided with a container made of H and a solution containing Sn2+ ions. Can you safely store the solution in the container?<br> Justify your answer using standard reduction potentials. ($E^\circ_{H+/H} = 0.0 V$, $E^\circ_{Sn2+/Sn} = -0.14 V$)
 
 <details><summary>Solution</summary>
 For the container H to react with Sn2+, the cell potential must be positive. Reaction: $H + Sn2+ \rightarrow H+ + Sn$.
@@ -1098,7 +1349,7 @@ $E^\circ_{reaction} = -0.14 - (0.0) = -0.14 V$.
 </details>
 
 
-**Q67.** You are provided with a container made of Cu and a solution containing K+ ions. Can you safely store the solution in the container? Justify your answer using standard reduction potentials. ($E^\circ_{Cu2+/Cu} = 0.34 V$, $E^\circ_{K+/K} = -2.93 V$)
+**Q67.** You are provided with a container made of Cu and a solution containing K+ ions. Can you safely store the solution in the container?<br> Justify your answer using standard reduction potentials. ($E^\circ_{Cu2+/Cu} = 0.34 V$, $E^\circ_{K+/K} = -2.93 V$)
 
 <details><summary>Solution</summary>
 For the container Cu to react with K+, the cell potential must be positive. Reaction: $Cu + K+ \rightarrow Cu2+ + K$.
@@ -1147,7 +1398,7 @@ H2: 0.00 V
 </details>
 
 
-**Q72.** You are provided with a container made of Al and a solution containing Pb2+ ions. Can you safely store the solution in the container? Justify your answer using standard reduction potentials. ($E^\circ_{Al3+/Al} = -1.66 V$, $E^\circ_{Pb2+/Pb} = -0.13 V$)
+**Q72.** You are provided with a container made of Al and a solution containing Pb2+ ions. Can you safely store the solution in the container?<br> Justify your answer using standard reduction potentials. ($E^\circ_{Al3+/Al} = -1.66 V$, $E^\circ_{Pb2+/Pb} = -0.13 V$)
 
 <details><summary>Solution</summary>
 For the container Al to react with Pb2+, the cell potential must be positive. Reaction: $Al + Pb2+ \rightarrow Al3+ + Pb$.
@@ -1186,7 +1437,7 @@ Since $E^\circ_{cell}$ is positive, the reaction is **spontaneous**.
 </details>
 
 
-**Q76.** You are provided with a container made of Cu and a solution containing Al3+ ions. Can you safely store the solution in the container? Justify your answer using standard reduction potentials. ($E^\circ_{Cu2+/Cu} = 0.34 V$, $E^\circ_{Al3+/Al} = -1.66 V$)
+**Q76.** You are provided with a container made of Cu and a solution containing Al3+ ions. Can you safely store the solution in the container?<br> Justify your answer using standard reduction potentials. ($E^\circ_{Cu2+/Cu} = 0.34 V$, $E^\circ_{Al3+/Al} = -1.66 V$)
 
 <details><summary>Solution</summary>
 For the container Cu to react with Al3+, the cell potential must be positive. Reaction: $Cu + Al3+ \rightarrow Cu2+ + Al$.
@@ -1276,7 +1527,7 @@ H2: 0.00 V
 </details>
 
 
-**Q85.** You are provided with a container made of Mg and a solution containing Na+ ions. Can you safely store the solution in the container? Justify your answer using standard reduction potentials. ($E^\circ_{Mg2+/Mg} = -2.36 V$, $E^\circ_{Na+/Na} = -2.71 V$)
+**Q85.** You are provided with a container made of Mg and a solution containing Na+ ions. Can you safely store the solution in the container?<br> Justify your answer using standard reduction potentials. ($E^\circ_{Mg2+/Mg} = -2.36 V$, $E^\circ_{Na+/Na} = -2.71 V$)
 
 <details><summary>Solution</summary>
 For the container Mg to react with Na+, the cell potential must be positive. Reaction: $Mg + Na+ \rightarrow Mg2+ + Na$.
@@ -1285,7 +1536,7 @@ $E^\circ_{reaction} = -2.71 - (-2.36) = -0.35 V$.
 </details>
 
 
-**Q86.** You are provided with a container made of Li and a solution containing Ni2+ ions. Can you safely store the solution in the container? Justify your answer using standard reduction potentials. ($E^\circ_{Li+/Li} = -3.05 V$, $E^\circ_{Ni2+/Ni} = -0.25 V$)
+**Q86.** You are provided with a container made of Li and a solution containing Ni2+ ions. Can you safely store the solution in the container?<br> Justify your answer using standard reduction potentials. ($E^\circ_{Li+/Li} = -3.05 V$, $E^\circ_{Ni2+/Ni} = -0.25 V$)
 
 <details><summary>Solution</summary>
 For the container Li to react with Ni2+, the cell potential must be positive. Reaction: $Li + Ni2+ \rightarrow Li+ + Ni$.
@@ -1294,7 +1545,7 @@ $E^\circ_{reaction} = -0.25 - (-3.05) = 2.80 V$.
 </details>
 
 
-**Q87.** You are provided with a container made of Ni and a solution containing Al3+ ions. Can you safely store the solution in the container? Justify your answer using standard reduction potentials. ($E^\circ_{Ni2+/Ni} = -0.25 V$, $E^\circ_{Al3+/Al} = -1.66 V$)
+**Q87.** You are provided with a container made of Ni and a solution containing Al3+ ions. Can you safely store the solution in the container?<br> Justify your answer using standard reduction potentials. ($E^\circ_{Ni2+/Ni} = -0.25 V$, $E^\circ_{Al3+/Al} = -1.66 V$)
 
 <details><summary>Solution</summary>
 For the container Ni to react with Al3+, the cell potential must be positive. Reaction: $Ni + Al3+ \rightarrow Ni2+ + Al$.
@@ -1303,7 +1554,7 @@ $E^\circ_{reaction} = -1.66 - (-0.25) = -1.41 V$.
 </details>
 
 
-**Q88.** You are provided with a container made of K and a solution containing Ni2+ ions. Can you safely store the solution in the container? Justify your answer using standard reduction potentials. ($E^\circ_{K+/K} = -2.93 V$, $E^\circ_{Ni2+/Ni} = -0.25 V$)
+**Q88.** You are provided with a container made of K and a solution containing Ni2+ ions. Can you safely store the solution in the container?<br> Justify your answer using standard reduction potentials. ($E^\circ_{K+/K} = -2.93 V$, $E^\circ_{Ni2+/Ni} = -0.25 V$)
 
 <details><summary>Solution</summary>
 For the container K to react with Ni2+, the cell potential must be positive. Reaction: $K + Ni2+ \rightarrow K+ + Ni$.
@@ -1361,7 +1612,7 @@ H2: 0.00 V
 </details>
 
 
-**Q94.** You are provided with a container made of Pb and a solution containing Au3+ ions. Can you safely store the solution in the container? Justify your answer using standard reduction potentials. ($E^\circ_{Pb2+/Pb} = -0.13 V$, $E^\circ_{Au3+/Au} = 1.5 V$)
+**Q94.** You are provided with a container made of Pb and a solution containing Au3+ ions. Can you safely store the solution in the container?<br> Justify your answer using standard reduction potentials. ($E^\circ_{Pb2+/Pb} = -0.13 V$, $E^\circ_{Au3+/Au} = 1.5 V$)
 
 <details><summary>Solution</summary>
 For the container Pb to react with Au3+, the cell potential must be positive. Reaction: $Pb + Au3+ \rightarrow Pb2+ + Au$.
@@ -1400,7 +1651,7 @@ H2: 0.00 V
 </details>
 
 
-**Q98.** You are provided with a container made of Al and a solution containing Ni2+ ions. Can you safely store the solution in the container? Justify your answer using standard reduction potentials. ($E^\circ_{Al3+/Al} = -1.66 V$, $E^\circ_{Ni2+/Ni} = -0.25 V$)
+**Q98.** You are provided with a container made of Al and a solution containing Ni2+ ions. Can you safely store the solution in the container?<br> Justify your answer using standard reduction potentials. ($E^\circ_{Al3+/Al} = -1.66 V$, $E^\circ_{Ni2+/Ni} = -0.25 V$)
 
 <details><summary>Solution</summary>
 For the container Al to react with Ni2+, the cell potential must be positive. Reaction: $Al + Ni2+ \rightarrow Al3+ + Ni$.

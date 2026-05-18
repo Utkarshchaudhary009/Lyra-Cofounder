@@ -68,7 +68,7 @@ $2S = 30 \implies S = \mathbf{15\text{ } \Omega}$.
 
 **Practice:**
 
-1. 🟢 A meter bridge is balanced at $60\text{ cm}$ from the left. If the right gap has a resistance of $20\text{ } \Omega$, what is the resistance in the left gap?
+1. 🟢 A meter bridge is balanced at $60\text{ cm}$ from the left. If the right gap has a resistance of $20\text{ } \Omega$, what is the resistance in the left gap?<br>
 
 <details>
 <summary><b>Answer</b></summary>
@@ -99,11 +99,11 @@ Since $S = 2R$, $\mathbf{S = 12\text{ } \Omega}$.
 
 ### Type 2: Swapping the Gaps ⭐⭐
 
-**Pattern:** "If $R$ and $S$ are interchanged, what happens to the balance point?"
+**Pattern:** "If $R$ and $S$ are interchanged, what happens to the balance point?<br>"
 
 **Solved Example** 🟡
 
-> A meter bridge has a balance point at $l = 30\text{ cm}$ from the left. If the resistors in the left and right gaps are interchanged, what will be the new balance point?
+> A meter bridge has a balance point at $l = 30\text{ cm}$ from the left. If the resistors in the left and right gaps are interchanged, what will be the new balance point?<br>
 
 <details>
 <summary><b>Solution</b></summary>
@@ -174,7 +174,7 @@ $b = 1.5(-4) = -6\text{ cm}$.
 
 **Practice:**
 
-1. 🔴 A meter bridge has end corrections $1\text{ cm}$ and $2\text{ cm}$ at the A (left) and B (right) ends respectively. If $R = 15\text{ } \Omega$ and $S = 10\text{ } \Omega$, what is the actual reading $l$ on the scale?
+1. 🔴 A meter bridge has end corrections $1\text{ cm}$ and $2\text{ cm}$ at the A (left) and B (right) ends respectively. If $R = 15\text{ } \Omega$ and $S = 10\text{ } \Omega$, what is the actual reading $l$ on the scale?<br>
 
 <details>
 <summary><b>Answer</b></summary>
@@ -204,7 +204,7 @@ $R_1 + 10 = 1.5 R_1 \implies 0.5 R_1 = 10 \implies \mathbf{R_1 = 20\text{ } \Ome
 $R_2 = 1.5(20) = \mathbf{30\text{ } \Omega}$.
 </details>
 
-**Q2.** 🔴 ⭐ An unknown resistance $X$ is to be determined using resistances $R_1, R_2$ or $R_3$. Their corresponding null points are A, B and C. Find which of the given null points provides the most accurate reading and why?
+**Q2.** 🔴 ⭐ An unknown resistance $X$ is to be determined using resistances $R_1, R_2$ or $R_3$. Their corresponding null points are A, B and C. Find which of the given null points provides the most accurate reading and why?<br>
 (Assume $R_1 < X, R_2 \approx X, R_3 > X$).
 
 <details>
@@ -221,7 +221,7 @@ The null point **B** (corresponding to $R_2$) provides the most accurate reading
 
 ## 📋 Stage 5: Board Arsenal
 
-**Q1.** 🟢 What is the principle of a meter bridge? Which material is used for the meter bridge wire and why? *(2 marks)*
+**Q1.** 🟢 What is the principle of a meter bridge?<br> Which material is used for the meter bridge wire and why?<br> *(2 marks)*
 
 <details>
 <summary><b>Model Answer</b></summary>
@@ -231,7 +231,7 @@ The null point **B** (corresponding to $R_2$) provides the most accurate reading
 3. **Why:** They have a high resistivity (so the wire has measurable resistance) and a very low temperature coefficient of resistance ($\alpha \approx 0$), so the wire's resistance doesn't change significantly when heated by the current.
 </details>
 
-**Q2.** 🟡 Why are the connections between resistors in a meter bridge made of thick copper strips? *(1 mark)*
+**Q2.** 🟡 Why are the connections between resistors in a meter bridge made of thick copper strips?<br> *(1 mark)*
 
 <details>
 <summary><b>Model Answer</b></summary>
@@ -239,7 +239,7 @@ The null point **B** (corresponding to $R_2$) provides the most accurate reading
 Thick copper strips have very low electrical resistance. This minimizes any extra, unaccounted resistance in the circuit, ensuring that the lengths $l$ and $(100-l)$ accurately represent the resistances $P$ and $Q$.
 </details>
 
-**Q3.** 🟡 Why is it advised to obtain the balance point near the middle of the wire ($50\text{ cm}$ mark)? *(2 marks)*
+**Q3.** 🟡 Why is it advised to obtain the balance point near the middle of the wire ($50\text{ cm}$ mark)?<br> *(2 marks)*
 
 <details>
 <summary><b>Model Answer</b></summary>
@@ -253,7 +253,7 @@ Thick copper strips have very low electrical resistance. This minimizes any extr
 
 ## 🚀 Stage 6: JEE Mains Arena
 
-**Q1.** 🟡 ⭐ In a meter bridge experiment, null point is obtained at $20\text{ cm}$ from one end of the wire when resistance $X$ is balanced against another resistance $Y$. If $X < Y$, then where will be the new position of the null point from the same end, if one decides to balance a resistance of $4X$ against $Y$?
+**Q1.** 🟡 ⭐ In a meter bridge experiment, null point is obtained at $20\text{ cm}$ from one end of the wire when resistance $X$ is balanced against another resistance $Y$. If $X < Y$, then where will be the new position of the null point from the same end, if one decides to balance a resistance of $4X$ against $Y$?<br>
 
 (a) $50\text{ cm}$ &emsp; (b) $80\text{ cm}$ &emsp; (c) $40\text{ cm}$ &emsp; (d) $70\text{ cm}$
 
@@ -286,7 +286,7 @@ $100 n^2 - l n^2 = l \implies 100 n^2 = l(1 + n^2) \implies l = \mathbf{\frac{10
 **Answer: (b)**
 </details>
 
-**Q3.** 🔴 ⭐ In a meter bridge, the wire of length $1\text{m}$ has a non-uniform cross-section such that the variation of its resistance $R$ with length $l$ is $dR/dl \propto 1/\sqrt{l}$. Two equal resistances are connected as shown. The galvanometer has zero deflection when the jockey is at point P. What is the length AP?
+**Q3.** 🔴 ⭐ In a meter bridge, the wire of length $1\text{m}$ has a non-uniform cross-section such that the variation of its resistance $R$ with length $l$ is $dR/dl \propto 1/\sqrt{l}$. Two equal resistances are connected as shown. The galvanometer has zero deflection when the jockey is at point P. What is the length AP?<br>
 
 (a) $0.2\text{ m}$ &emsp; (b) $0.25\text{ m}$ &emsp; (c) $0.3\text{ m}$ &emsp; (d) $0.35\text{ m}$
 

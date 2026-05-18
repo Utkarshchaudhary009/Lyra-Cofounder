@@ -34,7 +34,7 @@ Based on user feedback, we are adopting a hybrid of the "Socratic Problem Trail"
 
 This ensures the book feels like a timeless narrative while still secretly acting as a brutal, high-volume problem-solving workbook.
 
-Please review the proposed "Smart Indexing" structure below. Let me know if you would like to add/remove any specific topics or adjust the granularity. For instance, should we include JEE Advanced specific topics like Hittorf's Rule/Transport Number, or keep it strictly aligned with NCERT/Board/JEE Mains?
+Please review the proposed "Smart Indexing" structure below. Let me know if you would like to add/remove any specific topics or adjust the granularity. For instance, should we include JEE Advanced specific topics like Hittorf's Rule/Transport Number, or keep it strictly aligned with NCERT/Board/JEE Mains?<br>
 
 ## Proposed Changes
 

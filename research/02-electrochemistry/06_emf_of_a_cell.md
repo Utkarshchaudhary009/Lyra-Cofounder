@@ -75,7 +75,7 @@ $Fe^{3+}/Fe^{2+}$ is Cathode, $I_2/I^-$ is Anode.
 $E^\circ_{cell} = 0.77 - 0.54 = \textbf{+0.23\ V}$.
 </details>
 
-4. 🟡 You are given Sn ($-0.14\ V$) and Pb ($-0.13\ V$). What is the maximum voltage a standard cell made of these two can produce?
+4. 🟡 You are given Sn ($-0.14\ V$) and Pb ($-0.13\ V$). What is the maximum voltage a standard cell made of these two can produce?<br>
 <details><summary><b>Answer</b></summary>
 Pb is Cathode ($-0.13 > -0.14$). Sn is Anode.
 $E^\circ_{cell} = -0.13 - (-0.14) = -0.13 + 0.14 = \textbf{+0.01\ V}$.
@@ -130,7 +130,7 @@ Right = SHE ($0.00\ V$). Left = Cu ($0.34\ V$).
 $E^\circ_{cell} = 0.00 - 0.34 = \textbf{-0.34\ V}$.
 </details>
 
-5. 🔴 Given the cell $Pt\ |\ H_2(1\ atm)\ |\ H^+(1\ M)\ ||\ X^{2+}(1\ M)\ |\ X$. If the voltmeter reads $-0.25\ V$, what is the standard reduction potential of X?
+5. 🔴 Given the cell $Pt\ |\ H_2(1\ atm)\ |\ H^+(1\ M)\ ||\ X^{2+}(1\ M)\ |\ X$. If the voltmeter reads $-0.25\ V$, what is the standard reduction potential of X?<br>
 <details><summary><b>Answer</b></summary>
 $E^\circ_{cell} = -0.25\ V$. 
 $E^\circ_{cell} = E^\circ_X - E^\circ_{SHE}$
@@ -142,10 +142,10 @@ $E^\circ_X = \textbf{-0.25\ V}$.
 
 ### Type 3: Predicting Spontaneity from Cell Potential ⭐
 
-**Pattern:** "Is the given chemical reaction or cell notation spontaneous?"
+**Pattern:** "Is the given chemical reaction or cell notation spontaneous?<br>"
 
 **Solved Example** 🟡
-> Is the following reaction spontaneous? 
+> Is the following reaction spontaneous?<br> 
 > $2Ag(s) + Zn^{2+}(aq) \rightarrow 2Ag^+(aq) + Zn(s)$
 > ($Zn = -0.76\ V, Ag = +0.80\ V$)
 
@@ -158,18 +158,18 @@ $E^\circ_X = \textbf{-0.25\ V}$.
 
 **Practice:**
 
-1. 🟢 Is the cell $Cu\ |\ Cu^{2+}\ ||\ Ag^+\ |\ Ag$ spontaneous? ($Cu = 0.34\ V, Ag = 0.80\ V$).
+1. 🟢 Is the cell $Cu\ |\ Cu^{2+}\ ||\ Ag^+\ |\ Ag$ spontaneous?<br> ($Cu = 0.34\ V, Ag = 0.80\ V$).
 <details><summary><b>Answer</b></summary>
 $E^\circ_{cell} = 0.80 - 0.34 = +0.46\ V$. Positive, so **Yes, spontaneous**.
 </details>
 
-2. 🟢 Is the reaction $Ni^{2+} + Cu \rightarrow Ni + Cu^{2+}$ spontaneous? ($Ni = -0.25\ V, Cu = +0.34\ V$).
+2. 🟢 Is the reaction $Ni^{2+} + Cu \rightarrow Ni + Cu^{2+}$ spontaneous?<br> ($Ni = -0.25\ V, Cu = +0.34\ V$).
 <details><summary><b>Answer</b></summary>
 Cu is oxidizing (Anode). Ni is reducing (Cathode).
 $E^\circ_{cell} = -0.25 - 0.34 = -0.59\ V$. Negative, so **No, non-spontaneous**.
 </details>
 
-3. 🟡 Can you keep $1\ M\ AgNO_3$ solution in a copper vessel?
+3. 🟡 Can you keep $1\ M\ AgNO_3$ solution in a copper vessel?<br>
 <details><summary><b>Answer</b></summary>
 Reaction to check: $Cu + 2Ag^+ \rightarrow Cu^{2+} + 2Ag$. 
 Cu is Anode. Ag is Cathode.
@@ -177,13 +177,13 @@ $E^\circ_{cell} = 0.80 - 0.34 = +0.46\ V$.
 Since it is positive, the reaction IS spontaneous. The copper vessel will dissolve. Therefore, **No, you cannot keep it.**
 </details>
 
-4. 🟡 A student writes the notation $Sn\ |\ Sn^{2+}\ ||\ Pb^{2+}\ |\ Pb$. Is this cell capable of doing useful work? ($Sn = -0.14\ V, Pb = -0.13\ V$).
+4. 🟡 A student writes the notation $Sn\ |\ Sn^{2+}\ ||\ Pb^{2+}\ |\ Pb$. Is this cell capable of doing useful work?<br> ($Sn = -0.14\ V, Pb = -0.13\ V$).
 <details><summary><b>Answer</b></summary>
 $E^\circ_{cell} = -0.13 - (-0.14) = +0.01\ V$.
 Since $E^\circ_{cell}$ is positive, the cell generates electricity and can do useful work. **Yes.**
 </details>
 
-5. 🔴 Consider $2Fe^{3+} + 2I^- \rightarrow 2Fe^{2+} + I_2$. Given $E^\circ_{Fe^{3+}/Fe^{2+}} = 0.77\ V$ and $E^\circ_{I_2/I^-} = 0.54\ V$. Calculate $E^\circ_{cell}$. Does the stoichiometry (the "2" in front of Fe and I) affect the calculation?
+5. 🔴 Consider $2Fe^{3+} + 2I^- \rightarrow 2Fe^{2+} + I_2$. Given $E^\circ_{Fe^{3+}/Fe^{2+}} = 0.77\ V$ and $E^\circ_{I_2/I^-} = 0.54\ V$. Calculate $E^\circ_{cell}$. Does the stoichiometry (the "2" in front of Fe and I) affect the calculation?<br>
 <details><summary><b>Answer</b></summary>
 $Fe^{3+}$ is reducing (Cathode). $I^-$ is oxidizing (Anode).
 $E^\circ_{cell} = 0.77 - 0.54 = \textbf{+0.23\ V}$.
@@ -197,7 +197,7 @@ $E^\circ_{cell} = 0.77 - 0.54 = \textbf{+0.23\ V}$.
 **Pattern:** "Understanding internal resistance and voltmeter vs potentiometer measurements."
 
 **Solved Example** 🟡
-> A student measures a newly built Daniell cell ($E^\circ = 1.10\ V$) using a standard laboratory voltmeter and gets a reading of $1.08\ V$. Why is there a discrepancy?
+> A student measures a newly built Daniell cell ($E^\circ = 1.10\ V$) using a standard laboratory voltmeter and gets a reading of $1.08\ V$. Why is there a discrepancy?<br>
 
 <details><summary><b>Solution</b></summary>
 A standard voltmeter draws a tiny amount of current from the cell to deflect its needle. The moment current ($I$) flows, the cell's internal resistance ($r$) causes a voltage drop ($I \times r$).
@@ -207,17 +207,17 @@ To measure true EMF ($E$), no current must be drawn, which requires a **potentio
 
 **Practice:**
 
-1. 🟢 Which is always greater for a discharging Galvanic cell: EMF or Potential Difference?
+1. 🟢 Which is always greater for a discharging Galvanic cell: EMF or Potential Difference?<br>
 <details><summary><b>Answer</b></summary>
 **EMF** is always greater (it is the maximum theoretical voltage).
 </details>
 
-2. 🟢 Under what specific condition does Potential Difference exactly equal EMF?
+2. 🟢 Under what specific condition does Potential Difference exactly equal EMF?<br>
 <details><summary><b>Answer</b></summary>
 When the cell is in an **open circuit** (absolutely zero current is being drawn, $I = 0$).
 </details>
 
-3. 🟡 As a battery is used over time, its internal resistance increases. If the intrinsic EMF of the chemicals remains $1.5\ V$, what happens to the potential difference you can measure across a connected lightbulb?
+3. 🟡 As a battery is used over time, its internal resistance increases. If the intrinsic EMF of the chemicals remains $1.5\ V$, what happens to the potential difference you can measure across a connected lightbulb?<br>
 <details><summary><b>Answer</b></summary>
 Since $V = E - Ir$, as internal resistance ($r$) increases, the $Ir$ voltage drop increases. The potential difference ($V$) across the bulb **decreases**, causing the bulb to dim.
 </details>
@@ -245,7 +245,7 @@ A **Potentiometer** (because it balances the voltage without drawing any current
 
 **Practice:**
 
-1. 🟢 For $X\ |\ X^+\ ||\ Y^+\ |\ Y$, $E^\circ_{cell} = 0.90\ V$. If $E^\circ_X = -0.40\ V$, what is $E^\circ_Y$?
+1. 🟢 For $X\ |\ X^+\ ||\ Y^+\ |\ Y$, $E^\circ_{cell} = 0.90\ V$. If $E^\circ_X = -0.40\ V$, what is $E^\circ_Y$?<br>
 <details><summary><b>Answer</b></summary>
 $0.90 = E^\circ_Y - (-0.40) \implies 0.90 = E^\circ_Y + 0.40$
 $E^\circ_Y = 0.90 - 0.40 = \textbf{+0.50\ V}$.
@@ -256,7 +256,7 @@ $E^\circ_Y = 0.90 - 0.40 = \textbf{+0.50\ V}$.
 $0.51 = E^\circ_{Ni} - (-0.76) \implies E^\circ_{Ni} = 0.51 - 0.76 = \textbf{-0.25\ V}$.
 </details>
 
-3. 🟡 A cell consists of $SHE$ and a metal $M$ electrode. The cell potential is $2.37\ V$, and $M$ acts as the anode. What is the standard reduction potential of $M$?
+3. 🟡 A cell consists of $SHE$ and a metal $M$ electrode. The cell potential is $2.37\ V$, and $M$ acts as the anode. What is the standard reduction potential of $M$?<br>
 <details><summary><b>Answer</b></summary>
 M is Anode. SHE is Cathode ($0.00\ V$).
 $2.37 = 0.00 - E^\circ_M$
@@ -277,7 +277,7 @@ $E^\circ_{Ag} = 0.46 + 0.34 = \textbf{+0.80\ V}$.
 **Pattern:** "Understanding the relationship between intensive EMF and extensive properties like energy/work."
 
 **Solved Example** 🔴
-> Two students calculate the $E^\circ_{cell}$ for $Zn + Cu^{2+} \rightarrow Zn^{2+} + Cu$. Student A uses the equation as written and gets $1.10\ V$. Student B multiplies the equation by 2: $2Zn + 2Cu^{2+} \rightarrow 2Zn^{2+} + 2Cu$. What $E^\circ_{cell}$ does Student B get, and will the maximum work extracted from both cells be the same?
+> Two students calculate the $E^\circ_{cell}$ for $Zn + Cu^{2+} \rightarrow Zn^{2+} + Cu$. Student A uses the equation as written and gets $1.10\ V$. Student B multiplies the equation by 2: $2Zn + 2Cu^{2+} \rightarrow 2Zn^{2+} + 2Cu$. What $E^\circ_{cell}$ does Student B get, and will the maximum work extracted from both cells be the same?<br>
 
 <details><summary><b>Solution</b></summary>
 - EMF is an intensive property. It does not depend on stoichiometry. Student B also gets **$1.10\ V$**.
@@ -286,13 +286,13 @@ $E^\circ_{Ag} = 0.46 + 0.34 = \textbf{+0.80\ V}$.
 
 **Practice:**
 
-1. 🟡 If you connect two identical $1.5\ V$ batteries in parallel (side-by-side), what is the EMF of the combination? What if you connect them in series (end-to-end)?
+1. 🟡 If you connect two identical $1.5\ V$ batteries in parallel (side-by-side), what is the EMF of the combination?<br> What if you connect them in series (end-to-end)?<br>
 <details><summary><b>Answer</b></summary>
 - Parallel: EMF remains **$1.5\ V$** (intensive nature; you just have a larger "pool" of chemicals, so it lasts longer).
 - Series: EMF adds up to **$3.0\ V$** (you are stacking the potential differences).
 </details>
 
-2. 🔴 $E^\circ$ for $Ag^+ + e^- \rightarrow Ag$ is $0.80\ V$. $E^\circ$ for $Cu^{2+} + 2e^- \rightarrow Cu$ is $0.34\ V$. Why can we directly subtract $0.80 - 0.34$ to get the cell potential for $Cu + 2Ag^+ \rightarrow Cu^{2+} + 2Ag$, even though 2 moles of Ag are involved?
+2. 🔴 $E^\circ$ for $Ag^+ + e^- \rightarrow Ag$ is $0.80\ V$. $E^\circ$ for $Cu^{2+} + 2e^- \rightarrow Cu$ is $0.34\ V$. Why can we directly subtract $0.80 - 0.34$ to get the cell potential for $Cu + 2Ag^+ \rightarrow Cu^{2+} + 2Ag$, even though 2 moles of Ag are involved?<br>
 <details><summary><b>Answer</b></summary>
 Because $E^\circ$ values represent the potential difference per unit charge. Just like temperature doesn't double if you have two cups of boiling water, the potential difference of the Ag half-cell doesn't double just because 2 moles are reacting. The intensive $E^\circ$ values can be directly added/subtracted.
 </details>
@@ -312,7 +312,7 @@ Because $E^\circ$ values represent the potential difference per unit charge. Jus
 Assuming both are reduction potentials, it is always Cathode minus Anode.
 </details>
 
-**Q2. (Board Type)** 🟡 Which of the following statements about EMF and Potential Difference is true?
+**Q2. (Board Type)** 🟡 Which of the following statements about EMF and Potential Difference is true?<br>
 (a) Potential difference is responsible for the steady flow of current; EMF is measured when current is flowing.
 (b) EMF is the maximum voltage a cell can deliver; Potential difference is the voltage measured across a closed circuit.
 (c) Both are exactly the same thing.
@@ -325,7 +325,7 @@ EMF is measured in an open circuit (max voltage). Potential difference is measur
 
 **Q3. (JEE Mains Type)** 🔴 Given the standard electrode potentials: 
 $K^+/K = -2.93\ V, Ag^+/Ag = 0.80\ V, Hg^{2+}/Hg = 0.79\ V, Mg^{2+}/Mg = -2.37\ V, Cr^{3+}/Cr = -0.74\ V$. 
-Which of the following cells will yield the maximum standard EMF?
+Which of the following cells will yield the maximum standard EMF?<br>
 (a) $Mg\ |\ Mg^{2+}\ ||\ Ag^+\ |\ Ag$
 (b) $K\ |\ K^+\ ||\ Ag^+\ |\ Ag$
 (c) $Mg\ |\ Mg^{2+}\ ||\ Hg^{2+}\ |\ Hg$
@@ -339,7 +339,7 @@ Highest is $Ag$ ($+0.80\ V$). Lowest is $K$ ($-2.93\ V$).
 $E^\circ_{cell} = 0.80 - (-2.93) = \textbf{+3.73\ V}$.
 </details>
 
-**Q4. (Exemplar Type)** 🟡 A cell is represented by $Zn\ |\ Zn^{2+}(aq)\ ||\ Cu^{2+}(aq)\ |\ Cu$. Given $E^\circ_{Zn} = -0.76\ V$ and $E^\circ_{Cu} = 0.34\ V$. If the concentration of both $Zn^{2+}$ and $Cu^{2+}$ is changed from $1\ M$ to $0.1\ M$, what happens to the standard EMF ($E^\circ$)?
+**Q4. (Exemplar Type)** 🟡 A cell is represented by $Zn\ |\ Zn^{2+}(aq)\ ||\ Cu^{2+}(aq)\ |\ Cu$. Given $E^\circ_{Zn} = -0.76\ V$ and $E^\circ_{Cu} = 0.34\ V$. If the concentration of both $Zn^{2+}$ and $Cu^{2+}$ is changed from $1\ M$ to $0.1\ M$, what happens to the standard EMF ($E^\circ$)?<br>
 (a) It increases.
 (b) It decreases.
 (c) It remains the same.
@@ -358,7 +358,7 @@ Trick question! The *Standard* EMF ($E^\circ$) is a fixed constant value defined
 - X displaces Y from its salt solution.
 - Z displaces X from its salt solution.
 (a) Arrange them in increasing order of their standard reduction potentials.
-(b) If you want to construct a Galvanic cell with the maximum possible EMF using two of these metals, which will act as the anode and which as the cathode?
+(b) If you want to construct a Galvanic cell with the maximum possible EMF using two of these metals, which will act as the anode and which as the cathode?<br>
 
 <details><summary><b>Solution</b></summary>
 (a) X displaces Y $\implies$ X is a stronger reducing agent $\implies E^\circ_X < E^\circ_Y$.
@@ -371,7 +371,7 @@ Cathode (highest $E^\circ$): **Y**.
 </details>
 
 **Q2.** 🔴 Given $E^\circ_{Fe^{3+}/Fe^{2+}} = +0.77\ V$ and $E^\circ_{Fe^{2+}/Fe} = -0.44\ V$. 
-A student attempts to calculate $E^\circ$ for $Fe^{3+} \rightarrow Fe$ by simply adding the two potentials: $0.77 + (-0.44) = +0.33\ V$. Is this correct? Why or why not?
+A student attempts to calculate $E^\circ$ for $Fe^{3+} \rightarrow Fe$ by simply adding the two potentials: $0.77 + (-0.44) = +0.33\ V$. Is this correct?<br> Why or why not?<br>
 
 <details><summary><b>Solution</b></summary>
 **No, this is completely incorrect.**
@@ -397,12 +397,12 @@ $E^\circ_{cell} = E^\circ_{cathode} - E^\circ_{anode}$ (where both are standard 
 | Measured accurately by a potentiometer. | Measured by a voltmeter. |
 </details>
 
-**Q3.** 🟡 A cell is formed by dipping a Zinc rod in $ZnSO_4$ and a Silver rod in $AgNO_3$. Which electrode will act as the cathode? Justify. ($E^\circ_{Zn} = -0.76\ V, E^\circ_{Ag} = +0.80\ V$). *(2 marks)*
+**Q3.** 🟡 A cell is formed by dipping a Zinc rod in $ZnSO_4$ and a Silver rod in $AgNO_3$. Which electrode will act as the cathode?<br> Justify. ($E^\circ_{Zn} = -0.76\ V, E^\circ_{Ag} = +0.80\ V$). *(2 marks)*
 <details><summary><b>Model Answer</b></summary>
 The **Silver rod** will act as the cathode. This is because Silver has a higher standard reduction potential ($+0.80\ V$) than Zinc ($-0.76\ V$), meaning it has a greater tendency to get reduced (gain electrons).
 </details>
 
-**Q4.** 🟢 What is the condition for a cell reaction to be spontaneous in terms of standard EMF? *(1 mark)*
+**Q4.** 🟢 What is the condition for a cell reaction to be spontaneous in terms of standard EMF?<br> *(1 mark)*
 <details><summary><b>Model Answer</b></summary>
 The standard EMF ($E^\circ_{cell}$) must be positive ($E^\circ_{cell} > 0$).
 </details>

@@ -20,7 +20,7 @@
 Current density $\mathbf{j}$ is a vector quantity, and its direction is the same as the direction of the electric field $\mathbf{E}$ ($\mathbf{j} = \sigma \mathbf{E}$).
 In a straight wire, the electric field is uniformly directed along the length.
 When a wire is bent into a curve (like a circle), the electric field must bend to keep following the wire. 
-How does the electric field "know" to bend? It's due to tiny amounts of charge that accumulate on the surface of the wire wherever it bends. This surface charge distribution creates a transverse electric field component that steers the electrons around the curve.
+How does the electric field "know" to bend?<br> It's due to tiny amounts of charge that accumulate on the surface of the wire wherever it bends. This surface charge distribution creates a transverse electric field component that steers the electrons around the curve.
 </details>
 
 **Q2.** 🔴 Two batteries of emf $\varepsilon_1$ and $\varepsilon_2$ ($\varepsilon_2 > \varepsilon_1$) and internal resistances $r_1$ and $r_2$ respectively are connected in parallel.
@@ -42,7 +42,7 @@ A weighted average of two numbers *always* falls exactly between the two numbers
 Therefore, $\varepsilon_1 < \varepsilon_{eq} < \varepsilon_2$.
 </details>
 
-**Q3.** 🟡 A resistance $R$ is to be measured using a meter bridge. Student chooses the standard resistance $S$ to be $100\text{ } \Omega$. He finds the null point at $l_1 = 2.9\text{ cm}$. He is told to attempt to improve the accuracy. Which of the following is a useful way?
+**Q3.** 🟡 A resistance $R$ is to be measured using a meter bridge. Student chooses the standard resistance $S$ to be $100\text{ } \Omega$. He finds the null point at $l_1 = 2.9\text{ cm}$. He is told to attempt to improve the accuracy. Which of the following is a useful way?<br>
 (a) He should measure $l_1$ more accurately.
 (b) He should change $S$ to $1000\text{ } \Omega$ and repeat the experiment.
 (c) He should change $S$ to $3\text{ } \Omega$ and repeat the experiment.
@@ -101,7 +101,7 @@ So, connect the battery across the two $1\text{ cm} \times 1/2\text{ cm}$ faces.
 
 *(Note: These are crucial for JEE Advanced. One or more options may be correct).*
 
-**Q6.** 🔴 Which of the following characteristics of electrons determines the current in a conductor?
+**Q6.** 🔴 Which of the following characteristics of electrons determines the current in a conductor?<br>
 (a) Drift velocity alone.
 (b) Thermal velocity alone.
 (c) Both drift velocity and thermal velocity.

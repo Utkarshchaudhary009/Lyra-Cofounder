@@ -49,7 +49,7 @@
 *   **The Suppression Seed:** The duration proves it was a structural feature of the financial system, not a bug.
 
 ### Clue 9: Accumulated Losses Calculation (The Damages)
-*   **The Simple Truth:** How much money did miners lose? If fair value was $50 and they sold for $20, they lost $30 on every ounce. Over billions of ounces, that's a lot of money.
+*   **The Simple Truth:** How much money did miners lose?<br> If fair value was $50 and they sold for $20, they lost $30 on every ounce. Over billions of ounces, that's a lot of money.
 *   **The Hard Evidence:** Global production is ~800M oz/year. If the suppression discount was conservatively $20/oz, the industry lost **$16 Billion per year**. Over 20 years, that is **$320 Billion** in lost revenue transferred from miners to consumers/banks.
 *   **The Suppression Seed:** This wealth transfer explains why mining nations remain poor while banking nations remain rich.
 
@@ -103,7 +103,7 @@
 
 **(700 Words)**
 
-We have reached the audit phase of our investigation. We know *who* did it (Phase 38), *how* they hurt people (Phase 40), and *what* industries they broke (Phase 41). Now, we ask: "How much did they steal?"
+We have reached the audit phase of our investigation. We know *who* did it (Phase 38), *how* they hurt people (Phase 40), and *what* industries they broke (Phase 41). Now, we ask: "How much did they steal?<br>"
 
 The numbers are staggering. To understand the "Grand Heist," you have to look past the sticker price. In 1980, silver hit $50. Today, if you adjust that $50 for four decades of inflation, silver should be trading at **$184 an ounce**. Instead, for most of the last decade, it struggled to break $25. This isn't just a "bear market"; it is a mathematical impossibility in a free market. It is evidence of a crime.
 
@@ -127,62 +127,62 @@ The "Grand Heist" was a multi-trillion dollar wealth transfer. It allowed the We
 
 ## 7. Comprehension Check (Critical Thinking)
 
-**Q1:** Why is the 1980 price of $50 equivalent to $184 today?
+**Q1:** Why is the 1980 price of $50 equivalent to $184 today?<br>
 **A:** Because of inflation. The dollar has lost so much purchasing power that you need $184 today to buy what $50 bought in 1980.
 **C:** The price didn't change; the ruler (dollar) shrank.
 
-**Q2:** What is "High-Grading"?
+**Q2:** What is "High-Grading"?<br>
 **A:** Mining only the richest ore to survive low prices, leaving average ore behind.
 **C:** It's like eating the steak and throwing away the rest of the cow.
 
-**Q3:** How did suppression subsidize the tech industry?
+**Q3:** How did suppression subsidize the tech industry?<br>
 **A:** Tech companies bought silver for their chips at artificially low prices, boosting their profits at the expense of miners.
 **C:** Your iPhone was subsidized by a Peruvian miner.
 
-**Q4:** What is "Fair Value" based on M2?
+**Q4:** What is "Fair Value" based on M2?<br>
 **A:** The price silver would be if it tracked the creation of new money.
 **C:** Silver is the truth; the dollar is the lie.
 
-**Q5:** Why is the Silver-to-Gold ratio of ~85:1 an anomaly?
+**Q5:** Why is the Silver-to-Gold ratio of ~85:1 an anomaly?<br>
 **A:** Historically (and geologically), the ratio is closer to 15:1. An 85:1 ratio means silver is massively undervalued relative to gold.
 **C:** Silver is the cheapest asset on the planet.
 
-**Q6:** What is the cumulative deficit from 2021-2025?
+**Q6:** What is the cumulative deficit from 2021-2025?<br>
 **A:** About 820 million ounces.
 **C:** We are running on empty.
 
-**Q7:** Why does Keith Neumeyer say silver needs to be $100?
+**Q7:** Why does Keith Neumeyer say silver needs to be $100?<br>
 **A:** Because at current prices, it's not profitable to find and build new mines to replace the ones running out.
 **C:** No profit, no metal.
 
-**Q8:** What is the "Opportunity Cost" of suppression?
+**Q8:** What is the "Opportunity Cost" of suppression?<br>
 **A:** The mines that were never built and the silver that was never found because the price was too low.
 **C:** You can't count what doesn't exist.
 
-**Q9:** How does the "Paper Market" absorb price signals?
+**Q9:** How does the "Paper Market" absorb price signals?<br>
 **A:** By creating infinite "paper silver" to sell when demand rises, preventing the price from going up.
 **C:** Supply is infinite if you can print it.
 
-**Q10:** What happens when the "Beach Ball" is released?
+**Q10:** What happens when the "Beach Ball" is released?<br>
 **A:** The price shoots up violently to find its true level ($100+).
 **C:** Suppression guarantees volatility.
 
-**Q11:** Is $30 silver "expensive"?
+**Q11:** Is $30 silver "expensive"?<br>
 **A:** No, it is historically cheap. In real terms, it's 85% below its all-time high.
 **C:** Perspective changes everything.
 
-**Q12:** Who paid for the "Grand Heist"?
+**Q12:** Who paid for the "Grand Heist"?<br>
 **A:** Miners, developing nations, and savers holding undervalued assets.
 **C:** There is no free lunch.
 
-**Q13:** What is "AISC"?
+**Q13:** What is "AISC"?<br>
 **A:** All-In Sustaining Cost. The real cost to keep a mine open.
 **C:** If Price < AISC, the mine closes.
 
-**Q14:** Why is the "Shadow Price" important?
+**Q14:** Why is the "Shadow Price" important?<br>
 **A:** It tells us the value of silver's strategic importance, which isn't priced in by the market.
 **C:** Value > Price.
 
-**Q15:** How does Phase 43 connect to Phase 60?
+**Q15:** How does Phase 43 connect to Phase 60?<br>
 **A:** Phase 43 calculates the size of the explosion that happens in Phase 60.
 **C:** The math implies a reset.

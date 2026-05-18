@@ -5,13 +5,13 @@
 
 ## 🎯 Stage 1: The Core Idea
 
-### What is Molality?
+### What is Molality?<br>
 
 Molality measures how many moles of solute are dissolved per kilogram of **solvent** (not solution!).
 
-> **Analogy:** Imagine you're making lemonade. Molality asks: "How many lemons did you squeeze per kilogram of water?" It doesn't care about the total weight of the lemonade (water + lemon juice + sugar) — only the water.
+> **Analogy:** Imagine you're making lemonade. Molality asks: "How many lemons did you squeeze per kilogram of water?<br>" It doesn't care about the total weight of the lemonade (water + lemon juice + sugar) — only the water.
 
-### Why Molality, Not Just Molarity?
+### Why Molality, Not Just Molarity?<br>
 
 | Feature | Molality (m) | Molarity (M) |
 |---------|-------------|-------------|
@@ -77,7 +77,7 @@ Symbol: lowercase 'm' or 'mol/kg' or 'mol kg⁻¹'
 
 Molality is **temperature-independent** ✅
 
-Why? Mass of solvent doesn't change with temperature. Unlike volume (which expands/contracts), mass is invariant under temperature changes.
+Why?<br> Mass of solvent doesn't change with temperature. Unlike volume (which expands/contracts), mass is invariant under temperature changes.
 
 ---
 
@@ -165,7 +165,7 @@ Answer: m = 0.2 mol/kg (or 0.2 m)
 **The Pattern:** Molality is given → calculate how much solute to add to a known mass of solvent.
 
 #### Solved Example 5.2
-**Q:** How many grams of NaOH (M = 40) must be dissolved in 200 g of water to prepare a 2.5 m solution? 🟡
+**Q:** How many grams of NaOH (M = 40) must be dissolved in 200 g of water to prepare a 2.5 m solution?<br> 🟡
 
 **Solution:**
 ```
@@ -185,7 +185,7 @@ Answer: 20 g of NaOH
 | # | Question | Difficulty |
 |---|----------|------------|
 | 5.2a | Find the mass of glucose (M = 180) required to prepare a 0.5 m solution using 1 kg of water. | 🟢 |
-| 5.2b | How many grams of urea (M = 60) are needed to make a 1.5 m solution in 400 g of water? | 🟡 |
+| 5.2b | How many grams of urea (M = 60) are needed to make a 1.5 m solution in 400 g of water?<br> | 🟡 |
 | 5.2c | A 0.1 m solution of KCl (M = 74.5) is prepared using 2 kg of water. Find the mass of KCl required. | 🟡 |
 
 <details>
@@ -225,7 +225,7 @@ Answer: 20 g of NaOH
 **The Pattern:** Reverse of the reverse — find how much solvent is needed.
 
 #### Solved Example 5.3
-**Q:** You have 0.3 mol of sucrose. How much water (in grams) do you need to make a 0.6 m solution? 🟡
+**Q:** You have 0.3 mol of sucrose. How much water (in grams) do you need to make a 0.6 m solution?<br> 🟡
 
 **Solution:**
 ```
@@ -240,9 +240,9 @@ Answer: 500 g of water
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 5.3a | 0.5 mol of NaCl needs to become a 2 m solution. How much water? | 🟢 |
+| 5.3a | 0.5 mol of NaCl needs to become a 2 m solution. How much water?<br> | 🟢 |
 | 5.3b | 0.1 mol of glucose must give m = 0.25. Find mass of water needed. | 🟡 |
-| 5.3c | A pharmacist has 0.05 mol of a drug and needs m = 0.1. How much solvent? | 🟡 |
+| 5.3c | A pharmacist has 0.05 mol of a drug and needs m = 0.1. How much solvent?<br> | 🟡 |
 
 <details>
 <summary>💡 Detailed Solutions for Type 3</summary>
@@ -390,7 +390,7 @@ Answer: m = 2.78 mol/kg
 | 5.5a | Find the molality of a 20% glucose (M=180) solution. | 🟡 |
 | 5.5b | A solution is 5% urea (M=60) by mass. Find m. ⭐ | 🟡 |
 | 5.5c | Commercial H₂SO₄ is 98% by mass (M=98). Find its molality. ⭐ | 🟡 |
-| 5.5d | If w/w% = 50% for a solute of M = 100, find m. What's special about this result? | 🟡 |
+| 5.5d | If w/w% = 50% for a solute of M = 100, find m. What's special about this result?<br> | 🟡 |
 
 <details>
 <summary>💡 Detailed Solutions for Type 5</summary>
@@ -434,7 +434,7 @@ Answer: m = 2.78 mol/kg
 *   **Step 2:** Calculate molality.
     *   $n = \frac{50}{100} = 0.5 \text{ mol}$
     *   $m = \frac{0.5 \text{ mol}}{0.05 \text{ kg}} = 10 \text{ m}$
-*   **What's special?** At 50% (w/w), the mass of solute exactly equals the mass of solvent.
+*   **What's special?<br>** At 50% (w/w), the mass of solute exactly equals the mass of solvent.
 *   **Final Answer:** $m = 10 \text{ mol/kg}$
 
 </details>
@@ -638,14 +638,14 @@ Using the formula directly:
 
 ### Type 8: Molality of Pure Liquid
 
-**The Pattern:** A conceptual trick question. What is the "molality" of a pure substance?
+**The Pattern:** A conceptual trick question. What is the "molality" of a pure substance?<br>
 
 #### Solved Example 5.8
 **Q:** Calculate the molality of pure water. 🟡
 
 **Solution:**
 ```
-Wait — pure water has no solute. So what does molality even mean here?
+Wait — pure water has no solute. So what does molality even mean here?<br>
 
 Interpretation: Consider water as the "solute" in itself.
     Take 1 mol of water = 18 g (this is the "solute")
@@ -670,7 +670,7 @@ Answer: The "molality" of pure water is 55.55 m
 | # | Question | Difficulty |
 |---|----------|------------|
 | 5.8a | Calculate the "molality" of pure ethanol (M = 46, d = 0.789 g/mL). | 🟡 |
-| 5.8b | Why is the concept of molality undefined for pure substances in a rigorous sense? | 🟡 |
+| 5.8b | Why is the concept of molality undefined for pure substances in a rigorous sense?<br> | 🟡 |
 
 <details>
 <summary>💡 Detailed Solutions for Type 8</summary>
@@ -696,7 +696,7 @@ Answer: The "molality" of pure water is 55.55 m
 **The Pattern:** Conceptual reasoning — no calculation.
 
 #### Solved Example 5.9
-**Q:** Why do we use molality (not molarity) in colligative property formulas? 🟡
+**Q:** Why do we use molality (not molarity) in colligative property formulas?<br> 🟡
 
 **Solution:**
 ```
@@ -705,7 +705,7 @@ Colligative property formulas:
     ΔTf = Kf × m
     π = mRT (for some formulations)
 
-Why molality?
+Why molality?<br>
 
 1. TEMPERATURE INDEPENDENCE
    Colligative properties (boiling point elevation, freezing point 
@@ -731,8 +731,8 @@ Summary: Colligative properties depend on the NUMBER OF SOLUTE
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 5.9a | A student uses molarity instead of molality in ΔTb = Kb × m. At what temperature is the error zero? At what temperature is it maximum? | 🔴 |
-| 5.9b | List all concentration terms that are temperature-independent. Why are they all based on mass (or moles)? | 🟡 |
+| 5.9a | A student uses molarity instead of molality in ΔTb = Kb × m. At what temperature is the error zero?<br> At what temperature is it maximum?<br> | 🔴 |
+| 5.9b | List all concentration terms that are temperature-independent. Why are they all based on mass (or moles)?<br> | 🟡 |
 
 <details>
 <summary>💡 Detailed Solutions for Type 9</summary>
@@ -744,7 +744,7 @@ Summary: Colligative properties depend on the NUMBER OF SOLUTE
 
 **5.9b**
 *   **Temperature-independent terms:** Molality ($m$), Mole Fraction ($\chi$), Mass Percent (% w/w), Parts Per Million (ppm by mass).
-*   **Why based on mass/moles?** Temperature changes affect the *volume* of a substance due to thermal expansion or contraction. However, temperature has absolutely no effect on the *mass* of the substance or the atomic/molecular count (*moles*). Because these concentration terms exclusively place mass or moles in both the numerator and denominator, they remain perfectly invariant regardless of temperature shifts.
+*   **Why based on mass/moles?<br>** Temperature changes affect the *volume* of a substance due to thermal expansion or contraction. However, temperature has absolutely no effect on the *mass* of the substance or the atomic/molecular count (*moles*). Because these concentration terms exclusively place mass or moles in both the numerator and denominator, they remain perfectly invariant regardless of temperature shifts.
 
 </details>
 
@@ -784,7 +784,7 @@ Answer: m_urea = 0.2 m, m_NaCl = 0.2 m, m_total = 0.4 m
 | # | Question | Difficulty |
 |---|----------|------------|
 | 5.10a | 9 g of glucose (M = 180) and 3 g of urea (M = 60) in 250 g of water. Find m_glucose, m_urea, and m_total. | 🟡 |
-| 5.10b | 11.1 g CaCl₂ (M = 111) and 5.85 g NaCl (M = 58.5) in 1 kg of water. Find individual and total molalities. For colligative purposes, what is the effective total molality? (CaCl₂ → Ca²⁺ + 2Cl⁻, NaCl → Na⁺ + Cl⁻) ⭐ | 🔴 |
+| 5.10b | 11.1 g CaCl₂ (M = 111) and 5.85 g NaCl (M = 58.5) in 1 kg of water. Find individual and total molalities. For colligative purposes, what is the effective total molality?<br> (CaCl₂ → Ca²⁺ + 2Cl⁻, NaCl → Na⁺ + Cl⁻) ⭐ | 🔴 |
 
 <details>
 <summary>💡 Detailed Solutions for Type 10</summary>
@@ -951,7 +951,7 @@ Answer: m_urea = 0.2 m, m_NaCl = 0.2 m, m_total = 0.4 m
 | # | Question | Difficulty |
 |---|----------|------------|
 | 5.J1 | Concentrated H₂SO₄ has d = 1.84 g/mL and is 98% by mass (M = 98). Find (a) molarity (b) molality (c) mole fraction. ⭐⭐ | 🔴 |
-| 5.J2 | A 4 M NaOH solution has d = 1.15 g/mL (M = 40). Find (a) molality (b) mass %. Which is greater — M or m? Why? | 🔴 |
+| 5.J2 | A 4 M NaOH solution has d = 1.15 g/mL (M = 40). Find (a) molality (b) mass %. Which is greater — M or m?<br> Why?<br> | 🔴 |
 | 5.J3 | The molality and molarity of an aqueous solution are equal in magnitude. Given that M_solute = 100 g/mol, find the density of the solution. ⭐ | 🔴 |
 | 5.J4 | A solution has m = 10 molal and M = 8 molar. If M_solute = 50 g/mol, find the density. | 🔴 |
 | 5.J5 | An aqueous solution has mole fraction of solute = 0.2 and density = 1.25 g/mL. M_solute = 60. Find (a) molality (b) molarity (c) mass %. (Full interconversion chain.) ⭐ | 🔴 |

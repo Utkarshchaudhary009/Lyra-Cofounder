@@ -9,7 +9,7 @@
 
 ## TABLE OF CONTENTS
 1. [Executive Overview](#executive-overview)
-2. [What is a Safe Asset?](#what-is-a-safe-asset)
+2. [What is a Safe Asset?<br>](#what-is-a-safe-asset)
 3. [The Panic of 1907: The Setup](#the-panic-of-1907-the-setup)
 4. [The Earthquake Connection](#the-earthquake-connection)
 5. [The Trigger: United Copper Scheme](#the-trigger-united-copper-scheme)
@@ -24,7 +24,7 @@
 
 ## EXECUTIVE OVERVIEW
 
-### What Happened?
+### What Happened?<br>
 The Panic of 1907 was the **first major global financial crisis of the 20th century**. It lasted about 3-6 weeks (concentrated in October-November 1907) but its effects rippled for years. The stock market fell almost 50% from its peak the year before. Over 25 banks and 17 trust companies went bust.
 
 ### Why It Matters Today
@@ -55,13 +55,13 @@ November 1907: Crisis stabilizes, but economic damage is severe
 
 ---
 
-## WHAT IS A SAFE ASSET?
+## WHAT IS A SAFE ASSET?<br>
 
 ### Simple Definition
 A **safe asset** is something you buy/hold when you're scared of losing money. When people panic, they move their money OUT of risky investments and INTO safe assets.
 
 ### Characteristics of Safe Assets
-(What makes an investment feel safe to people?)
+(What makes an investment feel safe to people?<br>)
 
 1. **Liquidity** - You can quickly turn it into cash
 2. **Functionality** - It has real, lasting demand
@@ -270,7 +270,7 @@ Before: "We're in a boom, nothing can go wrong"
 After: "Wait... maybe these guy are fraudsters... maybe other banks are too..."
 
 **Fear spread like wildfire:**
-- Depositors started asking: "Is MY bank safe?"
+- Depositors started asking: "Is MY bank safe?<br>"
 - People remembered they weren't actually guaranteed their deposits
 - Lines formed at banks as people rushed to withdraw their money
 - This is called a "run on the bank"
@@ -340,7 +340,7 @@ Here's what 100% interest rate means: If you borrow $100, you owe $200 tomorrow.
 
 ## TRUST COMPANIES: THE SHADOW BANKS OF 1907
 
-### What Were Trust Companies?
+### What Were Trust Companies?<br>
 
 **Trust companies** were financial institutions that operated kind of like banks but weren't regulated like banks.
 
@@ -405,7 +405,7 @@ Information was **opaque**. Nobody really knew which trusts were solvent. So peo
 
 ## JP MORGAN: LEADERSHIP IN CRISIS
 
-### Who Was JP Morgan in 1907?
+### Who Was JP Morgan in 1907?<br>
 
 **Background:**
 - Age: 70 years old (semi-retired)
@@ -442,7 +442,7 @@ Morgan had a library at his house at Madison Ave & 36th Street. The front pages 
 
 Morgan examined Knickerbocker Trust and decided: **NOT WORTH SAVING**
 
-Why? Because he had Benjamin Strong (future Federal Reserve chief) examine the books and concluded the institution's solvency was uncertain. So Morgan refused to help.
+Why?<br> Because he had Benjamin Strong (future Federal Reserve chief) examine the books and concluded the institution's solvency was uncertain. So Morgan refused to help.
 
 **This was controversial:**
 - Some people later said Morgan engineered the panic to destroy trusts (his competitors)
@@ -505,7 +505,7 @@ A single person shouldn't have to save the financial system with his personal we
 
 ## MENTAL MODELS
 
-### What Are Mental Models?
+### What Are Mental Models?<br>
 
 A **mental model** is the way someone thinks about the world - their assumptions, beliefs, patterns they notice, lessons they've learned.
 
@@ -881,12 +881,12 @@ Modern Financial Crisis had the SAME structure: unregulated financial institutio
 - If a bank fails, depositors get their money anyway
 - This STOPS bank runs
 
-Why? Because people don't need to panic:
+Why?<br> Because people don't need to panic:
 - "My deposits are insured, so even if bank fails, I'm okay"
 - No incentive to run
 - Without runs, banks can survive bad times
 
-**Counterfactual:** If FDIC insurance existed in 1907, would the panic have happened?
+**Counterfactual:** If FDIC insurance existed in 1907, would the panic have happened?<br>
 - Probably not at the same scale
 - Depositors wouldn't run if deposits were guaranteed
 - Some trusts might have failed, but not the panic cascade
@@ -913,7 +913,7 @@ Why? Because people don't need to panic:
 
 ## PSYCHOLOGY OF FINANCIAL PANIC: Why Smart People Became Fools
 
-### Why Did Intelligent People Not See the Problem Coming?
+### Why Did Intelligent People Not See the Problem Coming?<br>
 
 **The answer: They couldn't use System 2 thinking when they needed it most.**
 
@@ -955,7 +955,7 @@ People overestimate their knowledge and ability to predict the future.
 - Trust company leaders thought: "We're too big to fail"
 
 **The Science:**
-Research shows intelligent people are MORE vulnerable to overconfidence. Why? Because they can **build logical arguments to defend wrong beliefs**.
+Research shows intelligent people are MORE vulnerable to overconfidence. Why?<br> Because they can **build logical arguments to defend wrong beliefs**.
 
 Smart banker 1897: "The economy grew 30% last decade. Economics improves over time. Therefore, growth will continue forever. I'm a genius banker, so I see trends others miss."
 
@@ -984,9 +984,9 @@ A banker sees:
 - (Good news) "Market grew 5% last month"
 - (Bad news) "Copper crashed 40%"
 - Brain processes: "Market grew! See, I was right!"
-- Brain filters: "Copper? Oh, that's just one sector..."
+- Brain filters: "Copper?<br> Oh, that's just one sector..."
 
-**Result:** When crisis came, they were shocked. How did they not see it? They DID see it, but their brains filtered it out.
+**Result:** When crisis came, they were shocked. How did they not see it?<br> They DID see it, but their brains filtered it out.
 
 ---
 
@@ -1010,7 +1010,7 @@ By the time they realized the truth, it was too late. The anchor was too strong.
 - Stock falls to $30
 - Instead of selling, they think: "It'll get back to $100"
 - They hold, losing more money
-- Smart? No. But anchoring makes you irrational.
+- Smart?<br> No. But anchoring makes you irrational.
 
 ---
 
@@ -1103,7 +1103,7 @@ As panic spread, people got MORE scared → Made WORSE decisions → Panic sprea
 
 **Paradox:** The smartest people sometimes make the WORST financial decisions.
 
-**Why?**
+**Why?<br>**
 
 Smart people can BUILD LOGICAL ARGUMENTS for wrong beliefs.
 

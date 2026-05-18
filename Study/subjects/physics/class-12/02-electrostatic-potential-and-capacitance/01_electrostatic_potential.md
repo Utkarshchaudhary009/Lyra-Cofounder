@@ -10,7 +10,7 @@ Imagine you are standing on a perfectly flat, endless plain. You place a bowling
 
 This is exactly what happens in the world of electric charges.
 
-In the previous chapter, we learned about the **electric field** — the force that a charge experiences at every point in space. But there is a deeper, more elegant way to describe the same reality. Instead of asking "what force does a charge feel *here*?", we can ask: **"how much work would it take to bring a charge *to* here?"**
+In the previous chapter, we learned about the **electric field** — the force that a charge experiences at every point in space. But there is a deeper, more elegant way to describe the same reality. Instead of asking "what force does a charge feel *here*?<br>", we can ask: **"how much work would it take to bring a charge *to* here?<br>"**
 
 The answer to that question is called **Electrostatic Potential**. It is the invisible landscape — the hills and valleys — that charges roll across. Positive charges roll "downhill" from high potential to low potential, just like the bowling ball. Negative charges, being contrarian, roll "uphill."
 
@@ -78,7 +78,7 @@ This is the **electron-volt** — a unit of energy used throughout atomic and nu
 
 **The Radio Tower Scenario:** A radio engineer needs to understand the "electrical landscape" around a charged antenna to ensure safety protocols.
 
-**Problem 1:** The potential at point A near the antenna is $+500$ V and at point B (further away) is $+200$ V. How much work must be done to move a charge of $+4 \mu C$ from B to A?
+**Problem 1:** The potential at point A near the antenna is $+500$ V and at point B (further away) is $+200$ V. How much work must be done to move a charge of $+4 \mu C$ from B to A?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -89,13 +89,13 @@ $W = \textbf{1.2 × 10⁻³ J = 1.2 mJ}$
 Since the charge is positive and we are moving it from lower to higher potential (uphill), the external agent must do positive work. This work is stored as potential energy.
 </details>
 
-**Problem 2:** Now suppose we release a $-2 \mu C$ charge at point A. Will it move towards B or away from B? Calculate the work done by the electric field as it moves from A to B.
+**Problem 2:** Now suppose we release a $-2 \mu C$ charge at point A. Will it move towards B or away from B?<br> Calculate the work done by the electric field as it moves from A to B.
 
 <details><summary><b>Solution</b></summary>
 
 A negative charge moves from lower potential to higher potential (opposite to positive charges). So it moves from A ($500$ V) to... wait. Let's think carefully.
 
-A negative charge is attracted *towards* higher potential? No — a negative charge moves such that its potential energy *decreases*. 
+A negative charge is attracted *towards* higher potential?<br> No — a negative charge moves such that its potential energy *decreases*. 
 
 $U = qV$. For $q < 0$: $U_A = (-2 \times 10^{-6})(500) = -1 \times 10^{-3}$ J and $U_B = (-2 \times 10^{-6})(200) = -0.4 \times 10^{-3}$ J.
 
@@ -112,7 +112,7 @@ Work done by the electric field: $W_{field} = U_B - U_A = (-0.4 \times 10^{-3}) 
 Positive work by the field confirms the field drives the charge in this direction.
 </details>
 
-**Problem 3:** An electron ($e = 1.6 \times 10^{-19}$ C) is accelerated through a potential difference of $100$ V. What kinetic energy does it gain, in both joules and electron-volts?
+**Problem 3:** An electron ($e = 1.6 \times 10^{-19}$ C) is accelerated through a potential difference of $100$ V. What kinetic energy does it gain, in both joules and electron-volts?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -131,7 +131,7 @@ $\textbf{KE = 100 eV = 1.6 × 10⁻¹⁷ J}$
 
 *A researcher in a Millikan-style lab is studying charged oil droplets suspended between parallel plates. The top plate is at $+1000$ V and the bottom plate is at $0$ V. The plates are separated by $2$ cm.*
 
-**Problem 1:** What is the potential difference between the plates?
+**Problem 1:** What is the potential difference between the plates?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -140,7 +140,7 @@ $\Delta V = V_{top} - V_{bottom} = 1000 - 0 = \textbf{1000 V}$
 
 *The researcher introduces a tiny oil droplet carrying a charge of $+3.2 \times 10^{-19}$ C (i.e., 2 elementary charges). The droplet is placed near the bottom plate.*
 
-**Problem 2:** How much work must the electric field do to move this droplet from the bottom plate to the top plate?
+**Problem 2:** How much work must the electric field do to move this droplet from the bottom plate to the top plate?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -155,7 +155,7 @@ The field opposes the motion, so the researcher must do $+3.2 \times 10^{-16}$ J
 
 *The droplet is now released from the top plate. It falls freely under the combined influence of gravity and the electric force.*
 
-**Problem 3:** As the droplet falls from the top plate to the bottom plate, what is the change in its electrostatic potential energy? Does this energy increase or decrease?
+**Problem 3:** As the droplet falls from the top plate to the bottom plate, what is the change in its electrostatic potential energy?<br> Does this energy increase or decrease?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -185,9 +185,9 @@ We have built the concept of electrostatic potential from scratch. Let's bring e
 
 **Synthesis Problem:** Two parallel metal plates are separated by $5$ mm. The electric field between them is uniform at $4 \times 10^4$ V/m, directed from plate A to plate B.
 
-(a) What is the potential difference between the plates?  
-(b) A proton ($q = +1.6 \times 10^{-19}$ C, $m = 1.67 \times 10^{-27}$ kg) is released from rest at plate A. What is its speed when it reaches plate B?  
-(c) If the proton is replaced by an alpha particle ($q = +3.2 \times 10^{-19}$ C, $m = 6.64 \times 10^{-27}$ kg), what speed does it reach?  
+(a) What is the potential difference between the plates?<br>  
+(b) A proton ($q = +1.6 \times 10^{-19}$ C, $m = 1.67 \times 10^{-27}$ kg) is released from rest at plate A. What is its speed when it reaches plate B?<br>  
+(c) If the proton is replaced by an alpha particle ($q = +3.2 \times 10^{-19}$ C, $m = 6.64 \times 10^{-27}$ kg), what speed does it reach?<br>  
 (d) Comment on why the alpha particle is slower despite having double the charge.
 
 <details><summary><b>Solution</b></summary>
@@ -232,7 +232,7 @@ This is why proton beams, not alpha beams, are preferred for high-speed particle
 
 ---
 
-**Q2.** Which of the following is the SI unit of electric potential?
+**Q2.** Which of the following is the SI unit of electric potential?<br>
 
 (a) J &emsp; (b) C &emsp; (c) V = J/C &emsp; (d) N/C
 
@@ -282,7 +282,7 @@ This is why proton beams, not alpha beams, are preferred for high-speed particle
 
 <details><summary><b>Answer</b></summary>
 
-**(b)** $W_{field} = q(V_B - V_A) = (-2\times10^{-6})(−25) = ?$. Wait: $W_{field} = q(V_{initial}-V_{final}) = (-2\times10^{-6})(V_B-V_A) = (-2\times10^{-6})(-25) = +50\,\mu J$. Hmm let me be careful. Moving from B to A: $W_{field} = q(V_B - V_A) = (-2\times10^{-6})(-25) = +50\,\mu J$. Answer: **(a)**
+**(b)** $W_{field} = q(V_B - V_A) = (-2\times10^{-6})(−25) = ?<br>$. Wait: $W_{field} = q(V_{initial}-V_{final}) = (-2\times10^{-6})(V_B-V_A) = (-2\times10^{-6})(-25) = +50\,\mu J$. Hmm let me be careful. Moving from B to A: $W_{field} = q(V_B - V_A) = (-2\times10^{-6})(-25) = +50\,\mu J$. Answer: **(a)**
 </details>
 
 ---
@@ -388,7 +388,7 @@ This is why proton beams, not alpha beams, are preferred for high-speed particle
 
 ### Section B: Short Answer Questions (2–3 marks)
 
-**Q16.** Define electric potential at a point. State its SI unit. Is it a scalar or vector?
+**Q16.** Define electric potential at a point. State its SI unit. Is it a scalar or vector?<br>
 
 <details><summary><b>Answer</b></summary>
 
@@ -403,7 +403,7 @@ It is a **scalar** quantity.
 
 ---
 
-**Q17.** What is the work done in moving a charge of $5\,\mu C$ through a potential difference of $-200\,V$?
+**Q17.** What is the work done in moving a charge of $5\,\mu C$ through a potential difference of $-200\,V$?<br>
 
 <details><summary><b>Answer</b></summary>
 
@@ -414,7 +414,7 @@ The negative sign means the electric field does this work (the charge moved down
 
 ---
 
-**Q18.** The potential at point A is $600\,V$ and at B is $-200\,V$. How much work is done by an external agent to move $+3\,\mu C$ from A to B?
+**Q18.** The potential at point A is $600\,V$ and at B is $-200\,V$. How much work is done by an external agent to move $+3\,\mu C$ from A to B?<br>
 
 <details><summary><b>Answer</b></summary>
 
@@ -440,7 +440,7 @@ Because the electrostatic force is conservative, the work depends only on initia
 
 ---
 
-**Q20.** Why does an electron accelerated from rest through $1\,V$ gain exactly $1\,\text{eV}$ of kinetic energy? Derive from first principles.
+**Q20.** Why does an electron accelerated from rest through $1\,V$ gain exactly $1\,\text{eV}$ of kinetic energy?<br> Derive from first principles.
 
 <details><summary><b>Answer</b></summary>
 
@@ -453,7 +453,7 @@ The electron-volt is defined as the kinetic energy gained by an electron (charge
 
 ---
 
-**Q21.** Two points A and B are at potentials $-100\,V$ and $+300\,V$ respectively. (a) Which point is at higher potential? (b) In which direction will an electron naturally move?
+**Q21.** Two points A and B are at potentials $-100\,V$ and $+300\,V$ respectively. (a) Which point is at higher potential?<br> (b) In which direction will an electron naturally move?<br>
 
 <details><summary><b>Answer</b></summary>
 
@@ -475,7 +475,7 @@ The field is **3000 V/m in the positive x-direction** (from high to low potentia
 
 ---
 
-**Q23.** Is it possible for the potential to be zero at a point where the electric field is nonzero? Give an example.
+**Q23.** Is it possible for the potential to be zero at a point where the electric field is nonzero?<br> Give an example.
 
 <details><summary><b>Answer</b></summary>
 
@@ -506,8 +506,8 @@ $$\frac{\lambda_\alpha}{\lambda_p} = \frac{\sqrt{2m_p e V}}{\sqrt{2m_\alpha\cdot
 **Q25.** A uniform electric field of $3\times10^4\,\text{V/m}$ exists between two parallel plates separated by $10\,\text{cm}$.
 
 (a) Calculate the potential difference between the plates.  
-(b) If an electron starts from rest at the negative plate, what is its kinetic energy when it reaches the positive plate (in eV)?  
-(c) What is its speed at that point?
+(b) If an electron starts from rest at the negative plate, what is its kinetic energy when it reaches the positive plate (in eV)?<br>  
+(c) What is its speed at that point?<br>
 
 <details><summary><b>Answer</b></summary>
 
@@ -530,7 +530,7 @@ $v = \sqrt{\frac{2\times4.8\times10^{-16}}{9.1\times10^{-31}}} = \sqrt{1.055\tim
 
 (a) Find the potential at the origin due to $q_2$ and $q_3$.  
 (b) Find the total potential at $x = 0.3\,\text{m}$.  
-(c) How much work is needed to bring a $+1\,\mu C$ charge from infinity to $x = 0.3\,\text{m}$?
+(c) How much work is needed to bring a $+1\,\mu C$ charge from infinity to $x = 0.3\,\text{m}$?<br>
 
 <details><summary><b>Answer</b></summary>
 
@@ -572,9 +572,9 @@ $\Delta V = \frac{3.6\times10^{-16}}{1.6\times10^{-18}} = \mathbf{225\,V}$
 
 **Q28.** Two parallel plates are at potentials $+3000\,V$ and $-1000\,V$. A proton is released from rest at the positive plate.
 
-(a) What is the potential difference?  
-(b) What kinetic energy does the proton gain?  
-(c) What is the speed of the proton when it hits the negative plate?
+(a) What is the potential difference?<br>  
+(b) What kinetic energy does the proton gain?<br>  
+(c) What is the speed of the proton when it hits the negative plate?<br>
 
 <details><summary><b>Answer</b></summary>
 
@@ -613,7 +613,7 @@ $\Delta V = \frac{3.6\times10^{-16}}{1.6\times10^{-18}} = \mathbf{225\,V}$
 - Path 2: Semicircular arc, radius $r$
 - Path 3: Zigzag path of total length $5L$
 
-The potential difference $V_A - V_B = 50\,V$ and $q = +2\,\mu C$. Find the work done by the external agent for each path. What fundamental property of the electrostatic force does this illustrate?
+The potential difference $V_A - V_B = 50\,V$ and $q = +2\,\mu C$. Find the work done by the external agent for each path. What fundamental property of the electrostatic force does this illustrate?<br>
 
 <details><summary><b>Answer</b></summary>
 
@@ -630,7 +630,7 @@ The external agent does the same work $(-0.1\,\text{mJ})$ regardless of the path
 
 ---
 
-**Q31.** The potential at a point P due to a charge configuration is $V_P = 600\,V$. Another configuration is added, lowering the potential at P to $400\,V$. How much work must be done against the electric field to bring a $-5\,\mu C$ charge from infinity to P, (a) before and (b) after the second configuration is added?
+**Q31.** The potential at a point P due to a charge configuration is $V_P = 600\,V$. Another configuration is added, lowering the potential at P to $400\,V$. How much work must be done against the electric field to bring a $-5\,\mu C$ charge from infinity to P, (a) before and (b) after the second configuration is added?<br>
 
 <details><summary><b>Answer</b></summary>
 

@@ -13,10 +13,10 @@ EQ is the strongest predictor of performance. 58% of career success comes from e
 Recognizing your own emotions and their effects.
 
 **Ask yourself:**
-- What am I feeling right now?
-- What triggered this emotion?
-- How is this affecting my thinking?
-- What are my blind spots?
+- What am I feeling right now?<br>
+- What triggered this emotion?<br>
+- How is this affecting my thinking?<br>
+- What are my blind spots?<br>
 
 **Reality check:** Only 10-15% of people are truly self-aware. Assume you have blind spots.
 
@@ -71,22 +71,22 @@ Influencing, developing, and connecting with others.
 
 **When giving difficult feedback:**
 - ❌ "You always do X wrong"
-- ✅ "I noticed X happened. What's your perspective?"
+- ✅ "I noticed X happened. What's your perspective?<br>"
 - ✅ "Here's the impact I observed..."
 
 **When someone is anxious:**
 - ❌ "Don't worry about it"
-- ✅ "What's the worst case? Let's think through it together"
-- ✅ "What's the one thing you can control right now?"
+- ✅ "What's the worst case?<br> Let's think through it together"
+- ✅ "What's the one thing you can control right now?<br>"
 
 ## The EQ Decision Framework
 
 Before major decisions, ask:
-1. What am I feeling about this?
-2. How are emotions influencing my judgment?
-3. What would I decide if I felt neutral?
-4. How will others feel about this decision?
-5. What's the right thing to do regardless of feelings?
+1. What am I feeling about this?<br>
+2. How are emotions influencing my judgment?<br>
+3. What would I decide if I felt neutral?<br>
+4. How will others feel about this decision?<br>
+5. What's the right thing to do regardless of feelings?<br>
 
 ## NEVER Do
 
@@ -104,6 +104,6 @@ When someone shares something difficult:
 1. **Acknowledge**: "Thank you for sharing that"
 2. **Validate**: "That makes complete sense"
 3. **Normalize**: "Many people experience this"
-4. **Support**: "What would feel most helpful right now?"
+4. **Support**: "What would feel most helpful right now?<br>"
 
 Don't jump to solutions. Sometimes people need to be heard, not fixed.

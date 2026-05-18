@@ -5,7 +5,7 @@
 
 ## 🎯 Stage 1: The Core Idea
 
-### What is Dilution?
+### What is Dilution?<br>
 
 Dilution is adding **more solvent** to an existing solution. The solute doesn't change — you're just spreading it through more liquid.
 
@@ -66,15 +66,15 @@ N₁V₁ = N₂V₂    (since N = n-factor × M, and n-factor doesn't change)
 
 ```
 V₁ and V₂ MUST be in the same units.
-Both in mL? Fine. Both in L? Fine. One in mL and one in L? ERROR!
+Both in mL?<br> Fine. Both in L?<br> Fine. One in mL and one in L?<br> ERROR!
 ```
 
-### What About Molality?
+### What About Molality?<br>
 
 ```
 ⚠️ M₁V₁ = M₂V₂ does NOT work for molality!
 
-Why? Because molality uses mass of solvent, not volume of solution.
+Why?<br> Because molality uses mass of solvent, not volume of solution.
 When you add water:
     - Volume of solution changes (used in molarity)
     - Mass of solvent ALSO changes (used in molality)
@@ -143,12 +143,12 @@ Answer: 0.4 M
 
 ---
 
-### Type 2: Reverse — "What volume of stock to take?"
+### Type 2: Reverse — "What volume of stock to take?<br>"
 
-**The Pattern:** You have a concentrated solution (stock) and need a diluted solution. How much stock do you take?
+**The Pattern:** You have a concentrated solution (stock) and need a diluted solution. How much stock do you take?<br>
 
 #### Solved Example 8.2
-**Q:** What volume of 6 M HCl is needed to prepare 500 mL of 0.5 M HCl? 🟡 ⭐
+**Q:** What volume of 6 M HCl is needed to prepare 500 mL of 0.5 M HCl?<br> 🟡 ⭐
 
 **Solution:**
 ```
@@ -168,10 +168,10 @@ Answer: 41.67 mL
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 8.2a | Volume of 18 M H₂SO₄ needed to make 1 L of 0.5 M H₂SO₄? ⭐ | 🟡 |
-| 8.2b | Volume of 15 M HNO₃ to make 250 mL of 3 M HNO₃? | 🟡 |
-| 8.2c | Volume of 12 M HCl to make 2 L of 0.1 M HCl? ⭐ | 🟡 |
-| 8.2d | You need 100 mL of 0.01 M KMnO₄. You have 0.1 M KMnO₄. How much? | 🟡 |
+| 8.2a | Volume of 18 M H₂SO₄ needed to make 1 L of 0.5 M H₂SO₄?<br> ⭐ | 🟡 |
+| 8.2b | Volume of 15 M HNO₃ to make 250 mL of 3 M HNO₃?<br> | 🟡 |
+| 8.2c | Volume of 12 M HCl to make 2 L of 0.1 M HCl?<br> ⭐ | 🟡 |
+| 8.2d | You need 100 mL of 0.01 M KMnO₄. You have 0.1 M KMnO₄. How much?<br> | 🟡 |
 
 <details>
 <summary>💡 Detailed Solutions for Type 2</summary>
@@ -198,10 +198,10 @@ Answer: 41.67 mL
 
 ### Type 3: Adding Water — Volume of Water Added
 
-**The Pattern:** "How much water was added?" = V₂ − V₁
+**The Pattern:** "How much water was added?<br>" = V₂ − V₁
 
 #### Solved Example 8.3
-**Q:** 200 mL of 3 M NaCl is diluted to 1 M by adding water. How much water was added? 🟢
+**Q:** 200 mL of 3 M NaCl is diluted to 1 M by adding water. How much water was added?<br> 🟢
 
 **Solution:**
 ```
@@ -222,9 +222,9 @@ Answer: 400 mL of water was added.
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 8.3a | 100 mL of 5 M HCl diluted to 2 M. How much water added? | 🟢 |
-| 8.3b | 500 mL of 0.2 M NaOH diluted to 0.05 M. Volume of water added? | 🟡 |
-| 8.3c | 50 mL of 10 M H₂SO₄ needs to become 1 M. Water needed? | 🟡 |
+| 8.3a | 100 mL of 5 M HCl diluted to 2 M. How much water added?<br> | 🟢 |
+| 8.3b | 500 mL of 0.2 M NaOH diluted to 0.05 M. Volume of water added?<br> | 🟡 |
+| 8.3c | 50 mL of 10 M H₂SO₄ needs to become 1 M. Water needed?<br> | 🟡 |
 
 <details>
 <summary>💡 Detailed Solutions for Type 3</summary>
@@ -281,8 +281,10 @@ Two 10× dilutions = 100× total dilution: 10 M → 0.1 M ✅
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 8.4a | 5 mL of 6 M HCl → diluted to 50 mL (A). 5 mL of A → diluted to 50 mL (B). Find M_B. | 🟡 |
-| 8.4b | Three successive 2× dilutions on a 8 M solution. Final molarity? | 🟡 |
+| 8.4a | 5 mL of 6 M HCl → diluted to 50 mL <br>
+(A). 5 mL of A → diluted to 50 mL <br>
+(B). Find M_B. | 🟡 |
+| 8.4b | Three successive 2× dilutions on a 8 M solution. Final molarity?<br> | 🟡 |
 | 8.4c | You need a 10⁻⁵ M solution from 0.1 M stock. Design a serial dilution protocol (suggest number of steps and volumes). | 🔴 |
 
 <details>
@@ -347,7 +349,7 @@ Answer: Take 54.35 mL of conc. H₂SO₄ and dilute to 1 L.
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 8.5c | A lab needs 250 mL of 2 M H₂SO₄. How much conc. H₂SO₄ (98%, d=1.84)? | 🟡 |
+| 8.5c | A lab needs 250 mL of 2 M H₂SO₄. How much conc. H₂SO₄ (98%, d=1.84)?<br> | 🟡 |
 
 <details>
 <summary>💡 Detailed Solutions for Type 5</summary>
@@ -397,7 +399,7 @@ Answer: 0.5 M
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 8.6d | Why can't you use this method to concentrate an ethanol-water solution? | 🟡 |
+| 8.6d | Why can't you use this method to concentrate an ethanol-water solution?<br> | 🟡 |
 
 <details>
 <summary>💡 Detailed Solutions for Type 6</summary>
@@ -430,7 +432,7 @@ Answer: 0.5 M
 **The Pattern:** Understanding why the dilution formula doesn't apply to molality.
 
 #### Solved Example 8.7
-**Q:** Explain why M₁V₁ = M₂V₂ cannot be used for molality. What is the correct approach? 🟡
+**Q:** Explain why M₁V₁ = M₂V₂ cannot be used for molality. What is the correct approach?<br> 🟡
 
 **Solution:**
 ```
@@ -492,10 +494,10 @@ Example:
 
 ### Type 8: Percentage Change in Concentration on Dilution
 
-**The Pattern:** By what percentage did the concentration decrease?
+**The Pattern:** By what percentage did the concentration decrease?<br>
 
 #### Solved Example 8.8
-**Q:** 100 mL of 2 M HCl is diluted to 400 mL. By what percentage did the molarity decrease? 🟡
+**Q:** 100 mL of 2 M HCl is diluted to 400 mL. By what percentage did the molarity decrease?<br> 🟡
 
 **Solution:**
 ```
@@ -517,7 +519,7 @@ Alternatively: Dilution factor = V₂/V₁ = 400/100 = 4×
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 8.8c | After a 5× dilution, the concentration is 0.3 M. What was the original M? | 🟢 |
+| 8.8c | After a 5× dilution, the concentration is 0.3 M. What was the original M?<br> | 🟢 |
 
 <details>
 <summary>💡 Detailed Solutions for Type 8</summary>
@@ -548,7 +550,7 @@ Alternatively: Dilution factor = V₂/V₁ = 400/100 = 4×
 
 | # | Question | Types Used | Difficulty |
 |---|----------|------------|------------|
-| 8.M4 | 100 mL of 0.5 N H₂SO₄ is diluted to 500 mL. (a) Find new N. (b) Convert to M. (c) What volume of this diluted solution neutralises 25 mL of 0.1 N NaOH? | T1 + Ch7-T2 + Ch7-T5 | 🟡 |
+| 8.M4 | 100 mL of 0.5 N H₂SO₄ is diluted to 500 mL. (a) Find new N. (b) Convert to M. (c) What volume of this diluted solution neutralises 25 mL of 0.1 N NaOH?<br> | T1 + Ch7-T2 + Ch7-T5 | 🟡 |
 
 <details>
 <summary>💡 Detailed Solutions for Type Mixer</summary>
@@ -589,7 +591,7 @@ Alternatively: Dilution factor = V₂/V₁ = 400/100 = 4×
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 8.B3 | What volume of 12.1 M HCl must be diluted to get 1 L of 1 M HCl for a lab experiment? ⭐ | 🟡 |
+| 8.B3 | What volume of 12.1 M HCl must be diluted to get 1 L of 1 M HCl for a lab experiment?<br> ⭐ | 🟡 |
 
 <details>
 <summary>💡 Detailed Solutions for Board Arsenal</summary>

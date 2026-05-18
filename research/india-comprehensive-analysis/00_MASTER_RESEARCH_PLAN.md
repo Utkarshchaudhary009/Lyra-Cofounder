@@ -13,7 +13,7 @@
 - [x] 1. Define "Freebie Politics" in the Indian context (electricity, cash transfers, laptops).
 - [x] 2. List top 10 Indian states with highest spending on freebies vs. revenue.
 - [x] 3. Analyze the debt-to-GDP ratio of these specific states.
-- [x] 4. Search for "Opportunity Cost of Freebies" - what infrastructure was NOT built?
+- [x] 4. Search for "Opportunity Cost of Freebies" - what infrastructure was NOT built?<br>
 - [x] 5. Investigate "revdi culture" debates in Supreme Court of India.
 - [x] 6. Compare state budget allocations: Capital Expenditure (Capex) vs. Welfare Handouts.
 - [ ] 7. Case study: The financial collapse of a specific state electricity board due to subsidies.
@@ -37,7 +37,7 @@
 - [x] 1. Search for "India per capita income growth rate (real terms)" last 10 years.
 - [x] 2. Compare rural wage growth vs. rural inflation (2015-2025).
 - [x] 3. Analyze "K-shaped recovery" data post-pandemic.
-- [x] 4. Data on entry-level IT salaries: Have they changed in the last 15 years?
+- [x] 4. Data on entry-level IT salaries: Have they changed in the last 15 years?<br>
 - [x] 5. Search for "median income vs. average income India" (wealth inequality check).
 - [x] 6. Investigate "Gig economy earnings per hour" trends (delivery, ride-share).
 - [x] 7. Analyze impact of GST on small business owner incomes.
@@ -50,7 +50,7 @@
 - [x] 2. Analyze "Two-wheeler sales data India" (proxy for lower-middle class health).
 - [x] 3. Investigate entry-level car sales trends (Maruti Alto/800 segment).
 - [x] 4. Search for "Mobile phone replacement cycle duration" increasing.
-- [x] 5. Data on "Household savings rate India" (lowest in decades?).
+- [x] 5. Data on "Household savings rate India" (lowest in decades?<br>).
 - [x] 6. Analyze credit card default rates and "Buy Now Pay Later" bad loans.
 - [x] 7. Search for "inventory buildup" in affordable housing sector.
 - [x] 8. Compare luxury goods consumption vs. mass market consumption.
@@ -78,7 +78,7 @@
 - [x] 6. Investigate "Government recruitment exam delays" (Railways, SSC).
 - [x] 7. Search for "Underemployment" definitions and statistics in India.
 - [x] 8. Analyze impact of AI/Automation on Indian BPO sector jobs.
-- [x] 9. Investigate "Demographic Dividend" deadline (when does the window close?).
+- [x] 9. Investigate "Demographic Dividend" deadline (when does the window close?<br>).
 - [x] 10. Synthesize: The broken link between GDP growth and job creation.
 
 ### Phase 7: The Cycle Closure (No Jobs -> No Income)
@@ -131,7 +131,7 @@
 
 ---
 
-## 👥 THEME 2: DEMOGRAPHICS (Asset or Liability?)
+## 👥 THEME 2: DEMOGRAPHICS (Asset or Liability?<br>)
 *Focus: The population explosion meeting resource scarcity.*
 
 ### Phase 11: Population Quality vs. Quantity
@@ -144,7 +144,7 @@
 - [x] 7. Search for "Drug addiction rates" in border states (Punjab, etc.).
 - [x] 8. Analyze "Water availability per capita" decline.
 - [x] 9. Investigate "Housing shortage" urban slums growth.
-- [x] 10. Synthesize: When does a human become a liability?
+- [x] 10. Synthesize: When does a human become a liability?<br>
 
 ### Phase 12: The Aging Crisis (Before Getting Rich)
 - [x] 1. Search for "India aging population projections 2050".
@@ -184,14 +184,14 @@
 
 ### Phase 15: The Brain Drain (Exodus of Capability)
 - [x] 1. Search for statistics on "Indian students studying abroad" (Year on Year).
-- [x] 2. Analyze "Return rate of students" (do they come back?).
+- [x] 2. Analyze "Return rate of students" (do they come back?<br>).
 - [x] 3. Investigate "H1B visa dependence".
 - [x] 4. Search for "Investment migration" (Golden Visas).
 - [x] 5. Analyze reasons for leaving: "Quality of Life" vs "Income".
 - [x] 6. Investigate "Taxpayer base shrinking".
 - [x] 7. Search for "Tech talent shortage" despite millions of grads.
 - [x] 8. Analyze "Medical students going to Ukraine/China/Philippines".
-- [x] 9. Investigate "Remittances" (are they used for consumption or investment?).
+- [x] 9. Investigate "Remittances" (are they used for consumption or investment?<br>).
 - [x] 10. Synthesize: Losing the cream, keeping the sediment.
 
 ---
@@ -219,7 +219,7 @@
 - [x] 5. Analyze "Corporate debt deleveraging" trends.
 - [x] 6. Investigate "Electoral bonds data" (Corporate-Political nexus).
 - [x] 7. Search for "Media ownership" by large conglomerates.
-- [x] 8. Analyze "Startups acquisition" by big players (killing competition?).
+- [x] 8. Analyze "Startups acquisition" by big players (killing competition?<br>).
 - [x] 9. Investigate "Predatory pricing" allegations.
 - [x] 10. Synthesize: The risks of an oligopolistic economy.
 
@@ -228,12 +228,12 @@
 - [x] 2. Analyze "Retail loan bubble" (Personal loans/Credit cards).
 - [x] 3. Investigate "PSU Bank privatization" status.
 - [x] 4. Search for "Shadow banking (NBFC) crisis" history.
-- [x] 5. Analyze "Bond market depth" in India (why is it shallow?).
+- [x] 5. Analyze "Bond market depth" in India (why is it shallow?<br>).
 - [x] 6. Investigate "Rupee depreciation" history vs USD.
 - [x] 7. Search for "Crypto regulation" confusion and talent loss.
 - [x] 8. Analyze "Financial literacy rates".
 - [x] 9. Investigate "LIC exposure to Adani/PSUs".
-- [x] 10. Synthesize: Is the financial system robust or propped up?
+- [x] 10. Synthesize: Is the financial system robust or propped up?<br>
 
 ### Phase 19: Ease of Doing Business (Reality vs Ranking)
 - [x] 1. Search for "Number of days to enforce a contract India".
@@ -242,7 +242,7 @@
 - [x] 4. Search for "Cost of electricity for industry" (cross-subsidizing agriculture).
 - [x] 5. Analyze "Corruption perception index" business section.
 - [x] 6. Investigate "Single window clearance" effectiveness.
-- [x] 7. Search for "Labor law reforms" status (implemented or stalled?).
+- [x] 7. Search for "Labor law reforms" status (implemented or stalled?<br>).
 - [x] 8. Analyze "Tax dispute pending cases".
 - [x] 9. Investigate "Closing a business" (Bankruptcy code performance).
 - [x] 10. Synthesize: Why it's easy to start but hard to survive.
@@ -257,7 +257,7 @@
 - [x] 7. Search for "Insider trading" and "Front running" cases reported by SEBI.
 - [x] 8. Analyze "Valuation of Indian tech startups" (The markdown reality).
 - [x] 9. Investigate "Dividends vs Re-investment" in Indian corporate sector.
-- [x] 10. Synthesize: Is the stock market a bubble or a true reflection?
+- [x] 10. Synthesize: Is the stock market a bubble or a true reflection?<br>
 
 ---
 
@@ -298,7 +298,7 @@
 - [ ] 7. Search for "Indian diaspora" influence vs backlash (e.g., Canada).
 - [ ] 8. Analyze "UN Security Council seat" blocks.
 - [ ] 9. Investigate "Climate change compensation" demands.
-- [ ] 10. Synthesize: Alone in a polarized world?
+- [ ] 10. Synthesize: Alone in a polarized world?<br>
 
 ### Phase 24: Internal Security & Fault Lines
 - [ ] 1. Search for "Naxalite/Maoist influence" current map.
@@ -322,7 +322,7 @@
 - [ ] 7. Search for "Defense budget as % of GDP" trend.
 - [ ] 8. Analyze "Corruption in defense deals" history.
 - [ ] 9. Investigate "Submarine fleet" aging crisis.
-- [ ] 10. Synthesize: Are we ready for a two-front war?
+- [ ] 10. Synthesize: Are we ready for a two-front war?<br>
 
 ---
 
@@ -334,7 +334,7 @@
 - [ ] 2. Analyze "Oil import bill" volatility.
 - [ ] 3. Investigate "Power distribution companies (DISCOM) losses".
 - [ ] 4. Search for "Grid collapse" risks.
-- [ ] 5. Analyze "Nuclear power capacity" growth (slow?).
+- [ ] 5. Analyze "Nuclear power capacity" growth (slow?<br>).
 - [ ] 6. Investigate "Solar target vs achievement" reality.
 - [ ] 7. Search for "EV infrastructure" gaps.
 - [ ] 8. Analyze "Strategic petroleum reserves" capacity.
@@ -354,7 +354,7 @@
 - [ ] 10. Synthesize: Thirsty nation, drying future.
 
 ### Phase 28: Transport Infrastructure (Roads, Rail, Ports)
-- [ ] 1. Search for "Road accident deaths India" (highest in world?).
+- [ ] 1. Search for "Road accident deaths India" (highest in world?<br>).
 - [ ] 2. Analyze "Railway safety record" (derailments).
 - [ ] 3. Investigate "Pothole deaths" statistics.
 - [ ] 4. Search for "Port turnaround time" vs China/Singapore.
@@ -363,7 +363,7 @@
 - [ ] 7. Search for "Bridge collapse" incidents.
 - [ ] 8. Analyze "Air traffic congestion".
 - [ ] 9. Investigate "Urban metro profitability".
-- [ ] 10. Synthesize: Building fast, maintaining poorly?
+- [ ] 10. Synthesize: Building fast, maintaining poorly?<br>
 
 ### Phase 29: Digital Infrastructure & Risks
 - [ ] 1. Search for "Internet shutdowns economic cost".
@@ -522,7 +522,7 @@
 ---
 
 ## 📈 THEME 8: SCENARIO PLANNING (Future Paths)
-*Focus: Where does this lead?*
+*Focus: Where does this lead?<br>*
 
 ### Phase 41: Scenario A - The Middle Income Trap
 - [ ] 1. Define "Middle Income Trap".
@@ -534,7 +534,7 @@
 - [ ] 7. Predict social consequences.
 - [ ] 8. Predict geopolitical standing.
 - [ ] 9. Predict impact on common man.
-- [ ] 10. Synthesize: The most likely outcome?
+- [ ] 10. Synthesize: The most likely outcome?<br>
 
 ### Phase 42: Scenario B - The Demographic Disaster
 - [ ] 1. Assume "Jobless growth" continues.
@@ -549,7 +549,7 @@
 - [ ] 10. Synthesize: The worst-case nightmare.
 
 ### Phase 43: Scenario C - The Miracle Turnaround
-- [ ] 1. Identify "What needs to go right?".
+- [ ] 1. Identify "What needs to go right?<br>".
 - [ ] 2. Analyze potential for "Manufacturing boom".
 - [ ] 3. Investigate "Service sector export" growth limits.
 - [ ] 4. Predict impact of "Education overhaul".
@@ -589,7 +589,7 @@
 ## 🧪 THEME 9: SPECIFIC SECTORAL ROT
 *Focus: Deep dive into failing pillars.*
 
-### Phase 46: The Power Sector (Darkness Ahead?)
+### Phase 46: The Power Sector (Darkness Ahead?<br>)
 - [ ] 1. Analyze "AT&C losses" (Theft/Leakage).
 - [ ] 2. Investigate "State subsidy dues".
 - [ ] 3. Search for "Coal supply bottlenecks".
@@ -603,9 +603,9 @@
 
 ### Phase 47: The Telecom Cartel
 - [ ] 1. Analyze "AGR dues" controversy.
-- [ ] 2. Investigate "BSNL decline" deliberate or incompetent?
+- [ ] 2. Investigate "BSNL decline" deliberate or incompetent?<br>
 - [ ] 3. Search for "Spectrum auction" analysis.
-- [ ] 4. Analyze "Data cost" trends (rising?).
+- [ ] 4. Analyze "Data cost" trends (rising?<br>).
 - [ ] 5. Investigate "Quality of service" (Call drops).
 - [ ] 6. Search for "Monopoly risk" (Jio/Airtel).
 - [ ] 7. Analyze "5G monetization" struggles.
@@ -681,14 +681,14 @@
 ### Phase 53: The Leadership Factor
 - [ ] 1. Analyze "Vision vs Reality" gap.
 - [ ] 2. Investigate "Implementation capability".
-- [ ] 3. Analyze "Feedback loops" (Does govt listen?).
+- [ ] 3. Analyze "Feedback loops" (Does govt listen?<br>).
 - [ ] 4. Search for "Expert consultation" frequency.
 - [ ] 5. Analyze "accountability" mechanisms.
 - [ ] 6. Investigate "Short-termism" in policy.
 - [ ] 7. Search for "Personality cult" risks.
 - [ ] 8. Analyze "Succession planning".
 - [ ] 9. Investigate "Coalition politics" future.
-- [ ] 10. Synthesize: Steering the ship or drifting?
+- [ ] 10. Synthesize: Steering the ship or drifting?<br>
 
 ### Phase 54: The Global Context (Relative Decline)
 - [ ] 1. Compare India vs Vietnam (Manufacturing).
@@ -712,7 +712,7 @@
 - [ ] 7. Search for "China Plus One" opportunity reality.
 - [ ] 8. Analyze "Young population" adaptability.
 - [ ] 9. Investigate "Cultural resilience".
-- [ ] 10. Synthesize: Are these enough to save the ship?
+- [ ] 10. Synthesize: Are these enough to save the ship?<br>
 
 ### Phase 56: Final Verdict - The Economic Trap
 - [ ] 1. Summarize "Freebie -> No Skill" evidence.

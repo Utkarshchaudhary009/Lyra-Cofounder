@@ -8,7 +8,7 @@
 *   **The Flaw:** Design flaws, lack of fencing (stray cattle), and poor discipline turn these speedways into death traps.
 *   **The Result:** We have world-class tarmac but third-world safety culture.
 
-## 3. Railways: Safer but Slower?
+## 3. Railways: Safer but Slower?<br>
 *   **The Improvement:** Train accidents dropped to just 31 in 2024-25 (a huge improvement).
 *   **The Issue:** While safety is up, the "Average Speed" of goods trains is still slow (~25-30 km/h).
 *   **The Capacity:** Passenger trains are dangerously overcrowded (General coaches are a nightmare), showing we haven't built enough capacity for the population.

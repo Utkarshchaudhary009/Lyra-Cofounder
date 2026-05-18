@@ -1,7 +1,7 @@
 # RESEARCH REPORT: PHASE 23 (2010-2011 Price Explosion)
 
 ## 1. Phase Overview: The Hook & The Thesis
-**The Silver Mystery:** In April 2011, silver touched $49.50 per ounce, nearing its all-time high from 1980. The world was on the brink of a "Silver Squeeze" that would have bankrupted the largest bullion banks on Wall Street. But in a matter of days, the price collapsed by 30%. This wasn't a natural market correction. It was a precision strike. Why did the exchange regulators change the rules *five times* in nine days? And why did the CFTC ignore a whistleblower who predicted the exact timing of the price smashes?
+**The Silver Mystery:** In April 2011, silver touched $49.50 per ounce, nearing its all-time high from 1980. The world was on the brink of a "Silver Squeeze" that would have bankrupted the largest bullion banks on Wall Street. But in a matter of days, the price collapsed by 30%. This wasn't a natural market correction. It was a precision strike. Why did the exchange regulators change the rules *five times* in nine days?<br> And why did the CFTC ignore a whistleblower who predicted the exact timing of the price smashes?<br>
 
 **The Thesis:** The 2010-2011 era was the "Failed Revolution." It was the moment when the physical market almost broke the paper suppression scheme. Retail investors, armed with the internet and viral campaigns, drained the wholesale silver supply, forcing the market into backwardation. To save the "Too Big To Fail" banks from a catastrophic default, the regulatory bodies (CME, CFTC) intervened not to protect the public, but to protect the manipulators. This era proves that in the silver market, the "House" changes the rules whenever the "Players" start winning.
 
@@ -127,62 +127,62 @@ The banks covered their shorts. The regulators closed their investigation. The r
 ---
 
 ## 6. COMPREHENSION CHECK (Critical Thinking)
-1. **Q:** Why did the CME raise margin requirements 5 times in 2011?
+1. **Q:** Why did the CME raise margin requirements 5 times in 2011?<br>
    **A:** To force leveraged buyers to sell their positions, crashing the price to save the short-sellers (banks).
    **C:** Regulation is often a tool of suppression.
 
-2. **Q:** What did J.P. Morgan do while serving as the custodian for SLV?
+2. **Q:** What did J.P. Morgan do while serving as the custodian for SLV?<br>
    **A:** They held a massive short position against silver, creating a direct conflict of interest.
    **C:** Never trust the fox to guard the henhouse.
 
-3. **Q:** How did Andrew Maguire know the price would crash on Feb 5, 2010?
+3. **Q:** How did Andrew Maguire know the price would crash on Feb 5, 2010?<br>
    **A:** He identified the algorithmic "signals" used by J.P. Morgan to trigger a sell-off.
    **C:** The market is scripted, not random.
 
-4. **Q:** What is "Backwardation" and why is it scary for banks?
+4. **Q:** What is "Backwardation" and why is it scary for banks?<br>
    **A:** It means there is a physical shortage. If banks can't deliver the metal, the whole paper scam collapses.
    **C:** It’s the "Game Over" signal.
 
-5. **Q:** Why did Max Keiser tell people to buy physical silver?
+5. **Q:** Why did Max Keiser tell people to buy physical silver?<br>
    **A:** To drain the vaults and force J.P. Morgan to cover their naked shorts.
    **C:** Physical possession is the only vote that counts.
 
-6. **Q:** Did the CFTC ever arrest anyone for the 2010 manipulation?
+6. **Q:** Did the CFTC ever arrest anyone for the 2010 manipulation?<br>
    **A:** No. They closed the investigation in 2013 claiming "no evidence," despite the whistleblower.
    **C:** Justice is selective.
 
-7. **Q:** What happened to silver prices on the night Bin Laden died?
+7. **Q:** What happened to silver prices on the night Bin Laden died?<br>
    **A:** They crashed $6 in 10 minutes during illiquid trading hours.
    **C:** News events are used as cover for price rigging.
 
-8. **Q:** Why is "Spoofing" illegal?
+8. **Q:** Why is "Spoofing" illegal?<br>
    **A:** Because it creates a fake impression of supply or demand to trick other traders.
    **C:** Yet J.P. Morgan did it tens of thousands of times.
 
-9. **Q:** What was China's role in the 2011 market?
+9. **Q:** What was China's role in the 2011 market?<br>
    **A:** They restricted exports and encouraged domestic buying, tightening global supply.
    **C:** The East is playing a long game.
 
-10. **Q:** Why did Eric Sprott launch PSLV?
+10. **Q:** Why did Eric Sprott launch PSLV?<br>
     **A:** To offer a "Fully Allocated" alternative to the questionable SLV ETF.
     **C:** Trust is the most valuable asset.
 
-11. **Q:** What is "Regulatory Capture"?
+11. **Q:** What is "Regulatory Capture"?<br>
     **A:** When the agencies meant to police the banks end up protecting them instead.
     **C:** The revolving door between DC and Wall Street.
 
-12. **Q:** Why did silver crash harder than gold in the correction?
+12. **Q:** Why did silver crash harder than gold in the correction?<br>
     **A:** Because silver is a smaller market and easier to manipulate with margin hikes.
     **C:** Silver is the "Devil's Metal."
 
-13. **Q:** What is a "Commercial Short"?
+13. **Q:** What is a "Commercial Short"?<br>
     **A:** A short position held by a bank (like JPM) supposedly for hedging, but often for speculation.
     **C:** They are the "Whales" of the COMEX.
 
-14. **Q:** Did the 2011 squeeze succeed?
+14. **Q:** Did the 2011 squeeze succeed?<br>
     **A:** It failed to break the banks, but it exposed the rigging to the world.
     **C:** You can kill the revolutionary, but you can't kill the revolution.
 
-15. **Q:** What is the lesson of 2011?
+15. **Q:** What is the lesson of 2011?<br>
     **A:** If you don't hold it, you don't own it. Paper promises can be cancelled by rule changes.
     **C:** Physical metal is the only true wealth.

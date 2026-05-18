@@ -19,7 +19,7 @@ This document explains the housing market distortion using 2024 inventory and sa
 ## 3. Black Money's Parking Lot
 *   **The Mechanism:** Real estate absorbs huge amounts of illicit cash.
 *   **Price Stickiness:** Despite 5.5 lakh unsold units, prices *rose* by 10-24% in 2024.
-*   **Why?** Investors (politicians/businessmen) can afford to hold empty flats for years, artificially restricting supply to keep prices high.
+*   **Why?<br>** Investors (politicians/businessmen) can afford to hold empty flats for years, artificially restricting supply to keep prices high.
 
 ## 4. The Builder Insolvency Crisis
 *   **The Legacy:** Thousands of homebuyers (Jaypee/Amrapali cases) are still waiting for flats booked 10 years ago.

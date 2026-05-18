@@ -2,16 +2,16 @@
 *The Playbook for Ownership, Storage, and Exit*
 
 ## Introduction
-Knowing the history and the physics of silver is intellectual entertainment. Owning it is financial survival. This phase moves from theory to practice. It answers the critical questions: What should I buy? Where should I put it? How do I sell it without getting wrecked by taxes or premiums?
+Knowing the history and the physics of silver is intellectual entertainment. Owning it is financial survival. This phase moves from theory to practice. It answers the critical questions: What should I buy?<br> Where should I put it?<br> How do I sell it without getting wrecked by taxes or premiums?<br>
 
 ## 1. What to Buy: The Hierarchy of Metal
 Not all silver is created equal.
 *   **For Barter & Survival (SHTF):** Buy **"Junk Silver"** (Pre-1965 US Dimes, Quarters, Half-Dollars).
-    *   *Why?* Everyone recognizes them. They are 90% silver. They are fractional (small change). You can buy a loaf of bread with a mercury dime; you can't buy it with a 100oz bar.
+    *   *Why?<br>* Everyone recognizes them. They are 90% silver. They are fractional (small change). You can buy a loaf of bread with a mercury dime; you can't buy it with a 100oz bar.
 *   **For Wealth Preservation:** Buy **Sovereign Coins** (American Eagles, Canadian Maples).
-    *   *Why?* They are the most liquid. In a crisis, a dealer will buy a Maple Leaf instantly. A generic "round" might need to be tested or assayed first.
+    *   *Why?<br>* They are the most liquid. In a crisis, a dealer will buy a Maple Leaf instantly. A generic "round" might need to be tested or assayed first.
 *   **For Pure Weight:** Buy **10oz or 100oz Bars**.
-    *   *Why?* Lowest premiums. You get the most silver for your dollar. Avoid 1,000oz bars unless you are an institution; they are hard to sell quickly.
+    *   *Why?<br>* Lowest premiums. You get the most silver for your dollar. Avoid 1,000oz bars unless you are an institution; they are hard to sell quickly.
 
 ## 2. Avoiding Fakes: The "Alibaba" Threat
 Counterfeit silver is flooding the market.

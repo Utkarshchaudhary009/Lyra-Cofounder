@@ -199,32 +199,32 @@ The Depression-era silver suppression represents perhaps the most sophisticated 
 
 ## 15 Comprehension Questions
 
-1. What was the historical silver/gold ratio before the Great Depression compared to during the Depression?
+1. What was the historical silver/gold ratio before the Great Depression compared to during the Depression?<br>
 
-2. How did the US government's abandonment of the gold standard in 1933 relate to silver policy?
+2. How did the US government's abandonment of the gold standard in 1933 relate to silver policy?<br>
 
-3. Why was China initially protected from the worst of the Great Depression?
+3. Why was China initially protected from the worst of the Great Depression?<br>
 
-4. What specific legislation allowed the US Treasury to systematically purchase silver?
+4. What specific legislation allowed the US Treasury to systematically purchase silver?<br>
 
-5. How did the dual monetary system work under FDR's silver policy?
+5. How did the dual monetary system work under FDR's silver policy?<br>
 
-6. What was the direct impact of US silver purchases on China's economy?
+6. What was the direct impact of US silver purchases on China's economy?<br>
 
-7. How did Asian markets respond to US silver purchase policies?
+7. How did Asian markets respond to US silver purchase policies?<br>
 
-8. What industrial applications made silver strategically important during this period?
+8. What industrial applications made silver strategically important during this period?<br>
 
-9. How did war needs affect government control of silver markets?
+9. How did war needs affect government control of silver markets?<br>
 
-10. What evidence suggests Depression-era silver manipulation was deliberate policy rather than market forces?
+10. What evidence suggests Depression-era silver manipulation was deliberate policy rather than market forces?<br>
 
-11. How did silver certificate issuance and redemption create artificial market conditions?
+11. How did silver certificate issuance and redemption create artificial market conditions?<br>
 
-12. What was the progression of silver/gold ratios from 1930 to 1940?
+12. What was the progression of silver/gold ratios from 1930 to 1940?<br>
 
-13. How did government hoarding of silver affect industrial production?
+13. How did government hoarding of silver affect industrial production?<br>
 
-14. What historical patterns established during this period continue in modern precious metals markets?
+14. What historical patterns established during this period continue in modern precious metals markets?<br>
 
-15. How does the Depression-era silver suppression illustrate the relationship between government power and economic markets?
+15. How does the Depression-era silver suppression illustrate the relationship between government power and economic markets?<br>

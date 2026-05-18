@@ -15,16 +15,16 @@ Imagine charge as water.
 
 | Property | Conductor | Insulator |
 |----------|-----------|-----------|
-| Free electrons? | Yes — ~10²⁸ per m³ | No (electrons bound to atoms) |
-| Charge flows through? | Yes, easily | No |
-| Charge stays where placed? | No — distributes over surface | Yes — stays put |
+| Free electrons?<br> | Yes — ~10²⁸ per m³ | No (electrons bound to atoms) |
+| Charge flows through?<br> | Yes, easily | No |
+| Charge stays where placed?<br> | No — distributes over surface | Yes — stays put |
 | Examples | Metals, human body, Earth | Glass, rubber, mica, wood |
 
 > 💡 **Semiconductors** (silicon, germanium) are in-between — their conductivity can be controlled. Not relevant for this chapter, but crucial in Chapter 14.
 
 ### Three Methods of Charging
 
-| Method | Requires Contact? | Charge Type | Key Idea |
+| Method | Requires Contact?<br> | Charge Type | Key Idea |
 |--------|:-----------------:|:-----------:|----------|
 | **Friction (rubbing)** | Yes | Opposite on each body | Electrons transfer at contact surface |
 | **Conduction (touching)** | Yes | Same as source | Free electrons flow from charged → neutral |
@@ -99,18 +99,18 @@ For an isolated conductor:
 **Practice:**
 
 1. 🟢 Classify: Ebonite, aluminium, distilled water, tap water, mica, graphite.
-2. 🟢 Why is the human body a conductor but dry wood is not?
-3. 🟡 Is pure silicon a conductor or insulator? Why is it called a semiconductor?
+2. 🟢 Why is the human body a conductor but dry wood is not?<br>
+3. 🟡 Is pure silicon a conductor or insulator?<br> Why is it called a semiconductor?<br>
 
 ---
 
 ### Type 2: Predict the charge after induction ⭐
 
-**Pattern:** "A charged rod is brought near a neutral conductor. What charge appears on each side?"
+**Pattern:** "A charged rod is brought near a neutral conductor. What charge appears on each side?<br>"
 
 **Solved Example** 🟢
 
-> A negatively charged rod is brought near a neutral metal sphere without touching. What charges appear on the near and far side of the sphere?
+> A negatively charged rod is brought near a neutral metal sphere without touching. What charges appear on the near and far side of the sphere?<br>
 
 **Solution:**
 - The negative rod **repels** free electrons in the sphere away from itself.
@@ -120,9 +120,9 @@ For an isolated conductor:
 
 **Practice:**
 
-1. 🟢 A positively charged glass rod is brought near a neutral aluminium can. What charges appear on the near and far surfaces? *(Ans: near = negative, far = positive)*
-2. 🟡 In the above, if the can is grounded while the rod is near, and then the ground is removed before the rod is removed, what is the final charge on the can? *(Ans: negative)*
-3. 🟡 What happens if you remove the rod *before* removing the ground? *(Ans: no net charge — electrons that came from ground return to ground)*
+1. 🟢 A positively charged glass rod is brought near a neutral aluminium can. What charges appear on the near and far surfaces?<br> *(Ans: near = negative, far = positive)*
+2. 🟡 In the above, if the can is grounded while the rod is near, and then the ground is removed before the rod is removed, what is the final charge on the can?<br> *(Ans: negative)*
+3. 🟡 What happens if you remove the rod *before* removing the ground?<br> *(Ans: no net charge — electrons that came from ground return to ground)*
 
 ---
 
@@ -147,9 +147,9 @@ For an isolated conductor:
 
 **Practice:**
 
-1. 🟡 How would you charge a sphere negatively using a positive rod by induction? Describe all steps.
-2. 🟡 Can you charge an insulator by induction? Explain why or why not. *(Ans: No — free charges cannot redistribute in an insulator)*
-3. 🔴 Two metal spheres A and B are placed touching each other. A positive rod is brought near A (not touching). Then A and B are separated, and the rod is removed. What is the charge on each sphere?
+1. 🟡 How would you charge a sphere negatively using a positive rod by induction?<br> Describe all steps.
+2. 🟡 Can you charge an insulator by induction?<br> Explain why or why not. *(Ans: No — free charges cannot redistribute in an insulator)*
+3. 🔴 Two metal spheres A and B are placed touching each other. A positive rod is brought near A (not touching). Then A and B are separated, and the rod is removed. What is the charge on each sphere?<br>
 
 <details>
 <summary><b>Answer to Q3</b></summary>
@@ -167,7 +167,7 @@ After rod removed: **A is negative, B is positive.**
 
 ---
 
-### Type 4: Why does a charged rod attract neutral pieces of paper? ⭐
+### Type 4: Why does a charged rod attract neutral pieces of paper?<br> ⭐
 
 **Pattern:** Conceptual explanation of attraction between charged and neutral bodies.
 
@@ -183,8 +183,8 @@ The charged comb **induces** charges in the paper. The molecules in the paper ge
 
 **Practice:**
 
-1. 🟢 Why does a charged rod attract both conductors and insulators?
-2. 🟡 A negatively charged balloon sticks to a neutral wall. Explain the mechanism. Is the wall a conductor or insulator? Does it matter?
+1. 🟢 Why does a charged rod attract both conductors and insulators?<br>
+2. 🟡 A negatively charged balloon sticks to a neutral wall. Explain the mechanism. Is the wall a conductor or insulator?<br> Does it matter?<br>
 3. 🟡 If you bring a charged rod near a suspended pith ball, it first gets attracted and then repelled after touching the rod. Explain.
 
 <details>
@@ -203,7 +203,7 @@ The charged comb **induces** charges in the paper. The molecules in the paper ge
 
 **Solved Example** 🟡
 
-> A positively charged rod is brought near the disc of an uncharged electroscope without touching. What happens to the gold leaves? What happens when the rod is removed?
+> A positively charged rod is brought near the disc of an uncharged electroscope without touching. What happens to the gold leaves?<br> What happens when the rod is removed?<br>
 
 **Solution:**
 - Rod near disc → induces negative charge on disc (near side), positive on leaves.
@@ -212,17 +212,17 @@ The charged comb **induces** charges in the paper. The molecules in the paper ge
 
 **Practice:**
 
-1. 🟢 If the rod touches the disc, what happens? *(Ans: leaves diverge permanently — charge transferred by conduction)*
-2. 🟡 The disc is grounded while the positive rod is near. Ground is removed, then rod is removed. What charge do the leaves have? *(Ans: negative — leaves diverge)*
-3. 🟡 How can you use an electroscope to determine the sign of an unknown charge?
+1. 🟢 If the rod touches the disc, what happens?<br> *(Ans: leaves diverge permanently — charge transferred by conduction)*
+2. 🟡 The disc is grounded while the positive rod is near. Ground is removed, then rod is removed. What charge do the leaves have?<br> *(Ans: negative — leaves diverge)*
+3. 🟡 How can you use an electroscope to determine the sign of an unknown charge?<br>
 
 ---
 
-### Type 6: Can you charge a conductor/insulator by these methods?
+### Type 6: Can you charge a conductor/insulator by these methods?<br>
 
 **Solved Example** 🟡
 
-> Can an insulator be charged by (a) friction, (b) conduction, (c) induction?
+> Can an insulator be charged by (a) friction, (b) conduction, (c) induction?<br>
 
 **Solution:**
 - (a) **Friction: Yes** — electrons transfer at contact. This is how you charge rubber, ebonite, etc.
@@ -231,8 +231,8 @@ The charged comb **induces** charges in the paper. The molecules in the paper ge
 
 **Practice:**
 
-1. 🟢 Why can metals not be easily charged by friction? *(Ans: charges flow away quickly through the body/ground)*
-2. 🟡 You rub a metal rod with silk while holding it with bare hands. Will the rod get charged? What if you hold it with a rubber glove?
+1. 🟢 Why can metals not be easily charged by friction?<br> *(Ans: charges flow away quickly through the body/ground)*
+2. 🟡 You rub a metal rod with silk while holding it with bare hands. Will the rod get charged?<br> What if you hold it with a rubber glove?<br>
 
 ---
 
@@ -249,9 +249,9 @@ After wire removed: Each sphere has +Q/2, distributed on outer surfaces.
 </details>
 
 **Q2.** 🔴 Two metal spheres on insulating stands are placed touching each other. A negative rod is brought near sphere A (left side). While the rod is in place:
-(a) What are the charges on A and B?
-(b) A wire connects B to Earth. What happens?
-(c) The wire is removed, then the spheres are separated, then the rod is removed. Final charges?
+(a) What are the charges on A and B?<br>
+(b) A wire connects B to Earth. What happens?<br>
+(c) The wire is removed, then the spheres are separated, then the rod is removed. Final charges?<br>
 
 <details>
 <summary><b>Solution</b></summary>
@@ -287,7 +287,7 @@ The Van de Graaff generator uses:
 | Property | Conductors | Insulators |
 |----------|-----------|-----------|
 | Free charge carriers | Have free electrons/ions | No free charge carriers |
-| Allow charge flow? | Yes | No |
+| Allow charge flow?<br> | Yes | No |
 | Examples | Copper, aluminium | Glass, rubber |
 </details>
 
@@ -315,7 +315,7 @@ The Van de Graaff generator uses:
 When the charged rod is brought near uncharged paper, it polarizes the paper molecules — inducing opposite charge on the near surface and similar charge on the far surface. Since the opposite charge is closer to the rod, the attractive force exceeds the repulsive force, resulting in a net attraction.
 </details>
 
-**Q4.** 🟢 Why must the grounding step come *before* removing the rod in charging by induction? *(2 marks)*
+**Q4.** 🟢 Why must the grounding step come *before* removing the rod in charging by induction?<br> *(2 marks)*
 
 <details>
 <summary><b>Model Answer</b></summary>

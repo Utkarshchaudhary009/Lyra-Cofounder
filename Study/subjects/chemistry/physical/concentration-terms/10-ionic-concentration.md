@@ -5,7 +5,7 @@
 
 ## 🎯 Stage 1: The Core Idea
 
-### What Happens When an Electrolyte Dissolves?
+### What Happens When an Electrolyte Dissolves?<br>
 
 When ionic compounds dissolve in water, they **dissociate** into their constituent ions. The concentration of each ion depends on the formula of the salt.
 
@@ -100,7 +100,7 @@ Answer: [Na⁺] = 0.1 M, [Cl⁻] = 0.1 M
 |---|----------|------------|
 | 10.1a | Find ion concentrations in 0.2 M KBr. | 🟢 |
 | 10.1b | Find ion concentrations in 0.05 M NaNO₃. | 🟢 |
-| 10.1d | If [Na⁺] = 0.3 M in a NaCl solution, what is [NaCl]? | 🟢 |
+| 10.1d | If [Na⁺] = 0.3 M in a NaCl solution, what is [NaCl]?<br> | 🟢 |
 
 <details>
 <summary>💡 Detailed Solutions for Type 1</summary>
@@ -263,7 +263,7 @@ Answer: [Al³⁺] = 0.2 M, [SO₄²⁻] = 0.3 M
 **The Pattern:** Sum of ALL ion concentrations.
 
 #### Solved Example 10.4
-**Q:** Which 0.1 M solution has the highest total ion concentration? (a) NaCl (b) CaCl₂ (c) Al₂(SO₄)₃ 🟡
+**Q:** Which 0.1 M solution has the highest total ion concentration?<br> (a) NaCl (b) CaCl₂ (c) Al₂(SO₄)₃ 🟡
 
 **Solution:**
 ```
@@ -286,7 +286,7 @@ Answer: Al₂(SO₄)₃ has the highest total ion concentration.
 | # | Question | Difficulty |
 |---|----------|------------|
 | 10.4a | Rank in order of increasing total ion concentration: 0.1 M glucose, 0.1 M NaCl, 0.1 M MgSO₄, 0.1 M AlCl₃. (Note: glucose doesn't dissociate!) ⭐ | 🟡 |
-| 10.4c | 0.05 M FeCl₃. Total particle concentration? (Including undissociated FeCl₃ if any — assuming strong electrolyte.) | 🟡 |
+| 10.4c | 0.05 M FeCl₃. Total particle concentration?<br> (Including undissociated FeCl₃ if any — assuming strong electrolyte.) | 🟡 |
 
 <details>
 <summary>💡 Detailed Solutions for Type 4</summary>
@@ -500,7 +500,7 @@ Answer: [Na⁺] = 0.2 M, [Cl⁻] = 0.067 M, [SO₄²⁻] = 0.067 M
 
 ---
 
-### Type 8: Precipitation — Will a Precipitate Form? (Ksp Preview) ⭐
+### Type 8: Precipitation — Will a Precipitate Form?<br> (Ksp Preview) ⭐
 
 **The Pattern:** When two electrolytes are mixed, an insoluble salt may form. Compare ionic product (Q) with Ksp.
 
@@ -514,7 +514,7 @@ If Q = Ksp → Saturated, at equilibrium
 ```
 
 #### Solved Example 10.8
-**Q:** 100 mL of 0.01 M BaCl₂ is mixed with 100 mL of 0.01 M Na₂SO₄. Will BaSO₄ precipitate? (Ksp of BaSO₄ = 1.1 × 10⁻¹⁰) 🟡 ⭐
+**Q:** 100 mL of 0.01 M BaCl₂ is mixed with 100 mL of 0.01 M Na₂SO₄. Will BaSO₄ precipitate?<br> (Ksp of BaSO₄ = 1.1 × 10⁻¹⁰) 🟡 ⭐
 
 **Solution:**
 ```
@@ -539,7 +539,7 @@ Answer: Yes, BaSO₄ precipitates (Q is about 10⁵ times larger than Ksp).
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 10.8c | Equal volumes of 0.01 M Pb(NO₃)₂ and 0.01 M KI. Will PbI₂ precipitate? (Ksp = 9.8 × 10⁻⁹, Q = [Pb²⁺][I⁻]²) ⭐ | 🔴 |
+| 10.8c | Equal volumes of 0.01 M Pb(NO₃)₂ and 0.01 M KI. Will PbI₂ precipitate?<br> (Ksp = 9.8 × 10⁻⁹, Q = [Pb²⁺][I⁻]²) ⭐ | 🔴 |
 
 <details>
 <summary>💡 Detailed Solutions for Type 8</summary>
@@ -603,7 +603,7 @@ Answer: [H⁺] = [CH₃COO⁻] = 1.3 × 10⁻³ M, [CH₃COOH] ≈ 0.099 M
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 10.9c | Why is the total ion concentration of 0.1 M acetic acid much less than that of 0.1 M HCl? | 🟡 |
+| 10.9c | Why is the total ion concentration of 0.1 M acetic acid much less than that of 0.1 M HCl?<br> | 🟡 |
 
 <details>
 <summary>💡 Detailed Solutions for Type 9</summary>
@@ -691,7 +691,7 @@ Charge balance:
 
 | # | Question | Types Used | Difficulty |
 |---|----------|------------|------------|
-| 10.M3 | Mix 100 mL of 0.1 M AgNO₃ with 100 mL of 0.2 M NaCl. (a) Find ion concentrations before reaction. (b) AgCl precipitates (Ksp = 1.8×10⁻¹⁰). Which is limiting? (c) Find concentrations of all remaining ions. | T5 + T8 + Ch9-T5 | 🔴 |
+| 10.M3 | Mix 100 mL of 0.1 M AgNO₃ with 100 mL of 0.2 M NaCl. (a) Find ion concentrations before reaction. (b) AgCl precipitates (Ksp = 1.8×10⁻¹⁰). Which is limiting?<br> (c) Find concentrations of all remaining ions. | T5 + T8 + Ch9-T5 | 🔴 |
 
 <details>
 <summary>💡 Detailed Solutions for Type Mixer</summary>

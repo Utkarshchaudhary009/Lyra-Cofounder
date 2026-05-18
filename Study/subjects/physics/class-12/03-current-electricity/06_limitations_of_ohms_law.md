@@ -55,7 +55,7 @@ $$R_{dynamic} = \frac{\Delta V}{\Delta I} = \frac{dV}{dI}$$
 
 **Solved Example** 🟢
 
-> The $V-I$ graph of a component is a straight line passing through the origin for voltages from $0\text{V}$ to $2\text{V}$, but bends towards the voltage axis for $V > 2\text{V}$. Is it ohmic?
+> The $V-I$ graph of a component is a straight line passing through the origin for voltages from $0\text{V}$ to $2\text{V}$, but bends towards the voltage axis for $V > 2\text{V}$. Is it ohmic?<br>
 
 <details>
 <summary><b>Solution</b></summary>
@@ -65,7 +65,7 @@ A device is ohmic ONLY if the $V-I$ graph is a straight line through the origin 
 
 **Practice:**
 
-1. 🟢 A student plots $V$ vs $I$ for a wire and gets a straight line passing through $(0,0)$. However, if the current is allowed to flow for 10 minutes before taking the reading, the point deviates from the line. Why?
+1. 🟢 A student plots $V$ vs $I$ for a wire and gets a straight line passing through $(0,0)$. However, if the current is allowed to flow for 10 minutes before taking the reading, the point deviates from the line. Why?<br>
 
 <details>
 <summary><b>Answer</b></summary>
@@ -73,7 +73,7 @@ A device is ohmic ONLY if the $V-I$ graph is a straight line through the origin 
 Heating effect. Passing current for a long time increases the temperature of the wire, which increases its resistance, causing it to deviate from strict ohmic behavior (which assumes constant temperature).
 </details>
 
-2. 🟢 Look at an $I-V$ graph for a p-n junction diode. In forward bias, current shoots up after $0.7\text{ V}$. In reverse bias, current is almost zero. Which limitation of Ohm's law does this represent?
+2. 🟢 Look at an $I-V$ graph for a p-n junction diode. In forward bias, current shoots up after $0.7\text{ V}$. In reverse bias, current is almost zero. Which limitation of Ohm's law does this represent?<br>
 
 <details>
 <summary><b>Answer</b></summary>
@@ -90,7 +90,7 @@ Example: Gallium Arsenide (GaAs) or a Tunnel Diode.
 Limitation 3: The relation between $V$ and $I$ is not unique (one current value can correspond to multiple voltage values).
 </details>
 
-4. 🟡 Are electrolytes (like NaCl solution) ohmic or non-ohmic conductors? Explain briefly.
+4. 🟡 Are electrolytes (like NaCl solution) ohmic or non-ohmic conductors?<br> Explain briefly.
 
 <details>
 <summary><b>Answer</b></summary>
@@ -153,7 +153,7 @@ At $V = 4\text{ V}$, $dI/dV = 4 \times 10^{-3}$.
 $R_{dynamic} = 1 / (4 \times 10^{-3}) = 1000 / 4 = \mathbf{250\text{ } \Omega}$.
 </details>
 
-4. 🔴 A varistor has a characteristic $I = kV^3$. If its static resistance at $V = 10\text{ V}$ is $100\text{ } \Omega$, what is its dynamic resistance at $V = 10\text{ V}$?
+4. 🔴 A varistor has a characteristic $I = kV^3$. If its static resistance at $V = 10\text{ V}$ is $100\text{ } \Omega$, what is its dynamic resistance at $V = 10\text{ V}$?<br>
 
 <details>
 <summary><b>Answer</b></summary>
@@ -175,7 +175,7 @@ $R_{dynamic} = 1 / (dI/dV) = 1 / 0.03 = 100/3 = \mathbf{33.3\text{ } \Omega}$.
 
 **Solved Example** 🟡
 
-> The $I-V$ characteristic of a material shows current peaking at $V = 5\text{ V}$ ($I = 10\text{ mA}$) and then dropping to $I = 4\text{ mA}$ at $V = 15\text{ V}$. What is the nature of dynamic resistance between $5\text{ V}$ and $15\text{ V}$?
+> The $I-V$ characteristic of a material shows current peaking at $V = 5\text{ V}$ ($I = 10\text{ mA}$) and then dropping to $I = 4\text{ mA}$ at $V = 15\text{ V}$. What is the nature of dynamic resistance between $5\text{ V}$ and $15\text{ V}$?<br>
 
 <details>
 <summary><b>Solution</b></summary>
@@ -187,7 +187,7 @@ The dynamic resistance is **negative**. This is called the **Negative Resistance
 
 **Practice:**
 
-1. 🟡 In a GaAs $I-V$ curve, there is a linear region, a peak, a valley, and a second rise. In which region is the dynamic resistance negative?
+1. 🟡 In a GaAs $I-V$ curve, there is a linear region, a peak, a valley, and a second rise. In which region is the dynamic resistance negative?<br>
 
 <details>
 <summary><b>Answer</b></summary>
@@ -195,7 +195,7 @@ The dynamic resistance is **negative**. This is called the **Negative Resistance
 Between the **peak and the valley**. Here, as voltage increases, current decreases, making $\Delta I / \Delta V$ negative.
 </details>
 
-2. 🔴 If a device operates in the negative dynamic resistance region, what happens to the current if a small positive voltage pulse is added to the steady DC bias?
+2. 🔴 If a device operates in the negative dynamic resistance region, what happens to the current if a small positive voltage pulse is added to the steady DC bias?<br>
 
 <details>
 <summary><b>Answer</b></summary>
@@ -208,20 +208,28 @@ Since $\Delta V$ is positive and $R_{dynamic}$ is negative, $\Delta I = \Delta V
 ## 🔀 Stage 4: Type Mixer
 
 **Q1.** 🔴 You are given three $V-I$ graphs:
+<br>
 (A) A straight line through the origin.
+<br>
 (B) A curve passing through the origin but bending towards the V-axis.
-(C) A curve that passes through the origin, has a peak, then dips before rising again.
+<br>
+(C)
+ A curve that passes through the origin, has a peak, then dips before rising again.
 Identify the possible materials/devices for each graph and their Ohmic/Non-Ohmic nature.
 
 <details>
 <summary><b>Solution</b></summary>
 
+<br>
 (A) **Ohmic**. Material: Copper wire, standard resistor (at constant temperature).
+<br>
 (B) **Non-Ohmic (Type 1)**. Material: Bulb filament (heats up, resistance increases).
-(C) **Non-Ohmic (Type 3)**. Material: Gallium Arsenide (GaAs) or tunnel diode.
+<br>
+(C)
+ **Non-Ohmic (Type 3)**. Material: Gallium Arsenide (GaAs) or tunnel diode.
 </details>
 
-**Q2.** 🔴 ⭐ A thermistor has a resistance that drops exponentially with temperature: $R = A e^{B/T}$. If a constant voltage $V$ is applied across it, initially the current is $I_0$. As the thermistor heats up due to the current, what happens to the $V-I$ curve? Is it ohmic?
+**Q2.** 🔴 ⭐ A thermistor has a resistance that drops exponentially with temperature: $R = A e^{B/T}$. If a constant voltage $V$ is applied across it, initially the current is $I_0$. As the thermistor heats up due to the current, what happens to the $V-I$ curve?<br> Is it ohmic?<br>
 
 <details>
 <summary><b>Solution</b></summary>
@@ -237,7 +245,7 @@ Identify the possible materials/devices for each graph and their Ohmic/Non-Ohmic
 
 ## 📋 Stage 5: Board Arsenal
 
-**Q1.** 🟢 What are non-ohmic devices? Give two examples. *(2 marks)*
+**Q1.** 🟢 What are non-ohmic devices?<br> Give two examples. *(2 marks)*
 
 <details>
 <summary><b>Model Answer</b></summary>
@@ -256,7 +264,7 @@ Devices or materials that do not obey Ohm's law are called non-ohmic devices. Fo
 3. **Non-uniqueness:** The relation between $V$ and $I$ is not unique; a single value of current can correspond to more than one value of voltage (e.g., Gallium Arsenide exhibits a negative resistance region).
 </details>
 
-**Q3.** 🟡 Define dynamic resistance. How is it calculated from an $I-V$ graph? *(2 marks)*
+**Q3.** 🟡 Define dynamic resistance. How is it calculated from an $I-V$ graph?<br> *(2 marks)*
 
 <details>
 <summary><b>Model Answer</b></summary>
@@ -288,7 +296,7 @@ Therefore, $R_{dyn} = \frac{1}{2aV_0 + b}$.
 *(Option D is the static resistance! Don't fall for it.)*
 </details>
 
-**Q2.** 🔴 A semiconductor device is connected in a series circuit with a battery and a resistor. If the polarity of the battery is reversed, the current in the circuit drops by a factor of $10^4$. Which limitation of Ohm's law does this device primarily exhibit?
+**Q2.** 🔴 A semiconductor device is connected in a series circuit with a battery and a resistor. If the polarity of the battery is reversed, the current in the circuit drops by a factor of $10^4$. Which limitation of Ohm's law does this device primarily exhibit?<br>
 
 (a) Non-uniqueness of $V-I$ curve
 (b) Saturation of drift velocity
@@ -303,7 +311,7 @@ The device permits current easily in one direction but blocks it almost entirely
 **Answer: (c)**
 </details>
 
-**Q3.** 🔴 ⭐ Which of the following graphs best represents the $V-I$ characteristics of a light bulb filament?
+**Q3.** 🔴 ⭐ Which of the following graphs best represents the $V-I$ characteristics of a light bulb filament?<br>
 *(Assume V on x-axis, I on y-axis)*
 
 (a) Straight line passing through origin

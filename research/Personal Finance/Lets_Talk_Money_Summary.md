@@ -23,7 +23,7 @@ Think of your financial life as a physical money box. If you toss all your incom
 You wear a seatbelt not because you plan to crash your car, but because accidents happen. Life and medical insurance serve the same purpose. They are not investment vehicles to give you a return; they are purely protective safety mechanisms. Buying ULIPs or endowment plans is like trying to use a seatbelt to make the car go faster—it fails at both tasks.
 
 ### 3. The "Bank vs. Biscuit Factory"
-Why are banks so highly regulated compared to a company selling biscuits? Because a bank relies purely on systemic trust. If a biscuit factory fails, people stop eating those biscuits. If a bank fails, the entire financial ecosystem wobbles. Halan uses this to explain why certain financial products are heavily regulated and why risk and return are inextricably linked.
+Why are banks so highly regulated compared to a company selling biscuits?<br> Because a bank relies purely on systemic trust. If a biscuit factory fails, people stop eating those biscuits. If a bank fails, the entire financial ecosystem wobbles. Halan uses this to explain why certain financial products are heavily regulated and why risk and return are inextricably linked.
 
 ---
 

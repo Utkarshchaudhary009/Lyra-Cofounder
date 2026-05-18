@@ -81,7 +81,7 @@ $\vec{E} = -6\hat{x} + 8\hat{y}$ V/m
 $|\vec{E}| = \sqrt{36 + 64} = \sqrt{100} = \textbf{10 V/m}$
 </details>
 
-**Problem 2:** The potential at a point is given by $V = 20/(x^2 + y^2 + z^2)^{1/2}$. What is this potential due to? Find $\vec{E}$ at $(1, 0, 0)$.
+**Problem 2:** The potential at a point is given by $V = 20/(x^2 + y^2 + z^2)^{1/2}$. What is this potential due to?<br> Find $\vec{E}$ at $(1, 0, 0)$.
 
 <details><summary><b>Solution</b></summary>
 
@@ -119,7 +119,7 @@ $E_z = -\frac{\partial V}{\partial z} = 0$
 $\vec{E} = \textbf{-6x}\hat{x} + \textbf{(-4)}\hat{y}$ V/m
 </details>
 
-**Problem 2:** Is this a uniform field? Justify.
+**Problem 2:** Is this a uniform field?<br> Justify.
 
 <details><summary><b>Solution</b></summary>
 
@@ -128,7 +128,7 @@ $\vec{E} = \textbf{-6x}\hat{x} + \textbf{(-4)}\hat{y}$ V/m
 A uniform field would require all components to be constant everywhere.
 </details>
 
-**Problem 3:** At what point(s) is the electric field purely in the $y$-direction?
+**Problem 3:** At what point(s) is the electric field purely in the $y$-direction?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -139,7 +139,7 @@ $-6x = 0 \implies x = 0$
 Along the entire $y$-axis ($x = 0$), the field is $\vec{E} = -4\hat{y}$ V/m (uniform and vertical).
 </details>
 
-**Problem 4:** What is the magnitude of $\vec{E}$ at the point $(2, 3)$?
+**Problem 4:** What is the magnitude of $\vec{E}$ at the point $(2, 3)$?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -185,9 +185,9 @@ Point A is at higher potential than B.
 **Synthesis Problem:** The electric potential in a region varies as $V = 2x^2 - 4y^2$ volts, where $x$ and $y$ are in meters.
 
 (a) Find $\vec{E}$ at the point $(1, 1)$.  
-(b) What is the magnitude and direction of $\vec{E}$ at $(1, 1)$?  
-(c) A proton is placed at $(1, 1)$. In which direction does it begin to accelerate?  
-(d) Find the equipotential curve passing through $(1, 1)$. What shape is it?  
+(b) What is the magnitude and direction of $\vec{E}$ at $(1, 1)$?<br>  
+(c) A proton is placed at $(1, 1)$. In which direction does it begin to accelerate?<br>  
+(d) Find the equipotential curve passing through $(1, 1)$. What shape is it?<br>  
 (e) Verify that $\vec{E}$ at $(1, 1)$ is perpendicular to the equipotential curve at that point.
 
 <details><summary><b>Solution</b></summary>
@@ -257,7 +257,7 @@ Since the product of slopes is $-1$, the field is **perpendicular** to the equip
 
 ---
 
-**Q4.** The electric field in a region is zero. Which of the following is necessarily true?
+**Q4.** The electric field in a region is zero. Which of the following is necessarily true?<br>
 
 (a) $V = 0$ &emsp; (b) $V = $ constant &emsp; (c) $V$ increases &emsp; (d) $V$ varies linearly
 
@@ -411,7 +411,7 @@ $V(x,y) = -\frac{E_0}{2}(x^2+y^2) = -\frac{E_0 r^2}{2}$
 
 ---
 
-**Q20.** In the relation $\vec{E} = -\nabla V$: (a) can $V$ be positive where $\vec{E}$ is nonzero? (b) can $V$ be zero where $\vec{E}$ is nonzero? Give examples.
+**Q20.** In the relation $\vec{E} = -\nabla V$: (a) can $V$ be positive where $\vec{E}$ is nonzero?<br> (b) can $V$ be zero where $\vec{E}$ is nonzero?<br> Give examples.
 
 <details><summary><b>Answer</b></summary>
 
@@ -537,7 +537,7 @@ The field is uniform with magnitude $V_0/d$, pointing from high to low potential
 
 ---
 
-**Q28.** The potential in a region is $V = Ax^2y^3z$ where $A$ is a constant. Find: (a) all three field components, (b) the field at $(1,1,1)$, (c) is the Laplace equation satisfied ($\nabla^2 V = 0$)?
+**Q28.** The potential in a region is $V = Ax^2y^3z$ where $A$ is a constant. Find: (a) all three field components, (b) the field at $(1,1,1)$, (c) is the Laplace equation satisfied ($\nabla^2 V = 0$)?<br>
 
 <details><summary><b>Answer</b></summary>
 

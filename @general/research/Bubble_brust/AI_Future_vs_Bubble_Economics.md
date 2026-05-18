@@ -38,7 +38,7 @@ The single most important trend is the collapse in the **Price of Intelligence**
 ---
 
 ## 3. The Jevons Paradox: Why Usage Will Explode (The Future)
-Why is AI still "The Future" despite the bad economics? **The Jevons Paradox**.
+Why is AI still "The Future" despite the bad economics?<br> **The Jevons Paradox**.
 *   **Theory**: As technology increases the efficiency with which a resource is used (cheaper intelligence), the total consumption of that resource increases rather than decreases.
 *   **Application**:
     *   When intelligence costs $20/token, you use it for "Important Questions."

@@ -9,7 +9,7 @@ Markets can stay irrational longer than you can stay solvent, but they cannot ig
 *   **The Scale:** The cumulative deficit from 2021 to 2025 is estimated at over **800 million ounces**. To put that in perspective, that is roughly **one entire year's worth of global mine production** that has simply vanished from stockpiles.
 
 ## 2. Emptying the Vaults: The Great Drain
-Where is the extra silver coming from? It's coming from the vaults in London and New York.
+Where is the extra silver coming from?<br> It's coming from the vaults in London and New York.
 *   **COMEX Crash:** The COMEX (New York) registered inventory—the silver available for immediate delivery—has plummeted by over **70%** since its 2020 peak. It is currently running on "fumes" (~120 million oz).
 *   **LBMA Drain:** The London vaults (LBMA) saw a massive drawdown from 2021 to mid-2025.
 *   **China:** Shanghai inventories have also hit multi-year lows.
@@ -26,10 +26,10 @@ Official numbers likely understate the problem because they don't count "Dark In
     *   *Translation:* "I don't trust you will have the silver next month. Give it to me now." This is a classic sign of a physical shortage.
 
 ## 5. The Double Inelasticity Trap
-Why hasn't the price exploded yet? It's coiling.
+Why hasn't the price exploded yet?<br> It's coiling.
 *   **Supply Inelasticity:** As discussed in Phase 3, miners cannot quickly produce more silver even if the price hits $50, because 70% is a byproduct.
 *   **Demand Inelasticity:** This is the killer. Industrial buyers (Apple, Samsung, Tesla, Lockheed Martin) are "price inelastic."
-    *   *Why?* There is only ~$0.50 worth of silver in an iPhone. If silver goes to $500/oz, the cost of an iPhone only goes up by ~$5. Apple will *never* stop buying silver because of price. They will pay *anything* to keep the factory running.
+    *   *Why?<br>* There is only ~$0.50 worth of silver in an iPhone. If silver goes to $500/oz, the cost of an iPhone only goes up by ~$5. Apple will *never* stop buying silver because of price. They will pay *anything* to keep the factory running.
 
 ---
 **Summary:** The world is burning through its silver savings account at a record pace. Governments are starting to panic-buy (Strategic Reserves). The vaults are emptying. When the physical metal runs out, the paper price manipulation will fail, and the true value will be discovered.

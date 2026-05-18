@@ -1,4 +1,4 @@
-# "Is the Concept of a 'Job for Life' Officially Dead?"
+# "Is the Concept of a 'Job for Life' Officially Dead?<br>"
 
 
 ### *Addressed to students and teachers — 3 Minute Speech*
@@ -31,7 +31,7 @@ Walk into any coaching centre in Prayagraj. In Kota. In Mukherjee Nagar. Look at
 
 You will see **nineteen-year-olds** who have been preparing for the same exam for four years. Five years. Some — even six years. They have no friends. They have no hobbies. They have no life — because they've been told that life *begins after selection.*
 
-And the selection rate?
+And the selection rate?<br>
 
 **0.01%.**
 
@@ -54,7 +54,7 @@ Sir, you cannot prepare students for 2030 using a syllabus designed for 1990 and
 
 And now — the same system turns to **us** and says: *"Trust the process."*
 
-Which process? **The one that failed them?**
+Which process?<br> **The one that failed them?<br>**
 
 ---
 

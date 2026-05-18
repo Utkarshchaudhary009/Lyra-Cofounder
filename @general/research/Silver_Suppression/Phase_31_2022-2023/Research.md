@@ -81,7 +81,7 @@
 *   **The Suppression Seed:** "Churn." By creating artificial volatility, they prevent a trend from forming. It stops the "Momentum Traders" from jumping on board. It turns Silver into a "Graveyard for Capital" rather than a rocket ship.
 
 ### 10. The Premium Collapse (Killing Retail FOMO)
-*   **The Simple Truth:** In 2022, you had to pay $16 over the spot price to get a Silver Eagle. This made people think "The Paper Price is Fake!" In 2023, the US Mint suddenly made way more coins, and the premium crashed to $4. Why? To make the Paper Price look real again.
+*   **The Simple Truth:** In 2022, you had to pay $16 over the spot price to get a Silver Eagle. This made people think "The Paper Price is Fake!" In 2023, the US Mint suddenly made way more coins, and the premium crashed to $4. Why?<br> To make the Paper Price look real again.
 *   **The Hard Evidence:**
     *   **2022 Premium:** ~$16 over spot (High Distrust).
     *   **2023 Premium:** ~$4.25 over spot (Normalization).
@@ -147,62 +147,62 @@ The result was a "Schizophrenic Market." The Paper Price (COMEX) said silver was
 
 ## Comprehension Check (Critical Thinking)
 
-**Q1:** Why did the US Mint increase production in 2023, crashing the premium?
+**Q1:** Why did the US Mint increase production in 2023, crashing the premium?<br>
 **A:** To normalize the Spread. A high premium signals distrust in the Spot Price. Crushing it restores faith in the paper market.
 **C:** Investigate "Mint Director vacancies/appointments" to see who ordered the production ramp-up.
 
-**Q2:** If India stopped buying in 2023, why did the Deficit remain high?
+**Q2:** If India stopped buying in 2023, why did the Deficit remain high?<br>
 **A:** Industrial Demand (Solar/TOPCon) replaced Retail Demand. The buyer changed, but the shortage remained.
 **C:** Look for "China Solar Exports 2023" to see who really bought the silver.
 
-**Q3:** How did the BTFP hurt Silver?
+**Q3:** How did the BTFP hurt Silver?<br>
 **A:** It effectively bailed out the banks *without* officially cutting rates, allowing the Fed to keep "Tight Policy" (Bad for Silver) while injecting "Loose Liquidity" (Good for Banks).
 **C:** Check "BTFP Usage Chart" vs "Gold Price" correlation.
 
-**Q4:** What is the significance of the 80:1 GSR in 2023 vs Medieval 12:1?
+**Q4:** What is the significance of the 80:1 GSR in 2023 vs Medieval 12:1?<br>
 **A:** It shows the degree of suppression. Silver is 6-8x undervalued relative to its historical monetary constant.
 **C:** Calculate the GSR if Silver was priced at its "Earth's Crust" ratio ($2,000 Gold / 17 = ~$117 Silver).
 
-**Q5:** Why didn't miners produce more silver when demand rose?
+**Q5:** Why didn't miners produce more silver when demand rose?<br>
 **A:** Inflation (AISC). Costs rose almost as fast as the price, leaving no profit margin to fund expansion.
 **C:** Look at "Capex spending of top Primary Silver Miners 2023".
 
-**Q6:** What was the "Signet Network" importance?
+**Q6:** What was the "Signet Network" importance?<br>
 **A:** It was a 24/7 liquidity rail. Its closure forced capital into the slow, 9-5 banking system, slowing down the "exit" from fiat.
 **C:** Investigate "Operation Choke Point 2.0" targets list.
 
-**Q7:** How did the "Real Rate" correlation break in 2023?
+**Q7:** How did the "Real Rate" correlation break in 2023?<br>
 **A:** Silver rose despite successful rate hikes. Fear of Systemic Failure (Banking Crisis) overruled the Fear of Opportunity Cost (Rates).
-**C:** Does this mean the "Fed Put" is dead?
+**C:** Does this mean the "Fed Put" is dead?<br>
 
-**Q8:** What is "Spoofing"?
+**Q8:** What is "Spoofing"?<br>
 **A:** Placing fake orders to move price, then cancelling them. It creates false signals of supply/demand.
-**C:** Why does the CFTC fine them *after* usually years later, instead of stopping it live?
+**C:** Why does the CFTC fine them *after* usually years later, instead of stopping it live?<br>
 
-**Q9:** Why is the decline in COMEX Registered inventory to 82 Moz critical?
+**Q9:** Why is the decline in COMEX Registered inventory to 82 Moz critical?<br>
 **A:** "Registered" is the metal available for immediate delivery. 82 Moz is a tiny buffer for a global market. It signals physical fragility.
 **C:** Compare "Registered Silver" to "Paper Open Interest" ratio.
 
-**Q10:** Did the BRICS summit introduce a gold-backed currency?
+**Q10:** Did the BRICS summit introduce a gold-backed currency?<br>
 **A:** No. It was a rumor. But the rumor itself caused volatility, which was likely exploited by traders.
 **C:** Look at the price action on the *day* of the BRICS announcement (Sell the News).
 
-**Q11:** What technology caused the solar demand spike?
+**Q11:** What technology caused the solar demand spike?<br>
 **A:** TOPCon (Tunnel Oxide Passivated Contact). It uses ~50% more silver than PERC.
-**C:** What is the *next* tech? HJT (Heterojunction) uses even *more*.
+**C:** What is the *next* tech?<br> HJT (Heterojunction) uses even *more*.
 
-**Q12:** Who were the "two JPM traders" sentenced in 2023?
+**Q12:** Who were the "two JPM traders" sentenced in 2023?<br>
 **A:** Michael Nowak and Gregg Smith. Their conviction proved the suppression conspiracy was real, not a theory.
-**C:** Did JPM's trading volume drop after they left? (Spoiler: No).
+**C:** Did JPM's trading volume drop after they left?<br> (Spoiler: No).
 
-**Q13:** What is "Narrative Arbitrage"?
+**Q13:** What is "Narrative Arbitrage"?<br>
 **A:** Profiting from the gap between a story (e.g., "Silver is just a rock") and reality (e.g., "We are running out of rocks").
-**C:** How does the media cover silver deficits? (Usually ignores them).
+**C:** How does the media cover silver deficits?<br> (Usually ignores them).
 
-**Q14:** Why is the 2023 deficit of 184 Moz considered "structural"?
+**Q14:** Why is the 2023 deficit of 184 Moz considered "structural"?<br>
 **A:** Because it is driven by *sticky* industrial demand (Solar factories) that cannot easily be turned off, unlike investor demand.
-**C:** Can recycling fill the gap? (Recycling is slow and expensive).
+**C:** Can recycling fill the gap?<br> (Recycling is slow and expensive).
 
-**Q15:** How does Phase 31 set the stage for Phase 60?
+**Q15:** How does Phase 31 set the stage for Phase 60?<br>
 **A:** It establishes the mechanism of "State Sponsored Suppression" (Taxes/Duties) and "Valuation Control" (BTFP/Par), which are the tools needed for a total Reset.
 **C:** Investigate "Executive Order 14067" (Digital Assets) signed in 2022.

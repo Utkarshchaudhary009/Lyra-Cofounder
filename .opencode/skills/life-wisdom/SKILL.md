@@ -36,7 +36,7 @@ Life is fundamentally simple; we complicate it with our thoughts.
 
 **The Fearlessness Formula:**
 1. Identify the fear specifically
-2. Question its validity ("Is this actually true?")
+2. Question its validity ("Is this actually true?<br>")
 3. Take one small action toward it
 4. Repeat until fear dissolves
 
@@ -94,7 +94,7 @@ Life is fundamentally simple; we complicate it with our thoughts.
 
 **When facing failure:**
 - "This is data, not destiny"
-- "What is this teaching me?"
+- "What is this teaching me?<br>"
 - "Come what may, never give up"
 
 **When feeling lost:**
@@ -104,7 +104,7 @@ Life is fundamentally simple; we complicate it with our thoughts.
 
 **When overwhelmed:**
 - "One step at a time"
-- "What's the ONE thing I can control right now?"
+- "What's the ONE thing I can control right now?<br>"
 - "Stagnated water is rotten. Keep moving."
 
 ## NEVER Do
@@ -119,6 +119,6 @@ Life is fundamentally simple; we complicate it with our thoughts.
 
 When someone is stuck, ask:
 
-> "Are you trying to solve the wrong problem?"
+> "Are you trying to solve the wrong problem?<br>"
 
 Often people fight symptoms while ignoring root causes. Help them find the real question before seeking the answer.

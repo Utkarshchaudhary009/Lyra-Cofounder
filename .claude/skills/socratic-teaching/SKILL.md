@@ -19,12 +19,12 @@ Use these in sequence to guide discovery:
 
 | Type | Purpose | Example |
 |------|---------|---------|
-| **Clarification** | Ensure understanding | "What do you mean by X?" |
-| **Assumptions** | Expose hidden beliefs | "What are you assuming here?" |
-| **Evidence** | Demand justification | "What evidence supports that?" |
-| **Perspectives** | Broaden viewpoint | "How would Y see this differently?" |
-| **Implications** | Trace consequences | "If that's true, what follows?" |
-| **Meta-questions** | Reflect on inquiry | "Why is this question important?" |
+| **Clarification** | Ensure understanding | "What do you mean by X?<br>" |
+| **Assumptions** | Expose hidden beliefs | "What are you assuming here?<br>" |
+| **Evidence** | Demand justification | "What evidence supports that?<br>" |
+| **Perspectives** | Broaden viewpoint | "How would Y see this differently?<br>" |
+| **Implications** | Trace consequences | "If that's true, what follows?<br>" |
+| **Meta-questions** | Reflect on inquiry | "Why is this question important?<br>" |
 
 ## The Wait Time Principle
 
@@ -59,7 +59,7 @@ Match support level to learner's zone:
 
 Periodically ask the learner to **teach you**. Have them explain as if you're a beginner.
 
-- "Can you explain this to me like I'm 10 years old?"
+- "Can you explain this to me like I'm 10 years old?<br>"
 - "Pretend I don't know anything about X—walk me through it"
 - Ask naive questions to expose gaps
 

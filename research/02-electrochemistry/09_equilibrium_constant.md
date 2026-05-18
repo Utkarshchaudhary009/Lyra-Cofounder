@@ -8,7 +8,7 @@
 
 ### The Anatomy of a Dead Battery
 When you connect a voltmeter to a dead battery, it reads exactly **$0.00\ V$**. 
-What does this mean chemically? It means the "tug-of-war" for electrons has reached a perfect stalemate. The forward reaction (products forming) and the backward reaction (reactants reforming) are happening at the exact same speed. The driving force is gone. 
+What does this mean chemically?<br> It means the "tug-of-war" for electrons has reached a perfect stalemate. The forward reaction (products forming) and the backward reaction (reactants reforming) are happening at the exact same speed. The driving force is gone. 
 
 In chemistry, we call this state **Equilibrium**. 
 At this exact moment:
@@ -49,7 +49,7 @@ $$ K_c = \text{Antilog}\left( \frac{n \times E^\circ_{cell}}{0.0591} \right) $$
 **Pattern:** "Conceptual understanding of what variables equal zero at equilibrium."
 
 **Solved Example** 🟢
-> A student claims that when a Daniell cell reaches equilibrium, its standard EMF ($E^\circ_{cell}$) becomes zero. Is this correct?
+> A student claims that when a Daniell cell reaches equilibrium, its standard EMF ($E^\circ_{cell}$) becomes zero. Is this correct?<br>
 
 <details><summary><b>Solution</b></summary>
 **No, this is completely incorrect.** 
@@ -59,7 +59,7 @@ What drops to zero is the **actual operating cell potential ($E_{cell}$)** due t
 
 **Practice:**
 
-1. 🟢 At equilibrium, which of the following is true?
+1. 🟢 At equilibrium, which of the following is true?<br>
 (a) $E^\circ_{cell} = 0$
 (b) $E_{cell} = 0$
 (c) Both are zero
@@ -68,22 +68,22 @@ What drops to zero is the **actual operating cell potential ($E_{cell}$)** due t
 **Answer: (b) $E_{cell} = 0$.**
 </details>
 
-2. 🟢 At equilibrium, the reaction quotient $Q$ becomes equal to what?
+2. 🟢 At equilibrium, the reaction quotient $Q$ becomes equal to what?<br>
 <details><summary><b>Answer</b></summary>
 It becomes equal to the **Equilibrium Constant ($K_c$)**.
 </details>
 
-3. 🟡 If a cell reaction is perfectly balanced at equilibrium, what is the net flow of electrons through the external wire?
+3. 🟡 If a cell reaction is perfectly balanced at equilibrium, what is the net flow of electrons through the external wire?<br>
 <details><summary><b>Answer</b></summary>
 The net flow is **zero**. Because there is no potential difference ($E_{cell} = 0$) driving them.
 </details>
 
-4. 🟡 For a concentration cell ($Cu | Cu^{2+} || Cu^{2+} | Cu$), both $E_{cell}$ and $E^\circ_{cell}$ can be zero. When does this happen?
+4. 🟡 For a concentration cell ($Cu | Cu^{2+} || Cu^{2+} | Cu$), both $E_{cell}$ and $E^\circ_{cell}$ can be zero. When does this happen?<br>
 <details><summary><b>Answer</b></summary>
 $E^\circ_{cell}$ is always zero for a concentration cell. $E_{cell}$ becomes zero when the cell reaches equilibrium, which occurs when the **concentrations in both half-cells become exactly equal**.
 </details>
 
-5. 🔴 Can an electrochemical cell with a negative $E^\circ_{cell}$ reach equilibrium?
+5. 🔴 Can an electrochemical cell with a negative $E^\circ_{cell}$ reach equilibrium?<br>
 <details><summary><b>Answer</b></summary>
 If $E^\circ_{cell}$ is negative, the reaction is non-spontaneous in the forward direction. It is actually already past equilibrium in the forward direction. The reverse reaction is spontaneous. It will reach equilibrium when the reverse reaction proceeds enough to make $E_{cell} = 0$.
 </details>
@@ -119,7 +119,7 @@ $n = 2$.
 $\log K_c = \frac{2 \times 0.46}{0.0591} = \frac{0.92}{0.0591} \approx \textbf{15.56}$.
 </details>
 
-3. 🟡 For a reaction with $n = 1$, the standard EMF is $0.591\ V$. What is the value of $\log K_c$?
+3. 🟡 For a reaction with $n = 1$, the standard EMF is $0.591\ V$. What is the value of $\log K_c$?<br>
 <details><summary><b>Answer</b></summary>
 $\log K_c = \frac{1 \times 0.591}{0.0591} = \textbf{10}$.
 </details>
@@ -130,7 +130,7 @@ $n = 3$.
 $\log K_c = \frac{3 \times 0.0591}{0.0591} = \textbf{3}$.
 </details>
 
-5. 🔴 Two students calculate $\log K_c$ for the same physical cell. Student A uses the equation $Ag^+ + \frac{1}{2}Cu \rightarrow Ag + \frac{1}{2}Cu^{2+}$. Student B uses $2Ag^+ + Cu \rightarrow 2Ag + Cu^{2+}$. Will their $\log K_c$ values be the same?
+5. 🔴 Two students calculate $\log K_c$ for the same physical cell. Student A uses the equation $Ag^+ + \frac{1}{2}Cu \rightarrow Ag + \frac{1}{2}Cu^{2+}$. Student B uses $2Ag^+ + Cu \rightarrow 2Ag + Cu^{2+}$. Will their $\log K_c$ values be the same?<br>
 <details><summary><b>Answer</b></summary>
 **No.** Student A uses $n = 1$. Student B uses $n = 2$. 
 Because $K_c$ is derived from the specific stoichiometric equation written, Student B's $\log K_c$ will be exactly twice as large as Student A's. (This matches equilibrium rules: if you multiply an equation by 2, its $K_c$ is squared, meaning $\log(K_c^2) = 2\log K_c$).
@@ -155,12 +155,12 @@ Because $K_c$ is derived from the specific stoichiometric equation written, Stud
 
 **Practice:**
 
-1. 🟢 If $\log K_c = 2.0$, what is $K_c$?
+1. 🟢 If $\log K_c = 2.0$, what is $K_c$?<br>
 <details><summary><b>Answer</b></summary>
 $K_c = 10^{2.0} = \textbf{100}$.
 </details>
 
-2. 🟢 If $\log K_c = 15.56$, and you are given that $10^{0.56} \approx 3.63$, what is $K_c$?
+2. 🟢 If $\log K_c = 15.56$, and you are given that $10^{0.56} \approx 3.63$, what is $K_c$?<br>
 <details><summary><b>Answer</b></summary>
 $K_c = 10^{15} \times 10^{0.56} = \textbf{3.63} \times \textbf{10}^{\textbf{15}}$.
 </details>
@@ -172,7 +172,7 @@ $\log K_c = \frac{2 \times 0.2955}{0.0591} = \frac{0.591}{0.0591} = 10$.
 $K_c = \text{Antilog}(10) = \textbf{10}^{\textbf{10}}$.
 </details>
 
-4. 🟡 For a reaction where $n=1$, $E^\circ_{cell} = 0.000\ V$. What is $K_c$?
+4. 🟡 For a reaction where $n=1$, $E^\circ_{cell} = 0.000\ V$. What is $K_c$?<br>
 <details><summary><b>Answer</b></summary>
 $\log K_c = 0$.
 $K_c = 10^0 = \textbf{1}$. (The reaction is at equilibrium under standard conditions!).
@@ -221,7 +221,7 @@ $\log K_c = \frac{2 \times 0.46}{0.0591} = \frac{0.92}{0.0591} \approx 15.56$.
 $K_c = \textbf{3.6} \times \textbf{10}^{\textbf{15}}$.
 </details>
 
-3. 🟡 If $E^\circ_{A^{2+}/A} = 0.10\ V$ and $E^\circ_{B^{2+}/B} = -0.20\ V$. What is the equilibrium constant for $A + B^{2+} \rightleftharpoons A^{2+} + B$?
+3. 🟡 If $E^\circ_{A^{2+}/A} = 0.10\ V$ and $E^\circ_{B^{2+}/B} = -0.20\ V$. What is the equilibrium constant for $A + B^{2+} \rightleftharpoons A^{2+} + B$?<br>
 <details><summary><b>Answer</b></summary>
 A is Anode, B is Cathode. $E^\circ_{cell} = -0.20 - 0.10 = -0.30\ V$. $n=2$.
 $\log K_c = \frac{2 \times (-0.30)}{0.0591} = -10.15$.
@@ -243,7 +243,7 @@ $K_c = \text{Antilog}(7.78) \approx \textbf{6.0} \times \textbf{10}^{\textbf{7}}
 **Pattern:** "Connecting the massive numbers to physical reality."
 
 **Solved Example** 🟡
-> The equilibrium constant for the Daniell cell is approximately $1.66 \times 10^{37}$. What does this astronomically large number tell you about the reaction $Zn + Cu^{2+} \rightarrow Zn^{2+} + Cu$?
+> The equilibrium constant for the Daniell cell is approximately $1.66 \times 10^{37}$. What does this astronomically large number tell you about the reaction $Zn + Cu^{2+} \rightarrow Zn^{2+} + Cu$?<br>
 
 <details><summary><b>Solution</b></summary>
 - $K_c = \frac{[\text{Products}]}{[\text{Reactants}]}$.
@@ -253,17 +253,17 @@ $K_c = \text{Antilog}(7.78) \approx \textbf{6.0} \times \textbf{10}^{\textbf{7}}
 
 **Practice:**
 
-1. 🟢 If $E^\circ_{cell}$ is highly positive, what can you say about the magnitude of $K_c$?
+1. 🟢 If $E^\circ_{cell}$ is highly positive, what can you say about the magnitude of $K_c$?<br>
 <details><summary><b>Answer</b></summary>
 Since $\log K_c$ is directly proportional to $E^\circ_{cell}$, a highly positive $E^\circ_{cell}$ results in a **very large, highly positive exponent** for $K_c$.
 </details>
 
-2. 🟢 If a reaction has $K_c = 10^{-15}$, will a battery based on this reaction be useful?
+2. 🟢 If a reaction has $K_c = 10^{-15}$, will a battery based on this reaction be useful?<br>
 <details><summary><b>Answer</b></summary>
 **No.** A $K_c$ much less than 1 means $E^\circ_{cell}$ is negative. The reaction strongly favors reactants and will not generate electricity spontaneously.
 </details>
 
-3. 🟡 If the EMF of cell A is $0.5\ V$ and cell B is $1.0\ V$ (both with $n=2$), how does the $K_c$ of B compare to A?
+3. 🟡 If the EMF of cell A is $0.5\ V$ and cell B is $1.0\ V$ (both with $n=2$), how does the $K_c$ of B compare to A?<br>
 <details><summary><b>Answer</b></summary>
 Because it's a logarithmic relationship, doubling the EMF does not double the $K_c$. It **squares** it.
 If $\log K_A \propto 0.5$ and $\log K_B \propto 1.0$, then $K_B = (K_A)^2$.
@@ -287,19 +287,19 @@ If $\log K_A \propto 0.5$ and $\log K_B \propto 1.0$, then $K_B = (K_A)^2$.
 
 **Practice:**
 
-1. 🟢 A reaction with $n=1$ has $K_c = 10^{10}$. What is $E^\circ_{cell}$?
+1. 🟢 A reaction with $n=1$ has $K_c = 10^{10}$. What is $E^\circ_{cell}$?<br>
 <details><summary><b>Answer</b></summary>
 $\log(10^{10}) = 10$.
 $10 = \frac{1 \times E^\circ_{cell}}{0.0591} \implies E^\circ_{cell} = 10 \times 0.0591 = \textbf{+0.591\ V}$.
 </details>
 
-2. 🟢 A reaction with $n=2$ has $K_c = 1$. What is $E^\circ_{cell}$?
+2. 🟢 A reaction with $n=2$ has $K_c = 1$. What is $E^\circ_{cell}$?<br>
 <details><summary><b>Answer</b></summary>
 $\log(1) = 0$.
 $0 = \frac{2 \times E^\circ_{cell}}{0.0591} \implies E^\circ_{cell} = \textbf{0.00\ V}$.
 </details>
 
-3. 🟡 If the equilibrium constant for a reaction is $10^{-5}$, what must be true about the sign of $E^\circ_{cell}$?
+3. 🟡 If the equilibrium constant for a reaction is $10^{-5}$, what must be true about the sign of $E^\circ_{cell}$?<br>
 <details><summary><b>Answer</b></summary>
 $\log(10^{-5}) = -5$. Since $\log K_c$ is negative, **$E^\circ_{cell}$ must be negative**. (The reaction is non-spontaneous).
 </details>
@@ -326,7 +326,7 @@ $E^\circ_{cell} = \frac{3.301 \times 0.0591}{2} \approx \textbf{+0.0975\ V}$.
 Derived directly from $0 = E^\circ_{cell} - \frac{0.0591}{n} \log K_c$.
 </details>
 
-**Q2. (JEE Mains Type)** 🔴 For the cell reaction $2Ce^{4+} + Co \rightarrow 2Ce^{3+} + Co^{2+}$, $E^\circ_{cell} = 1.89\ V$. If $E^\circ_{Co^{2+}/Co} = -0.28\ V$, what is the value of $\log K_c$ for the reaction?
+**Q2. (JEE Mains Type)** 🔴 For the cell reaction $2Ce^{4+} + Co \rightarrow 2Ce^{3+} + Co^{2+}$, $E^\circ_{cell} = 1.89\ V$. If $E^\circ_{Co^{2+}/Co} = -0.28\ V$, what is the value of $\log K_c$ for the reaction?<br>
 (a) $\frac{2 \times 1.89}{0.0591}$
 (b) $\frac{2 \times (1.89 - 0.28)}{0.0591}$
 (c) $\frac{1 \times 1.89}{0.0591}$
@@ -339,7 +339,7 @@ Cobalt goes from 0 to +2 ($n=2$).
 Formula is simply $\log K_c = \frac{n E^\circ_{cell}}{0.0591} = \frac{2 \times 1.89}{0.0591}$.
 </details>
 
-**Q3. (Exemplar Type)** 🟡 When a cell reaction reaches equilibrium, which of the following happens?
+**Q3. (Exemplar Type)** 🟡 When a cell reaction reaches equilibrium, which of the following happens?<br>
 (a) EMF of the cell becomes maximum.
 (b) The standard EMF of the cell becomes zero.
 (c) The EMF of the cell becomes zero.
@@ -355,9 +355,9 @@ The actual operating voltage ($E_{cell}$) drops to zero. Standard EMF is a const
 ## 🔀 Stage 5: Type Mixer
 
 **Q1.** 🟡 ⭐ Consider a cell $A\ |\ A^{2+}\ ||\ B^{2+}\ |\ B$. The equilibrium constant $K_c$ is $10^{20}$.
-(a) What is the standard cell potential $E^\circ_{cell}$?
-(b) If you build this cell using $1\ M$ solutions of both, will the initial voltmeter reading be equal to, greater than, or less than $E^\circ_{cell}$?
-(c) What will the voltmeter read after a very long time?
+(a) What is the standard cell potential $E^\circ_{cell}$?<br>
+(b) If you build this cell using $1\ M$ solutions of both, will the initial voltmeter reading be equal to, greater than, or less than $E^\circ_{cell}$?<br>
+(c) What will the voltmeter read after a very long time?<br>
 
 <details><summary><b>Solution</b></summary>
 (a) $\log(10^{20}) = 20$. 
@@ -396,7 +396,7 @@ $K_c = \textbf{3.63} \times \textbf{10}^{\textbf{15}}$.
 $A^{2+} + 2e^- \rightarrow A \quad E^\circ = -0.24\ V$
 $B^{2+} + 2e^- \rightarrow B \quad E^\circ = +0.80\ V$
 $C^{2+} + 2e^- \rightarrow C \quad E^\circ = -0.14\ V$
-Which of the following reactions will have the largest equilibrium constant ($K_c$)?
+Which of the following reactions will have the largest equilibrium constant ($K_c$)?<br>
 (a) $A + B^{2+} \rightarrow A^{2+} + B$
 (b) $C + B^{2+} \rightarrow C^{2+} + B$
 (c) $A + C^{2+} \rightarrow A^{2+} + C$

@@ -5,7 +5,7 @@
 
 ## Important Quotes & Phrases
 
-> "Learn to question yourself: Why this anger or resentment? Where does this incessant need for attention come from? Under such scrutiny, your emotions will lose their hold on you. You will begin to think for yourself instead of reacting to what others give you."
+> "Learn to question yourself: Why this anger or resentment?<br> Where does this incessant need for attention come from?<br> Under such scrutiny, your emotions will lose their hold on you. You will begin to think for yourself instead of reacting to what others give you."
 
 > "We see people not as they are, but as they appear to us. And these appearances are usually misleading."
 

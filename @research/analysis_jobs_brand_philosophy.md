@@ -19,7 +19,7 @@ This analysis examines Steve Jobs' September 23, 1997 internal speech introducin
 
 ## 1. EPISTEMOLOGICAL EXAMINATION
 
-### 1.1 What Does Jobs Actually Mean by "Core Values"?
+### 1.1 What Does Jobs Actually Mean by "Core Values"?<br>
 
 **Jobs' Claim (September 23, 1997):**
 > "Apple at the core—its core value is that we believe that people with passion can change the world for the better."
@@ -28,10 +28,10 @@ This analysis examines Steve Jobs' September 23, 1997 internal speech introducin
 
 **Tautology Risk:** The statement "people with passion can change the world" is definitionally true—anyone who changes the world demonstrably had passion (or we wouldn't retrospectively label them as having changed the world). The claim is unfalsifiable: those who fail to change the world simply "weren't passionate enough."
 
-**Operational Ambiguity:** What specific behaviors does this value mandate? Does it require:
-- Hiring only passionate people? (How measured?)
-- Refusing to work with non-passionate partners?
-- Rejecting profitable products that don't "change the world"?
+**Operational Ambiguity:** What specific behaviors does this value mandate?<br> Does it require:
+- Hiring only passionate people?<br> (How measured?<br>)
+- Refusing to work with non-passionate partners?<br>
+- Rejecting profitable products that don't "change the world"?<br>
 
 Jobs provided no decision criteria. The value functions as what philosopher Harry Frankfurt termed "bullshit"—indifference to truth value rather than falsehood. It sounds meaningful without being verifiable.
 
@@ -43,21 +43,21 @@ Jobs provided no decision criteria. The value functions as what philosopher Harr
 
 ### 1.2 "Speaking in Words vs. Speech" Distinction
 
-Jobs cited the milk industry's shift from "Milk Does a Body Good" (rational appeal) to "Got Milk?" (emotional absence-based appeal).
+Jobs cited the milk industry's shift from "Milk Does a Body Good" (rational appeal) to "Got Milk?<br>" (emotional absence-based appeal).
 
 **Operative Difference:**
 - **Words:** Propositional content—verifiable claims about product attributes
 - **Speech:** Performatives—utterances that create social reality through their expression ("I do" in marriage)
 
-Jobs advocated moving from *constative* utterances (describing products) to *performative* utterances (enacting identity). "Got Milk?" doesn't describe milk; it enacts a shared cultural understanding of milk's absence.
+Jobs advocated moving from *constative* utterances (describing products) to *performative* utterances (enacting identity). "Got Milk?<br>" doesn't describe milk; it enacts a shared cultural understanding of milk's absence.
 
-**Critical Issue:** Performatives succeed only when social conditions are appropriate (Austin's "felicity conditions"). "Got Milk?" worked because milk was already culturally embedded. Apple's performative "Think Different" succeeded only because Apple already had brand equity from 1977-1985. Performatives cannot create value ex nihilo—they activate existing social meanings.
+**Critical Issue:** Performatives succeed only when social conditions are appropriate (Austin's "felicity conditions"). "Got Milk?<br>" worked because milk was already culturally embedded. Apple's performative "Think Different" succeeded only because Apple already had brand equity from 1977-1985. Performatives cannot create value ex nihilo—they activate existing social meanings.
 
-### 1.3 What Is "Remembering" a Company?
+### 1.3 What Is "Remembering" a Company?<br>
 
 Jobs claimed: "We're not going to get a chance to get people to remember much about us."
 
-**Memory of What, Exactly?**
+**Memory of What, Exactly?<br>**
 
 Cognitive science distinguishes:
 - **Episodic memory:** Specific experiences (unboxing an iPhone)
@@ -124,7 +124,7 @@ Apple followed this playbook precisely—not as a universal principle but as a s
 
 **Critical Analysis:**
 
-**Did Nike Actually Succeed Because of Value-Marketing?**
+**Did Nike Actually Succeed Because of Value-Marketing?<br>**
 
 Research suggests Nike's success was multivariate:
 - **Product innovation:** Air technology (1979), visible Air Max (1987), Flyknit (2012), Vaporfly (2017)
@@ -167,7 +167,7 @@ The claim that values "shouldn't change" is either naive or strategic—providin
 
 **Jobs' Successful Examples:**
 - Nike: "Just Do It" campaign correlated with 10x revenue growth
-- Got Milk?: Awareness reached 90%+
+- Got Milk?<br>: Awareness reached 90%+
 
 **Missing Cases:**
 
@@ -185,7 +185,7 @@ The claim that values "shouldn't change" is either naive or strategic—providin
 3. Core customers are antagonized
 4. Political/social stands alienate without attracting
 
-**Why Did Jobs Ignore Failures?**
+**Why Did Jobs Ignore Failures?<br>**
 - Availability heuristic: Nike and Got Milk were culturally visible
 - Confirmation bias: As a marketer, Jobs sought proof that marketing (not operations/R&D) drives success
 - Historical context: 1997 predated most major value-marketing failures
@@ -211,7 +211,7 @@ The claim that values "shouldn't change" is either naive or strategic—providin
    - Outsourcing cost advantages
    - Distribution partnerships with Foot Locker, etc.
 
-**The Unanswerable Question:** What percentage of Nike's success is attributable to value-marketing vs. other factors? Jobs assumed 100% (or at least dominant causation). Rigorous analysis suggests 15-25% at most.
+**The Unanswerable Question:** What percentage of Nike's success is attributable to value-marketing vs. other factors?<br> Jobs assumed 100% (or at least dominant causation). Rigorous analysis suggests 15-25% at most.
 
 ### 3.3 The Got Milk Paradox
 
@@ -227,7 +227,7 @@ The claim that values "shouldn't change" is either naive or strategic—providin
 | 2010s | Fastest decline of any decade | -2.6% annually |
 
 **Research Findings:**
-- The New Yorker (2014): "Got Milk? didn't actually get people to buy more milk"
+- The New Yorker (2014): "Got Milk?<br> didn't actually get people to buy more milk"
 - Brand Innovators (2025): "Only managed to increase milk consumption by 2% against a budget north of $100 million per year"
 - Journal of Food Distribution Research (2024): "Advertising wearout"—campaign lost effectiveness over time
 
@@ -252,7 +252,7 @@ The claim that values "shouldn't change" is either naive or strategic—providin
 
 ## 4. STRUCTURAL CRITIQUE
 
-### 4.1 Is "Brand as Identity" Inherently Manipulative?
+### 4.1 Is "Brand as Identity" Inherently Manipulative?<br>
 
 **The Manipulation Framework (Arango-Kure & Garz, 2025):**
 Manipulation = "Intentional influence without informed consent"
@@ -274,9 +274,9 @@ Manipulation = "Intentional influence without informed consent"
 2. Creates brand attachment that leads to "obsessive-compulsive buying" (Japutra et al., 2022)
 3. Generates "brand anxiety"—worry about brand perception that drives consumption
 
-**Counter-Argument:** All marketing aims to influence. Is appealing to identity worse than lying about specifications? Feature-marketing can also manipulate (planned obsolescence, misleading specs). The honesty comparison is unclear.
+**Counter-Argument:** All marketing aims to influence. Is appealing to identity worse than lying about specifications?<br> Feature-marketing can also manipulate (planned obsolescence, misleading specs). The honesty comparison is unclear.
 
-### 4.2 Does Value-Marketing Obscure Transactional Nature?
+### 4.2 Does Value-Marketing Obscure Transactional Nature?<br>
 
 **Marx's Commodity Fetishism:** In capitalism, social relations between people appear as relations between things (commodities). Value-marketing extends this:
 
@@ -295,9 +295,9 @@ The culture industry doesn't just sell products—it sells the *illusion* that c
 - Feature-marketing: "Here's what this product does; decide if it's worth the price"
 - Value-marketing: "This product will make you a world-changer; the price is irrelevant to your identity"
 
-Which is more honest? Philosophically unclear. Practically, value-marketing creates stronger irrational loyalty.
+Which is more honest?<br> Philosophically unclear. Practically, value-marketing creates stronger irrational loyalty.
 
-### 4.3 Class Dimension: Who Gets to "Change the World"?
+### 4.3 Class Dimension: Who Gets to "Change the World"?<br>
 
 **Jobs' Implicit Assumptions:**
 1. World-changing is available to individuals (not collectives)
@@ -322,7 +322,7 @@ Which is more honest? Philosophically unclear. Practically, value-marketing crea
 
 ### 4.4 The Authenticity Paradox
 
-**The Paradox:** If values are strategically deployed for profit, are they values or tactics?
+**The Paradox:** If values are strategically deployed for profit, are they values or tactics?<br>
 
 **Jobs' Claim:** Values "shouldn't change" and represent authentic identity.
 
@@ -341,10 +341,10 @@ Apple's authenticity score: Low. Gap between:
 - Operations: Supply chain exploitation, China compliance, planned obsolescence
 
 **The Unresolvable Tension:** If Apple genuinely believed in changing the world for the better, why did it:
-- Oppose right-to-repair legislation (2012-2025)?
-- Throttle old iPhones (Batterygate, 2016)?
-- Remove privacy apps in China (2017-2024)?
-- Source cobalt from child labor regions (ongoing)?
+- Oppose right-to-repair legislation (2012-2025)?<br>
+- Throttle old iPhones (Batterygate, 2016)?<br>
+- Remove privacy apps in China (2017-2024)?<br>
+- Source cobalt from child labor regions (ongoing)?<br>
 
 Either:
 1. The values are tactics (cynical interpretation)
@@ -377,8 +377,8 @@ Apple literally could not compete on:
 
 **The Causation Problem:**
 Did Jobs adopt value-marketing because he:
-1. Genuinely believed it was superior (conviction)?
-2. Had no other option (necessity)?
+1. Genuinely believed it was superior (conviction)?<br>
+2. Had no other option (necessity)?<br>
 
 **Evidence for Necessity:**
 - Philosophy deployed exactly when Apple had nothing else to sell
@@ -408,7 +408,7 @@ Jobs described returning to Apple as "rescuing a son before he loses himself to 
 - He was "thinking different" by returning to a company that rejected him
 - The campaign validated his personal narrative
 
-**Structural Question:** Would Jobs have developed this philosophy without his personal redemption arc? Unclear. The 1985-1997 period shaped his thinking, but we cannot isolate the causal contribution of personal psychology.
+**Structural Question:** Would Jobs have developed this philosophy without his personal redemption arc?<br> Unclear. The 1985-1997 period shaped his thinking, but we cannot isolate the causal contribution of personal psychology.
 
 ### 5.3 The NeXT Control Case (1985-1996)
 
@@ -429,7 +429,7 @@ NeXT marketing (1985-1996) emphasized:
 - Never achieved market penetration
 - Apple acquired NeXT primarily for NeXTSTEP software (not brand/marketing)
 
-**Why Didn't Jobs Use Value-Marketing at NeXT?**
+**Why Didn't Jobs Use Value-Marketing at NeXT?<br>**
 
 **Hypothesis 1:** NeXT had genuine technical innovation (NeXTSTEP was revolutionary). When you have product advantages, you market features.
 
@@ -554,7 +554,7 @@ Klein argues brands have "shed their product-driven cocoons" to sell lifestyles,
 
 ### 7.1 Values vs. Profit Conflicts
 
-**The Unasked Question:** What happens when "core values" conflict with profit?
+**The Unasked Question:** What happens when "core values" conflict with profit?<br>
 
 **Apple's Answer (Empirical):**
 Profit wins. Examples:
@@ -567,7 +567,7 @@ Profit wins. Examples:
 
 **Jobs' Silence:** He never addressed how to prioritize when values and profit conflict. This is the central ethical question of corporate values, and the speech entirely ignores it.
 
-### 7.2 Who Decides the "Core Values"?
+### 7.2 Who Decides the "Core Values"?<br>
 
 **Jobs' Assumption:** Values are determined by leadership (specifically, him).
 
@@ -586,7 +586,7 @@ Profit wins. Examples:
 
 ### 7.3 Values Without Verification
 
-**The Gap:** Apple says X but does Y. Which is the "real" value?
+**The Gap:** Apple says X but does Y. Which is the "real" value?<br>
 
 **Examples:**
 - **Said:** "People with passion change the world"
@@ -598,7 +598,7 @@ Profit wins. Examples:
 - **Said:** "Environmental leadership"
   **Did:** Lobbied against right-to-repair, destroyed functional devices
 
-**The Verification Problem:** How do we determine a company's "real" values?
+**The Verification Problem:** How do we determine a company's "real" values?<br>
 
 **Options:**
 1. **Marketing claims:** Values are what company says (unreliable)
@@ -608,7 +608,7 @@ Profit wins. Examples:
 
 **Jobs' Framework:** Assumes #1 (marketing claims) = reality. Never addresses verification.
 
-### 7.4 The Consumer's Role: Participants or Targets?
+### 7.4 The Consumer's Role: Participants or Targets?<br>
 
 **Jobs' Implicit Model:** Consumers are targets of marketing. The company decides what to communicate; consumers receive and hopefully internalize.
 
@@ -624,7 +624,7 @@ Profit wins. Examples:
 - Emotional marketing impacts "the process of perception itself" (Vrtana & Križanová, 2023)
 - Creates anxiety-driven relationships (Nguyen, 2014)
 
-**The Unaddressed Question:** Are consumers autonomous participants choosing to engage with brand identity, or manipulated targets of sophisticated persuasion technology?
+**The Unaddressed Question:** Are consumers autonomous participants choosing to engage with brand identity, or manipulated targets of sophisticated persuasion technology?<br>
 
 **Evidence for Manipulation:**
 - Apple's $500M+ annual advertising budget
@@ -644,7 +644,7 @@ Profit wins. Examples:
 
 ## 8. KEY QUESTIONS WITHOUT CLEAR ANSWERS
 
-### 8.1 Is Value-Marketing More or Less Honest?
+### 8.1 Is Value-Marketing More or Less Honest?<br>
 
 **Feature-Marketing:** Makes verifiable claims subject to factual checking. Can be dishonest (false specs) but lies are detectable.
 
@@ -661,7 +661,7 @@ Profit wins. Examples:
 - If honesty = making falsifiable claims → Feature-marketing is more honest
 - If honesty = not manipulating emotions → Unclear which is worse
 
-### 8.2 Did Apple Succeed Because of, Despite, or Independently of This Philosophy?
+### 8.2 Did Apple Succeed Because of, Despite, or Independently of This Philosophy?<br>
 
 **Option 1: Because of**
 - Think Different campaign preceded 900% stock growth
@@ -681,7 +681,7 @@ Profit wins. Examples:
 **The Causal Impossibility:**
 We cannot run controlled experiments. No counterfactual Apple exists that pursued feature-marketing instead. The question may be unanswerable.
 
-### 8.3 Can a Corporation Have "Values" in Any Meaningful Sense?
+### 8.3 Can a Corporation Have "Values" in Any Meaningful Sense?<br>
 
 **Option 1: Yes**
 - Corporations are composed of people who can collectively hold values
@@ -702,7 +702,7 @@ We cannot run controlled experiments. No counterfactual Apple exists that pursue
 **The Philosophical Stalemate:**
 This depends on definition of "values." If values require costly commitment when inconvenient, Apple has few. If values are stated preferences that guide action when cost-neutral, Apple has many.
 
-### 8.4 Is Jobs Describing Reality or Constructing It Through Rhetoric?
+### 8.4 Is Jobs Describing Reality or Constructing It Through Rhetoric?<br>
 
 **Realist Interpretation:**
 Jobs observed genuine patterns in consumer behavior:
@@ -718,11 +718,11 @@ Jobs' speech created the reality it described:
 - We now live in a world where consumers believe they express identity through products BECAUSE Jobs constructed that belief
 
 **The Recursive Problem:**
-If Jobs constructed the reality, was he wrong to claim Nike/Got Milk succeeded through value-marketing? Or did his speech make that causal claim true by spreading the philosophy?
+If Jobs constructed the reality, was he wrong to claim Nike/Got Milk succeeded through value-marketing?<br> Or did his speech make that causal claim true by spreading the philosophy?<br>
 
 **Assessment:** Both. Jobs described real trends (commoditization, attention scarcity) while also amplifying them through influential rhetoric.
 
-### 8.5 What Is the Ethical Status of Creating Emotional Brand Attachment?
+### 8.5 What Is the Ethical Status of Creating Emotional Brand Attachment?<br>
 
 **The Case Against:**
 - Manipulates consumers below rational awareness

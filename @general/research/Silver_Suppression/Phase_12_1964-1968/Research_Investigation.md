@@ -36,7 +36,7 @@
 **The Suppression Seed:** "Supply Optics." Central banks still use this today—announcing "unlimited support" or printing money to create the perception of stability and abundance to quell panic.
 
 #### IV. The "Clad" Compromise: Vending Machine Lobbying
-**The Simple Truth:** Why did the new coins have to be copper and nickel? Because the vending machine industry (NAMA) said so. Silver conducts electricity specifically. If the new coins didn't mimic that, millions of vending machines would reject them. The government designed the new money not for the people, but for the machines.
+**The Simple Truth:** Why did the new coins have to be copper and nickel?<br> Because the vending machine industry (NAMA) said so. Silver conducts electricity specifically. If the new coins didn't mimic that, millions of vending machines would reject them. The government designed the new money not for the people, but for the machines.
 **The Hard Evidence:**
 *   **LBJ's Speech:** Explicitly mentioned "6 million coin-operated devices."
 *   **Technical Requirement:** The Cu-Ni clad sandwich mimics the electromagnetic signature of silver to fool slug-rejectors.
@@ -51,7 +51,7 @@
 **The Suppression Seed:** "The Redemption Cliff." Governments often end convertibility abruptly to prevent a run. This happened with gold in 1933 and 1971, and silver in 1968.
 
 #### VI. The Price Peg Struggle: Defense of $1.29
-**The Simple Truth:** The government fought a war to keep silver at $1.29. They dumped their own stockpiles onto the market to flood it and keep the price cheap. Why? If silver went past $1.38, the new 40% half-dollars would be melted. They were subsidizing cheap silver for industry by selling off the family jewels.
+**The Simple Truth:** The government fought a war to keep silver at $1.29. They dumped their own stockpiles onto the market to flood it and keep the price cheap. Why?<br> If silver went past $1.38, the new 40% half-dollars would be melted. They were subsidizing cheap silver for industry by selling off the family jewels.
 **The Hard Evidence:**
 *   **Treasury Sales:** Unrestricted sales at $1.29 to domestic users.
 *   **July 1967:** Treasury forced to uncap the price as reserves collapsed.
@@ -145,35 +145,35 @@ The climax came in 1968. The government set a final deadline for redeeming Silve
 ---
 
 ### 6. COMPREHENSION CHECK (Critical Thinking)
-1.  **Q:** Why did the government ban melting silver coins in 1967?
+1.  **Q:** Why did the government ban melting silver coins in 1967?<br>
     **A:** Because the metal value exceeded the face value. Without the ban, the entire money supply would have been melted down and sold as bullion.
-2.  **Q:** What was the "lie" in the Coinage Act of 1965?
+2.  **Q:** What was the "lie" in the Coinage Act of 1965?<br>
     **A:** President Johnson claiming the new copper coins would have the "same value" as silver ones. In reality, the silver coins retained purchasing power (wealth), while the copper ones lost it to inflation.
-3.  **Q:** Why were mint marks removed for three years?
+3.  **Q:** Why were mint marks removed for three years?<br>
     **A:** To make all coins look identical ("fungible") so collectors wouldn't hoard specific batches, supposedly helping circulation.
-4.  **Q:** How did vending machines dictate the composition of your money?
+4.  **Q:** How did vending machines dictate the composition of your money?<br>
     **A:** The "clad" layers were engineered specifically to mimic silver's electrical conductivity so the vending industry wouldn't have to retool their machines.
-5.  **Q:** What happened to the silver half-dollar?
+5.  **Q:** What happened to the silver half-dollar?<br>
     **A:** It was debased to 40% silver in 1965, then to 0% in 1971. It effectively disappeared from circulation because even 40% silver was too valuable to spend.
-6.  **Q:** Why is the date "June 24, 1968" significant?
+6.  **Q:** Why is the date "June 24, 1968" significant?<br>
     **A:** It was the last day a U.S. dollar bill was a receipt for something real (silver). After that, it was just paper/credit.
-7.  **Q:** Did the "Date Freeze" work?
+7.  **Q:** Did the "Date Freeze" work?<br>
     **A:** No. It confused the market temporarily, but people hoarded based on metal content, not just the date. Silver coins vanished regardless of what year was stamped on them.
-8.  **Q:** What is a "Special Mint Set"?
+8.  **Q:** What is a "Special Mint Set"?<br>
     **A:** A lower-quality collector set issued during the crisis to satisfy demand without encouraging "investment" hoarding like Proof Sets did.
-9.  **Q:** Why did the Treasury defend the $1.29 price point?
+9.  **Q:** Why did the Treasury defend the $1.29 price point?<br>
     **A:** It was the "break-even" price where the silver in a dollar coin cost $1.00. Protecting this price kept coins from being melted.
-10. **Q:** Who were the "bad guys" according to the Mint Director?
+10. **Q:** Who were the "bad guys" according to the Mint Director?<br>
     **A:** Coin collectors ("numismatists"). The government blamed them to deflect from the fact that they had debased the currency.
-11. **Q:** What is the "Gallows Humor" of the 1965 Act?
+11. **Q:** What is the "Gallows Humor" of the 1965 Act?<br>
     **A:** The government made it illegal to protect your wealth (by melting coins) at the exact moment they were stealing it (by debasing coinage).
-12. **Q:** How much silver is in a post-1965 dime?
+12. **Q:** How much silver is in a post-1965 dime?<br>
     **A:** Zero. It is copper and nickel.
-13. **Q:** Why did the Hunt Brothers see an opportunity in this chaos?
+13. **Q:** Why did the Hunt Brothers see an opportunity in this chaos?<br>
     **A:** They saw that the government was running out of silver to suppress the price. Once the Treasury stopped selling, the price *had* to rise.
-14. **Q:** What is the "Soft Default"?
+14. **Q:** What is the "Soft Default"?<br>
     **A:** Changing the rules of repayment. Instead of paying in silver as promised, the government paid in copper/paper. It's a default without saying the word.
-15. **Q:** How does this connect to Phase 60 (Today)?
+15. **Q:** How does this connect to Phase 60 (Today)?<br>
     **A:** We are seeing "digital debasement" (QE) today, similar to the "physical debasement" (Clad coins) of 1965. The mechanism changes, but the theft of value remains the same.
 
 **C:** The silver is gone from the money. The redemption window is closed. The Treasury is empty. But the market isn't done. The "Silver Seventies" are approaching, and the price is about to awaken from its government-induced coma. Phase 13 awaits...

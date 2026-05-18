@@ -35,7 +35,7 @@ Standard economics says central banks control the economy by changing interest r
 *   **The Result:** The bubble wasn't "irrational exuberance." It was **manufactured credit creation** directed by the central bank.
 
 ### C. The Motive: Structural Reform via Crisis
-Why would the BoJ destroy its own economy?
+Why would the BoJ destroy its own economy?<br>
 *   **The "Princes":** A faction of central bankers, led by **Mieno Yasushi**, wanted to break the "1940 System" and the power of the Ministry of Finance.
 *   **The Logic:** Politicians and voters would never voluntarily dismantle the "safe" convoy system (lifetime employment, protectionism).
 *   **The Solution:** Only a massive crisis would force the country to accept painful structural reforms (deregulation, privatization, independent central bank). **The recession was the necessary price for modernization.**
@@ -118,7 +118,7 @@ Richard Koo (Nomura Research Institute) explains *why* the recession lasted so l
 *   **The Data:** By 1998, the Japanese corporate sector had become a **net saver**, a massive anomaly for a developed economy. Corporate investment dropped by 22% of GDP.
 
 ### B. The "Tobashi" Schemes (Fly Away)
-How did companies hide their massive losses for so long? They used "Tobashi" (meaning "to make fly away").
+How did companies hide their massive losses for so long?<br> They used "Tobashi" (meaning "to make fly away").
 *   **The Trick:** A company has a stock portfolio worth $100M that crashes to $50M. Instead of booking the loss, they sell the portfolio to a dummy company (or a friendly company) for $100M just before the financial reporting deadline.
 *   **The Cycle:** The bad asset is "flown" from one company to another so it never appears on anyone's books at the end of the fiscal year.
 *   **The Olympus Scandal:** This was the most famous example. Olympus hid massive losses from the 1990s for *decades* using complex acquisitions and advisory fees to dummy companies in the Cayman Islands to write off the "flying" bad debts.
@@ -163,13 +163,13 @@ By 1999, the "Lost Decade" was 8 years old, and Nissan was dying. It had $20 bil
 Standard histories miss the structural corruption and psychological voids that defined this era.
 
 ### A. The "Iron Triangle" & "Doken Kokka" (Construction State)
-Why did Japan pour so much concrete?
+Why did Japan pour so much concrete?<br>
 *   **The Concept:** Gavan McCormack coined "Doken Kokka" (Construction State). Japan became addicted to public works not to build infrastructure, but to buy votes.
 *   **The Mechanism:** The LDP (ruling party) gave contracts to construction firms -> firms gave kickbacks to politicians and jobs to rural voters -> voters kept the LDP in power.
 *   **The Cost:** Japan paved over its rivers and coastlines. In the 1990s, Japan used more concrete *per capita* than any nation on earth. It was welfare disguised as industry, creating "bridges to nowhere" while national debt skyrocketed.
 
 ### B. The Yakuza & The "Jusen" Scandal
-Why couldn't the banks just foreclose on bad loans? **The Mafia**.
+Why couldn't the banks just foreclose on bad loans?<br> **The Mafia**.
 *   **Jiageya (Land Turners):** During the bubble, developers hired Yakuza to "convince" tenants to leave. When the bubble burst, the Yakuza were holding the land.
 *   **The Standoff:** Banks were terrified to collect debts from Yakuza-front companies. Bank managers were threatened or assassinated (e.g., the Hanwa Bank executive murder).
 *   **The "Jusen" (Housing Loan Companies):** These non-banks lent heavily to the mob. Their collapse was a toxic mix of bad economics and organized crime, making the cleanup dangerous and slow.

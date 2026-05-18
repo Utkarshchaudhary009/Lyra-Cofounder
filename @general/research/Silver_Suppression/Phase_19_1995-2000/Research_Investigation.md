@@ -5,7 +5,7 @@
 The late 1990s were the "Eye of the Storm" for silver. On the surface, the price was comatose, flatlining between $4 and $6. To the average investor, silver was a "barbarous relic" left behind by the dot-com boom. But underneath the calm surface, a massive structural shift was occurring. **The Tech Boom was quietly making silver indispensable.**
 
 **The Thesis:**
-This era set the stage for modern suppression because it created the "Industrial Alibi." As silver transformed from a monetary metal to a critical industrial component (electronics, DVDs, medical), the price *should* have skyrocketed. Instead, it was held down. Why? Because if the price of the essential component of the future (silver) exploded, it would signal inflation and destabilize the fiat currency regimes that were celebrating the "End of History." This phase shows the birth of the **"Paper Cover"**: using leasing and derivatives to suffocate a physical shortage.
+This era set the stage for modern suppression because it created the "Industrial Alibi." As silver transformed from a monetary metal to a critical industrial component (electronics, DVDs, medical), the price *should* have skyrocketed. Instead, it was held down. Why?<br> Because if the price of the essential component of the future (silver) exploded, it would signal inflation and destabilize the fiat currency regimes that were celebrating the "End of History." This phase shows the birth of the **"Paper Cover"**: using leasing and derivatives to suffocate a physical shortage.
 
 ---
 
@@ -59,7 +59,7 @@ This era set the stage for modern suppression because it created the "Industrial
 *   **The Suppression Seed:** This flatline broke the spirit of retail investors. "Silver does nothing." This apathy is a suppression tool—bored investors sell, allowing big banks to accumulate.
 
 ### Clue 7: The Phantom Shorts
-*   **The Simple Truth:** You can't prove a ghost exists, but you can feel the cold spots. The price was stuck despite shortages. Why? Someone was betting big that it *wouldn't* go up.
+*   **The Simple Truth:** You can't prove a ghost exists, but you can feel the cold spots. The price was stuck despite shortages. Why?<br> Someone was betting big that it *wouldn't* go up.
 *   **The Hard Evidence:**
     *   **"Net Disinvestment":** The 1990s were labeled a period of net disinvestment.
     *   **CFTC Reports:** Option positions tracking started in 1995, revealing "Concentrated Short" positions held by a few large players (Banks).
@@ -132,7 +132,7 @@ This era set the stage for modern suppression because it created the "Industrial
 
 Imagine a dam holding back a river. The river is **Industrial Demand**. The dam is **Paper Suppression**. In the 1990s, the river started to rage. The "Internet Era" wasn't just code; it was hardware. Circuit boards, servers, connectors—all hungry for silver. Photography was blazing at an all-time high. The physical world was screaming for silver.
 
-But the price? The price was asleep. It flatlined at $5. Why? Because the "Paper Blanket" was thick. Central Banks were selling gold, dampening the mood. Bullion Banks were selling "Paper Silver" (Shorts) to convince the world there was plenty of metal.
+But the price?<br> The price was asleep. It flatlined at $5. Why?<br> Because the "Paper Blanket" was thick. Central Banks were selling gold, dampening the mood. Bullion Banks were selling "Paper Silver" (Shorts) to convince the world there was plenty of metal.
 
 Then, a giant stepped on the blanket. **Warren Buffett**. He didn't look at the paper price; he looked at the supply/demand deficit. He bought 129 million ounces. Suddenly, the banks panicked. They didn't have the metal. Lease rates (the cost to borrow silver to cover shorts) exploded to 80%. It was a momentary glimpse behind the curtain. The shortage was real. The banks scrambled, delivered the metal, and quickly patched the hole in the curtain. They successfully "managed" the price back down by 2000, but the secret was out: **The Emperor had no Silver.**
 
@@ -147,47 +147,47 @@ Then, a giant stepped on the blanket. **Warren Buffett**. He didn't look at the 
 
 ## 6. Comprehension Check (Critical Thinking)
 
-**Q1:** Why did silver prices stay low (approx $5) despite the massive tech boom demand?
+**Q1:** Why did silver prices stay low (approx $5) despite the massive tech boom demand?<br>
 **A1:** The market was flooded with "paper silver" (derivatives/shorts) and leasing, which absorbed the buying pressure without requiring physical delivery.
 
-**Q2:** What does an 80% lease rate indicate?
+**Q2:** What does an 80% lease rate indicate?<br>
 **A2:** It indicates a desperate physical shortage. Banks were willing to pay huge interest to borrow silver immediately to cover their obligations.
 
-**Q3:** How did Central Bank gold sales affect silver?
+**Q3:** How did Central Bank gold sales affect silver?<br>
 **A3:** They destroyed sentiment. By smashing gold, they made all precious metals look like bad investments, distracting from silver's specific supply deficit.
 
-**Q4:** What was the "Silver Valley Resources" event?
+**Q4:** What was the "Silver Valley Resources" event?<br>
 **A4:** A merger between Coeur and ASARCO/Galena mines, showing how low prices forced competitors to join forces to survive.
 
-**Q5:** Why is the 1999 Photography peak important?
+**Q5:** Why is the 1999 Photography peak important?<br>
 **A5:** It represents the maximum "legacy" demand overlapping with the new "digital" demand, creating a massive total consumption year that should have spiked prices.
 
-**Q6:** What is "Inelastic Demand"?
+**Q6:** What is "Inelastic Demand"?<br>
 **A6:** When a buyer (like a computer maker) *must* buy the material regardless of price because they can't build the product without it.
 
-**Q7:** How did Buffett expose the suppression?
+**Q7:** How did Buffett expose the suppression?<br>
 **A7:** By taking delivery. Paper contracts settle in cash; Buffett demanded the actual bars, proving the banks didn't have them.
 
-**Q8:** What is the difference between specific 90s PCs and modern PCs regarding silver?
+**Q8:** What is the difference between specific 90s PCs and modern PCs regarding silver?<br>
 **A8:** 90s PCs used significantly more silver (thick traces, membrane keys) per unit.
 
-**Q9:** What role did the "Dot-Com" bubble play in silver?
+**Q9:** What role did the "Dot-Com" bubble play in silver?<br>
 **A9:** It acted as a capital vacuum, sucking money *out* of commodities and into tech stocks, aiding the suppression.
 
-**Q10:** Why was silver used in the 1990s medical field?
+**Q10:** Why was silver used in the 1990s medical field?<br>
 **A10:** Discoveries like Acticoat used silver's anti-microbial properties, opening a new "biotech" front for demand.
 
-**Q11:** What happens to silver used in keyboards/switches?
+**Q11:** What happens to silver used in keyboards/switches?<br>
 **A11:** It is often "dissipated" (lost) in landfills because it is too small/costly to recycle, permanently reducing the world supply.
 
-**Q12:** If Buffett bought 129 Moz, roughly what percentage of annual global mine production was that?
+**Q12:** If Buffett bought 129 Moz, roughly what percentage of annual global mine production was that?<br>
 **A12:** In the late 90s, mine production was ~500-600 Moz. Buffett bought ~20-25% of a whole year's global production.
 
-**Q13:** Why did the price eventually fall back down after 1998?
+**Q13:** Why did the price eventually fall back down after 1998?<br>
 **A13:** The banks eventually sourced the metal (likely from leasing/central banks) and the speculative fervor died down as the Dot-Com bubble climaxed.
 
-**Q14:** What is the "Chain of Evidence" for this era?
+**Q14:** What is the "Chain of Evidence" for this era?<br>
 **A14:** Tech Boom (Need) -> Flat Price (Anomaly) -> Buffett Buy (Catalyst) -> Lease Rate Spike (Proof of Shortage).
 
-**Q15:** What is the "Curiosity Spark" for the next phase?
-**C:** If Buffett had to sell in 2006, who bought his silver, and did that transfer mark the beginning of the ETF era (SLV)?
+**Q15:** What is the "Curiosity Spark" for the next phase?<br>
+**C:** If Buffett had to sell in 2006, who bought his silver, and did that transfer mark the beginning of the ETF era (SLV)?<br>

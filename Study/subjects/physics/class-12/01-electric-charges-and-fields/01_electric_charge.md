@@ -6,9 +6,9 @@
 
 ## ðŸŽ¯ Stage 1: The Core Idea
 
-### What Is Electric Charge?
+### What Is Electric Charge?<br>
 
-Imagine you're at a school fair. There are two types of tokens â€” **red tokens** and **blue tokens**. If you hold two red tokens close, they push each other away. Two blue tokens? Same thing â€” they repel. But hold a red and a blue token near each other, and they snap together like magnets.
+Imagine you're at a school fair. There are two types of tokens â€” **red tokens** and **blue tokens**. If you hold two red tokens close, they push each other away. Two blue tokens?<br> Same thing â€” they repel. But hold a red and a blue token near each other, and they snap together like magnets.
 
 **Electric charge is exactly like this.**
 
@@ -51,9 +51,13 @@ $$Q = ne$$
 
 | Symbol | Meaning | Unit | Value |
 |--------|---------|------|-------|
-| Q | Total charge on a body | Coulomb (C) | â€” |
+| Q | Total charge on a body | Coulomb <br>
+(C)
+ | â€” |
 | n | Number of electrons transferred | Dimensionless integer | ..., âˆ’2, âˆ’1, 0, 1, 2, ... |
-| e | Elementary charge (magnitude) | Coulomb (C) | 1.6 Ã— 10â»Â¹â¹ C |
+| e | Elementary charge (magnitude) | Coulomb <br>
+(C)
+ | 1.6 Ã— 10â»Â¹â¹ C |
 
 **What this formula says:** You can't have 1.5 electrons or 0.7 protons. Charge always comes in whole-number packets of *e*. It's like money â€” you can have â‚¹1, â‚¹2, â‚¹3... but never â‚¹1.37 (at the fundamental level).
 
@@ -64,7 +68,7 @@ $$Q = ne$$
 | Charge of 1 electron | âˆ’1.6 Ã— 10â»Â¹â¹ C |
 | Charge of 1 proton | +1.6 Ã— 10â»Â¹â¹ C |
 | Mass of electron | 9.1 Ã— 10â»Â³Â¹ kg |
-| 1 Coulomb = ? electrons | 6.25 Ã— 10Â¹â¸ electrons |
+| 1 Coulomb = ?<br> electrons | 6.25 Ã— 10Â¹â¸ electrons |
 
 > ðŸ’¡ **Perspective:** 1 Coulomb is a *colossal* amount of charge. A lightning bolt transfers only about 5 C. Your phone battery moves ~5000 C during a full discharge.
 
@@ -78,7 +82,7 @@ $$Q = ne$$
 
 **Solved Example** ðŸŸ¢
 
-> A plastic comb gains 3 Ã— 10Â¹â° electrons after being rubbed through hair. What charge does the comb acquire?
+> A plastic comb gains 3 Ã— 10Â¹â° electrons after being rubbed through hair. What charge does the comb acquire?<br>
 
 **Solution:**
 - n = 3 Ã— 10Â¹â° (gained  negative charge)
@@ -89,19 +93,19 @@ $$Q = ne$$
 
 1. ðŸŸ¢ A glass rod loses 5 × 10¹² electrons. Find the charge on the rod. *(Ans: +0.8 μC)*
 2. ðŸŸ¢ A metal sphere gains 2.5 × 10¹⁴ electrons. Find the charge. *(Ans: −40 μC)*
-3. ðŸŸ¡ A body has a charge of −3.2 μC. How many excess electrons does it have? *(Ans: 2 × 10¹³)*
+3. ðŸŸ¡ A body has a charge of −3.2 μC. How many excess electrons does it have?<br> *(Ans: 2 × 10¹³)*
 4. ðŸŸ¡ A plastic rod gains 8 × 10¹² electrons after rubbing. Calculate the charge acquired in nanocoulombs. *(Ans: -1.28 nC)*
-5. ðŸ”´ A body has a charge of +6.4 μC. How many electrons has it lost? If the same body gains 2 × 10¹² electrons, what will be its new charge? *(Ans: 4 × 10¹³ electrons lost; new charge = +6.4 μC - 0.32 μC = +6.08 μC)*
+5. ðŸ”´ A body has a charge of +6.4 μC. How many electrons has it lost?<br> If the same body gains 2 × 10¹² electrons, what will be its new charge?<br> *(Ans: 4 × 10¹³ electrons lost; new charge = +6.4 μC - 0.32 μC = +6.08 μC)*
 
 ---
 
 ### Type 2: Find the number of electrons for a given charge â­
 
-**Pattern:** "A body has charge Q. How many electrons were transferred?"
+**Pattern:** "A body has charge Q. How many electrons were transferred?<br>"
 
 **Solved Example** ðŸŸ¢
 
-> A sphere has a charge of +4.8 Ã— 10â»Â¹â¶ C. How many electrons has it lost?
+> A sphere has a charge of +4.8 Ã— 10â»Â¹â¶ C. How many electrons has it lost?<br>
 
 **Solution:**
 - Q = +4.8 Ã— 10â»Â¹â¶ C (positive  lost electrons)
@@ -109,9 +113,9 @@ $$Q = ne$$
 
 **Practice:**
 
-1. ðŸŸ¢ A body has charge âˆ’6.4 Ã— 10â»Â¹â· C. How many excess electrons? *(Ans: 400)*
-2. ðŸŸ¡ When a body is charged by rubbing, it acquires +1 Î¼C. How many electrons were transferred and in which direction? *(Ans: 6.25 Ã— 10Â¹Â² electrons, from body to rubbing material)*
-3. ðŸŸ¡ An object has a deficit of 5 Ã— 10â¹ electrons. What is its charge? *(Ans: +8 Ã— 10â»Â¹â° C)*
+1. ðŸŸ¢ A body has charge âˆ’6.4 Ã— 10â»Â¹â· C. How many excess electrons?<br> *(Ans: 400)*
+2. ðŸŸ¡ When a body is charged by rubbing, it acquires +1 Î¼C. How many electrons were transferred and in which direction?<br> *(Ans: 6.25 Ã— 10Â¹Â² electrons, from body to rubbing material)*
+3. ðŸŸ¡ An object has a deficit of 5 Ã— 10â¹ electrons. What is its charge?<br> *(Ans: +8 Ã— 10â»Â¹â° C)*
 
 ---
 
@@ -131,18 +135,18 @@ $$Q = ne$$
 **Practice:**
 
 1. ðŸŸ¢ An ebonite rod is rubbed with fur. 5 Ã— 10Â¹â° electrons transfer from fur to rod. Find charge on each. *(Ans: rod = âˆ’8 nC, fur = +8 nC)*
-2. ðŸŸ¡ Two identical metal spheres, one with charge +4 Î¼C and one with âˆ’2 Î¼C, are brought into contact and separated. What is the charge on each? *(Ans: +1 Î¼C each)*
+2. ðŸŸ¡ Two identical metal spheres, one with charge +4 Î¼C and one with âˆ’2 Î¼C, are brought into contact and separated. What is the charge on each?<br> *(Ans: +1 Î¼C each)*
 3. ðŸ”´ A metal sphere A with charge +6 Î¼C touches sphere B (initially uncharged, same size). They separate. Then B touches sphere C (initially uncharged, same size). Find the final charge on A, B, and C. *(Ans: A = +3 Î¼C, B = +1.5 Î¼C, C = +1.5 Î¼C)*
 
 ---
 
-### Type 4: Is the given charge possible? (Quantization check)
+### Type 4: Is the given charge possible?<br> (Quantization check)
 
-**Pattern:** "Can a body have charge Q? Justify."
+**Pattern:** "Can a body have charge Q?<br> Justify."
 
 **Solved Example** ðŸŸ¢
 
-> Can a body have a charge of 2.4 Ã— 10â»Â¹â¹ C?
+> Can a body have a charge of 2.4 Ã— 10â»Â¹â¹ C?<br>
 
 **Solution:**
 - n = Q/e = 2.4 Ã— 10â»Â¹â¹ / 1.6 Ã— 10â»Â¹â¹ = **1.5**
@@ -150,9 +154,9 @@ $$Q = ne$$
 
 **Practice:**
 
-1. ðŸŸ¢ Is a charge of 8 Ã— 10â»Â¹â¹ C possible? *(Ans: Yes, n = 5)*
-2. ðŸŸ¢ Is a charge of 1.0 Ã— 10â»Â¹â¹ C possible? *(Ans: No, n = 0.625)*
-3. ðŸŸ¡ Which of the following are possible charges? (a) 4.8 Ã— 10â»Â¹â¹ C (b) 3.2 Ã— 10â»Â²â° C (c) 6.4 Ã— 10â»Â¹â¹ C *(Ans: (a) yes, (b) no â€” n = 0.2, (c) yes)*
+1. ðŸŸ¢ Is a charge of 8 Ã— 10â»Â¹â¹ C possible?<br> *(Ans: Yes, n = 5)*
+2. ðŸŸ¢ Is a charge of 1.0 Ã— 10â»Â¹â¹ C possible?<br> *(Ans: No, n = 0.625)*
+3. ðŸŸ¡ Which of the following are possible charges?<br> (a) 4.8 Ã— 10â»Â¹â¹ C (b) 3.2 Ã— 10â»Â²â° C (c) 6.4 Ã— 10â»Â¹â¹ C *(Ans: (a) yes, (b) no â€” n = 0.2, (c) yes)*
 
 ---
 
@@ -163,15 +167,15 @@ $$Q = ne$$
 > A body A has charge 3.2 Ã— 10â»â· C and body B has charge 4.8 Ã— 10â»â· C. Find the ratio of excess electrons on B to deficit of electrons on A.
 
 **Solution:**
-- Wait â€” charges are positive or negative? The problem says "charge" without sign. Let's assume A is positive (deficit) and B is negative (excess).
+- Wait â€” charges are positive or negative?<br> The problem says "charge" without sign. Let's assume A is positive (deficit) and B is negative (excess).
 - n_A = 3.2 Ã— 10â»â· / 1.6 Ã— 10â»Â¹â¹ = 2 Ã— 10Â¹Â²
 - n_B = 4.8 Ã— 10â»â· / 1.6 Ã— 10â»Â¹â¹ = 3 Ã— 10Â¹Â²
 - Ratio = n_B / n_A = **3/2**
 
 **Practice:**
 
-1. ðŸŸ¡ Two spheres have charges in ratio 2:5. If the first sphere has lost 10Â¹â° electrons, how many excess electrons does the second have (assuming it's negatively charged)? *(Ans: 2.5 Ã— 10Â¹â°)*
-2. ðŸŸ¡ A body has charge +Q. If its charge is doubled by removing electrons, how many electrons must be removed? *(Ans: Q/e)*
+1. ðŸŸ¡ Two spheres have charges in ratio 2:5. If the first sphere has lost 10Â¹â° electrons, how many excess electrons does the second have (assuming it's negatively charged)?<br> *(Ans: 2.5 Ã— 10Â¹â°)*
+2. ðŸŸ¡ A body has charge +Q. If its charge is doubled by removing electrons, how many electrons must be removed?<br> *(Ans: Q/e)*
 
 ---
 
@@ -188,7 +192,7 @@ $$Q = ne$$
 **Practice:**
 
 1. ðŸŸ¢ Convert 250 nC to (a) Î¼C, (b) C, (c) number of electron charges. *(Ans: 0.25 Î¼C, 2.5 Ã— 10â»â· C, 1.5625 Ã— 10Â¹Â²)*
-2. ðŸŸ¢ How many microcoulombs is 10Â¹âµ electrons worth of charge? *(Ans: 160 Î¼C)*
+2. ðŸŸ¢ How many microcoulombs is 10Â¹âµ electrons worth of charge?<br> *(Ans: 160 Î¼C)*
 
 ---
 
@@ -197,9 +201,9 @@ $$Q = ne$$
 These problems combine ideas from the types above.
 
 **Q1.** ðŸŸ¡ â­ A comb is rubbed through dry hair and acquires a charge of âˆ’3.2 Ã— 10â»â¸ C.
-(a) How many electrons were transferred to the comb?
-(b) What is the charge on the hair?
-(c) Is the charge 3.2 Ã— 10â»â¸ C consistent with charge quantization?
+(a) How many electrons were transferred to the comb?<br>
+(b) What is the charge on the hair?<br>
+(c) Is the charge 3.2 Ã— 10â»â¸ C consistent with charge quantization?<br>
 
 <details>
 <summary><b>Solution</b></summary>
@@ -211,7 +215,7 @@ These problems combine ideas from the types above.
 (c) n = 2 Ã— 10Â¹Â¹ â€” an integer. **Yes**, consistent with quantization. âœ“
 </details>
 
-**Q2.** ðŸŸ¡ Two identical spheres carry charges +Q and âˆ’3Q. They are brought into contact and then separated. What is the charge on each sphere? Is charge conserved?
+**Q2.** ðŸŸ¡ Two identical spheres carry charges +Q and âˆ’3Q. They are brought into contact and then separated. What is the charge on each sphere?<br> Is charge conserved?<br>
 
 <details>
 <summary><b>Solution</b></summary>
@@ -246,7 +250,7 @@ Total = 6 Î¼C âœ“ (conserved)
 
 ## ðŸ“‹ Stage 5: Board Arsenal
 
-**Q1.** ðŸŸ¢ â­ What is meant by the statement "charge is quantized"? *(1 mark)*
+**Q1.** ðŸŸ¢ â­ What is meant by the statement "charge is quantized"?<br> *(1 mark)*
 
 <details>
 <summary><b>Model Answer</b></summary>
@@ -285,12 +289,14 @@ These electrons were transferred from wool to polythene.
 **Another example:** In nuclear reactions like Î²-decay, a neutron converts to a proton + electron + antineutrino. The charge before (0) equals the charge after (+1 + (âˆ’1) + 0 = 0).
 </details>
 
-**Q5.** ðŸŸ¡ What is the SI unit of charge? Define it.
+**Q5.** ðŸŸ¡ What is the SI unit of charge?<br> Define it.
 
 <details>
 <summary><b>Model Answer</b></summary>
 
-The SI unit of charge is the **coulomb (C)**. One coulomb is the amount of charge that flows through a wire when a current of 1 ampere flows for 1 second.
+The SI unit of charge is the **coulomb <br>
+(C)
+**. One coulomb is the amount of charge that flows through a wire when a current of 1 ampere flows for 1 second.
 
 1 C = 1 A Ã— 1 s
 </details>
@@ -299,7 +305,7 @@ The SI unit of charge is the **coulomb (C)**. One coulomb is the amount of charg
 
 ## ðŸš€ Stage 6: JEE Mains Arena
 
-**Q1.** ðŸŸ¡ â­ A body has a charge of âˆ’40 Î¼C. How many electrons are in excess compared to protons?
+**Q1.** ðŸŸ¡ â­ A body has a charge of âˆ’40 Î¼C. How many electrons are in excess compared to protons?<br>
 
 (a) 2.5 Ã— 10Â¹â´ &emsp; (b) 2.5 Ã— 10Â¹Â³ &emsp; (c) 4 Ã— 10Â¹â´ &emsp; (d) 25 Ã— 10Â¹â°
 
@@ -310,7 +316,7 @@ The SI unit of charge is the **coulomb (C)**. One coulomb is the amount of charg
 n = 40 Ã— 10â»â¶ / 1.6 Ã— 10â»Â¹â¹ = **2.5 Ã— 10Â¹â´**
 </details>
 
-**Q2.** ðŸŸ¡ Which of the following charges is NOT possible?
+**Q2.** ðŸŸ¡ Which of the following charges is NOT possible?<br>
 
 (a) 1.6 Ã— 10â»Â¹â¹ C &emsp; (b) 3.2 Ã— 10â»Â¹â¹ C &emsp; (c) 2.4 Ã— 10â»Â¹â¹ C &emsp; (d) 6.4 Ã— 10â»Â¹â¹ C
 
@@ -320,7 +326,7 @@ n = 40 Ã— 10â»â¶ / 1.6 Ã— 10â»Â¹â¹ = **2.5 Ã— 10Â¹�
 **(c)**  n = 2.4/1.6 = 1.5  not an integer  not possible.
 </details>
 
-**Q3.** ðŸ”´ Two identical conducting spheres, A and B, carry charges +Q and +5Q respectively. They are brought into contact and then separated. A is then brought into contact with a third identical uncharged sphere C. What is the final charge on C?
+**Q3.** ðŸ”´ Two identical conducting spheres, A and B, carry charges +Q and +5Q respectively. They are brought into contact and then separated. A is then brought into contact with a third identical uncharged sphere C. What is the final charge on C?<br>
 
 (a) Q &emsp; (b) 3Q/2 &emsp; (c) 5Q/2 &emsp; (d) 3Q/4
 
@@ -350,7 +356,7 @@ F = kq(Qâˆ’q)/rÂ²  F is maximum when dF/dq = 0  Q âˆ’ 2q = 0  q = Q/2 
 > This is a calculus-meets-electrostatics classic. Appears repeatedly.
 </details>
 
-**Q5.** ðŸ”´ If 10Â¹â° electrons are removed per second from a body, how long will it take to acquire a charge of 1 C?
+**Q5.** ðŸ”´ If 10Â¹â° electrons are removed per second from a body, how long will it take to acquire a charge of 1 C?<br>
 
 (a) ~200 years &emsp; (b) ~20 years &emsp; (c) ~2000 years &emsp; (d) ~20000 years
 

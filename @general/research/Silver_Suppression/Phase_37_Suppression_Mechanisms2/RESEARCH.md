@@ -108,7 +108,7 @@ By the 2020s, silver suppression had evolved from a brute-force hammer into a pr
 
 It operated in the milliseconds. High-frequency algorithms, programmed by banks like **JPMorgan**, painted "Sell Walls" at key levels like **$30.00**. These ghostly orders, which **Michael Nowak** would later go to prison for, vanished the moment real buyers approached, but the psychological damage was done. The price was "Anchored."
 
-Behind the scenes, the **"Commercials"** held a net short position that defied logic—betting against the very asset they were custodians of. In 2022 alone, the world consumed **272 million ounces** more silver than it produced, yet the price barely moved. Why? Because the "Paper Market" (COMEX) flooded the world with virtual supply, covering the physical deficit with digital IOUs.
+Behind the scenes, the **"Commercials"** held a net short position that defied logic—betting against the very asset they were custodians of. In 2022 alone, the world consumed **272 million ounces** more silver than it produced, yet the price barely moved. Why?<br> Because the "Paper Market" (COMEX) flooded the world with virtual supply, covering the physical deficit with digital IOUs.
 
 When the pressure got too high, the regulators stepped in. In 2021, CFTC Chairman **Rostin Behnam** admitted on camera that his agency was able to **"Tamp Down"** the price of silver to protect market structure. It was an admission that the "Free Market" was an illusion.
 
@@ -124,22 +124,22 @@ The whistleblowers tried to warn us. **Andrew Maguire** told the CFTC in 2010 ex
 
 ## Comprehension Check: Spot the Scam
 
-**Q1:** If the world ran out of silver (Deficit of 272M oz), why didn't the price go up?
+**Q1:** If the world ran out of silver (Deficit of 272M oz), why didn't the price go up?<br>
 **A:** Because banks sold "Paper Silver" (Futures) to equal the demand, creating artificial supply.
-**C:** *Can you build a solar panel with Paper Silver?*
+**C:** *Can you build a solar panel with Paper Silver?<br>*
 
-**Q2:** Why did JPMorgan pay $920M if they claimed to be innocent?
+**Q2:** Why did JPMorgan pay $920M if they claimed to be innocent?<br>
 **A:** Corporations don't pay nearly a billion dollars unless the evidence (Chat logs/Spoofing data) is undeniable.
-**C:** *Is a fine a punishment or just a tax on illegal profits?*
+**C:** *Is a fine a punishment or just a tax on illegal profits?<br>*
 
-**Q3:** What implies that the "Unallocated Account" is a scam?
+**Q3:** What implies that the "Unallocated Account" is a scam?<br>
 **A:** The Perth Mint scandal showed they didn't have the metal to back the accounts when clients asked for delivery.
-**C:** *If everyone asked for their silver today, what would happen?*
+**C:** *If everyone asked for their silver today, what would happen?<br>*
 
-**Q4:** How does "Backwardation" prove manipulation in 2020?
+**Q4:** How does "Backwardation" prove manipulation in 2020?<br>
 **A:** In a free market, a shortage (Backwardation) creates a price spike. In silver, the price *crashed*, proving external force was applied.
-**C:** *Why would someone sell silver for $12 if they could sell it for $18 in the spot market?*
+**C:** *Why would someone sell silver for $12 if they could sell it for $18 in the spot market?<br>*
 
-**Q5:** Why is the "11 O'Clock Rule" significant?
+**Q5:** Why is the "11 O'Clock Rule" significant?<br>
 **A:** It proves "Coordination." Markets are random; 5 banks selling at the exact same minute every day is a cartel.
-**C:** *Who benefits from a low silver price? (Hint: Tech & Solar industries).*
+**C:** *Who benefits from a low silver price?<br> (Hint: Tech & Solar industries).*

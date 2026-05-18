@@ -13,7 +13,7 @@ Because it draws current, it measures the *terminal voltage* ($V = \varepsilon -
 
 A **Potentiometer** is an instrument that measures potential difference **without drawing any current** from the circuit being measured. It is the only true "ideal voltmeter".
 
-### How does it work? (The Balance of Power)
+### How does it work?<br> (The Balance of Power)
 
 Imagine a very long wire (usually $4$ to $10$ meters) connected to a strong, primary "Driver Battery". This driver battery creates a steady, continuous drop in voltage along the entire length of the wire. Every centimeter of wire represents a tiny drop in voltage (this is called the **Potential Gradient**, $k$).
 
@@ -86,7 +86,7 @@ Since there's no other resistance, the entire $2\text{V}$ drops across the wire.
 $k = 2\text{V} / 5\text{m} = \mathbf{0.4\text{ V/m}}$.
 </details>
 
-2. 🟡 A $10\text{ m}$ long potentiometer wire has a resistance of $10\text{ } \Omega$. It is connected in series with a battery of EMF $3\text{V}$ and internal resistance $1\text{ } \Omega$, and a resistance box. What resistance should be plugged in the box to get a potential gradient of $0.1\text{ V/m}$?
+2. 🟡 A $10\text{ m}$ long potentiometer wire has a resistance of $10\text{ } \Omega$. It is connected in series with a battery of EMF $3\text{V}$ and internal resistance $1\text{ } \Omega$, and a resistance box. What resistance should be plugged in the box to get a potential gradient of $0.1\text{ V/m}$?<br>
 
 <details>
 <summary><b>Answer</b></summary>
@@ -132,7 +132,7 @@ $4\varepsilon_2 = 2\varepsilon_1 \implies \frac{\varepsilon_1}{\varepsilon_2} = 
 $\varepsilon_A / \varepsilon_B = l_A / l_B = 40 / 60 = \mathbf{2/3}$.
 </details>
 
-2. 🟡 In a potentiometer experiment, a standard cell of EMF $1.08\text{V}$ balances at $54\text{ cm}$. What is the EMF of a cell that balances at $75\text{ cm}$?
+2. 🟡 In a potentiometer experiment, a standard cell of EMF $1.08\text{V}$ balances at $54\text{ cm}$. What is the EMF of a cell that balances at $75\text{ cm}$?<br>
 
 <details>
 <summary><b>Answer</b></summary>
@@ -161,7 +161,7 @@ $r = 2 \left( \frac{80 - 60}{60} \right) = 2 \left( \frac{20}{60} \right) = 2 \t
 
 **Practice:**
 
-1. 🟡 A cell is balanced at $250\text{ cm}$. When a $5\text{ } \Omega$ resistor is shunted across it, the balance point becomes $200\text{ cm}$. What is the internal resistance?
+1. 🟡 A cell is balanced at $250\text{ cm}$. When a $5\text{ } \Omega$ resistor is shunted across it, the balance point becomes $200\text{ cm}$. What is the internal resistance?<br>
 
 <details>
 <summary><b>Answer</b></summary>
@@ -169,7 +169,7 @@ $r = 2 \left( \frac{80 - 60}{60} \right) = 2 \left( \frac{20}{60} \right) = 2 \t
 $r = 5 \times ((250 - 200) / 200) = 5 \times (50 / 200) = 5 \times (1/4) = \mathbf{1.25\text{ } \Omega}$.
 </details>
 
-2. 🔴 A cell balances at $100\text{ cm}$. When a $10\text{ } \Omega$ resistance is connected across it, balance point is $80\text{ cm}$. If the $10\text{ } \Omega$ resistance is replaced by a $20\text{ } \Omega$ resistance, where will the new balance point be?
+2. 🔴 A cell balances at $100\text{ cm}$. When a $10\text{ } \Omega$ resistance is connected across it, balance point is $80\text{ cm}$. If the $10\text{ } \Omega$ resistance is replaced by a $20\text{ } \Omega$ resistance, where will the new balance point be?<br>
 
 <details>
 <summary><b>Answer</b></summary>
@@ -187,7 +187,7 @@ $l_2 = 800 - 8l_2 \implies 9l_2 = 800 \implies l_2 = 800 / 9 \approx \mathbf{88.
 
 ## 🔀 Stage 4: Type Mixer
 
-**Q1.** 🔴 Why can't you balance a $5\text{V}$ battery using a potentiometer whose primary driver battery is only $2\text{V}$?
+**Q1.** 🔴 Why can't you balance a $5\text{V}$ battery using a potentiometer whose primary driver battery is only $2\text{V}$?<br>
 
 <details>
 <summary><b>Solution</b></summary>
@@ -198,8 +198,8 @@ You cannot find a point on this wire that equals $5\text{V}$. The galvanometer w
 </details>
 
 **Q2.** 🔴 ⭐ In a potentiometer experiment to determine internal resistance, what happens to the balancing length ($l_1$) if:
-(i) The resistance of the primary circuit rheostat is increased?
-(ii) The cell being measured is replaced by another cell of higher EMF?
+(i) The resistance of the primary circuit rheostat is increased?<br>
+(ii) The cell being measured is replaced by another cell of higher EMF?<br>
 
 <details>
 <summary><b>Solution</b></summary>
@@ -221,7 +221,7 @@ Since $\varepsilon = k l_1$ remains constant, if $k$ goes down, **$l_1$ must inc
 When a constant current flows through a wire of uniform cross-section and composition, the potential drop across any length of the wire is directly proportional to that length ($V \propto l$).
 </details>
 
-**Q2.** 🟡 Why is a potentiometer preferred over a voltmeter for measuring the EMF of a cell? *(2 marks)*
+**Q2.** 🟡 Why is a potentiometer preferred over a voltmeter for measuring the EMF of a cell?<br> *(2 marks)*
 
 <details>
 <summary><b>Model Answer</b></summary>
@@ -230,7 +230,7 @@ A voltmeter draws some current from the cell to deflect its pointer, so it measu
 A potentiometer works on the null deflection method. At the balance point, it draws exactly zero current from the cell, thus measuring its true, accurate EMF.
 </details>
 
-**Q3.** 🟡 How can the sensitivity of a potentiometer be increased? *(2 marks)*
+**Q3.** 🟡 How can the sensitivity of a potentiometer be increased?<br> *(2 marks)*
 
 <details>
 <summary><b>Model Answer</b></summary>
@@ -277,7 +277,7 @@ $r = 2 \times \left( \frac{240 - 120}{120} \right) = 2 \times \left( \frac{120}{
 **Answer: (d)**
 </details>
 
-**Q3.** 🔴 ⭐ An ideal voltmeter $V$ is connected to a $2.0\text{V}$ potentiometer wire of length $1\text{m}$ as shown. What will the voltmeter read when the jockey is at the $30\text{ cm}$ mark? (Assume driver battery is exactly $2.0\text{V}$ and has no internal resistance).
+**Q3.** 🔴 ⭐ An ideal voltmeter $V$ is connected to a $2.0\text{V}$ potentiometer wire of length $1\text{m}$ as shown. What will the voltmeter read when the jockey is at the $30\text{ cm}$ mark?<br> (Assume driver battery is exactly $2.0\text{V}$ and has no internal resistance).
 
 (a) $0.6\text{ V}$ &emsp; (b) $1.4\text{ V}$ &emsp; (c) $2.0\text{ V}$ &emsp; (d) $0\text{ V}$
 

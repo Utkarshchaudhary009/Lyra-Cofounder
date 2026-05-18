@@ -4,11 +4,11 @@
 ## Introduction
 We are entering the "Green Energy Vortex." The entire world is simultaneously trying to switch from fossil fuels to electricity. This transition requires physical metals to conduct that power. While copper is the "muscle" of this new grid, silver is the "nervous system." Without silver, the Green Revolution simply does not happen.
 
-## 1. The Solar Beast: A Bottomless Pit?
+## 1. The Solar Beast: A Bottomless Pit?<br>
 Solar panels are already the #1 consumer of industrial silver, but the technology is shifting in a way that demands *more*, not less.
 *   **The Scale:** The solar industry consumes over **120-125 million ounces** of silver per year (roughly 15% of total supply).
 *   **The Technology Trap:** For years, manufacturers tried to use less silver ("thrifting"). But newer, more efficient panels (TOPCon and HJT) actually require **50% to 120% more silver** per cell than older models.
-    *   *Why?* To get higher efficiency, they need silver on *both* sides of the cell.
+    *   *Why?<br>* To get higher efficiency, they need silver on *both* sides of the cell.
 *   **The 2030 Problem:** By 2030, solar alone could consume 20% to 40% of the entire global silver supply.
 
 ## 2. The Electrification of Everything (EVs)

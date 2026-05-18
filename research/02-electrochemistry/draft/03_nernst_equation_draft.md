@@ -47,404 +47,655 @@ At 298 K (25°C), substituting the values of R, T, and F:
 ---
 ## 3. MCQ Mastery (40 Questions)
 
-**Q1. For a Galvanic cell at equilibrium, which of the following is correct?**
+**Q1. For a Galvanic cell at equilibrium, which of the following is correct?<br>**
 
-- (A) $E^\circ_{cell} = 0$, $\Delta G = 0$
-- (B) $E_{cell} = 0$, $\Delta G = 0$
-- (C) $E_{cell} = 0$, $\Delta G^\circ = 0$
-- (D) $E^\circ_{cell} = 0$, $\Delta G^\circ = 0$
+- <br>
+(A) $E^\circ_{cell} = 0$, $\Delta G = 0$
+- <br>
+(B) $E_{cell} = 0$, $\Delta G = 0$
+- <br>
+(C)
+ $E_{cell} = 0$, $\Delta G^\circ = 0$
+- <br>
+(D) $E^\circ_{cell} = 0$, $\Delta G^\circ = 0$
 
-<details><summary>Solution</summary><b>Answer: (B) $E_{cell} = 0$, $\Delta G = 0$</b><br>At equilibrium, the cell stops working, so $E_{cell}$ becomes zero. Consequently, $\Delta G = -nFE_{cell} = 0$. $E^\circ_{cell}$ is a constant standard value.</details>
-
-
-**Q2. In the Nernst equation for a metal electrode $M^{n+}/M$, if the concentration of $M^{n+}$ is increased, what happens to the electrode potential?**
-
-- (A) Becomes zero
-- (B) Remains same
-- (C) Increases
-- (D) Decreases
-
-<details><summary>Solution</summary><b>Answer: (C) Increases</b><br>Using $E = E^\circ - \frac{0.0591}{n} \log(1/[M^{n+}])$. If $[M^{n+}]$ increases, the log term decreases (becomes less negative or more positive), causing $E$ to increase.</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(B) $E_{cell} = 0$, $\Delta G = 0$</b><br>At equilibrium, the cell stops working, so $E_{cell}$ becomes zero. Consequently, $\Delta G = -nFE_{cell} = 0$. $E^\circ_{cell}$ is a constant standard value.</details>
 
 
-**Q3. Which of the following is an extensive property?**
+**Q2. In the Nernst equation for a metal electrode $M^{n+}/M$, if the concentration of $M^{n+}$ is increased, what happens to the electrode potential?<br>**
 
-- (A) $\Delta_r G^\circ$
-- (B) $E_{cell}$
-- (C) Molar conductivity
-- (D) $E^\circ_{cell}$
+- <br>
+(A) Becomes zero
+- <br>
+(B) Remains same
+- <br>
+(C)
+ Increases
+- <br>
+(D) Decreases
 
-<details><summary>Solution</summary><b>Answer: (A) $\Delta_r G^\circ$</b><br>Gibbs free energy depends on the quantity of substance (stoichiometry). Cell potential is intensive.</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(C)
+ Increases</b><br>Using $E = E^\circ - \frac{0.0591}{n} \log(1/[M^{n+}])$. If $[M^{n+}]$ increases, the log term decreases (becomes less negative or more positive), causing $E$ to increase.</details>
+
+
+**Q3. Which of the following is an extensive property?<br>**
+
+- <br>
+(A) $\Delta_r G^\circ$
+- <br>
+(B) $E_{cell}$
+- <br>
+(C)
+ Molar conductivity
+- <br>
+(D) $E^\circ_{cell}$
+
+<details><summary>Solution</summary><b>Answer: <br>
+(A) $\Delta_r G^\circ$</b><br>Gibbs free energy depends on the quantity of substance (stoichiometry). Cell potential is intensive.</details>
 
 
 **Q4. For a concentration cell constructed with two hydrogen electrodes, the anode has $pH = 5$ and cathode has $pH = 3$. The EMF of the cell at 298 K is:**
 
-- (A) -0.1182 V
-- (B) 0.0295 V
-- (C) 0.1182 V
-- (D) 0.0591 V
+- <br>
+(A) -0.1182 V
+- <br>
+(B) 0.0295 V
+- <br>
+(C)
+ 0.1182 V
+- <br>
+(D) 0.0591 V
 
-<details><summary>Solution</summary><b>Answer: (C) 0.1182 V</b><br>Anode $[H^+] = 10^{-5}$, Cathode $[H^+] = 10^{-3}$. $E_{cell} = -0.0591 \log(10^{-5}/10^{-3}) = -0.0591 \log(10^{-2}) = 0.0591 \times 2 = 0.1182 V$.</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(C)
+ 0.1182 V</b><br>Anode $[H^+] = 10^{-5}$, Cathode $[H^+] = 10^{-3}$. $E_{cell} = -0.0591 \log(10^{-5}/10^{-3}) = -0.0591 \log(10^{-2}) = 0.0591 \times 2 = 0.1182 V$.</details>
 
 
 **Q5. To calculate $K_c$ using the Nernst equation, we require:**
 
-- (A) Only $E^\circ_{cell}$ and $n$
-- (B) Only temperature
-- (C) Both $E_{cell}$ and $E^\circ_{cell}$
-- (D) $E^\circ_{cell}$, $n$, and $T$
+- <br>
+(A) Only $E^\circ_{cell}$ and $n$
+- <br>
+(B) Only temperature
+- <br>
+(C)
+ Both $E_{cell}$ and $E^\circ_{cell}$
+- <br>
+(D) $E^\circ_{cell}$, $n$, and $T$
 
-<details><summary>Solution</summary><b>Answer: (D) $E^\circ_{cell}$, $n$, and $T$</b><br>Formula is $E^\circ_{cell} = \frac{RT}{nF} \ln K_c$. At standard 298K, just $E^\circ_{cell}$ and $n$ are needed, but theoretically T is required if not at 298K. (Answer is C).</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(D) $E^\circ_{cell}$, $n$, and $T$</b><br>Formula is $E^\circ_{cell} = \frac{RT}{nF} \ln K_c$. At standard 298K, just $E^\circ_{cell}$ and $n$ are needed, but theoretically T is required if not at 298K. (Answer is C).</details>
 
 
 **Q6. In a concentration cell made of two Ag electrodes, the anode will be the electrode in the solution with:**
 
-- (A) Higher concentration
-- (B) Zero concentration
-- (C) Equal concentration
-- (D) Lower concentration
+- <br>
+(A) Higher concentration
+- <br>
+(B) Zero concentration
+- <br>
+(C)
+ Equal concentration
+- <br>
+(D) Lower concentration
 
-<details><summary>Solution</summary><b>Answer: (D) Lower concentration</b><br>To reach equilibrium, the cell tries to equalize the concentrations. It does this by oxidizing the metal in the less concentrated solution (Anode) to increase its concentration, and reducing the ions in the more concentrated solution (Cathode).</details>
-
-
-**Q7. What is the value of 'n' (number of electrons transferred) in the balanced cell reaction involving Mg(s)/Mg2+ and Zn2+/Zn(s)?**
-
-- (A) 2
-- (B) Random 3
-- (C) Random 2
-- (D) 4
-
-<details><summary>Solution</summary><b>Answer: (A) 2</b><br>To balance the electrons, the half reactions must transfer the LCM of 2 and 2, which is 2.</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(D) Lower concentration</b><br>To reach equilibrium, the cell tries to equalize the concentrations. It does this by oxidizing the metal in the less concentrated solution (Anode) to increase its concentration, and reducing the ions in the more concentrated solution (Cathode).</details>
 
 
-**Q8. What is the value of 'n' (number of electrons transferred) in the balanced cell reaction involving Zn(s)/Zn2+ and Al3+/Al(s)?**
+**Q7. What is the value of 'n' (number of electrons transferred) in the balanced cell reaction involving Mg(s)/Mg2+ and Zn2+/Zn(s)?<br>**
 
-- (A) 3
-- (B) 6
-- (C) 5
-- (D) 2
+- <br>
+(A) 2
+- <br>
+(B) Random 3
+- <br>
+(C)
+ Random 2
+- <br>
+(D) 4
 
-<details><summary>Solution</summary><b>Answer: (B) 6</b><br>To balance the electrons, the half reactions must transfer the LCM of 2 and 3, which is 6.</details>
-
-
-**Q9. For a hypothetical cell where n=2 and $E^\circ_{cell} = 1.0 V$, what is the standard Gibbs free energy change ($\Delta G^\circ$)? (Given 1F = 96500 C)**
-
-- (A) -193000.0 kJ/mol
-- (B) 193.0 kJ/mol
-- (C) -19300.0 kJ/mol
-- (D) -193.0 kJ/mol
-
-<details><summary>Solution</summary><b>Answer: (D) -193.0 kJ/mol</b><br>$\Delta G^\circ = -nFE^\circ_{cell} = -2 \times 96500 \times 1.0 = -193000.0 J/mol = -193.0 kJ/mol$.</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(A) 2</b><br>To balance the electrons, the half reactions must transfer the LCM of 2 and 2, which is 2.</details>
 
 
-**Q10. In the Nernst equation for a cell where the reaction quotient $Q = 0.001$, what is the value of $\log Q$?**
+**Q8. What is the value of 'n' (number of electrons transferred) in the balanced cell reaction involving Zn(s)/Zn2+ and Al3+/Al(s)?<br>**
 
-- (A) 1
-- (B) -3
-- (C) 3
-- (D) 0
+- <br>
+(A) 3
+- <br>
+(B) 6
+- <br>
+(C)
+ 5
+- <br>
+(D) 2
 
-<details><summary>Solution</summary><b>Answer: (B) -3</b><br>$\log_{10}(0.001) = -3$.</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(B) 6</b><br>To balance the electrons, the half reactions must transfer the LCM of 2 and 3, which is 6.</details>
 
 
-**Q11. In the Nernst equation for a cell where the reaction quotient $Q = 0.001$, what is the value of $\log Q$?**
+**Q9. For a hypothetical cell where n=2 and $E^\circ_{cell} = 1.0 V$, what is the standard Gibbs free energy change ($\Delta G^\circ$)?<br> (Given 1F = 96500 C)**
 
-- (A) 3
-- (B) 0
-- (C) 1
-- (D) -3
+- <br>
+(A) -193000.0 kJ/mol
+- <br>
+(B) 193.0 kJ/mol
+- <br>
+(C)
+ -19300.0 kJ/mol
+- <br>
+(D) -193.0 kJ/mol
 
-<details><summary>Solution</summary><b>Answer: (D) -3</b><br>$\log_{10}(0.001) = -3$.</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(D) -193.0 kJ/mol</b><br>$\Delta G^\circ = -nFE^\circ_{cell} = -2 \times 96500 \times 1.0 = -193000.0 J/mol = -193.0 kJ/mol$.</details>
+
+
+**Q10. In the Nernst equation for a cell where the reaction quotient $Q = 0.001$, what is the value of $\log Q$?<br>**
+
+- <br>
+(A) 1
+- <br>
+(B) -3
+- <br>
+(C)
+ 3
+- <br>
+(D) 0
+
+<details><summary>Solution</summary><b>Answer: <br>
+(B) -3</b><br>$\log_{10}(0.001) = -3$.</details>
+
+
+**Q11. In the Nernst equation for a cell where the reaction quotient $Q = 0.001$, what is the value of $\log Q$?<br>**
+
+- <br>
+(A) 3
+- <br>
+(B) 0
+- <br>
+(C)
+ 1
+- <br>
+(D) -3
+
+<details><summary>Solution</summary><b>Answer: <br>
+(D) -3</b><br>$\log_{10}(0.001) = -3$.</details>
 
 
 **Q12. In a concentration cell made of two Zn electrodes, the anode will be the electrode in the solution with:**
 
-- (A) Equal concentration
-- (B) Lower concentration
-- (C) Higher concentration
-- (D) Zero concentration
+- <br>
+(A) Equal concentration
+- <br>
+(B) Lower concentration
+- <br>
+(C)
+ Higher concentration
+- <br>
+(D) Zero concentration
 
-<details><summary>Solution</summary><b>Answer: (B) Lower concentration</b><br>To reach equilibrium, the cell tries to equalize the concentrations. It does this by oxidizing the metal in the less concentrated solution (Anode) to increase its concentration, and reducing the ions in the more concentrated solution (Cathode).</details>
-
-
-**Q13. In the Nernst equation for a cell where the reaction quotient $Q = 0.001$, what is the value of $\log Q$?**
-
-- (A) 3
-- (B) 0
-- (C) -3
-- (D) 1
-
-<details><summary>Solution</summary><b>Answer: (C) -3</b><br>$\log_{10}(0.001) = -3$.</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(B) Lower concentration</b><br>To reach equilibrium, the cell tries to equalize the concentrations. It does this by oxidizing the metal in the less concentrated solution (Anode) to increase its concentration, and reducing the ions in the more concentrated solution (Cathode).</details>
 
 
-**Q14. What is the value of 'n' (number of electrons transferred) in the balanced cell reaction involving Fe(s)/Fe2+ and Zn2+/Zn(s)?**
+**Q13. In the Nernst equation for a cell where the reaction quotient $Q = 0.001$, what is the value of $\log Q$?<br>**
 
-- (A) Random 2
-- (B) 2
-- (C) Random 3
-- (D) 4
+- <br>
+(A) 3
+- <br>
+(B) 0
+- <br>
+(C)
+ -3
+- <br>
+(D) 1
 
-<details><summary>Solution</summary><b>Answer: (B) 2</b><br>To balance the electrons, the half reactions must transfer the LCM of 2 and 2, which is 2.</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(C)
+ -3</b><br>$\log_{10}(0.001) = -3$.</details>
+
+
+**Q14. What is the value of 'n' (number of electrons transferred) in the balanced cell reaction involving Fe(s)/Fe2+ and Zn2+/Zn(s)?<br>**
+
+- <br>
+(A) Random 2
+- <br>
+(B) 2
+- <br>
+(C)
+ Random 3
+- <br>
+(D) 4
+
+<details><summary>Solution</summary><b>Answer: <br>
+(B) 2</b><br>To balance the electrons, the half reactions must transfer the LCM of 2 and 2, which is 2.</details>
 
 
 **Q15. In a concentration cell made of two Ag electrodes, the anode will be the electrode in the solution with:**
 
-- (A) Zero concentration
-- (B) Lower concentration
-- (C) Equal concentration
-- (D) Higher concentration
+- <br>
+(A) Zero concentration
+- <br>
+(B) Lower concentration
+- <br>
+(C)
+ Equal concentration
+- <br>
+(D) Higher concentration
 
-<details><summary>Solution</summary><b>Answer: (B) Lower concentration</b><br>To reach equilibrium, the cell tries to equalize the concentrations. It does this by oxidizing the metal in the less concentrated solution (Anode) to increase its concentration, and reducing the ions in the more concentrated solution (Cathode).</details>
-
-
-**Q16. What is the value of 'n' (number of electrons transferred) in the balanced cell reaction involving Zn(s)/Zn2+ and Al3+/Al(s)?**
-
-- (A) 5
-- (B) 2
-- (C) 3
-- (D) 6
-
-<details><summary>Solution</summary><b>Answer: (D) 6</b><br>To balance the electrons, the half reactions must transfer the LCM of 2 and 3, which is 6.</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(B) Lower concentration</b><br>To reach equilibrium, the cell tries to equalize the concentrations. It does this by oxidizing the metal in the less concentrated solution (Anode) to increase its concentration, and reducing the ions in the more concentrated solution (Cathode).</details>
 
 
-**Q17. In the Nernst equation for a cell where the reaction quotient $Q = 0.1$, what is the value of $\log Q$?**
+**Q16. What is the value of 'n' (number of electrons transferred) in the balanced cell reaction involving Zn(s)/Zn2+ and Al3+/Al(s)?<br>**
 
-- (A) Random 3
-- (B) 0
-- (C) 1
-- (D) -1
+- <br>
+(A) 5
+- <br>
+(B) 2
+- <br>
+(C)
+ 3
+- <br>
+(D) 6
 
-<details><summary>Solution</summary><b>Answer: (D) -1</b><br>$\log_{10}(0.1) = -1$.</details>
-
-
-**Q18. What is the value of 'n' (number of electrons transferred) in the balanced cell reaction involving Ni(s)/Ni2+ and Al3+/Al(s)?**
-
-- (A) 3
-- (B) 6
-- (C) 2
-- (D) 5
-
-<details><summary>Solution</summary><b>Answer: (B) 6</b><br>To balance the electrons, the half reactions must transfer the LCM of 2 and 3, which is 6.</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(D) 6</b><br>To balance the electrons, the half reactions must transfer the LCM of 2 and 3, which is 6.</details>
 
 
-**Q19. What is the value of 'n' (number of electrons transferred) in the balanced cell reaction involving Al(s)/Al3+ and Mg2+/Mg(s)?**
+**Q17. In the Nernst equation for a cell where the reaction quotient $Q = 0.1$, what is the value of $\log Q$?<br>**
 
-- (A) 3
-- (B) 2
-- (C) 6
-- (D) 5
+- <br>
+(A) Random 3
+- <br>
+(B) 0
+- <br>
+(C)
+ 1
+- <br>
+(D) -1
 
-<details><summary>Solution</summary><b>Answer: (C) 6</b><br>To balance the electrons, the half reactions must transfer the LCM of 3 and 2, which is 6.</details>
-
-
-**Q20. What is the value of 'n' (number of electrons transferred) in the balanced cell reaction involving Mg(s)/Mg2+ and Cu2+/Cu(s)?**
-
-- (A) 2
-- (B) Random 3
-- (C) 4
-- (D) Random 2
-
-<details><summary>Solution</summary><b>Answer: (A) 2</b><br>To balance the electrons, the half reactions must transfer the LCM of 2 and 2, which is 2.</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(D) -1</b><br>$\log_{10}(0.1) = -1$.</details>
 
 
-**Q21. What is the value of 'n' (number of electrons transferred) in the balanced cell reaction involving Cu(s)/Cu2+ and Fe2+/Fe(s)?**
+**Q18. What is the value of 'n' (number of electrons transferred) in the balanced cell reaction involving Ni(s)/Ni2+ and Al3+/Al(s)?<br>**
 
-- (A) 2
-- (B) 4
-- (C) Random 3
-- (D) Random 2
+- <br>
+(A) 3
+- <br>
+(B) 6
+- <br>
+(C)
+ 2
+- <br>
+(D) 5
 
-<details><summary>Solution</summary><b>Answer: (A) 2</b><br>To balance the electrons, the half reactions must transfer the LCM of 2 and 2, which is 2.</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(B) 6</b><br>To balance the electrons, the half reactions must transfer the LCM of 2 and 3, which is 6.</details>
 
 
-**Q22. For a hypothetical cell where n=3 and $E^\circ_{cell} = 1.0 V$, what is the standard Gibbs free energy change ($\Delta G^\circ$)? (Given 1F = 96500 C)**
+**Q19. What is the value of 'n' (number of electrons transferred) in the balanced cell reaction involving Al(s)/Al3+ and Mg2+/Mg(s)?<br>**
 
-- (A) -289500.0 kJ/mol
-- (B) -28950.0 kJ/mol
-- (C) -289.5 kJ/mol
-- (D) 289.5 kJ/mol
+- <br>
+(A) 3
+- <br>
+(B) 2
+- <br>
+(C)
+ 6
+- <br>
+(D) 5
 
-<details><summary>Solution</summary><b>Answer: (C) -289.5 kJ/mol</b><br>$\Delta G^\circ = -nFE^\circ_{cell} = -3 \times 96500 \times 1.0 = -289500.0 J/mol = -289.5 kJ/mol$.</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(C)
+ 6</b><br>To balance the electrons, the half reactions must transfer the LCM of 3 and 2, which is 6.</details>
+
+
+**Q20. What is the value of 'n' (number of electrons transferred) in the balanced cell reaction involving Mg(s)/Mg2+ and Cu2+/Cu(s)?<br>**
+
+- <br>
+(A) 2
+- <br>
+(B) Random 3
+- <br>
+(C)
+ 4
+- <br>
+(D) Random 2
+
+<details><summary>Solution</summary><b>Answer: <br>
+(A) 2</b><br>To balance the electrons, the half reactions must transfer the LCM of 2 and 2, which is 2.</details>
+
+
+**Q21. What is the value of 'n' (number of electrons transferred) in the balanced cell reaction involving Cu(s)/Cu2+ and Fe2+/Fe(s)?<br>**
+
+- <br>
+(A) 2
+- <br>
+(B) 4
+- <br>
+(C)
+ Random 3
+- <br>
+(D) Random 2
+
+<details><summary>Solution</summary><b>Answer: <br>
+(A) 2</b><br>To balance the electrons, the half reactions must transfer the LCM of 2 and 2, which is 2.</details>
+
+
+**Q22. For a hypothetical cell where n=3 and $E^\circ_{cell} = 1.0 V$, what is the standard Gibbs free energy change ($\Delta G^\circ$)?<br> (Given 1F = 96500 C)**
+
+- <br>
+(A) -289500.0 kJ/mol
+- <br>
+(B) -28950.0 kJ/mol
+- <br>
+(C)
+ -289.5 kJ/mol
+- <br>
+(D) 289.5 kJ/mol
+
+<details><summary>Solution</summary><b>Answer: <br>
+(C)
+ -289.5 kJ/mol</b><br>$\Delta G^\circ = -nFE^\circ_{cell} = -3 \times 96500 \times 1.0 = -289500.0 J/mol = -289.5 kJ/mol$.</details>
 
 
 **Q23. In a concentration cell made of two Mg electrodes, the anode will be the electrode in the solution with:**
 
-- (A) Higher concentration
-- (B) Zero concentration
-- (C) Lower concentration
-- (D) Equal concentration
+- <br>
+(A) Higher concentration
+- <br>
+(B) Zero concentration
+- <br>
+(C)
+ Lower concentration
+- <br>
+(D) Equal concentration
 
-<details><summary>Solution</summary><b>Answer: (C) Lower concentration</b><br>To reach equilibrium, the cell tries to equalize the concentrations. It does this by oxidizing the metal in the less concentrated solution (Anode) to increase its concentration, and reducing the ions in the more concentrated solution (Cathode).</details>
-
-
-**Q24. What is the value of 'n' (number of electrons transferred) in the balanced cell reaction involving Cu(s)/Cu2+ and Fe2+/Fe(s)?**
-
-- (A) Random 2
-- (B) 2
-- (C) 4
-- (D) Random 3
-
-<details><summary>Solution</summary><b>Answer: (B) 2</b><br>To balance the electrons, the half reactions must transfer the LCM of 2 and 2, which is 2.</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(C)
+ Lower concentration</b><br>To reach equilibrium, the cell tries to equalize the concentrations. It does this by oxidizing the metal in the less concentrated solution (Anode) to increase its concentration, and reducing the ions in the more concentrated solution (Cathode).</details>
 
 
-**Q25. What is the value of 'n' (number of electrons transferred) in the balanced cell reaction involving Cu(s)/Cu2+ and Al3+/Al(s)?**
+**Q24. What is the value of 'n' (number of electrons transferred) in the balanced cell reaction involving Cu(s)/Cu2+ and Fe2+/Fe(s)?<br>**
 
-- (A) 2
-- (B) 5
-- (C) 6
-- (D) 3
+- <br>
+(A) Random 2
+- <br>
+(B) 2
+- <br>
+(C)
+ 4
+- <br>
+(D) Random 3
 
-<details><summary>Solution</summary><b>Answer: (C) 6</b><br>To balance the electrons, the half reactions must transfer the LCM of 2 and 3, which is 6.</details>
-
-
-**Q26. What is the value of 'n' (number of electrons transferred) in the balanced cell reaction involving Ag(s)/Ag1+ and Al3+/Al(s)?**
-
-- (A) 1
-- (B) Random 3
-- (C) 3
-- (D) 4
-
-<details><summary>Solution</summary><b>Answer: (C) 3</b><br>To balance the electrons, the half reactions must transfer the LCM of 1 and 3, which is 3.</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(B) 2</b><br>To balance the electrons, the half reactions must transfer the LCM of 2 and 2, which is 2.</details>
 
 
-**Q27. In the Nernst equation for a cell where the reaction quotient $Q = 0.001$, what is the value of $\log Q$?**
+**Q25. What is the value of 'n' (number of electrons transferred) in the balanced cell reaction involving Cu(s)/Cu2+ and Al3+/Al(s)?<br>**
 
-- (A) 1
-- (B) 0
-- (C) 3
-- (D) -3
+- <br>
+(A) 2
+- <br>
+(B) 5
+- <br>
+(C)
+ 6
+- <br>
+(D) 3
 
-<details><summary>Solution</summary><b>Answer: (D) -3</b><br>$\log_{10}(0.001) = -3$.</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(C)
+ 6</b><br>To balance the electrons, the half reactions must transfer the LCM of 2 and 3, which is 6.</details>
+
+
+**Q26. What is the value of 'n' (number of electrons transferred) in the balanced cell reaction involving Ag(s)/Ag1+ and Al3+/Al(s)?<br>**
+
+- <br>
+(A) 1
+- <br>
+(B) Random 3
+- <br>
+(C)
+ 3
+- <br>
+(D) 4
+
+<details><summary>Solution</summary><b>Answer: <br>
+(C)
+ 3</b><br>To balance the electrons, the half reactions must transfer the LCM of 1 and 3, which is 3.</details>
+
+
+**Q27. In the Nernst equation for a cell where the reaction quotient $Q = 0.001$, what is the value of $\log Q$?<br>**
+
+- <br>
+(A) 1
+- <br>
+(B) 0
+- <br>
+(C)
+ 3
+- <br>
+(D) -3
+
+<details><summary>Solution</summary><b>Answer: <br>
+(D) -3</b><br>$\log_{10}(0.001) = -3$.</details>
 
 
 **Q28. In a concentration cell made of two Ag electrodes, the anode will be the electrode in the solution with:**
 
-- (A) Higher concentration
-- (B) Equal concentration
-- (C) Lower concentration
-- (D) Zero concentration
+- <br>
+(A) Higher concentration
+- <br>
+(B) Equal concentration
+- <br>
+(C)
+ Lower concentration
+- <br>
+(D) Zero concentration
 
-<details><summary>Solution</summary><b>Answer: (C) Lower concentration</b><br>To reach equilibrium, the cell tries to equalize the concentrations. It does this by oxidizing the metal in the less concentrated solution (Anode) to increase its concentration, and reducing the ions in the more concentrated solution (Cathode).</details>
-
-
-**Q29. For a hypothetical cell where n=2 and $E^\circ_{cell} = 1.0 V$, what is the standard Gibbs free energy change ($\Delta G^\circ$)? (Given 1F = 96500 C)**
-
-- (A) -19300.0 kJ/mol
-- (B) -193.0 kJ/mol
-- (C) -193000.0 kJ/mol
-- (D) 193.0 kJ/mol
-
-<details><summary>Solution</summary><b>Answer: (B) -193.0 kJ/mol</b><br>$\Delta G^\circ = -nFE^\circ_{cell} = -2 \times 96500 \times 1.0 = -193000.0 J/mol = -193.0 kJ/mol$.</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(C)
+ Lower concentration</b><br>To reach equilibrium, the cell tries to equalize the concentrations. It does this by oxidizing the metal in the less concentrated solution (Anode) to increase its concentration, and reducing the ions in the more concentrated solution (Cathode).</details>
 
 
-**Q30. What is the value of 'n' (number of electrons transferred) in the balanced cell reaction involving Ni(s)/Ni2+ and Ag1+/Ag(s)?**
+**Q29. For a hypothetical cell where n=2 and $E^\circ_{cell} = 1.0 V$, what is the standard Gibbs free energy change ($\Delta G^\circ$)?<br> (Given 1F = 96500 C)**
 
-- (A) Random 3
-- (B) 2
-- (C) 1
-- (D) 3
+- <br>
+(A) -19300.0 kJ/mol
+- <br>
+(B) -193.0 kJ/mol
+- <br>
+(C)
+ -193000.0 kJ/mol
+- <br>
+(D) 193.0 kJ/mol
 
-<details><summary>Solution</summary><b>Answer: (B) 2</b><br>To balance the electrons, the half reactions must transfer the LCM of 2 and 1, which is 2.</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(B) -193.0 kJ/mol</b><br>$\Delta G^\circ = -nFE^\circ_{cell} = -2 \times 96500 \times 1.0 = -193000.0 J/mol = -193.0 kJ/mol$.</details>
 
 
-**Q31. What is the value of 'n' (number of electrons transferred) in the balanced cell reaction involving Ni(s)/Ni2+ and Al3+/Al(s)?**
+**Q30. What is the value of 'n' (number of electrons transferred) in the balanced cell reaction involving Ni(s)/Ni2+ and Ag1+/Ag(s)?<br>**
 
-- (A) 6
-- (B) 5
-- (C) 3
-- (D) 2
+- <br>
+(A) Random 3
+- <br>
+(B) 2
+- <br>
+(C)
+ 1
+- <br>
+(D) 3
 
-<details><summary>Solution</summary><b>Answer: (A) 6</b><br>To balance the electrons, the half reactions must transfer the LCM of 2 and 3, which is 6.</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(B) 2</b><br>To balance the electrons, the half reactions must transfer the LCM of 2 and 1, which is 2.</details>
+
+
+**Q31. What is the value of 'n' (number of electrons transferred) in the balanced cell reaction involving Ni(s)/Ni2+ and Al3+/Al(s)?<br>**
+
+- <br>
+(A) 6
+- <br>
+(B) 5
+- <br>
+(C)
+ 3
+- <br>
+(D) 2
+
+<details><summary>Solution</summary><b>Answer: <br>
+(A) 6</b><br>To balance the electrons, the half reactions must transfer the LCM of 2 and 3, which is 6.</details>
 
 
 **Q32. In a concentration cell made of two Al electrodes, the anode will be the electrode in the solution with:**
 
-- (A) Higher concentration
-- (B) Lower concentration
-- (C) Zero concentration
-- (D) Equal concentration
+- <br>
+(A) Higher concentration
+- <br>
+(B) Lower concentration
+- <br>
+(C)
+ Zero concentration
+- <br>
+(D) Equal concentration
 
-<details><summary>Solution</summary><b>Answer: (B) Lower concentration</b><br>To reach equilibrium, the cell tries to equalize the concentrations. It does this by oxidizing the metal in the less concentrated solution (Anode) to increase its concentration, and reducing the ions in the more concentrated solution (Cathode).</details>
-
-
-**Q33. What is the value of 'n' (number of electrons transferred) in the balanced cell reaction involving Ag(s)/Ag1+ and Ni2+/Ni(s)?**
-
-- (A) 2
-- (B) 1
-- (C) Random 3
-- (D) 3
-
-<details><summary>Solution</summary><b>Answer: (A) 2</b><br>To balance the electrons, the half reactions must transfer the LCM of 1 and 2, which is 2.</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(B) Lower concentration</b><br>To reach equilibrium, the cell tries to equalize the concentrations. It does this by oxidizing the metal in the less concentrated solution (Anode) to increase its concentration, and reducing the ions in the more concentrated solution (Cathode).</details>
 
 
-**Q34. What is the value of 'n' (number of electrons transferred) in the balanced cell reaction involving Cu(s)/Cu2+ and Ag1+/Ag(s)?**
+**Q33. What is the value of 'n' (number of electrons transferred) in the balanced cell reaction involving Ag(s)/Ag1+ and Ni2+/Ni(s)?<br>**
 
-- (A) 1
-- (B) 2
-- (C) 3
-- (D) Random 3
+- <br>
+(A) 2
+- <br>
+(B) 1
+- <br>
+(C)
+ Random 3
+- <br>
+(D) 3
 
-<details><summary>Solution</summary><b>Answer: (B) 2</b><br>To balance the electrons, the half reactions must transfer the LCM of 2 and 1, which is 2.</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(A) 2</b><br>To balance the electrons, the half reactions must transfer the LCM of 1 and 2, which is 2.</details>
+
+
+**Q34. What is the value of 'n' (number of electrons transferred) in the balanced cell reaction involving Cu(s)/Cu2+ and Ag1+/Ag(s)?<br>**
+
+- <br>
+(A) 1
+- <br>
+(B) 2
+- <br>
+(C)
+ 3
+- <br>
+(D) Random 3
+
+<details><summary>Solution</summary><b>Answer: <br>
+(B) 2</b><br>To balance the electrons, the half reactions must transfer the LCM of 2 and 1, which is 2.</details>
 
 
 **Q35. In a concentration cell made of two Fe electrodes, the anode will be the electrode in the solution with:**
 
-- (A) Equal concentration
-- (B) Higher concentration
-- (C) Lower concentration
-- (D) Zero concentration
+- <br>
+(A) Equal concentration
+- <br>
+(B) Higher concentration
+- <br>
+(C)
+ Lower concentration
+- <br>
+(D) Zero concentration
 
-<details><summary>Solution</summary><b>Answer: (C) Lower concentration</b><br>To reach equilibrium, the cell tries to equalize the concentrations. It does this by oxidizing the metal in the less concentrated solution (Anode) to increase its concentration, and reducing the ions in the more concentrated solution (Cathode).</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(C)
+ Lower concentration</b><br>To reach equilibrium, the cell tries to equalize the concentrations. It does this by oxidizing the metal in the less concentrated solution (Anode) to increase its concentration, and reducing the ions in the more concentrated solution (Cathode).</details>
 
 
 **Q36. In a concentration cell made of two Al electrodes, the anode will be the electrode in the solution with:**
 
-- (A) Lower concentration
-- (B) Higher concentration
-- (C) Equal concentration
-- (D) Zero concentration
+- <br>
+(A) Lower concentration
+- <br>
+(B) Higher concentration
+- <br>
+(C)
+ Equal concentration
+- <br>
+(D) Zero concentration
 
-<details><summary>Solution</summary><b>Answer: (A) Lower concentration</b><br>To reach equilibrium, the cell tries to equalize the concentrations. It does this by oxidizing the metal in the less concentrated solution (Anode) to increase its concentration, and reducing the ions in the more concentrated solution (Cathode).</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(A) Lower concentration</b><br>To reach equilibrium, the cell tries to equalize the concentrations. It does this by oxidizing the metal in the less concentrated solution (Anode) to increase its concentration, and reducing the ions in the more concentrated solution (Cathode).</details>
 
 
-**Q37. What is the value of 'n' (number of electrons transferred) in the balanced cell reaction involving Ag(s)/Ag1+ and Al3+/Al(s)?**
+**Q37. What is the value of 'n' (number of electrons transferred) in the balanced cell reaction involving Ag(s)/Ag1+ and Al3+/Al(s)?<br>**
 
-- (A) 4
-- (B) 3
-- (C) 1
-- (D) Random 3
+- <br>
+(A) 4
+- <br>
+(B) 3
+- <br>
+(C)
+ 1
+- <br>
+(D) Random 3
 
-<details><summary>Solution</summary><b>Answer: (B) 3</b><br>To balance the electrons, the half reactions must transfer the LCM of 1 and 3, which is 3.</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(B) 3</b><br>To balance the electrons, the half reactions must transfer the LCM of 1 and 3, which is 3.</details>
 
 
 **Q38. In a concentration cell made of two Mg electrodes, the anode will be the electrode in the solution with:**
 
-- (A) Lower concentration
-- (B) Equal concentration
-- (C) Zero concentration
-- (D) Higher concentration
+- <br>
+(A) Lower concentration
+- <br>
+(B) Equal concentration
+- <br>
+(C)
+ Zero concentration
+- <br>
+(D) Higher concentration
 
-<details><summary>Solution</summary><b>Answer: (A) Lower concentration</b><br>To reach equilibrium, the cell tries to equalize the concentrations. It does this by oxidizing the metal in the less concentrated solution (Anode) to increase its concentration, and reducing the ions in the more concentrated solution (Cathode).</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(A) Lower concentration</b><br>To reach equilibrium, the cell tries to equalize the concentrations. It does this by oxidizing the metal in the less concentrated solution (Anode) to increase its concentration, and reducing the ions in the more concentrated solution (Cathode).</details>
 
 
-**Q39. For a hypothetical cell where n=2 and $E^\circ_{cell} = 1.0 V$, what is the standard Gibbs free energy change ($\Delta G^\circ$)? (Given 1F = 96500 C)**
+**Q39. For a hypothetical cell where n=2 and $E^\circ_{cell} = 1.0 V$, what is the standard Gibbs free energy change ($\Delta G^\circ$)?<br> (Given 1F = 96500 C)**
 
-- (A) -193000.0 kJ/mol
-- (B) -19300.0 kJ/mol
-- (C) -193.0 kJ/mol
-- (D) 193.0 kJ/mol
+- <br>
+(A) -193000.0 kJ/mol
+- <br>
+(B) -19300.0 kJ/mol
+- <br>
+(C)
+ -193.0 kJ/mol
+- <br>
+(D) 193.0 kJ/mol
 
-<details><summary>Solution</summary><b>Answer: (C) -193.0 kJ/mol</b><br>$\Delta G^\circ = -nFE^\circ_{cell} = -2 \times 96500 \times 1.0 = -193000.0 J/mol = -193.0 kJ/mol$.</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(C)
+ -193.0 kJ/mol</b><br>$\Delta G^\circ = -nFE^\circ_{cell} = -2 \times 96500 \times 1.0 = -193000.0 J/mol = -193.0 kJ/mol$.</details>
 
 
 **Q40. In a concentration cell made of two Cu electrodes, the anode will be the electrode in the solution with:**
 
-- (A) Zero concentration
-- (B) Lower concentration
-- (C) Higher concentration
-- (D) Equal concentration
+- <br>
+(A) Zero concentration
+- <br>
+(B) Lower concentration
+- <br>
+(C)
+ Higher concentration
+- <br>
+(D) Equal concentration
 
-<details><summary>Solution</summary><b>Answer: (B) Lower concentration</b><br>To reach equilibrium, the cell tries to equalize the concentrations. It does this by oxidizing the metal in the less concentrated solution (Anode) to increase its concentration, and reducing the ions in the more concentrated solution (Cathode).</details>
+<details><summary>Solution</summary><b>Answer: <br>
+(B) Lower concentration</b><br>To reach equilibrium, the cell tries to equalize the concentrations. It does this by oxidizing the metal in the less concentrated solution (Anode) to increase its concentration, and reducing the ions in the more concentrated solution (Cathode).</details>
 
 
 --- 

@@ -6,7 +6,7 @@
 
 ### The Story of the Architect's Shortcut
 
-Imagine an architect designing a building. She needs to know the total weight pressing down on the foundation. She has hundreds of individual components — walls, columns, furniture, water tanks — each with its own weight. Does she need to worry about the *direction* each weight pushes? No. Weight always points straight down. She simply **adds up the numbers**.
+Imagine an architect designing a building. She needs to know the total weight pressing down on the foundation. She has hundreds of individual components — walls, columns, furniture, water tanks — each with its own weight. Does she need to worry about the *direction* each weight pushes?<br> No. Weight always points straight down. She simply **adds up the numbers**.
 
 This is the fundamental advantage of working with potential instead of electric field. The electric field is a vector — to find the total field from multiple charges, you must break each field into components, sum the components separately, and then combine them. It's laborious.
 
@@ -90,7 +90,7 @@ $V = 6 \times \frac{18}{0.05} = 6 \times 360 = \textbf{2160 V}$
 
 *She removes one bead (leaving 5 beads of $+2$ nC).*
 
-**Problem 2:** What is the new potential at the center?
+**Problem 2:** What is the new potential at the center?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -101,7 +101,7 @@ Simple subtraction — we lost one bead's contribution of 360 V.
 
 *She replaces the removed bead with a bead of charge $-2$ nC.*
 
-**Problem 3:** What is the potential at the center now?
+**Problem 3:** What is the potential at the center now?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -114,9 +114,9 @@ Or equivalently: the sum of all charges is $5(+2) + 1(-2) = 8$ nC.
 $V = \frac{k \times 8 \times 10^{-9}}{0.05} = \frac{72}{0.05} = 1440$ V. ✓
 </details>
 
-*She wonders: what if she adds beads to make the sum of charges exactly zero?*
+*She wonders: what if she adds beads to make the sum of charges exactly zero?<br>*
 
-**Problem 4:** She has 3 beads of $+4$ nC and 3 beads of $-4$ nC, alternating around the ring. What is the potential at the center?
+**Problem 4:** She has 3 beads of $+4$ nC and 3 beads of $-4$ nC, alternating around the ring. What is the potential at the center?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -183,8 +183,8 @@ $\textbf{Two points: x = 2.4 m (between) and x = 4.0 m (beyond Q₂)}$
 - $Q_3 = +5 \mu C$ at $(0, 4)$ m
 
 (a) Find the potential at the point $(3, 4)$ m.  
-(b) How much work is done in bringing a $-2 \mu C$ charge from infinity to $(3, 4)$?  
-(c) If the charge of $-2 \mu C$ is now moved from $(3, 4)$ to the origin, what additional work is done?
+(b) How much work is done in bringing a $-2 \mu C$ charge from infinity to $(3, 4)$?<br>  
+(c) If the charge of $-2 \mu C$ is now moved from $(3, 4)$ to the origin, what additional work is done?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -265,7 +265,7 @@ Positive work — the external agent must push the charge from $(3,4)$ to the or
 
 ---
 
-**Q5.** Which of the following charge distributions can give zero potential everywhere in space?
+**Q5.** Which of the following charge distributions can give zero potential everywhere in space?<br>
 
 (a) A single $+q$ charge &emsp; (b) Two equal $+q$ charges &emsp; (c) No finite distribution of charges &emsp; (d) An infinite line of $+q$ charges
 
@@ -411,7 +411,7 @@ The charges cancel in pairs at the equidistant center.
 
 ---
 
-**Q20.** A $+1\,\mu C$ charge is at the origin and a $-2\,\mu C$ charge is at $x = 4$ m. At what point on the x-axis (other than infinity) is the potential zero?
+**Q20.** A $+1\,\mu C$ charge is at the origin and a $-2\,\mu C$ charge is at $x = 4$ m. At what point on the x-axis (other than infinity) is the potential zero?<br>
 
 <details><summary><b>Answer</b></summary>
 
@@ -461,7 +461,7 @@ This is the same as the potential of a point charge $Q$ at distance $R$. The res
 
 For equilibrium, the force on each corner charge must be zero. By symmetry, the centroidal charge $Q$ must produce equal and opposite forces on each corner charge relative to the other two.
 
-However, since the corner charges are not equal ($1, 2, 3\,\mu C$), true equilibrium for ALL charges simultaneously is impossible (Earnshaw's theorem prevents it anyway). The problem likely asks: what $Q$ makes the net force on the centroid charge zero?
+However, since the corner charges are not equal ($1, 2, 3\,\mu C$), true equilibrium for ALL charges simultaneously is impossible (Earnshaw's theorem prevents it anyway). The problem likely asks: what $Q$ makes the net force on the centroid charge zero?<br>
 
 At centroid, all three corner charges are at distance $r = a/\sqrt{3} = 1/\sqrt{3}$ m.
 
@@ -601,7 +601,7 @@ This means an entire region of space has the same potential as the surface — t
 
 ---
 
-**Q31.** Charges $Q_1 = +10\,\mu C$ and $Q_2 = -6\,\mu C$ are separated by $d = 0.5$ m. Find all points where the potential is zero. How many such points are there?
+**Q31.** Charges $Q_1 = +10\,\mu C$ and $Q_2 = -6\,\mu C$ are separated by $d = 0.5$ m. Find all points where the potential is zero. How many such points are there?<br>
 
 <details><summary><b>Answer</b></summary>
 

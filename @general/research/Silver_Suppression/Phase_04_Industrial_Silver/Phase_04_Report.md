@@ -88,6 +88,6 @@ If every citizen could bring silver to a mint and get 'Real Money,' the Banks wo
 ---
 
 ## VI. Comprehension Check
-*   **Q:** Why did the Banks push for the Gold Standard in 1873, even though the world's new technology (Telegraph/Photography) was making Silver more useful than ever?
+*   **Q:** Why did the Banks push for the Gold Standard in 1873, even though the world's new technology (Telegraph/Photography) was making Silver more useful than ever?<br>
 *   **A:** Because if silver remained money, the massive increase in production from the Comstock Lode would have caused "Inflation" (which helps debtors) and decentralized wealth. By switching to Gold (which was scarcer and held by the Banks), they ensured that "Money" stayed rare and "Debt" stayed expensive.
 *   **C:** *Curiosity Spark:* If the 1873 "Crime" was the first hit-job, wait until you see how they used the **1934 Silver Purchase Act** to crash the economy of China and hand it to the communists on a silver platter. That's Phase 15.

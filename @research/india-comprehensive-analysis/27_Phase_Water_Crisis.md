@@ -36,7 +36,7 @@
 *   **The Toxin:** In many areas, groundwater is laced with Arsenic and Fluoride.
 *   **The Health:** Millions are slowly being poisoned, leading to cancer and bone deformities.
 
-## 9. Desalination: Too Expensive?
+## 9. Desalination: Too Expensive?<br>
 *   **The Tech:** Turning sea water into drinking water (like Dubai).
 *   **The Status:** Chennai has tried it, but it is expensive and uses a lot of energy. It's not a silver bullet for a poor country.
 

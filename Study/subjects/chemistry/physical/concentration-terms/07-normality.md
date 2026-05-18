@@ -5,13 +5,13 @@
 
 ## 🎯 Stage 1: The Core Idea
 
-### What is Normality?
+### What is Normality?<br>
 
 Normality counts **gram equivalents** of solute per litre of solution, instead of moles.
 
 > **Analogy:** Imagine you're at a potluck. Molarity counts "how many dishes each person brought." Normality counts "how many servings each person contributed." One person might bring a huge dish (= many servings from one dish), while another brings a small plate. Normality cares about the actual reactive capacity.
 
-### What is an "Equivalent"?
+### What is an "Equivalent"?<br>
 
 An equivalent is the amount of a substance that reacts with or supplies **one mole of H⁺ or OH⁻** (for acid-base), or **one mole of electrons** (for redox).
 
@@ -193,10 +193,10 @@ Answer: (a) 1N  (b) 2N  (c) 3N
 | 7.2a | Find N of: 0.5 M NaOH, 0.5 M Ca(OH)₂, 0.5 M Al(OH)₃ | 🟢 |
 | 7.2b | 2 M KMnO₄ in acidic medium. Find N. ⭐ | 🟡 |
 | 7.2c | 0.1 M K₂Cr₂O₇ in acidic medium. Find N. ⭐ | 🟡 |
-| 7.2d | Is it possible for N < M? Why or why not? | 🟡 |
+| 7.2d | Is it possible for N < M?<br> Why or why not?<br> | 🟡 |
 | 7.2e | A standard laboratory stock of phosphoric acid (H₃PO₄) is labelled as precisely 2.5 M. Calculate its maximum theoretical normality, assuming it will be forced to undergo complete neutralization where all three protons are displaced. | 🟢 |
-| 7.2f | An aqueous solution of barium hydroxide (Ba(OH)₂), designed to precipitate carbonate ions, is characterized as having a molarity of 0.015 M. What is its corresponding normality regarding complete acid-base neutralization? | 🟢 |
-| 7.2g | During a complicated inorganic synthesis, a vessel contains a 0.4 M solution of potassium permanganate (KMnO₄). If the downstream reaction is guaranteed to proceed purely in a strongly basic medium (n-factor = 1), what equivalent normality does this solution represent to the researcher? | 🟡 |
+| 7.2f | An aqueous solution of barium hydroxide (Ba(OH)₂), designed to precipitate carbonate ions, is characterized as having a molarity of 0.015 M. What is its corresponding normality regarding complete acid-base neutralization?<br> | 🟢 |
+| 7.2g | During a complicated inorganic synthesis, a vessel contains a 0.4 M solution of potassium permanganate (KMnO₄). If the downstream reaction is guaranteed to proceed purely in a strongly basic medium (n-factor = 1), what equivalent normality does this solution represent to the researcher?<br> | 🟡 |
 
 <details>
 <summary>💡 Detailed Solutions for Type 2</summary>
@@ -264,7 +264,7 @@ Answer: (a) 1N  (b) 2N  (c) 3N
 |---|----------|------------|
 | 7.3a | Eq.wt of H₃PO₄ when (a) all 3 H⁺ replaced (b) only 1 H⁺ replaced (c) only 2 H⁺ replaced. | 🟡 |
 | 7.3b | Eq.wt of FeSO₄ (Fe²⁺ → Fe³⁺) and Na₂C₂O₄ (C₂O₄²⁻ → 2CO₂). (M_FeSO₄ = 152, M_Na₂C₂O₄ = 134) ⭐ | 🟡 |
-| 7.3c | Why does KMnO₄ have different equivalent weights in acidic vs. basic media? | 🟡 |
+| 7.3c | Why does KMnO₄ have different equivalent weights in acidic vs. basic media?<br> | 🟡 |
 | 7.3d | Evaluate and compare the equivalent weights of crystalline sodium carbonate (Na₂CO₃, M = 106) when it is forcefully titrated completely to carbonic acid (using methyl orange) versus when it is titrated only halfway to sodium bicarbonate (using phenolphthalein). | 🟡 |
 | 7.3e | Calculate the precise equivalent weight of hydrogen peroxide (H₂O₂, M = 34) when it acts purely as a reducing agent against a strong oxidizer, liberating oxygen gas in the process. | 🟡 |
 | 7.3f | In advanced analytical chemistry, Mohr's salt (ferrous ammonium sulphate hexahydrate, M ≈ 392) is preferred as a primary standard. Calculate its equivalent weight when its intended use is exclusively to supply Fe²⁺ ions for an acidic permanganate titration. | 🟡 |
@@ -326,8 +326,8 @@ Answer: 0.2 N
 | # | Question | Difficulty |
 |---|----------|------------|
 | 7.4a | Dilute 25 mL of 4 N NaOH to 200 mL. Find N₂. | 🟢 |
-| 7.4b | You need 1 L of 0.1 N HCl. You have 6 N HCl. How much do you need? | 🟡 |
-| 7.4c | A student accidentally prepares exactly 100 mL of an overly strong 0.8 N sulfuric acid solution. To salvage the experiment, what final total volume must they carefully dilute this sample to, using distilled water, to achieve a desired working concentration of precisely 0.05 N? | 🟢 |
+| 7.4b | You need 1 L of 0.1 N HCl. You have 6 N HCl. How much do you need?<br> | 🟡 |
+| 7.4c | A student accidentally prepares exactly 100 mL of an overly strong 0.8 N sulfuric acid solution. To salvage the experiment, what final total volume must they carefully dilute this sample to, using distilled water, to achieve a desired working concentration of precisely 0.05 N?<br> | 🟢 |
 | 7.4d | A hospital pharmacy receives a bulk shipment of 1.5 N sodium bicarbonate buffer solution. A doctor orders 2.0 L of a gentle 0.15 N rinse. Calculate the exact volume of the stock buffer that the pharmacist must extract and dilute to fulfill this prescription. | 🟡 |
 | 7.4e | Evaporation over a hot weekend caused a 500 mL beaker originally containing 0.2 N potassium hydroxide to drop its fluid volume down to 350 mL. Assuming no solid splashed out, calculate the new, concentrated normality of the basic remainder. | 🟡 |
 
@@ -397,7 +397,7 @@ Answer: N_H₂SO₄ = 0.2 N, M_H₂SO₄ = 0.1 M
 | # | Question | Difficulty |
 |---|----------|------------|
 | 7.5a | 20 mL of 0.5 N HCl neutralises X mL of 0.2 N NaOH. Find X. ⭐ | 🟡 |
-| 7.5b | 25 mL of 0.1 M H₂SO₄ requires how many mL of 0.1 M NaOH? (Careful — convert to N first!) ⭐⭐ | 🟡 |
+| 7.5b | 25 mL of 0.1 M H₂SO₄ requires how many mL of 0.1 M NaOH?<br> (Careful — convert to N first!) ⭐⭐ | 🟡 |
 | 7.5c | 10 mL of H₃PO₄ (all 3H⁺ react) is titrated with 30 mL of 0.1 N NaOH. Find the molarity of H₃PO₄. | 🔴 |
 | 7.5d | 25 mL of a monobasic acid (n=1) requires 20 mL of 0.25 N KOH. Find N and M of the acid. | 🟡 |
 | 7.5g | A 15.0 mL aliquot of an ambiguous dibasic acid (H₂A) requires precisely 22.5 mL of 0.15 N potassium hydroxide to achieve complete, two-proton neutralization. Discover the operational molarity (not normality) of the unknown dibasic acid solution. | 🔴 |
@@ -550,7 +550,7 @@ Answer: (a) 1N  (b) 2N  (c) 3N — all from the SAME 1M solution!
 | # | Question | Difficulty |
 |---|----------|------------|
 | 7.7a | 0.5 M H₂SO₄: Find N when (a) both H⁺ react (b) only one H⁺ reacts (as NaHSO₄). | 🟡 |
-| 7.7b | What is the normality of 0.1 M H₂CO₃ if it reacts to form (a) NaHCO₃ (b) Na₂CO₃? | 🟡 |
+| 7.7b | What is the normality of 0.1 M H₂CO₃ if it reacts to form (a) NaHCO₃ (b) Na₂CO₃?<br> | 🟡 |
 | 7.7c | A research protocol calls for 0.25 M phosphorous acid (H₃PO₃). This specific molecule is diprotic, despite possessing three hydrogen atoms, because one H is directly bonded to the central phosphorus. Specify its functional normality when it undergoes total possible neutralization with excess strong base. | 🟡 |
 | 7.7e | A lab technician has a 0.5 M solution of phosphoric acid (H₃PO₄). They plan to react it with sodium hydroxide specifically to form the dihydrogen phosphate salt (NaH₂PO₄) as an intermediate buffer. Under these single-stage reaction parameters, state the normality and the effective equivalent weight of the original acid. | 🟡 |
 
@@ -661,7 +661,7 @@ Answer: (a) 0.1N  (b) 0.06N  (c) 0.02N
 **The Pattern:** Working in milliequivalents for titration calculations.
 
 #### Solved Example 7.9
-**Q:** How many milliequivalents of H₂SO₄ are present in 50 mL of 0.2 N H₂SO₄? 🟢
+**Q:** How many milliequivalents of H₂SO₄ are present in 50 mL of 0.2 N H₂SO₄?<br> 🟢
 
 **Solution:**
 ```
@@ -681,9 +681,9 @@ mass (mg) = meq × equivalent weight
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 7.9a | meq of NaOH in 25 mL of 0.1 N NaOH? | 🟢 |
-| 7.9b | How many mg of NaOH in 25 mL of 0.1 N NaOH? (Eq.wt = 40) | 🟡 |
-| 7.9c | 10 meq of HCl = how many mL of 0.5 N HCl? | 🟡 |
+| 7.9a | meq of NaOH in 25 mL of 0.1 N NaOH?<br> | 🟢 |
+| 7.9b | How many mg of NaOH in 25 mL of 0.1 N NaOH?<br> (Eq.wt = 40) | 🟡 |
+| 7.9c | 10 meq of HCl = how many mL of 0.5 N HCl?<br> | 🟡 |
 | 7.9d | A high-precision digital burette systematically dispenses exactly 36.4 mL of a standardized 0.105 N potassium permanganate solution. Calculate the exact number of milliequivalents of the active oxidizer transferred to the receiving flask. | 🟢 |
 | 7.9f | A 50.0 mL aliquot is drawn completely from a large reaction carboy containing 0.08 N calcium hydroxide (Ca(OH)₂). Determine first the milliequivalents captured in this sample, and subsequently, convert this value to find the physical mass of dissolved solute in milligrams. (Eq.wt of Ca(OH)₂ = 37) | 🟡 |
 
@@ -762,7 +762,7 @@ Answer: meq NaOH = 2, meq Na₂CO₃ = 1
 | # | Question | Difficulty |
 |---|----------|------------|
 | 7.10a | NaOH + Na₂CO₃ mixture titrated with 0.5 N HCl. V₁ (PP) = 20 mL, V₂ (PP→MO) = 8 mL. Find meq and mass of each. (Eq.wt NaOH = 40, Eq.wt Na₂CO₃ = 53) ⭐ | 🔴 |
-| 7.10b | If V₁ = V₂ in the above setup, what does it mean about the sample? | 🔴 |
+| 7.10b | If V₁ = V₂ in the above setup, what does it mean about the sample?<br> | 🔴 |
 | 7.10c | A delicate solid mixture entirely consisting of sodium carbonate (Na₂CO₃) and sodium bicarbonate (NaHCO₃) is completely dissolved in water. Titration with 0.1 N HCl using phenolphthalein demands 12.0 mL to hit the first endpoint. Upon adding methyl orange, a massive additional 35.0 mL of the acid is required to hit the final endpoint. Calculate the exact milliequivalents of the original carbonate and the distinct bicarbonate components. | 🔴 |
 | 7.10e | Prove mathematically, using the established V₁ and V₂ double-indicator logic, why a pure, uncontaminated sample composed exclusively of sodium bicarbonate (NaHCO₃) will present a V₁ value of precisely zero when probed initially with phenolphthalein. | 🔴 |
 
@@ -913,7 +913,7 @@ Answer: meq NaOH = 2, meq Na₂CO₃ = 1
     Volume strength = $5.6 \times N = 5.6 \times 0.08 = 0.448\text{ V}$.
 *   **Answer:** $0.448\text{ V}$
 
-**7.J4: Is it meaningful to say "the normality of H₃PO₄ is 3N"?**
+**7.J4: Is it meaningful to say "the normality of H₃PO₄ is 3N"?<br>**
 *   **Reasoning:** No! Normality is purely reactionary. If the $\text{H}_3\text{PO}_4$ only loses one proton in a particular reaction, its effective normality is 1N, not 3N. It is always better to state "1M H₃PO₄" and calculate normality at the point of reaction.
 *   **Answer:** No, because normality depends on the specific reaction (n-factor can be 1, 2, or 3).
 

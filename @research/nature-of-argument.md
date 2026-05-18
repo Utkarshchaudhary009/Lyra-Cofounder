@@ -2,17 +2,17 @@
 
 ---
 
-## What is an argument?
+## What is an argument?<br>
 
-Strip everything away. Two people, each saying "X is true" and "No, Y is true." That's it. But what's actually happening?
+Strip everything away. Two people, each saying "X is true" and "No, Y is true." That's it. But what's actually happening?<br>
 
 **The surface**: Two people disagree.
 
-**The question**: Why do they disagree?
+**The question**: Why do they disagree?<br>
 
 Because they each hold a different map of reality. Neither person chose their map. It was built from their experiences, their information, their reasoning — none of which they fully chose either. So before we even get to "winning," we have to ask:
 
-**Is either map accurate?**
+**Is either map accurate?<br>**
 
 If both maps were perfectly accurate, there would be no argument. Two people with complete and identical information, reasoning flawlessly, would arrive at the same conclusion. The fact that an argument exists *already proves* that at least one person is working with an incomplete or distorted map.
 
@@ -20,11 +20,11 @@ This is critical. An argument is not a contest between two equally valid positio
 
 ---
 
-## Why do we want to win?
+## Why do we want to win?<br>
 
-Ask: What does "winning" actually feel like? The other person says "You're right." You feel relief. Satisfaction. Maybe superiority.
+Ask: What does "winning" actually feel like?<br> The other person says "You're right." You feel relief. Satisfaction. Maybe superiority.
 
-But why relief? Because the disagreement created **uncertainty** — and uncertainty is uncomfortable. "Winning" resolves that discomfort by confirming your map is correct.
+But why relief?<br> Because the disagreement created **uncertainty** — and uncertainty is uncomfortable. "Winning" resolves that discomfort by confirming your map is correct.
 
 But here's the problem: **the feeling of winning is not the same as being correct.** You can win an argument by being louder, more articulate, more socially dominant, more manipulative. None of that makes your position true.
 
@@ -32,11 +32,11 @@ So the desire to win is not a desire for truth. It's a desire for **psychologica
 
 ---
 
-## Is not trying to win the cause of losing?
+## Is not trying to win the cause of losing?<br>
 
 This question has a hidden assumption: that there's something to lose.
 
-If the goal is truth, what does "losing" look like? You discover your map was wrong. You update it. You're now closer to reality. That's not a loss — that's a gain.
+If the goal is truth, what does "losing" look like?<br> You discover your map was wrong. You update it. You're now closer to reality. That's not a loss — that's a gain.
 
 The only way you "lose" is if you attached your **identity** to your position. Then changing your mind feels like self-destruction. But that's a problem with identity-attachment, not with the argument itself.
 
@@ -44,9 +44,9 @@ So: not trying to win doesn't cause losing. It **removes the possibility of losi
 
 ---
 
-## What is the objective of an argument?
+## What is the objective of an argument?<br>
 
-Let's question the question. Does an argument even *have* an objective? Or do people bring objectives to it?
+Let's question the question. Does an argument even *have* an objective?<br> Or do people bring objectives to it?<br>
 
 Possible objectives people bring:
 
@@ -64,7 +64,7 @@ If the objective is domination or ego-protection, then the argument is a **power
 
 ## How to make anyone "surrender"
 
-Now the real question: **surrender what?**
+Now the real question: **surrender what?<br>**
 
 If you mean surrender their *position* — you can't force that with logic alone. People don't hold positions because of logic. They hold them because of identity, emotion, social belonging, sunk cost. Logic addresses the rational layer, but the resistance lives underneath.
 

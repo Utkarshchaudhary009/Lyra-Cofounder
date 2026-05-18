@@ -39,7 +39,7 @@
 *   **The Suppression Seed:** High-tech industries are hostage to a manipulated commodity market.
 
 ### Clue 7: Nuclear Power (The Control Rod)
-*   **The Simple Truth:** To stop a nuclear reactor from melting down, you drop "control rods" into the core. These rods absorb neutrons. The best material? An alloy of Silver, Indium, and Cadmium.
+*   **The Simple Truth:** To stop a nuclear reactor from melting down, you drop "control rods" into the core. These rods absorb neutrons. The best material?<br> An alloy of Silver, Indium, and Cadmium.
 *   **The Hard Evidence:** A single large reactor uses **~56,000 ounces** (1.7 tonnes) of silver. The Ag-In-Cd control rod market is growing at **2.3% CAGR**. With silver prices spiking to **$90+** in 2026 scenarios, the maintenance cost of nuclear energy is rising unexpectedly.
 *   **The Suppression Seed:** Even "Zero Carbon" nuclear power is dependent on the availability of physical silver.
 
@@ -111,7 +111,7 @@ They were wrong.
 
 Phase 41 exposes the "Industrial Chokehold." The data is undeniable. The solar industry, the darling of the green transition, is now addicted to silver. The shift to more efficient **TOPCon** cells increased silver usage by **30%**, just as the price tripled. Manufacturers are scrambling to "thrift" (use less), but they are fighting physics. You cannot make a high-efficiency panel without the most conductive metal on earth.
 
-The same story plays out in **5G infrastructure**. To make the internet faster, we built towers with 10 times more antennas, all plated in silver. Demand is set to triple by 2030. But where will the metal come from? We mined it all, and we sold the reserves to China.
+The same story plays out in **5G infrastructure**. To make the internet faster, we built towers with 10 times more antennas, all plated in silver. Demand is set to triple by 2030. But where will the metal come from?<br> We mined it all, and we sold the reserves to China.
 
 The **Photographic Industry** was the canary in the coal mine. In 1980, volatility crushed Kodak's margins, pushing them toward digital. Today, there is no "digital" alternative for a solar panel or a nuclear control rod. You need the physical atoms.
 
@@ -131,62 +131,62 @@ We are entering the age of "Scarcity." The industries that power the 21st centur
 
 ## 7. Comprehension Check (Critical Thinking)
 
-**Q1:** Why did the 1980 silver crash hurt Kodak?
+**Q1:** Why did the 1980 silver crash hurt Kodak?<br>
 **A:** It made raw material costs unpredictable, threatening their 80% profit margins.
 **C:** Volatility is the enemy of planning.
 
-**Q2:** Why do TOPCon solar cells use more silver than PERC?
+**Q2:** Why do TOPCon solar cells use more silver than PERC?<br>
 **A:** They need silver on both sides (front and back) to capture more energy.
 **C:** Efficiency has a silver price tag.
 
-**Q3:** What is the "Silver Deficit" in electronics?
+**Q3:** What is the "Silver Deficit" in electronics?<br>
 **A:** The gap between what we need (demand) and what we dig up (supply). It's ~820 million ounces.
 **C:** You can't print a circuit board.
 
-**Q4:** Why is silver used in 5G towers?
+**Q4:** Why is silver used in 5G towers?<br>
 **A:** High-frequency signals need the best conductor to avoid signal loss (Skin Effect).
 **C:** Faster internet = More silver.
 
-**Q5:** Why can't we just recycle silver from old phones?
+**Q5:** Why can't we just recycle silver from old phones?<br>
 **A:** We can, but the amounts are tiny and hard to separate. It wasn't profitable at low prices, so we didn't build the factories to do it.
 **C:** Cheap prices encourage waste.
 
-**Q6:** How does silver suppression affect national defense?
+**Q6:** How does silver suppression affect national defense?<br>
 **A:** It encouraged reliance on "just-in-time" markets instead of building strategic stockpiles. Now, missiles need silver we don't have.
 **C:** Logistics wins wars.
 
-**Q7:** What is a "Control Rod"?
+**Q7:** What is a "Control Rod"?<br>
 **A:** A silver-alloy bar dropped into a nuclear reactor to slow it down.
 **C:** Safety costs money.
 
-**Q8:** Why are jewelry makers using less silver?
+**Q8:** Why are jewelry makers using less silver?<br>
 **A:** The price went up 42%, so customers can't afford it.
 **C:** Price kills demand (Demand Destruction).
 
-**Q9:** What happens if solar manufacturers can't get silver paste?
+**Q9:** What happens if solar manufacturers can't get silver paste?<br>
 **A:** Factories stop. The Green Energy transition halts.
 **C:** No silver, no solar.
 
-**Q10:** Why is silver "unsubstitutable" in medicine?
+**Q10:** Why is silver "unsubstitutable" in medicine?<br>
 **A:** Because no other metal kills bacteria safely in the human body.
 **C:** Biology doesn't care about market prices.
 
-**Q11:** How much silver does the electronics industry use?
+**Q11:** How much silver does the electronics industry use?<br>
 **A:** Over 300 million ounces a year.
 **C:** That's almost 40% of all mining supply.
 
-**Q12:** What is the "Green Addiction"?
+**Q12:** What is the "Green Addiction"?<br>
 **A:** The reliance of renewable energy tech on cheap, abundant silver that doesn't exist.
 **C:** We built a future we can't afford.
 
-**Q13:** How did suppression cause the "recycling gap"?
+**Q13:** How did suppression cause the "recycling gap"?<br>
 **A:** Low prices made recycling look like a waste of money.
 **C:** Price signals tell the world what to do. Bad signals = Bad actions.
 
-**Q14:** Why is silver brazing used in airplanes?
+**Q14:** Why is silver brazing used in airplanes?<br>
 **A:** It holds strong at high temperatures where other glues melt.
 **C:** Gravity is unforgiving.
 
-**Q15:** What is the "Physical Limit" of thrifting?
+**Q15:** What is the "Physical Limit" of thrifting?<br>
 **A:** The point where using less silver makes the product fail or catch fire.
 **C:** You can't negotiate with physics.

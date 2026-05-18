@@ -16,7 +16,7 @@ So, Resistance ($R$) is directly proportional to length ($L$) and inversely prop
 
 $$R \propto \frac{L}{A} \implies R = \rho \frac{L}{A}$$
 
-### What is $\rho$ (Resistivity)?
+### What is $\rho$ (Resistivity)?<br>
 
 If Resistance ($R$) is the *total traffic* on a specific highway, **Resistivity ($\rho$)** is a measure of the *quality of the road material itself*. 
 - A dirt road has high resistivity.
@@ -111,7 +111,7 @@ $R = \rho L/A \implies \rho = RA/L$
 $\rho = 0.05 \times (3.14 \times 10^{-6}) / 1 = \mathbf{1.57 \times 10^{-7} \text{ } \Omega\cdot\text{m}}$
 </details>
 
-2. 🟡 A wire of resistance $10 \text{ } \Omega$ is to be made from a material of resistivity $10^{-7} \text{ } \Omega\cdot\text{m}$. If the diameter of the wire is $0.2 \text{ mm}$, what length of wire is required?
+2. 🟡 A wire of resistance $10 \text{ } \Omega$ is to be made from a material of resistivity $10^{-7} \text{ } \Omega\cdot\text{m}$. If the diameter of the wire is $0.2 \text{ mm}$, what length of wire is required?<br>
 
 <details>
 <summary><b>Answer</b></summary>
@@ -129,7 +129,7 @@ $L = RA/\rho = 10 \times (3.14 \times 10^{-8}) / 10^{-7} = \mathbf{3.14 \text{ m
 
 **Solved Example** 🟢
 
-> A uniform wire of resistance $100 \text{ } \Omega$ is cut into 5 equal parts. What is the resistance of each part?
+> A uniform wire of resistance $100 \text{ } \Omega$ is cut into 5 equal parts. What is the resistance of each part?<br>
 
 <details>
 <summary><b>Solution</b></summary>
@@ -152,7 +152,7 @@ $R \propto 1/A \propto 1/r^2$
 $R_1/R_2 = (r_2/r_1)^2 = (2/1)^2 = \mathbf{4:1}$
 </details>
 
-2. 🟡 Two wires $A$ and $B$ are of the same metal, have the same mass, but their lengths are in the ratio 3:1. What is the ratio of their resistances?
+2. 🟡 Two wires $A$ and $B$ are of the same metal, have the same mass, but their lengths are in the ratio 3:1. What is the ratio of their resistances?<br>
 
 <details>
 <summary><b>Answer</b></summary>
@@ -171,7 +171,7 @@ $R_A / R_B = (L_A / A_A) \times (A_B / L_B) = (L_A / L_B) \times (A_B / A_A) = (
 
 **Solved Example** 🔴
 
-> A wire of resistance $10 \text{ } \Omega$ is stretched so that its length becomes three times its original length. What is its new resistance?
+> A wire of resistance $10 \text{ } \Omega$ is stretched so that its length becomes three times its original length. What is its new resistance?<br>
 
 <details>
 <summary><b>Solution</b></summary>
@@ -184,7 +184,7 @@ $R_{new} = 3^2 \times 10 = 9 \times 10 = \mathbf{90 \text{ } \Omega}$.
 
 **Practice:**
 
-1. 🟡 A wire of resistance $R$ is stretched to double its length. What is the new resistance?
+1. 🟡 A wire of resistance $R$ is stretched to double its length. What is the new resistance?<br>
 
 <details>
 <summary><b>Answer</b></summary>
@@ -259,7 +259,7 @@ Total resistance $R = \int_a^b \rho \frac{dr}{2\pi r L} = \frac{\rho}{2\pi L} [\
 
 ## 🔀 Stage 4: Type Mixer
 
-**Q1.** 🟡 Two wires of equal length, one of copper and the other of manganin, have the same resistance. Which wire is thicker? (Given: $\rho_{manganin} \gg \rho_{copper}$)
+**Q1.** 🟡 Two wires of equal length, one of copper and the other of manganin, have the same resistance. Which wire is thicker?<br> (Given: $\rho_{manganin} \gg \rho_{copper}$)
 
 <details>
 <summary><b>Solution</b></summary>
@@ -270,7 +270,7 @@ Since resistivity of manganin is higher, its area of cross-section must be highe
 Therefore, the **manganin wire is thicker**.
 </details>
 
-**Q2.** 🔴 ⭐ A block of metal has dimensions $L \times 2L \times 3L$. What is the ratio of maximum to minimum resistance that can be offered by this block?
+**Q2.** 🔴 ⭐ A block of metal has dimensions $L \times 2L \times 3L$. What is the ratio of maximum to minimum resistance that can be offered by this block?<br>
 
 <details>
 <summary><b>Solution</b></summary>
@@ -290,7 +290,7 @@ Ratio = $R_{max} / R_{min} = 1.5 / (1/6) = 1.5 \times 6 = \mathbf{9:1}$.
 
 ## 📋 Stage 5: Board Arsenal
 
-**Q1.** 🟢 Define electrical resistivity of a material. What is its SI unit? *(2 marks)*
+**Q1.** 🟢 Define electrical resistivity of a material. What is its SI unit?<br> *(2 marks)*
 
 <details>
 <summary><b>Model Answer</b></summary>
@@ -299,7 +299,7 @@ The electrical resistivity ($\rho$) of a material is defined as the resistance o
 **SI Unit:** Ohm-meter ($\Omega\cdot\text{m}$).
 </details>
 
-**Q2.** 🟡 A wire of resistance $8R$ is bent in the form of a circle. What is the effective resistance between the ends of a diameter $AB$? *(2 marks)*
+**Q2.** 🟡 A wire of resistance $8R$ is bent in the form of a circle. What is the effective resistance between the ends of a diameter $AB$?<br> *(2 marks)*
 
 <details>
 <summary><b>Model Answer</b></summary>
@@ -311,7 +311,7 @@ Effective resistance in parallel: $\frac{1}{R_{eq}} = \frac{1}{4R} + \frac{1}{4R
 Therefore, $R_{eq} = \mathbf{2R}$.
 </details>
 
-**Q3.** 🟡 Why are alloys like constantan and manganin used for making standard resistors? *(2 marks)*
+**Q3.** 🟡 Why are alloys like constantan and manganin used for making standard resistors?<br> *(2 marks)*
 
 <details>
 <summary><b>Model Answer</b></summary>

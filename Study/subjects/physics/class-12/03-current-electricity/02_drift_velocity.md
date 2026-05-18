@@ -71,7 +71,7 @@ Unit: $\text{A/m}^2$. Its direction is the same as the direction of conventional
 
 ### 4. Mobility ($\mu$)
 
-How easily can an electron drift when an electric field is applied? This is measured by mobility. It is defined as the magnitude of drift velocity per unit electric field.
+How easily can an electron drift when an electric field is applied?<br> This is measured by mobility. It is defined as the magnitude of drift velocity per unit electric field.
 
 $$\mu = \frac{v_d}{E} = \frac{e\tau}{m}$$
 
@@ -108,7 +108,7 @@ $$v_d = \frac{1.6}{1.6 \times 10^4} = 10^{-4} \text{ m/s}$$
 $v_d = I / (nAe) = 3.2 / (5 \times 10^{28} \times 2 \times 10^{-6} \times 1.6 \times 10^{-19}) = 3.2 / (16 \times 10^3) = 2 \times 10^{-4} \text{ m/s}$
 </details>
 
-2. 🟡 A wire has $v_d = 0.5 \text{ mm/s}$ when carrying $2 \text{ A}$. What will be the drift velocity if the current is increased to $6 \text{ A}$ (assuming same temperature)?
+2. 🟡 A wire has $v_d = 0.5 \text{ mm/s}$ when carrying $2 \text{ A}$. What will be the drift velocity if the current is increased to $6 \text{ A}$ (assuming same temperature)?<br>
 
 <details>
 <summary><b>Answer</b></summary>
@@ -131,12 +131,12 @@ $I = nAev_d = 8 \times 10^{28} \times 3.14 \times 10^{-6} \times 1.6 \times 10^{
 
 ### Type 2: Effect of changing dimensions on $v_d$ ⭐⭐
 
-**Pattern:** "A wire's radius/length is doubled. How does drift velocity change?"
+**Pattern:** "A wire's radius/length is doubled. How does drift velocity change?<br>"
 *Crucial: Check if Current ($I$) is constant or Voltage ($V$) is constant!*
 
 **Solved Example** 🔴
 
-> A steady current flows in a uniform wire. If the wire is replaced by another of the same material and same length but double the radius, how does the drift velocity change, assuming the same current flows?
+> A steady current flows in a uniform wire. If the wire is replaced by another of the same material and same length but double the radius, how does the drift velocity change, assuming the same current flows?<br>
 
 <details>
 <summary><b>Solution</b></summary>
@@ -150,7 +150,7 @@ The new drift velocity is **one-fourth** the original.
 
 **Practice:**
 
-1. 🟡 A battery of constant voltage $V$ is connected across a wire of length $L$. If the length is doubled ($2L$), how does $v_d$ change?
+1. 🟡 A battery of constant voltage $V$ is connected across a wire of length $L$. If the length is doubled ($2L$), how does $v_d$ change?<br>
 
 <details>
 <summary><b>Answer</b></summary>
@@ -184,11 +184,11 @@ $(v_{d1} / v_{d2}) = (L_2 / L_1) = 2:1$.
 
 ### Type 3: Non-uniform cross-section
 
-**Pattern:** "A wire tapers from radius $r_1$ to $r_2$. Which quantities change and how?"
+**Pattern:** "A wire tapers from radius $r_1$ to $r_2$. Which quantities change and how?<br>"
 
 **Solved Example** 🟡
 
-> A steady current flows through a metallic wire whose area of cross-section increases continuously from one end to the other. Which of the following quantities remains constant: drift velocity, current, or current density?
+> A steady current flows through a metallic wire whose area of cross-section increases continuously from one end to the other. Which of the following quantities remains constant: drift velocity, current, or current density?<br>
 
 <details>
 <summary><b>Solution</b></summary>
@@ -202,7 +202,7 @@ Only **current** remains constant.
 
 **Practice:**
 
-1. 🟡 In a tapered wire, electron drift velocity at the narrower end is $v$. What is it at a point where the diameter is twice as large?
+1. 🟡 In a tapered wire, electron drift velocity at the narrower end is $v$. What is it at a point where the diameter is twice as large?<br>
 
 <details>
 <summary><b>Answer</b></summary>
@@ -268,7 +268,7 @@ $\mu = e\tau / m = (1.6 \times 10^{-19} \times 3 \times 10^{-14}) / (9.1 \times 
 
 ## 🔀 Stage 4: Type Mixer
 
-**Q1.** 🔴 A copper wire of length $L$ and radius $r$ is connected to a battery of voltage $V$. If the wire is stretched to double its length (volume remains constant), how do the following change? (a) Drift velocity, (b) Current density.
+**Q1.** 🔴 A copper wire of length $L$ and radius $r$ is connected to a battery of voltage $V$. If the wire is stretched to double its length (volume remains constant), how do the following change?<br> (a) Drift velocity, (b) Current density.
 
 <details>
 <summary><b>Solution</b></summary>
@@ -334,7 +334,7 @@ Time taken by electrons to cross the length $L$ with drift velocity $v_d$ is $t 
 Current $I = \frac{Q}{t} = \frac{nALe}{L/v_d} = nAev_d$.
 </details>
 
-**Q4.** 🟡 Define mobility of a charge carrier. Write its SI unit. How does mobility of electrons in a metallic conductor vary with temperature? *(3 marks)*
+**Q4.** 🟡 Define mobility of a charge carrier. Write its SI unit. How does mobility of electrons in a metallic conductor vary with temperature?<br> *(3 marks)*
 
 <details>
 <summary><b>Model Answer</b></summary>

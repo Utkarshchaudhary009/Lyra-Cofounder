@@ -56,27 +56,27 @@ Therefore, Mg is the Anode, it is the negative terminal, and oxidation occurs th
 
 **Practice:**
 
-1. 🟢 In a standard Daniell Cell (Zn and Cu), which electrode acts as the positive terminal?
+1. 🟢 In a standard Daniell Cell (Zn and Cu), which electrode acts as the positive terminal?<br>
 <details><summary><b>Answer</b></summary>
 Zn undergoes oxidation (Anode, Negative). Cu undergoes reduction (Cathode). The Cathode is the **positive terminal**. Therefore, **Cu is the positive terminal**.
 </details>
 
-2. 🟢 You are told electrons flow from Electrode P to Electrode Q in the external circuit. What is the sign of Electrode Q?
+2. 🟢 You are told electrons flow from Electrode P to Electrode Q in the external circuit. What is the sign of Electrode Q?<br>
 <details><summary><b>Answer</b></summary>
 Electrons flow from Anode to Cathode. Electrode Q is the Cathode. In a Galvanic cell, the Cathode has a **positive sign**.
 </details>
 
-3. 🟡 A cell consists of an Aluminum half-cell and a Lead half-cell. Aluminum is oxidized. Which electrode should be placed on the left side of the cell notation?
+3. 🟡 A cell consists of an Aluminum half-cell and a Lead half-cell. Aluminum is oxidized. Which electrode should be placed on the left side of the cell notation?<br>
 <details><summary><b>Answer</b></summary>
 Aluminum undergoes oxidation. By convention (L-O-A-N), oxidation is written on the **Left side**.
 </details>
 
-4. 🟡 In a working Galvanic cell, at which electrode do you find a buildup of electrons before they enter the external wire?
+4. 🟡 In a working Galvanic cell, at which electrode do you find a buildup of electrons before they enter the external wire?<br>
 <details><summary><b>Answer</b></summary>
 At the **Anode**. Oxidation strips electrons from the metal atoms, leaving them on the anode plate, which is why it acquires a negative charge.
 </details>
 
-5. 🔴 Consider a cell where $Ni \rightarrow Ni^{2+} + 2e^-$ and $Ag^+ + e^- \rightarrow Ag$. Which metal acts as the electron sink (pulls electrons from the wire)?
+5. 🔴 Consider a cell where $Ni \rightarrow Ni^{2+} + 2e^-$ and $Ag^+ + e^- \rightarrow Ag$. Which metal acts as the electron sink (pulls electrons from the wire)?<br>
 <details><summary><b>Answer</b></summary>
 The **Silver (Ag) electrode** (Cathode). It is where reduction happens. The $Ag^+$ ions in solution "pull" the electrons from the Ag plate, causing electrons from the wire to sink into the Ag electrode to replace them.
 </details>
@@ -120,7 +120,7 @@ $Al(s) \ | \ Al^{3+}(aq) \ || \ Pb^{2+}(aq) \ | \ Pb(s)$
 $Ni(s) \ | \ Ni^{2+}(1M) \ || \ Sn^{2+}(1M) \ | \ Sn(s)$
 </details>
 
-5. 🔴 Write the cell notation for: $Cu(s) + 2H^+(aq) \rightarrow Cu^{2+}(aq) + H_2(g)$. (Hint: How do you represent a gas electrode?)
+5. 🔴 Write the cell notation for: $Cu(s) + 2H^+(aq) \rightarrow Cu^{2+}(aq) + H_2(g)$. (Hint: How do you represent a gas electrode?<br>)
 <details><summary><b>Answer</b></summary>
 Wait, Cu does not displace $H^+$ spontaneously, but if forced into a notation based purely on the equation:
 Oxidation: Cu to $Cu^{2+}$. Reduction: $H^+$ to $H_2$.
@@ -185,10 +185,10 @@ Right side (Reduction of Ag+): $Ag^+ + e^- \rightarrow Ag$
 
 ### Type 4: Effect of External Opposing Potential ($E_{ext}$) ⭐
 
-**Pattern:** "What happens to the Galvanic cell if we connect it to an external battery applying an opposing voltage $E_{ext}$?"
+**Pattern:** "What happens to the Galvanic cell if we connect it to an external battery applying an opposing voltage $E_{ext}$?<br>"
 
 **Solved Example** 🟡
-> A Daniell cell has a standard potential of 1.1 V. What happens to the flow of electrons and the chemical reaction if an external opposing potential of 1.5 V is applied?
+> A Daniell cell has a standard potential of 1.1 V. What happens to the flow of electrons and the chemical reaction if an external opposing potential of 1.5 V is applied?<br>
 
 <details><summary><b>Solution</b></summary>
 Since $E_{ext} (1.5 V) > E_{cell} (1.1 V)$, the external battery overpowers the cell.
@@ -199,22 +199,22 @@ Since $E_{ext} (1.5 V) > E_{cell} (1.1 V)$, the external battery overpowers the 
 
 **Practice:**
 
-1. 🟢 For a Daniell cell ($E = 1.1 V$), what happens if $E_{ext} = 1.0 V$?
+1. 🟢 For a Daniell cell ($E = 1.1 V$), what happens if $E_{ext} = 1.0 V$?<br>
 <details><summary><b>Answer</b></summary>
 $E_{ext} < E_{cell}$. The cell continues to function as a Galvanic cell. Electrons flow from Zn to Cu, but the current is somewhat reduced due to the opposing voltage.
 </details>
 
-2. 🟢 For a Daniell cell ($E = 1.1 V$), what happens if $E_{ext} = 1.1 V$?
+2. 🟢 For a Daniell cell ($E = 1.1 V$), what happens if $E_{ext} = 1.1 V$?<br>
 <details><summary><b>Answer</b></summary>
 $E_{ext} = E_{cell}$. The opposing voltages cancel out perfectly. The net potential is zero. **No chemical reaction occurs, and no current flows.**
 </details>
 
-3. 🟡 If $E_{ext} > E_{cell}$ is applied, which electrode acts as the Anode?
+3. 🟡 If $E_{ext} > E_{cell}$ is applied, which electrode acts as the Anode?<br>
 <details><summary><b>Answer</b></summary>
 The reaction reverses. The original Cathode (where reduction happened) now undergoes oxidation due to the external battery forcing electrons out of it. Thus, the **original Cathode becomes the Anode** of the new electrolytic cell.
 </details>
 
-4. 🟡 In a $Zn/Ag$ cell, $E_{cell} = 1.56 V$. If $E_{ext} = 1.6 V$ is applied, where will metal be deposited?
+4. 🟡 In a $Zn/Ag$ cell, $E_{cell} = 1.56 V$. If $E_{ext} = 1.6 V$ is applied, where will metal be deposited?<br>
 <details><summary><b>Answer</b></summary>
 $E_{ext} > E_{cell}$, so the cell reverses. Originally, Ag deposited and Zn dissolved. Now, Zn deposits (reduction at Zn electrode) and Ag dissolves (oxidation at Ag electrode). Metal deposits on the **Zinc electrode**.
 </details>
@@ -230,10 +230,10 @@ $E_{ext} > E_{cell}$, so the cell reverses. Originally, Ag deposited and Zn diss
 
 ### Type 5: Mass and Concentration Changes During Operation ⭐
 
-**Pattern:** "As the cell operates, what happens to the mass of the electrodes and the concentration of the solutions?"
+**Pattern:** "As the cell operates, what happens to the mass of the electrodes and the concentration of the solutions?<br>"
 
 **Solved Example** 🟡
-> In a $Mg/Ag$ Galvanic cell, what happens to the mass of the Magnesium electrode and the concentration of $Ag^+$ ions as the cell generates current?
+> In a $Mg/Ag$ Galvanic cell, what happens to the mass of the Magnesium electrode and the concentration of $Ag^+$ ions as the cell generates current?<br>
 
 <details><summary><b>Solution</b></summary>
 - Mg is the Anode (more reactive). It undergoes oxidation: $Mg \rightarrow Mg^{2+} + 2e^-$. Solid Mg is turning into aqueous ions, so the **mass of the Mg electrode decreases**.
@@ -242,28 +242,28 @@ $E_{ext} > E_{cell}$, so the cell reverses. Originally, Ag deposited and Zn diss
 
 **Practice:**
 
-1. 🟢 In a Daniell cell, which electrode becomes thicker over time?
+1. 🟢 In a Daniell cell, which electrode becomes thicker over time?<br>
 <details><summary><b>Answer</b></summary>
 The **Copper (Cathode) electrode** becomes thicker because $Cu^{2+}$ ions from the solution are reduced and deposited onto it as solid copper.
 </details>
 
-2. 🟢 What happens to the concentration of $Zn^{2+}$ ions in the anode half-cell of a Daniell cell over time?
+2. 🟢 What happens to the concentration of $Zn^{2+}$ ions in the anode half-cell of a Daniell cell over time?<br>
 <details><summary><b>Answer</b></summary>
 It **increases**. The zinc anode continually oxidizes ($Zn \rightarrow Zn^{2+} + 2e^-$), dumping more $Zn^{2+}$ into the solution.
 </details>
 
-3. 🟡 A cell is denoted as $Ni | Ni^{2+} || Pb^{2+} | Pb$. What happens to the intensity of the green color (due to $Ni^{2+}$) in the left beaker as the cell operates?
+3. 🟡 A cell is denoted as $Ni | Ni^{2+} || Pb^{2+} | Pb$. What happens to the intensity of the green color (due to $Ni^{2+}$) in the left beaker as the cell operates?<br>
 <details><summary><b>Answer</b></summary>
 Nickel is the anode and undergoes oxidation ($Ni \rightarrow Ni^{2+} + 2e^-$). The concentration of $Ni^{2+}$ increases, so the **green color will become more intense**.
 </details>
 
-4. 🟡 In an $Al/Cu$ cell, if 2 moles of Al dissolve, how many moles of Cu are deposited?
+4. 🟡 In an $Al/Cu$ cell, if 2 moles of Al dissolve, how many moles of Cu are deposited?<br>
 <details><summary><b>Answer</b></summary>
 Reaction: $2Al + 3Cu^{2+} \rightarrow 2Al^{3+} + 3Cu$.
 For every 2 moles of Al that dissolve, **3 moles of Cu** are deposited.
 </details>
 
-5. 🔴 A cell consists of a standard hydrogen electrode (SHE) as the anode and a Cu electrode as the cathode. Does the pH of the anodic solution increase, decrease, or remain constant?
+5. 🔴 A cell consists of a standard hydrogen electrode (SHE) as the anode and a Cu electrode as the cathode. Does the pH of the anodic solution increase, decrease, or remain constant?<br>
 <details><summary><b>Answer</b></summary>
 At the SHE (Anode), oxidation happens: $H_2 \rightarrow 2H^+ + 2e^-$. 
 The concentration of $H^+$ increases. Since $pH = -\log[H^+]$, an increase in $[H^+]$ means the **pH decreases**.
@@ -273,10 +273,10 @@ The concentration of $H^+$ increases. Since $pH = -\log[H^+]$, an increase in $[
 
 ### Type 6: Salt Bridge Requirements and Liquid Junction Potential ⭐
 
-**Pattern:** "Why do we use specific electrolytes like $KCl$ or $NH_4NO_3$ in a salt bridge, and what is Liquid Junction Potential?"
+**Pattern:** "Why do we use specific electrolytes like $KCl$ or $NH_4NO_3$ in a salt bridge, and what is Liquid Junction Potential?<br>"
 
 **Solved Example** 🟡
-> Why is $KCl$ an excellent choice for a salt bridge in a $Zn/Cu$ cell, but cannot be used in a cell involving $Ag^+$ or $Pb^{2+}$ ions?
+> Why is $KCl$ an excellent choice for a salt bridge in a $Zn/Cu$ cell, but cannot be used in a cell involving $Ag^+$ or $Pb^{2+}$ ions?<br>
 
 <details><summary><b>Solution</b></summary>
 - $KCl$ is excellent because the ionic mobilities (or transport numbers) of $K^+$ and $Cl^-$ are almost exactly equal, ensuring they move at the same speed to neutralize charge simultaneously.
@@ -285,28 +285,28 @@ The concentration of $H^+$ increases. Since $pH = -\log[H^+]$, an increase in $[
 
 **Practice:**
 
-1. 🟢 What are the two main functions of a salt bridge?
+1. 🟢 What are the two main functions of a salt bridge?<br>
 <details><summary><b>Answer</b></summary>
 1. Completes the inner electrical circuit by allowing ions to flow.
 2. Maintains electrical neutrality in both half-cells, preventing polarization.
 </details>
 
-2. 🟢 If the salt bridge is suddenly removed from a working Galvanic cell, what happens to the cell voltage?
+2. 🟢 If the salt bridge is suddenly removed from a working Galvanic cell, what happens to the cell voltage?<br>
 <details><summary><b>Answer</b></summary>
 The voltage immediately **drops to zero**. The circuit is broken and charge accumulation instantly halts the redox reaction.
 </details>
 
-3. 🟡 What is the primary condition for an electrolyte (like $NH_4NO_3$) to be used in a salt bridge?
+3. 🟡 What is the primary condition for an electrolyte (like $NH_4NO_3$) to be used in a salt bridge?<br>
 <details><summary><b>Answer</b></summary>
 The **mobility of the cation and the anion must be nearly equal**, so they neutralize the half-cells at the exact same rate.
 </details>
 
-4. 🟡 What is a "Liquid Junction Potential" (LJP), and how does a salt bridge affect it?
+4. 🟡 What is a "Liquid Junction Potential" (LJP), and how does a salt bridge affect it?<br>
 <details><summary><b>Answer</b></summary>
 LJP is an unwanted voltage that develops at the boundary between two different liquid solutions due to the different speeds at which their ions diffuse across the boundary. A salt bridge **minimizes or eliminates** the liquid junction potential.
 </details>
 
-5. 🔴 You are designing a cell with $Ag^+$ in the cathode half-cell. Which electrolyte is a safe choice for the salt bridge: $KCl$, $NaCl$, or $KNO_3$? Why?
+5. 🔴 You are designing a cell with $Ag^+$ in the cathode half-cell. Which electrolyte is a safe choice for the salt bridge: $KCl$, $NaCl$, or $KNO_3$?<br> Why?<br>
 <details><summary><b>Answer</b></summary>
 **$KNO_3$**. You cannot use $KCl$ or $NaCl$ because the $Cl^-$ ions would leak into the cathode half-cell and precipitate the $Ag^+$ as solid $AgCl$, destroying the cell's operation. All nitrates are soluble, so $KNO_3$ is safe.
 </details>
@@ -331,7 +331,7 @@ LJP is an unwanted voltage that develops at the boundary between two different l
 
 **Practice:**
 
-1. 🟡 Why is Platinum (Pt) used in a Standard Hydrogen Electrode (SHE)?
+1. 🟡 Why is Platinum (Pt) used in a Standard Hydrogen Electrode (SHE)?<br>
 <details><summary><b>Answer</b></summary>
 Because hydrogen is a gas and $H^+$ is aqueous. Neither can conduct electrons through a wire. Pt acts as an inert solid conductor to provide a surface for the reaction and a pathway for electrons without participating in the reaction itself.
 </details>
@@ -354,7 +354,7 @@ Cathode: $Cl_2 + 2e^- \rightarrow 2Cl^-$
 **Overall:** $2Br^-(aq) + Cl_2(g) \rightarrow Br_2(l) + 2Cl^-(aq)$
 </details>
 
-5. 🔴 Can Graphite be used instead of Platinum for an inert electrode? Why?
+5. 🔴 Can Graphite be used instead of Platinum for an inert electrode?<br> Why?<br>
 <details><summary><b>Answer</b></summary>
 Yes. Graphite is also chemically inert under many conditions and is an excellent conductor of electricity (due to delocalized pi electrons). It is often used as a cheaper alternative to Platinum in industrial electrolytic cells.
 </details>
@@ -374,7 +374,7 @@ Yes. Graphite is also chemically inert under many conditions and is an excellent
 The salt bridge supplies opposing ions to both half-cells to neutralize the charge buildup caused by the redox reaction.
 </details>
 
-**Q2. (Exemplar Type)** 🟡 Which of the following statements about a salt bridge is NOT true?
+**Q2. (Exemplar Type)** 🟡 Which of the following statements about a salt bridge is NOT true?<br>
 (a) It maintains electrical neutrality of the two half-cells.
 (b) It completes the inner circuit.
 (c) It allows the flow of electrons from one half-cell to another.
@@ -385,7 +385,7 @@ The salt bridge supplies opposing ions to both half-cells to neutralize the char
 A salt bridge allows the flow of *ions*, not electrons. Electrons flow through the external metallic wire.
 </details>
 
-**Q3. (JEE Mains Type)** 🔴 A cell is constructed as follows: $Zn | Zn^{2+} || Cu^{2+} | Cu$. The salt bridge is filled with $KCl$. As the cell operates, which of the following is correct?
+**Q3. (JEE Mains Type)** 🔴 A cell is constructed as follows: $Zn | Zn^{2+} || Cu^{2+} | Cu$. The salt bridge is filled with $KCl$. As the cell operates, which of the following is correct?<br>
 (a) $K^+$ ions migrate towards the Zinc electrode.
 (b) $Cl^-$ ions migrate towards the Copper electrode.
 (c) $Cl^-$ ions migrate towards the Zinc electrode.
@@ -413,7 +413,7 @@ LJP is strictly caused by the difference in ionic mobilities (diffusion rates) o
 
 **Q1.** 🟡 ⭐ A student builds a cell using $Fe/Fe^{2+}$ and $Ag/Ag^+$ half-cells. They know $Fe$ is more reactive than $Ag$. 
 (a) Write the standard cell notation.
-(b) If they apply an external potential $E_{ext} > E_{cell}$, what will happen to the mass of the $Fe$ electrode?
+(b) If they apply an external potential $E_{ext} > E_{cell}$, what will happen to the mass of the $Fe$ electrode?<br>
 
 <details><summary><b>Solution</b></summary>
 (a) Fe is more reactive $\rightarrow$ Oxidation $\rightarrow$ Anode (Left).
@@ -423,8 +423,8 @@ Notation: **$Fe(s) \ | \ Fe^{2+}(aq) \ || \ Ag^+(aq) \ | \ Ag(s)$**
 
 **Q2.** 🔴 Given the overall reaction: $Sn^{2+}(aq) + 2Fe^{3+}(aq) \rightarrow Sn^{4+}(aq) + 2Fe^{2+}(aq)$.
 (a) Write the cell notation.
-(b) What type of electrodes must be used for both half-cells?
-(c) If $NH_4NO_3$ is used in the salt bridge, towards which half-cell do the $NO_3^-$ ions move?
+(b) What type of electrodes must be used for both half-cells?<br>
+(c) If $NH_4NO_3$ is used in the salt bridge, towards which half-cell do the $NO_3^-$ ions move?<br>
 
 <details><summary><b>Solution</b></summary>
 (a) Oxidation: $Sn^{2+} \rightarrow Sn^{4+}$. Reduction: $Fe^{3+} \rightarrow Fe^{2+}$.
@@ -437,7 +437,7 @@ Notation: **$Pt(s) \ | \ Sn^{2+}(aq), Sn^{4+}(aq) \ || \ Fe^{3+}(aq), Fe^{2+}(aq
 
 ## 📋 Stage 6: Board Arsenal
 
-**Q1.** 🟢 What is a Galvanic cell? Give one example. *(1 mark)*
+**Q1.** 🟢 What is a Galvanic cell?<br> Give one example. *(1 mark)*
 <details><summary><b>Model Answer</b></summary>
 A Galvanic (or Voltaic) cell is an electrochemical device that converts the chemical energy of a spontaneous redox reaction into electrical energy. Example: The Daniell cell ($Zn-Cu$ cell).
 </details>
@@ -459,7 +459,7 @@ $Zn(s) \ | \ Zn^{2+}(aq) \ || \ Cu^{2+}(aq) \ | \ Cu(s)$
 2. The ions of the electrolyte must be chemically inert and should not react with or precipitate the ions present in the half-cells.
 </details>
 
-**Q5.** 🟢 In a Galvanic cell, the current flows from which electrode to which electrode in the external circuit? *(1 mark)*
+**Q5.** 🟢 In a Galvanic cell, the current flows from which electrode to which electrode in the external circuit?<br> *(1 mark)*
 <details><summary><b>Model Answer</b></summary>
 Current (conventional) flows from the Cathode (positive terminal) to the Anode (negative terminal) in the external circuit. *(Note: Electrons flow from Anode to Cathode).*
 </details>
@@ -468,7 +468,7 @@ Current (conventional) flows from the Cathode (positive terminal) to the Anode (
 
 ## 🚀 Stage 7: JEE Mains Arena
 
-**Q1.** 🔴 ⭐ Consider a cell: $Pt \ | \ H_2(1\ atm) \ | \ H^+(1M) \ || \ Cl^-(1M) \ | \ Cl_2(1\ atm) \ | \ Pt$. Which of the following changes will lead to a decrease in the cell potential?
+**Q1.** 🔴 ⭐ Consider a cell: $Pt \ | \ H_2(1\ atm) \ | \ H^+(1M) \ || \ Cl^-(1M) \ | \ Cl_2(1\ atm) \ | \ Pt$. Which of the following changes will lead to a decrease in the cell potential?<br>
 (a) Increasing the pressure of $H_2$ gas.
 (b) Increasing the concentration of $H^+$.
 (c) Increasing the pressure of $Cl_2$ gas.
@@ -480,7 +480,7 @@ Overall reaction: $H_2 + Cl_2 \rightarrow 2H^+ + 2Cl^-$.
 According to Le Chatelier's principle (and Nernst equation), increasing the concentration of products ($H^+$ or $Cl^-$) shifts the equilibrium backwards, lowering the driving force (cell potential). Increasing reactant pressure ($H_2$ or $Cl_2$) shifts it forwards, increasing cell potential.
 </details>
 
-**Q2.** 🔴 For a cell involving the reaction $A(s) + B^{2+}(aq) \rightarrow A^{2+}(aq) + B(s)$, what will be the effect on the EMF if the concentration of $B^{2+}$ is doubled, keeping $A^{2+}$ constant?
+**Q2.** 🔴 For a cell involving the reaction $A(s) + B^{2+}(aq) \rightarrow A^{2+}(aq) + B(s)$, what will be the effect on the EMF if the concentration of $B^{2+}$ is doubled, keeping $A^{2+}$ constant?<br>
 (a) EMF will decrease.
 (b) EMF will increase.
 (c) EMF remains unchanged.
@@ -491,7 +491,7 @@ According to Le Chatelier's principle (and Nernst equation), increasing the conc
 $B^{2+}$ is a reactant. Increasing the concentration of a reactant drives the spontaneous reaction forward more strongly, which increases the EMF of the cell.
 </details>
 
-**Q3.** 🔴 A student uses a salt bridge filled with $KCl$ for a cell containing $Pb^{2+}$ ions in one half-cell. What will be the immediate consequence?
+**Q3.** 🔴 A student uses a salt bridge filled with $KCl$ for a cell containing $Pb^{2+}$ ions in one half-cell. What will be the immediate consequence?<br>
 (a) The cell will generate a higher voltage.
 (b) The cell voltage drops to zero because the salt bridge breaks the circuit by forming a precipitate.
 (c) The liquid junction potential will become infinite.

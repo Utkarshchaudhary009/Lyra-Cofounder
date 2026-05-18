@@ -14,7 +14,7 @@ Buying silver is not as simple as buying a stock. There is a massive difference 
 *   **ETF Risks:** Many ETFs have "Force Majeure" clauses. If there is a shortage, they can settle your contract in cash, not metal. You miss the upside exactly when you need it most.
 *   **Safe Deposit Boxes:** In a banking crisis, banks can close. In some jurisdictions (like Cyprus or under US Dodd-Frank "bail-in" provisions), assets inside banks can be frozen or seized to recapitalize the bank.
 
-## 3. Government Risk: Confiscation?
+## 3. Government Risk: Confiscation?<br>
 *   **Executive Order 6102 (1933):** The US government *did* confiscate gold to devalue the dollar. While they didn't confiscate silver coins then (because they were money), they did nationalize silver bullion in 1934.
 *   **Reporting (1099-B):** The government watches. If you sell large bars (1,000 oz) or $1,000 face value of junk silver, dealers must file a 1099-B form. However, selling American Silver Eagles is currently *exempt* from this automatic reporting (though you still owe taxes).
 

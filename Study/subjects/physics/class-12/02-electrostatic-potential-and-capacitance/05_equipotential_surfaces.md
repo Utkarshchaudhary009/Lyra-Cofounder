@@ -63,7 +63,7 @@ where $\Delta r$ is the perpendicular distance between neighboring surfaces.
 
 ### Checkpoint 1: Conceptual Understanding
 
-**Problem 1:** A charge of $+5 \mu C$ is moved from a point where $V = 200$ V to another point where $V = 200$ V, along a curved path of length $50$ cm. How much work is done?
+**Problem 1:** A charge of $+5 \mu C$ is moved from a point where $V = 200$ V to another point where $V = 200$ V, along a curved path of length $50$ cm. How much work is done?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -74,7 +74,7 @@ $W = q \Delta V = q(200 - 200) = \textbf{0}$
 Zero work, regardless of the path length, curvature, or complexity of the route. The path length (50 cm) is a distractor — it is completely irrelevant.
 </details>
 
-**Problem 2:** An electron moves from a region where $V = -100$ V to a region where $V = -100$ V along a straight line. The distance covered is $2$ m. What can you say about the electric field along this line?
+**Problem 2:** An electron moves from a region where $V = -100$ V to a region where $V = -100$ V along a straight line. The distance covered is $2$ m. What can you say about the electric field along this line?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -83,7 +83,7 @@ Since the potential is the same at both endpoints and along a straight line, the
 However, the total electric field could be nonzero — it might have components perpendicular to this line. We can only conclude that **the field has no component along the direction of motion**.
 </details>
 
-**Problem 3:** Is it possible for the electric field to be zero at a point where the potential is not zero? Is it possible for the potential to be zero at a point where the field is not zero?
+**Problem 3:** Is it possible for the electric field to be zero at a point where the potential is not zero?<br> Is it possible for the potential to be zero at a point where the field is not zero?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -102,7 +102,7 @@ $E = 0$ and $V = 0$ are independent conditions. Neither implies the other.
 
 *An engineer is given the following equipotential map of a region. The potential values on successive surfaces are: 100 V, 80 V, 60 V, 40 V, 20 V. The surfaces are planar and parallel.*
 
-**Problem 1:** What is the direction of the electric field?
+**Problem 1:** What is the direction of the electric field?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -113,7 +113,7 @@ $\vec{E}$ points from the $100$ V surface towards the $20$ V surface.
 
 *The distance between the 100 V surface and the 20 V surface is 0.4 m.*
 
-**Problem 2:** What is the magnitude of the electric field in this region?
+**Problem 2:** What is the magnitude of the electric field in this region?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -124,7 +124,7 @@ $E = \frac{\Delta V}{\Delta d} = \frac{100 - 20}{0.4} = \frac{80}{0.4} = \textbf
 
 *A proton is placed on the 60 V surface.*
 
-**Problem 3:** If the proton is released, in which direction does it move?
+**Problem 3:** If the proton is released, in which direction does it move?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -133,7 +133,7 @@ A positive charge moves from higher to lower potential. But wait — the proton 
 This is in the same direction as $\vec{E}$.
 </details>
 
-**Problem 4:** What is the kinetic energy of the proton when it reaches the 20 V surface?
+**Problem 4:** What is the kinetic energy of the proton when it reaches the 20 V surface?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -142,7 +142,7 @@ $KE = q \Delta V = 1.6 \times 10^{-19} \times (60 - 20) = 1.6 \times 10^{-19} \t
 $KE = \textbf{6.4 × 10⁻¹⁸ J = 40 eV}$
 </details>
 
-**Problem 5:** If the proton is instead moved *along* the 60 V surface from one side to the other (a distance of 1 m), what is the work done?
+**Problem 5:** If the proton is instead moved *along* the 60 V surface from one side to the other (a distance of 1 m), what is the work done?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -193,8 +193,8 @@ This is exactly like the steep slope near a mountain peak (closely spaced contou
 
 (a) Determine the charge at the origin.  
 (b) Find the electric field at $r = 1.0$ m.  
-(c) A charge of $+2 \mu C$ is moved from the surface of the $0.5$ m sphere to the $1.5$ m sphere. How much work is done by the electric field?  
-(d) The same charge is then moved from one point on the $1.5$ m sphere to another point diametrically opposite on the same sphere. How much additional work is done?
+(c) A charge of $+2 \mu C$ is moved from the surface of the $0.5$ m sphere to the $1.5$ m sphere. How much work is done by the electric field?<br>  
+(d) The same charge is then moved from one point on the $1.5$ m sphere to another point diametrically opposite on the same sphere. How much additional work is done?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -255,7 +255,7 @@ Zero work, even though the charge travels a distance of $2 \times 1.5 = 3$ m. Th
 
 ---
 
-**Q4.** Can two equipotential surfaces intersect?
+**Q4.** Can two equipotential surfaces intersect?<br>
 
 (a) Yes, always &emsp; (b) Yes, if they have the same value &emsp; (c) No &emsp; (d) Yes, at right angles only
 
@@ -295,7 +295,7 @@ Zero work, even though the charge travels a distance of $2 \times 1.5 = 3$ m. Th
 
 ---
 
-**Q9.** At which location is the electric field strongest if the following equipotential surfaces are present: $100V$, $80V$, $60V$, $40V$ at distances $1cm$, $2cm$, $4cm$, $8cm$ from the source?
+**Q9.** At which location is the electric field strongest if the following equipotential surfaces are present: $100V$, $80V$, $60V$, $40V$ at distances $1cm$, $2cm$, $4cm$, $8cm$ from the source?<br>
 
 (a) Between 100V and 80V &emsp; (b) Between 80V and 60V &emsp; (c) Between 60V and 40V &emsp; (d) All have equal field
 
@@ -353,7 +353,7 @@ Zero work, even though the charge travels a distance of $2 \times 1.5 = 3$ m. Th
 
 ### Section B: Short Answer Questions
 
-**Q16.** What is an equipotential surface? State four properties.
+**Q16.** What is an equipotential surface?<br> State four properties.
 
 <details><summary><b>Answer</b></summary>
 
@@ -377,7 +377,7 @@ In electrostatic equilibrium, the electric field inside the conductor is zero. I
 
 ---
 
-**Q18.** In a uniform electric field of $1000$ V/m pointing in the $+x$ direction, how far apart are the equipotential surfaces that differ by $50$ V?
+**Q18.** In a uniform electric field of $1000$ V/m pointing in the $+x$ direction, how far apart are the equipotential surfaces that differ by $50$ V?<br>
 
 <details><summary><b>Answer</b></summary>
 
@@ -401,7 +401,7 @@ The electron gains kinetic energy (field does positive work on the electron sinc
 
 ---
 
-**Q20.** The equipotential surfaces for a system are concentric ellipsoids. What does this tell you about the electric field direction and the charge distribution?
+**Q20.** The equipotential surfaces for a system are concentric ellipsoids. What does this tell you about the electric field direction and the charge distribution?<br>
 
 <details><summary><b>Answer</b></summary>
 
@@ -472,7 +472,7 @@ $W_{ext} = q(V_f-V_i) = 2\times10^{-6}\times(32-0) = \mathbf{6.4\times10^{-5}\,J
 
 ---
 
-**Q25.** A region has the potential $V = 100 - 25r^2$ V, where $r$ is in meters. Find: (a) the electric field, (b) the radius of the equipotential surface at $V = 75$ V, (c) is the field directed inward or outward?
+**Q25.** A region has the potential $V = 100 - 25r^2$ V, where $r$ is in meters. Find: (a) the electric field, (b) the radius of the equipotential surface at $V = 75$ V, (c) is the field directed inward or outward?<br>
 
 <details><summary><b>Answer</b></summary>
 
@@ -519,7 +519,7 @@ The surfaces are equally spaced planes: at $0.8$ cm, $2.8$ cm, $5$ cm (center), 
 
 ---
 
-**Q28.** Can the electric field be zero at a point where the potential is changing? Explain with an example.
+**Q28.** Can the electric field be zero at a point where the potential is changing?<br> Explain with an example.
 
 <details><summary><b>Answer</b></summary>
 
@@ -527,7 +527,7 @@ The surfaces are equally spaced planes: at $0.8$ cm, $2.8$ cm, $5$ cm (center), 
 
 If the potential is constant (not changing) in some direction, then the field component in that direction is zero. But if the potential is changing in any direction, there must be a nonzero field component in that direction.
 
-**Contrast with:** Can the potential be zero where the field is nonzero? YES (dipole equatorial plane). But the reverse is not true.
+**Contrast with:** Can the potential be zero where the field is nonzero?<br> YES (dipole equatorial plane). But the reverse is not true.
 </details>
 
 ---

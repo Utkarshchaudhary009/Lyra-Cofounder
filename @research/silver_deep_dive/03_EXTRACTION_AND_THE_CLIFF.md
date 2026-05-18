@@ -21,7 +21,7 @@ We have picked the Earth clean of the high-grade "easy" silver.
 *   **The Math:** We have been in a "structural deficit" since 2021.
     *   *Deficit:* Demand > Supply.
     *   *Scale:* By the end of 2025, the cumulative deficit is projected to exceed **800 million ounces**. We are eating through above-ground stockpiles at a record rate.
-*   **Peak Silver?** While we haven't run out of silver in the ground, we may have reached "Peak Production." Global output has flattened or declined despite rising demand. We are likely past the point of maximum cheap silver.
+*   **Peak Silver?<br>** While we haven't run out of silver in the ground, we may have reached "Peak Production." Global output has flattened or declined despite rising demand. We are likely past the point of maximum cheap silver.
 
 ## 4. The Recycling Myth: Why Solar Panels Won't Save Us
 A common hope is that we will just recycle old solar panels. The reality is grim.

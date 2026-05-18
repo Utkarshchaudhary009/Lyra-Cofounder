@@ -78,7 +78,7 @@ Keynes predicted the "euthanasia of the rentier" (the death of those living on i
 
 ### Case 1: The "Grand Hotel" Effect
 In Weimar Germany, luxury hotels were full. Not with foreigners, but with Germans spending their last money on champagne.
-*   **Why?** "Despair Spending." If your money will be worthless tomorrow, you might as well drink champagne today. It was a nihilistic hedonism born of hopelessness.
+*   **Why?<br>** "Despair Spending." If your money will be worthless tomorrow, you might as well drink champagne today. It was a nihilistic hedonism born of hopelessness.
 
 ### Case 2: The Budapest Street Sweeper
 *   **Action:** Sweeping banknotes into the sewer.

@@ -109,7 +109,7 @@ Ladies and gentlemen of the jury, look at the years 1968 to 1975. This is the sc
 
 The "Suspect"—the U.S. Treasury—faced a choice: Stop printing paper, or destroy the reputation of silver. They chose the latter.
 
-In 1968, they cut the cord. They told the American people, "Your dollar bill is no longer a receipt for silver. It is now just a bill." To prevent a riot, they implemented a distraction: The GSA auctions. They opened the vaults and flooded the market with over 300 million ounces of the people's silver. Why? To keep the price low. To make silver look "abundant" and "worthless" just as they were stripping it from the currency.
+In 1968, they cut the cord. They told the American people, "Your dollar bill is no longer a receipt for silver. It is now just a bill." To prevent a riot, they implemented a distraction: The GSA auctions. They opened the vaults and flooded the market with over 300 million ounces of the people's silver. Why?<br> To keep the price low. To make silver look "abundant" and "worthless" just as they were stripping it from the currency.
 
 It was a "Fire Sale" of national heritage. They melted down the coins of the 19th and early 20th centuries—history entered the furnace and came out as 1,000-ounce bars sold to industrial users and bankers in London.
 
@@ -128,23 +128,23 @@ The "Suppression" then had to evolve. They couldn't use physical bars anymore (t
 
 ## 6. Comprehension Check (Critical Thinking)
 
-*   **Q1:** Why did the Treasury sell 300 million ounces of silver instead of keeping it as a backup asset?
+*   **Q1:** Why did the Treasury sell 300 million ounces of silver instead of keeping it as a backup asset?<br>
     *   **A:** To suppress the price in the short term and hide the inflation of the currency. A rising silver price would have signaled the dollar was losing value.
 *   **C:** *This is like selling your house's foundation to pay the electric bill. It works for a month, but then the house falls down.*
 
-*   **Q2:** Why did the price of silver drop in 1970 even though inflation was rising?
+*   **Q2:** Why did the price of silver drop in 1970 even though inflation was rising?<br>
     *   **A:** The GSA auctions flooded the market with supply, temporarily overwhelming the demand.
 *   **C:** *Supply and Demand is real, but "Artificial Supply" can fake reality for a while.*
 
-*   **Q3:** What happened immediately after the GSA sales stopped in November 1970?
+*   **Q3:** What happened immediately after the GSA sales stopped in November 1970?<br>
     *   **A:** The price of silver began a multi-year bull market, rising from ~$1.60 to over $6.00.
 *   **C:** *This proves the price was only low because of the government dumping. Once the boot was off the neck, the market breathed.*
 
-*   **Q4:** How did "Paper Silver" (COMEX) replace the GSA?
+*   **Q4:** How did "Paper Silver" (COMEX) replace the GSA?<br>
     *   **A:** It allowed "supply" to be created out of thin air (contracts) rather than needing melted coins.
 *   **C:** *Infinite supply of paper = Infinite suppression potential.*
 
-*   **Q5:** Why did other countries (Canada, Germany) also stop using silver coins?
+*   **Q5:** Why did other countries (Canada, Germany) also stop using silver coins?<br>
     *   **A:** The rising fiat price of silver meant the metal in the coin was worth more than the face value (Gresham's Law).
 *   **C:** *When the money itself is more valuable than the government says it is, the system is broken.*
 

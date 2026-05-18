@@ -11,7 +11,7 @@ Electrode potential has the same difficulty. A single half-cell does not reveal 
 
 This creates a practical problem:
 
-- If every measurement is relative, what should all measurements be compared to?
+- If every measurement is relative, what should all measurements be compared to?<br>
 
 Chemistry answers this with an agreement. One electrode is chosen as the reference point. Its standard reduction potential is assigned the value:
 
@@ -80,7 +80,7 @@ That assignment is conventional. It is the reference from which other standard e
 
 ## A Question Worth Pausing On
 
-If the value `0.00 V` is assigned by convention, does that mean it is arbitrary and useless?
+If the value `0.00 V` is assigned by convention, does that mean it is arbitrary and useless?<br>
 
 No. The choice of zero is arbitrary, but once the choice is made, every other potential becomes meaningful. The numbers may shift if a different reference is chosen, but the physical predictions do not change.
 
@@ -118,7 +118,7 @@ If you skip directly to formulas, many simple questions become confusing for no 
 
 ## Worked Thought Experiment
 
-A zinc electrode is connected to SHE. Electrons flow from zinc to SHE. What can be said about the standard reduction potential of zinc?
+A zinc electrode is connected to SHE. Electrons flow from zinc to SHE. What can be said about the standard reduction potential of zinc?<br>
 
 Reasoning:
 
@@ -212,7 +212,7 @@ Try each question before opening the answer. The chapter should feel like a conv
 
 ### Checkpoint 1
 
-A copper half-cell is connected to SHE. Electrons flow from SHE to copper. Is the standard reduction potential of copper positive or negative?
+A copper half-cell is connected to SHE. Electrons flow from SHE to copper. Is the standard reduction potential of copper positive or negative?<br>
 
 <details><summary><b>Answer</b></summary>
 Copper receives electrons, so it acts as the cathode. It has a greater tendency to be reduced than hydrogen. Therefore its standard reduction potential is **positive**.
@@ -220,7 +220,7 @@ Copper receives electrons, so it acts as the cathode. It has a greater tendency 
 
 ### Checkpoint 2
 
-A metal `M` reacts with dilute acid and liberates hydrogen gas. When `M` is connected to SHE, what sign should you expect for its standard reduction potential?
+A metal `M` reacts with dilute acid and liberates hydrogen gas. When `M` is connected to SHE, what sign should you expect for its standard reduction potential?<br>
 
 <details><summary><b>Answer</b></summary>
 If `M` liberates hydrogen from acid, then `M` can reduce `H^+` to `H_2` and itself gets oxidized. So `M` behaves as the anode against SHE. Therefore its standard reduction potential is **negative**.
@@ -228,7 +228,7 @@ If `M` liberates hydrogen from acid, then `M` can reduce `H^+` to `H_2` and itse
 
 ### Checkpoint 3
 
-In a cell containing SHE, the pH of the SHE solution increases during operation. Is SHE acting as anode or cathode?
+In a cell containing SHE, the pH of the SHE solution increases during operation. Is SHE acting as anode or cathode?<br>
 
 <details><summary><b>Answer</b></summary>
 If pH increases, `[H^+]` decreases. So `H^+` ions are being consumed:
@@ -260,7 +260,7 @@ $$E^\circ_{Zn^{2+}/Zn} = -0.76\ V$$
 
 ### Checkpoint 5
 
-Why is `1 M HCl` suitable for SHE, but `1 M CH3COOH` is not?
+Why is `1 M HCl` suitable for SHE, but `1 M CH3COOH` is not?<br>
 
 <details><summary><b>Answer</b></summary>
 `1 M HCl` is a strong acid and gives `[H^+]` close to `1 M`. `1 M CH3COOH` is a weak acid and dissociates only partially, so `[H^+]` is much less than `1 M`. The condition for SHE is about hydrogen ion concentration or activity, not merely acid molarity.
@@ -285,7 +285,7 @@ $$E^\circ_{Al^{3+}/Al} = -1.66\ V$$
 
 ### Problem 2
 
-When SHE acts as the anode, what happens to the pH of its solution?
+When SHE acts as the anode, what happens to the pH of its solution?<br>
 
 <details><summary><b>Answer</b></summary>
 At the anode,
@@ -297,7 +297,7 @@ $$H_2 \rightarrow 2H^+ + 2e^-$$
 
 ### Problem 3
 
-Could graphite replace platinum in a hydrogen electrode?
+Could graphite replace platinum in a hydrogen electrode?<br>
 
 <details><summary><b>Answer</b></summary>
 In principle, an inert conducting material such as graphite can provide a surface. But platinum is preferred because it is a much better catalyst for the `H^+/H_2` equilibrium. So graphite is conceptually possible, but inferior in practice.
@@ -305,7 +305,7 @@ In principle, an inert conducting material such as graphite can provide a surfac
 
 ### Problem 4
 
-Suppose another reference system were invented in which the `Ag^+/Ag` electrode was assigned `0.00 V`. What would happen to all other standard electrode potentials?
+Suppose another reference system were invented in which the `Ag^+/Ag` electrode was assigned `0.00 V`. What would happen to all other standard electrode potentials?<br>
 
 <details><summary><b>Answer</b></summary>
 All standard electrode potentials would shift by the same constant amount. Relative differences, cell emf values, and physical predictions would remain unchanged. Only the numerical zero would move.
@@ -317,7 +317,7 @@ All standard electrode potentials would shift by the same constant amount. Relat
 
 An electrode of known and reproducible potential, used for measuring the electrode potential of another half-cell by coupling the two into a complete cell.
 
-### Why Is a Salt Bridge Required?
+### Why Is a Salt Bridge Required?<br>
 
 The salt bridge completes the internal circuit and preserves electrical neutrality in both half-cells. Without it, charge buildup would stop electron flow quickly.
 

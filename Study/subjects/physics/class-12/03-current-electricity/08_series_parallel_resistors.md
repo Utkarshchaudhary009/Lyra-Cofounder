@@ -103,7 +103,7 @@ First, solve parallel part: $R_p = (6 \times 3) / (6 + 3) = 18/9 = 2\text{ } \Om
 Now add the series part: $R_{total} = 4 + 2 = \mathbf{6\text{ } \Omega}$.
 </details>
 
-4. 🟡 How can you connect three resistors of $3\text{ } \Omega$ each to get an equivalent resistance of $2\text{ } \Omega$?
+4. 🟡 How can you connect three resistors of $3\text{ } \Omega$ each to get an equivalent resistance of $2\text{ } \Omega$?<br>
 
 <details>
 <summary><b>Answer</b></summary>
@@ -201,7 +201,7 @@ $8 \times 4 = 2 \times R \implies 32 = 2R \implies R = \mathbf{16\text{ } \Omega
 
 **Solved Example** 🔴
 
-> Three resistors $R_1, R_2, R_3$ are connected in series between points A and B. However, a plain wire connects the start of $R_1$ to the end of $R_2$. Another plain wire connects the end of $R_1$ to the end of $R_3$. What is the equivalent resistance?
+> Three resistors $R_1, R_2, R_3$ are connected in series between points A and B. However, a plain wire connects the start of $R_1$ to the end of $R_2$. Another plain wire connects the end of $R_1$ to the end of $R_3$. What is the equivalent resistance?<br>
 
 <details>
 <summary><b>Solution</b></summary>
@@ -221,7 +221,7 @@ $1/R_{eq} = 1/R_1 + 1/R_2 + 1/R_3$.
 
 **Practice:**
 
-1. 🟡 A $10\text{ } \Omega$ resistor is connected between A and B. A plain copper wire is also connected directly between A and B. What is the equivalent resistance?
+1. 🟡 A $10\text{ } \Omega$ resistor is connected between A and B. A plain copper wire is also connected directly between A and B. What is the equivalent resistance?<br>
 
 <details>
 <summary><b>Answer</b></summary>
@@ -372,7 +372,7 @@ Dividing by $V$ on both sides:
 **$1/R_p = 1/R_1 + 1/R_2 + 1/R_3$**
 </details>
 
-**Q3.** 🟡 A wire of uniform cross-section and resistance $4\text{ } \Omega$ is bent into a circle. What is the resistance between two diametrically opposite points? *(1 mark)*
+**Q3.** 🟡 A wire of uniform cross-section and resistance $4\text{ } \Omega$ is bent into a circle. What is the resistance between two diametrically opposite points?<br> *(1 mark)*
 
 <details>
 <summary><b>Model Answer</b></summary>
@@ -417,7 +417,7 @@ $X^2 - X - 1 = 0 \implies X = \frac{1 + \sqrt{1 - 4(-1)}}{2} = \mathbf{\frac{1 +
 **Answer: (b)**
 </details>
 
-**Q3.** 🔴 ⭐ In the circuit shown, all resistors are $R$. A wire of zero resistance connects the nodes forming a shape that looks like a bridge but the galvanometer arm is replaced by a plain wire. What is the equivalent resistance?
+**Q3.** 🔴 ⭐ In the circuit shown, all resistors are $R$. A wire of zero resistance connects the nodes forming a shape that looks like a bridge but the galvanometer arm is replaced by a plain wire. What is the equivalent resistance?<br>
 
 <details>
 <summary><b>Answer</b></summary>

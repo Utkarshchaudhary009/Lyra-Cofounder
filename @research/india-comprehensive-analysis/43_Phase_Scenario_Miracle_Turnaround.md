@@ -1,7 +1,7 @@
 # Phase 43: Scenario C - The Miracle Turnaround
 *Theme: Scenario Planning (Future Paths)*
 
-This document outlines the optimistic "Moonshot" path: What needs to go right for India to win?
+This document outlines the optimistic "Moonshot" path: What needs to go right for India to win?<br>
 
 ## 1. The Manufacturing Boom
 *   **The Shift:** Global companies *actually* move out of China (China+1) and choose India over Vietnam.

@@ -90,7 +90,7 @@ Articulation is not a soft skill—it's the foundation of execution. Vision with
 1. **Observation** — "I noticed X happened"
 2. **Impact** — "The impact was Y"
 3. **Request** — "What I'd like to see is Z"
-4. **Collaboration** — "What's your perspective?"
+4. **Collaboration** — "What's your perspective?<br>"
 
 **NEVER:**
 - "You always..." or "You never..."
@@ -101,7 +101,7 @@ Articulation is not a soft skill—it's the foundation of execution. Vision with
 
 1. **Listen fully** — Don't interrupt
 2. **Assume good intent** — They're trying to help
-3. **Ask clarifying questions** — "Can you give me an example?"
+3. **Ask clarifying questions** — "Can you give me an example?<br>"
 4. **Thank them** — Even if it stings
 5. **Reflect before reacting** — Process privately
 

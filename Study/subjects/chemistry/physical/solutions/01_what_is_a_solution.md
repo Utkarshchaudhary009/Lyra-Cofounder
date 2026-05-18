@@ -1,4 +1,4 @@
-# Chapter 1: What Is a Solution?
+# Chapter 1: What Is a Solution?<br>
 ## Part I — Foundations
 
 ---
@@ -110,7 +110,7 @@ This will be fully covered in Chapter 2 and 4. Just remember: mole fractions alw
 **The Pattern:** Both components are in the same physical state. You must calculate moles to decide.
 
 #### Solved Example 1.1
-**Q:** 5 moles of liquid ethanol are mixed with 2 moles of liquid water to form a liquid solution. Which is the solvent? 🟢
+**Q:** 5 moles of liquid ethanol are mixed with 2 moles of liquid water to form a liquid solution. Which is the solvent?<br> 🟢
 
 **Solution:**
 ```
@@ -127,7 +127,7 @@ Answer: Ethanol is the solvent.
 **Why this works:** When both components are in the same phase, the one with more moles = solvent. Don't get distracted by mass.
 
 #### Solved Example 1.2
-**Q:** 18 g of glucose is mixed with 18 g of water. Both are the same mass. Who is the solvent? 🟡
+**Q:** 18 g of glucose is mixed with 18 g of water. Both are the same mass. Who is the solvent?<br> 🟡
 
 **Solution:**
 ```
@@ -152,9 +152,9 @@ Answer: Water is the solvent.
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 1.1a | 10 g of ethanol (MM = 46) is mixed with 10 g of water (MM = 18). Which is the solvent? | 🟡 |
+| 1.1a | 10 g of ethanol (MM = 46) is mixed with 10 g of water (MM = 18). Which is the solvent?<br> | 🟡 |
 | 1.1b | 92 g of ethanol is mixed with 18 g of water. Identify solute and solvent. | 🟡 |
-| 1.1c | 100 g of glucose (MM = 180) is dissolved in 200 g of water. Which is the solvent? (Confirm with moles.) | 🟢 |
+| 1.1c | 100 g of glucose (MM = 180) is dissolved in 200 g of water. Which is the solvent?<br> (Confirm with moles.) | 🟢 |
 | 1.1d | A mixture contains 3 mol of substance A and 7 mol of substance B, both in liquid state. Identify the solvent. | 🟢 |
 | 1.1e | 36 g of water is mixed with 36 g of acetic acid (MM = 60). Calculate moles of each and identify the solvent. | 🟡 |
 
@@ -206,7 +206,7 @@ Solution type = SOLID (phase of solvent)
 ```
 
 #### Solved Example 1.4
-**Q:** In air (80% N₂, 20% O₂), which is the solute and which is the solvent? 🟢
+**Q:** In air (80% N₂, 20% O₂), which is the solute and which is the solvent?<br> 🟢
 
 **Solution:**
 ```
@@ -224,11 +224,24 @@ Type = Gaseous solution.
 | 1.2a | Classify: Chloroform mixed with nitrogen gas. | 🟢 |
 | 1.2b | Classify: Camphor dissolved in nitrogen gas. | 🟢 |
 | 1.2c | Classify: Oxygen dissolved in water. | 🟢 |
-| 1.2d | Classify: Amalgam of mercury with sodium. Which is solute? | 🟡 |
-| 1.2e | German Silver = 60% Cu, 20% Ni, 20% Zn. What type of solution? Who is solvent? | 🟡 |
+| 1.2d | Classify: Amalgam of mercury with sodium. Which is solute?<br> | 🟡 |
+| 1.2e | German Silver = 60% Cu, 20% Ni, 20% Zn. What type of solution?<br> Who is solvent?<br> | 🟡 |
 | 1.2f | Bronze = 88% Cu, 12% Sn. Classify and identify solute/solvent. | 🟢 |
-| DPP 1.1 | Which of the following is an example of gaseous solution? (A) Camphor in nitrogen gas (B) Solution of hydrogen in palladium (C) Chloroform mixed with nitrogen gas (D) Both (A) & (C) | 🟢 |
-| DPP 1.2 | In amalgam of mercury with sodium, solvent is: (A) Mercury (B) Sodium (C) Amalgam (D) None of these | 🟢 |
+| DPP 1.1 | Which of the following is an example of gaseous solution?<br> <br>
+(A) Camphor in nitrogen gas <br>
+(B) Solution of hydrogen in palladium <br>
+(C)
+ Chloroform mixed with nitrogen gas <br>
+(D) Both <br>
+(A) & <br>
+(C)
+ | 🟢 |
+| DPP 1.2 | In amalgam of mercury with sodium, solvent is: <br>
+(A) Mercury <br>
+(B) Sodium <br>
+(C)
+ Amalgam <br>
+(D) None of these | 🟢 |
 
 <details>
 <summary>💡 Detailed Solutions for Type 2</summary>
@@ -263,15 +276,24 @@ Type = Gaseous solution.
 - **Solid solution (solid-in-solid type)**
 
 **DPP 1.1:**
-- (A) Camphor in N₂ gas → solid-in-gas (Gaseous solution)
-- (B) H₂ in Pd → gas-in-solid (Solid solution)
-- (C) Chloroform in N₂ gas → liquid-in-gas (Gaseous solution)
-- **Answer: (D) Both (A) & (C)**
+- <br>
+(A) Camphor in N₂ gas → solid-in-gas (Gaseous solution)
+- <br>
+(B) H₂ in Pd → gas-in-solid (Solid solution)
+- <br>
+(C)
+ Chloroform in N₂ gas → liquid-in-gas (Gaseous solution)
+- **Answer: <br>
+(D) Both <br>
+(A) & <br>
+(C)
+**
 
 **DPP 1.2:**
 - Amalgam of mercury with sodium is a solid solution where liquid mercury is dispersed in solid sodium metal.
 - Sodium is in excess and forms the solid phase framework.
-- **Answer: (B) Sodium**
+- **Answer: <br>
+(B) Sodium**
 </details>
 
 ---
@@ -281,31 +303,52 @@ Type = Gaseous solution.
 **The Pattern:** Given a list of mixtures, identify which is/isn't a true solution.
 
 #### Solved Example 1.5
-**Q:** Which of the following is NOT a true solution?
-(A) Amalgam  (B) Ornamental gold  (C) Salt water  (D) Milk 🟡
+**Q:** Which of the following is NOT a true solution?<br>
+<br>
+(A) Amalgam  <br>
+(B) Ornamental gold  <br>
+(C)
+ Salt water  <br>
+(D) Milk 🟡
 
 **Solution:**
 ```
 True solutions have particle size < 1 nm.
 
+<br>
 (A) Amalgam → metal alloy → homogeneous → True solution ✓
+<br>
 (B) Ornamental gold → gold alloy → homogeneous → True solution ✓
-(C) Salt water → ionic solution → particle size < 1 nm → True solution ✓
+<br>
+(C)
+ Salt water → ionic solution → particle size < 1 nm → True solution ✓
+<br>
 (D) Milk → fat droplets dispersed in water → particle size ~100-1000 nm
    → This is a COLLOID, not a true solution ✗
 
-Answer: (D) Milk
+Answer: <br>
+(D) Milk
 ```
 
 #### Practice Questions — Type 3
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 1.3a | Is fog a true solution? What type of mixture is it? | 🟡 |
-| 1.3b | A solution of sugar in water: Is it a true solution? Why? | 🟢 |
-| 1.3c | Blood appears uniform. Is it a true solution? Justify. | 🟡 |
-| 1.3d | Which is a true solution: (A) Muddy water, (B) Soap solution, (C) NaCl in water, (D) Starch solution? | 🟡 |
-| DPP 1.8 | Which one of the following is not a true solution? (A) Amalgam (B) Ornamental gold (C) Salt water (D) Milk | 🟢 |
+| 1.3a | Is fog a true solution?<br> What type of mixture is it?<br> | 🟡 |
+| 1.3b | A solution of sugar in water: Is it a true solution?<br> Why?<br> | 🟢 |
+| 1.3c | Blood appears uniform. Is it a true solution?<br> Justify. | 🟡 |
+| 1.3d | Which is a true solution: <br>
+(A) Muddy water, <br>
+(B) Soap solution, <br>
+(C)
+ NaCl in water, <br>
+(D) Starch solution?<br> | 🟡 |
+| DPP 1.8 | Which one of the following is not a true solution?<br> <br>
+(A) Amalgam <br>
+(B) Ornamental gold <br>
+(C)
+ Salt water <br>
+(D) Milk | 🟢 |
 
 <details>
 <summary>💡 Detailed Solutions for Type 3</summary>
@@ -323,16 +366,24 @@ Answer: (D) Milk
 - **Not a true solution.** It is a colloid (biological sol).
 
 **1.3d:**
-- (A) Muddy water → suspension (> 1000 nm) — Not true solution
-- (B) Soap solution → colloid (micelles ~10–100 nm) — Not true solution
-- (C) NaCl in water → ionic, particle < 1 nm → **True solution ✓**
-- (D) Starch solution → colloidal (starch molecules ~100 nm) — Not true solution
-- **Answer: (C)**
+- <br>
+(A) Muddy water → suspension (> 1000 nm) — Not true solution
+- <br>
+(B) Soap solution → colloid (micelles ~10–100 nm) — Not true solution
+- <br>
+(C)
+ NaCl in water → ionic, particle < 1 nm → **True solution ✓**
+- <br>
+(D) Starch solution → colloidal (starch molecules ~100 nm) — Not true solution
+- **Answer: <br>
+(C)
+**
 
 **DPP 1.8:**
 - Amalgam, ornamental gold, and salt water are homogeneous mixtures with particle size < 1 nm (True solutions).
 - Milk is a liquid-liquid colloidal dispersion (emulsion) containing fat droplets suspended in water.
-- **Answer: (D) Milk**
+- **Answer: <br>
+(D) Milk**
 </details>
 
 ---
@@ -342,7 +393,7 @@ Answer: (D) Milk
 **The Pattern:** Count components (solvent + solutes) → name the solution type.
 
 #### Solved Example 1.6
-**Q:** A solution is made by dissolving NaCl and KCl both in water. What type of solution is this? 🟢
+**Q:** A solution is made by dissolving NaCl and KCl both in water. What type of solution is this?<br> 🟢
 
 **Solution:**
 ```
@@ -359,10 +410,10 @@ Components:
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 1.4a | A solution of NaCl in water. What type (binary/ternary/quaternary)? | 🟢 |
-| 1.4b | Glucose + urea + water. What type? | 🟢 |
-| 1.4c | A quaternary solution has how many solutes? | 🟢 |
-| 1.4d | German Silver (Cu + Ni + Zn). How many components? What type? | 🟡 |
+| 1.4a | A solution of NaCl in water. What type (binary/ternary/quaternary)?<br> | 🟢 |
+| 1.4b | Glucose + urea + water. What type?<br> | 🟢 |
+| 1.4c | A quaternary solution has how many solutes?<br> | 🟢 |
+| 1.4d | German Silver (Cu + Ni + Zn). How many components?<br> What type?<br> | 🟡 |
 
 <details>
 <summary>💡 Detailed Solutions for Type 4</summary>
@@ -389,9 +440,9 @@ These problems require combining two or more concepts. Identify which type befor
 
 | # | Question | Types Used | Difficulty |
 |---|----------|------------|------------|
-| 1.M1 | 10 g of ethanol is mixed with 20 g of water. Both are liquids. (a) Identify solute and solvent. (b) What type of solution is it (by state)? | T1 + T2 | 🟡 |
+| 1.M1 | 10 g of ethanol is mixed with 20 g of water. Both are liquids. (a) Identify solute and solvent. (b) What type of solution is it (by state)?<br> | T1 + T2 | 🟡 |
 | 1.M2 | In an alloy: 70% Iron, 20% Nickel, 10% Carbon. (a) Classify by state. (b) Name by component count. (c) Identify solvent. | T2 + T4 | 🟡 |
-| 1.M3 | A mixture of 100g acetic acid (MM = 60) and 100g water. (a) Calculate moles of each. (b) Identify solvent. (c) Is this a binary or ternary solution? | T1 + T4 | 🟡 |
+| 1.M3 | A mixture of 100g acetic acid (MM = 60) and 100g water. (a) Calculate moles of each. (b) Identify solvent. (c) Is this a binary or ternary solution?<br> | T1 + T4 | 🟡 |
 | 1.M4 | Classify the following and state if each is a true solution: Fog, Brass, Soil in water, NaOH(aq). | T2 + T3 | 🔴 |
 
 <details>
@@ -426,8 +477,8 @@ These problems require combining two or more concepts. Identify which type befor
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 1.B1 | Define a solution. What is the maximum number of components in a binary solution? | 🟢 |
-| 1.B2 | What determines the physical state of a solution? | 🟢 |
+| 1.B1 | Define a solution. What is the maximum number of components in a binary solution?<br> | 🟢 |
+| 1.B2 | What determines the physical state of a solution?<br> | 🟢 |
 | 1.B3 | Classify the following as true solutions, colloids, or suspensions: (a) NaCl in water, (b) Milk, (c) Chalk in water. | 🟡 |
 | 1.B4 | Give one example each of: (a) Gas in liquid solution, (b) Solid in gas solution, (c) Liquid in solid solution. | 🟢 |
 | 1.B5 | In a mixture of 18 g glucose and 18 g water, identify the solute and solvent with justification. *(NCERT pattern)* ⭐ | 🟡 |
@@ -467,65 +518,107 @@ These problems require combining two or more concepts. Identify which type befor
 **MCQs with traps. Explanation required.**
 
 **Q1.J1 🟡 ⭐**
-Which one of the following is NOT a true solution?
-(A) Amalgam (B) Ornamental gold (C) Salt water (D) Milk
+Which one of the following is NOT a true solution?<br>
+<br>
+(A) Amalgam <br>
+(B) Ornamental gold <br>
+(C)
+ Salt water <br>
+(D) Milk
 
 **Q1.J2 🟡**
-In which of the following is the solvent correctly identified?
+In which of the following is the solvent correctly identified?<br>
+<br>
 (A) 5 mol ethanol + 2 mol water → Solvent: Water
+<br>
 (B) 88% Cu + 12% Sn bronze → Solvent: Tin
-(C) Air (80% N₂ + 20% O₂) → Solvent: N₂
+<br>
+(C)
+ Air (80% N₂ + 20% O₂) → Solvent: N₂
+<br>
 (D) H₂ in Pd → Solvent: H₂
 
 **Q1.J3 🟡**
-An amalgam of mercury with sodium is an example of which type of solution?
-(A) Liquid in liquid  (B) Liquid in solid  (C) Solid in liquid  (D) Solid in solid
+An amalgam of mercury with sodium is an example of which type of solution?<br>
+<br>
+(A) Liquid in liquid  <br>
+(B) Liquid in solid  <br>
+(C)
+ Solid in liquid  <br>
+(D) Solid in solid
 
 **Q1.J4 🔴**
-20 g of acetic acid (MM = 60 g/mol) is dissolved in 60 g of benzene (MM = 78 g/mol). Both are liquids. Which statement is correct?
+20 g of acetic acid (MM = 60 g/mol) is dissolved in 60 g of benzene (MM = 78 g/mol). Both are liquids. Which statement is correct?<br>
+<br>
 (A) Acetic acid is the solvent (moles: 0.33)
+<br>
 (B) Benzene is the solvent (moles: 0.77)
-(C) Both are solvents (equal state)
+<br>
+(C)
+ Both are solvents (equal state)
+<br>
 (D) Neither, since both are liquids
 
 **Q1.J5 🔴**
-Which of the following is a ternary solution?
+Which of the following is a ternary solution?<br>
+<br>
 (A) NaCl dissolved in water
+<br>
 (B) Sugar dissolved in water
-(C) NaCl and KCl both dissolved in water
+<br>
+(C)
+ NaCl and KCl both dissolved in water
+<br>
 (D) Brass (Cu-Zn alloy)
 
 <details>
 <summary>💡 Full Solutions — JEE Mains Arena</summary>
 
-**1.J1 → Answer: (D)**
+**1.J1 → Answer: <br>
+(D)**
 - Amalgam = metal alloy (homogeneous, < 1 nm) ✓
 - Ornamental gold = metal alloy (homogeneous) ✓
 - Salt water = ionic solution (< 1 nm) ✓
 - **Milk = colloid (fat droplets ~100 nm) → NOT a true solution** ✗
 
-**1.J2 → Answer: (C)**
-- (A) Wrong: 5 mol ethanol > 2 mol water → *Ethanol* is solvent
-- (B) Wrong: Cu = 88% (solvent), Sn = solute
-- **(C) Correct: N₂ = 80% → N₂ is solvent ✓**
-- (D) Wrong: H₂ is gas (solute), Pd is solid (solvent)
+**1.J2 → Answer: <br>
+(C)
+**
+- <br>
+(A) Wrong: 5 mol ethanol > 2 mol water → *Ethanol* is solvent
+- <br>
+(B) Wrong: Cu = 88% (solvent), Sn = solute
+- **<br>
+(C)
+ Correct: N₂ = 80% → N₂ is solvent ✓**
+- <br>
+(D) Wrong: H₂ is gas (solute), Pd is solid (solvent)
 
-**1.J3 → Answer: (B)**
+**1.J3 → Answer: <br>
+(B)**
 - Mercury = liquid, Sodium = solid
 - Solution type = solid (solid solvent)
 - Hg (liquid) dissolves into Na (solid) → **Liquid in solid**
 
-**1.J4 → Answer: (B)**
+**1.J4 → Answer: <br>
+(B)**
 - n_acetic acid = 20/60 = 0.33 mol
 - n_benzene = 60/78 = 0.77 mol
 - n_benzene > n_acetic acid → **Benzene = solvent ✓**
 - *(Trap: Students may pick acetic acid because "acid dissolves in organic solvent" — but the rule is moles, not intuition!)*
 
-**1.J5 → Answer: (C)**
-- (A) Binary (1 solvent + 1 solute)
-- (B) Binary (1 solvent + 1 solute)
-- **(C) Ternary: Water (solvent) + NaCl (solute 1) + KCl (solute 2) = 3 components ✓**
-- (D) Brass = 2 components (Cu + Zn) = Binary solid solution
+**1.J5 → Answer: <br>
+(C)
+**
+- <br>
+(A) Binary (1 solvent + 1 solute)
+- <br>
+(B) Binary (1 solvent + 1 solute)
+- **<br>
+(C)
+ Ternary: Water (solvent) + NaCl (solute 1) + KCl (solute 2) = 3 components ✓**
+- <br>
+(D) Brass = 2 components (Cu + Zn) = Binary solid solution
 </details>
 
 ---
@@ -547,38 +640,54 @@ Which of the following is a ternary solution?
 
 **Directions:** These questions test your psychological resilience against tricky phrasing. 
 - For **Assertion-Reason**, choose:
-  (A) Both A and R are true, and R is the correct explanation of A.
-  (B) Both A and R are true, but R is NOT the correct explanation of A.
-  (C) A is true but R is false.
-  (D) A is false but R is true.
+  <br>
+(A) Both A and R are true, and R is the correct explanation of A.
+  <br>
+(B) Both A and R are true, but R is NOT the correct explanation of A.
+  <br>
+(C)
+ A is true but R is false.
+  <br>
+(D) A is false but R is true.
 - For **Statement I/II**, choose based on whether each statement is correct or incorrect.
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 1.S1 | **Assertion (A):** In a mixture of 100g water and 100g ethanol, water is the solvent.<br>**Reason (R):** Water is the universal solvent and always acts as a solvent in any mixture. | 🟡 |
-| 1.S2 | **Assertion (A):** A solution of glucose in water does not scatter a beam of light passing through it.<br>**Reason (R):** The particle size of glucose in the solution is less than $10^{-9}$ meters. | 🟢 |
+| 1.S1 | **Assertion <br>
+(A):** In a mixture of 100g water and 100g ethanol, water is the solvent.<br>**Reason (R):** Water is the universal solvent and always acts as a solvent in any mixture. | 🟡 |
+| 1.S2 | **Assertion <br>
+(A):** A solution of glucose in water does not scatter a beam of light passing through it.<br>**Reason (R):** The particle size of glucose in the solution is less than $10^{-9}$ meters. | 🟢 |
 | 1.S3 | **Statement I:** Amalgam of mercury with sodium is a solid solution.<br>**Statement II:** In this amalgam, mercury acts as the solvent since it is a liquid dissolving the solid. | 🟡 |
 | 1.S4 | **Statement I:** Brass is a homogeneous mixture of copper and zinc.<br>**Statement II:** Brass is considered a binary solid solution. | 🟢 |
-| 1.S5 | **Assertion (A):** If 50 moles of liquid A and 20 moles of gas B are mixed to form a liquid solution, A is the solvent because it has more moles.<br>**Reason (R):** When components are in different physical states, the component with the higher number of moles is always the solvent. | 🔴 |
+| 1.S5 | **Assertion <br>
+(A):** If 50 moles of liquid A and 20 moles of gas B are mixed to form a liquid solution, A is the solvent because it has more moles.<br>**Reason (R):** When components are in different physical states, the component with the higher number of moles is always the solvent. | 🔴 |
 | 1.S6 | **Statement I:** A ternary solution consists of three solutes dissolved in one solvent.<br>**Statement II:** Blood is an example of a true ternary solution. | 🟡 |
-| 1.S7 | **Assertion (A):** 10g of $H_2$ gas and 10g of $O_2$ gas mixed in a cylinder form a gaseous solution.<br>**Reason (R):** Gases always mix completely in all proportions to form homogeneous mixtures. | 🟢 |
+| 1.S7 | **Assertion <br>
+(A):** 10g of $H_2$ gas and 10g of $O_2$ gas mixed in a cylinder form a gaseous solution.<br>**Reason (R):** Gases always mix completely in all proportions to form homogeneous mixtures. | 🟢 |
 | 1.S8 | **Statement I:** When solid camphor is sublimed into nitrogen gas, it forms a gaseous solution.<br>**Statement II:** The solvent in this mixture is camphor. | 🟡 |
-| 1.S9 | **Assertion (A):** Milk is not considered a true solution.<br>**Reason (R):** The components of milk can be easily separated by simple filtration. | 🟡 |
+| 1.S9 | **Assertion <br>
+(A):** Milk is not considered a true solution.<br>**Reason (R):** The components of milk can be easily separated by simple filtration. | 🟡 |
 | 1.S10 | **Statement I:** The physical state of a solution is always determined by the physical state of the solute.<br>**Statement II:** In a solution of sugar in water, sugar dictates the liquid state. | 🟢 |
-| 1.S11 | **Assertion (A):** If equal masses of liquid A (Molar mass = 40) and liquid B (Molar mass = 80) are mixed, liquid A is the solvent.<br>**Reason (R):** For equal masses of two liquids, the one with the lower molar mass will have a higher number of moles. | 🔴 |
+| 1.S11 | **Assertion <br>
+(A):** If equal masses of liquid A (Molar mass = 40) and liquid B (Molar mass = 80) are mixed, liquid A is the solvent.<br>**Reason (R):** For equal masses of two liquids, the one with the lower molar mass will have a higher number of moles. | 🔴 |
 | 1.S12 | **Statement I:** An aqueous solution of NaCl has uniform composition at the macroscopic level.<br>**Statement II:** True solutions are always transparent and colorless. | 🟡 |
-| 1.S13 | **Assertion (A):** A solution containing 1 mol of solute X and 100 mol of solvent Y is a true solution, but if it has 50 mol X and 50 mol Y, it is no longer a true solution.<br>**Reason (R):** True solutions can only exist when the solute concentration is very low. | 🟢 |
+| 1.S13 | **Assertion <br>
+(A):** A solution containing 1 mol of solute X and 100 mol of solvent Y is a true solution, but if it has 50 mol X and 50 mol Y, it is no longer a true solution.<br>**Reason (R):** True solutions can only exist when the solute concentration is very low. | 🟢 |
 | 1.S14 | **Statement I:** Solute particles in a true solution have a diameter greater than $10\ \text{\AA}$.<br>**Statement II:** $1\ \text{nm}$ is equal to $10\ \text{\AA}$. | 🔴 |
-| 1.S15 | **Assertion (A):** The concentration of a solution is the same in every drop taken from the bulk.<br>**Reason (R):** Solutions are homogeneous mixtures where gravity does not cause the heavier solute particles to settle down. | 🟡 |
+| 1.S15 | **Assertion <br>
+(A):** The concentration of a solution is the same in every drop taken from the bulk.<br>**Reason (R):** Solutions are homogeneous mixtures where gravity does not cause the heavier solute particles to settle down. | 🟡 |
 
 <details>
 <summary>💡 Detailed Explanations for Stage 7</summary>
 
-**1.S1 → Answer: (C) A is true but R is false.**
+**1.S1 → Answer: <br>
+(C)
+ A is true but R is false.**
 - A is true: 100g water (5.55 mol) > 100g ethanol (2.17 mol). Water has more moles, so it is the solvent.
 - R is false: Water is *not* always the solvent. If we had 10g water and 90g ethanol, ethanol would be the solvent. The "universal solvent" rule is a simplification, not a strict chemical law for binary liquid mixtures.
 
-**1.S2 → Answer: (A) Both A and R are true, and R is the correct explanation.**
+**1.S2 → Answer: <br>
+(A) Both A and R are true, and R is the correct explanation.**
 - A true solution does not scatter light (no Tyndall effect) precisely because its particles are < 1 nm ($10^{-9}$ m), which is too small to scatter visible light waves.
 
 **1.S3 → Statement I is True, Statement II is False.**
@@ -588,7 +697,9 @@ Which of the following is a ternary solution?
 **1.S4 → Statement I is True, Statement II is True.**
 - Both statements are factually correct. Brass is a binary solid solution of Cu (solvent) and Zn (solute).
 
-**1.S5 → Answer: (C) A is true but R is false.**
+**1.S5 → Answer: <br>
+(C)
+ A is true but R is false.**
 - A is true: A is a liquid, the solution is a liquid. Because the solution's phase matches A, A is the solvent.
 - R is false: When components are in *different* physical states, the solvent is decided by the **final phase of the solution**, NOT the number of moles. The mole rule applies when they start in the *same* phase. (Psychological Trap!).
 
@@ -596,14 +707,17 @@ Which of the following is a ternary solution?
 - Statement I: False. A ternary solution has 3 components total (1 solvent + 2 solutes), not 3 solutes.
 - Statement II: False. Blood is a colloid, not a true solution.
 
-**1.S7 → Answer: (A) Both A and R are true, and R is the correct explanation.**
+**1.S7 → Answer: <br>
+(A) Both A and R are true, and R is the correct explanation.**
 - Gases do not have phase boundaries among themselves and always mix to form a homogeneous single phase (a gaseous solution).
 
 **1.S8 → Statement I is True, Statement II is False.**
 - Statement I: True. Camphor (solid) in N₂ (gas) forms a gas-phase mixture.
 - Statement II: False. N₂ is the gas (and present in massive excess usually in air), so N₂ is the solvent.
 
-**1.S9 → Answer: (C) A is true but R is false.**
+**1.S9 → Answer: <br>
+(C)
+ A is true but R is false.**
 - A is true: Milk is a colloid (emulsion).
 - R is false: Colloids cannot be separated by simple filter paper because the particles (~100 nm) are still small enough to pass through standard filter pores. You need ultrafiltration or centrifugation.
 
@@ -611,14 +725,17 @@ Which of the following is a ternary solution?
 - Statement I: False. Phase is determined by the **solvent**, not the solute.
 - Statement II: False. Water (solvent) dictates the liquid state, not sugar.
 
-**1.S11 → Answer: (A) Both A and R are true, and R is the correct explanation.**
+**1.S11 → Answer: <br>
+(A) Both A and R are true, and R is the correct explanation.**
 - Moles = Mass / Molar Mass. If masses are equal, smaller molar mass = bigger denominator = more moles. Since A has a smaller molar mass (40 < 80), it has more moles. Both are liquids, so the one with more moles is the solvent.
 
 **1.S12 → Statement I is True, Statement II is False.**
 - Statement I: True. Uniform macroscopic composition defines a homogeneous mixture.
 - Statement II: False. True solutions are transparent, but they don't have to be colorless. (e.g., $CuSO_4$ solution is blue).
 
-**1.S13 → Answer: (C) A is false but R is false.**
+**1.S13 → Answer: <br>
+(C)
+ A is false but R is false.**
 - A is false: A 50-50 mix of two miscible liquids (like water and ethanol) is STILL a true solution. True solutions don't have a concentration limit strictly defining them, as long as they remain completely miscible and single-phase.
 - R is false: True solutions can be highly concentrated.
 
@@ -626,7 +743,8 @@ Which of the following is a ternary solution?
 - Statement I: False. True solution particles are LESS than 1 nm, which means less than $10\ \text{\AA}$.
 - Statement II: True. $1\text{ nm} = 10^{-9}\text{ m}$, and $1\text{ \AA} = 10^{-10}\text{ m}$. So $1\text{ nm} = 10\text{ \AA}$.
 
-**1.S15 → Answer: (A) Both A and R are true, and R is the correct explanation.**
+**1.S15 → Answer: <br>
+(A) Both A and R are true, and R is the correct explanation.**
 - A is true: Homogeneity means uniform concentration everywhere.
 - R is true: True solutions are stable. Thermal kinetics keep the tiny particles dispersed, overpowering gravity.
 </details>
@@ -638,140 +756,226 @@ Which of the following is a ternary solution?
 **Directions:** These questions feature meticulously designed traps. Read every word. Check your units. Don't trust your instincts blindly.
 
 **Q1.M1 🟢**
-You are given a solution formed by mixing 20g of a liquid 'X' (Molar Mass = 40 g/mol) and 20g of a liquid 'Y' (Molar Mass = 20 g/mol). Which of the following is correct?
+You are given a solution formed by mixing 20g of a liquid 'X' (Molar Mass = 40 g/mol) and 20g of a liquid 'Y' (Molar Mass = 20 g/mol). Which of the following is correct?<br>
+<br>
 (A) 'X' is the solvent because it has a higher molar mass.
+<br>
 (B) 'Y' is the solvent because it provides more moles to the mixture.
-(C) Both are solvents because their masses are equal.
+<br>
+(C)
+ Both are solvents because their masses are equal.
+<br>
 (D) Cannot be determined without knowing their densities.
 
 **Q1.M2 🟡**
-Which of the following mixtures definitively forms a **quaternary** true solution?
+Which of the following mixtures definitively forms a **quaternary** true solution?<br>
+<br>
 (A) 4 grams of NaCl dissolved in 100 grams of water.
+<br>
 (B) Glucose, Fructose, and Sucrose dissolved in water.
-(C) Sand, Salt, and Sugar stirred into water.
+<br>
+(C)
+ Sand, Salt, and Sugar stirred into water.
+<br>
 (D) $H_2$, $O_2$, $N_2$, and $He$ gases kept in separate chambers.
 
 **Q1.M3 🔴 (The "State" Trap)**
-Substance A (solid) and Substance B (liquid) are mixed to form a homogeneous mixture. The final physical state of this mixture is solid. Which of the following is TRUE?
+Substance A (solid) and Substance B (liquid) are mixed to form a homogeneous mixture. The final physical state of this mixture is solid. Which of the following is TRUE?<br>
+<br>
 (A) Substance A is the solvent, Substance B is the solute.
+<br>
 (B) Substance B is the solvent, Substance A is the solute.
-(C) Since B is liquid, the mixture must be an amalgam.
+<br>
+(C)
+ Since B is liquid, the mixture must be an amalgam.
+<br>
 (D) Solid solutions cannot have liquid solutes.
 
 **Q1.M4 🟡**
-Consider air composed of roughly 78% $N_2$, 21% $O_2$, and 1% Ar by moles. Which statement properly classifies this mixture?
+Consider air composed of roughly 78% $N_2$, 21% $O_2$, and 1% Ar by moles. Which statement properly classifies this mixture?<br>
+<br>
 (A) $N_2$ is the solvent, and $O_2$ and Ar are solutes in a ternary gaseous solution.
+<br>
 (B) Air is a binary solution because $N_2$ and $O_2$ make up 99% of it.
-(C) Since all components are gases, there is no distinct solvent.
+<br>
+(C)
+ Since all components are gases, there is no distinct solvent.
+<br>
 (D) $O_2$ is the solvent because it is the biologically active component.
 
 **Q1.M5 🟡 (The "Visual" Trap)**
 A student prepares a mixture in a beaker. It is intensely blue, completely uniform in color, but when a laser pointer is shined through it, the beam's path is clearly visible inside the beaker. This mixture is:
+<br>
 (A) A true solution because it is uniform in color.
+<br>
 (B) A colloid because it exhibits the Tyndall effect.
-(C) A true solution because colored compounds scatter light.
+<br>
+(C)
+ A true solution because colored compounds scatter light.
+<br>
 (D) A suspension because the particles are settling.
 
 **Q1.M6 🔴**
 An aqueous solution contains 18g of Glucose ($C_6H_{12}O_6$) and 60g of Urea ($NH_2CONH_2$) in 18g of Water. Identify the solvent. (Molar mass of Glucose = 180, Urea = 60, Water = 18).
+<br>
 (A) Urea, because it has the highest mass (60g).
+<br>
 (B) Water, because it is an aqueous solution.
-(C) Urea, because it has the highest number of moles.
+<br>
+(C)
+ Urea, because it has the highest number of moles.
+<br>
 (D) Water, because it dictates the liquid state.
 
 **Q1.M7 🟡**
-Which combination of states is **impossible** for a true solution?
+Which combination of states is **impossible** for a true solution?<br>
+<br>
 (A) Gas dissolved in Solid
+<br>
 (B) Solid dissolved in Gas
-(C) Gas dissolved in Liquid
+<br>
+(C)
+ Gas dissolved in Liquid
+<br>
 (D) None of the above; all are possible.
 
 **Q1.M8 🟢**
-What is the primary difference between a true solution of NaCl and a colloidal sol of gold?
+What is the primary difference between a true solution of NaCl and a colloidal sol of gold?<br>
+<br>
 (A) NaCl solution is transparent, gold sol is completely opaque.
+<br>
 (B) NaCl solution particles are < 1 nm, gold sol particles are between 1 nm and 1000 nm.
-(C) NaCl can be filtered by filter paper, gold sol cannot.
+<br>
+(C)
+ NaCl can be filtered by filter paper, gold sol cannot.
+<br>
 (D) NaCl solution consists of two phases, gold sol is a single phase.
 
 **Q1.M9 🔴 (The "Formula" Trap)**
-A student mixes $x$ moles of Liquid P and $y$ moles of Liquid Q to form a solution. The student states that $X_P$ (mole fraction of P) is 0.6. Which of the following MUST be true?
+A student mixes $x$ moles of Liquid P and $y$ moles of Liquid Q to form a solution. The student states that $X_P$ (mole fraction of P) is 0.6. Which of the following MUST be true?<br>
+<br>
 (A) Liquid P is the solvent.
+<br>
 (B) The mass of P in the solution is greater than the mass of Q.
-(C) $y / x = 1.5$
+<br>
+(C)
+ $y / x = 1.5$
+<br>
 (D) The solution is a ternary solution.
 
 **Q1.M10 🟡**
-Which of the following is NOT an example of a solid-in-solid solution?
+Which of the following is NOT an example of a solid-in-solid solution?<br>
+<br>
 (A) 22-carat gold
+<br>
 (B) Brass
-(C) Amalgam of Zinc
+<br>
+(C)
+ Amalgam of Zinc
+<br>
 (D) German Silver
 
 **Q1.M11 🔴**
-500 mL of water is mixed with 500 mL of ethanol. Assuming volumes are perfectly additive (which they aren't completely in reality, but assume it here), and given the density of water is $1\text{ g/mL}$ and ethanol is $0.789\text{ g/mL}$. Who is the solvent?
+500 mL of water is mixed with 500 mL of ethanol. Assuming volumes are perfectly additive (which they aren't completely in reality, but assume it here), and given the density of water is $1\text{ g/mL}$ and ethanol is $0.789\text{ g/mL}$. Who is the solvent?<br>
+<br>
 (A) Both are solvents since volumes are equal.
+<br>
 (B) Water is the solvent.
-(C) Ethanol is the solvent.
+<br>
+(C)
+ Ethanol is the solvent.
+<br>
 (D) Cannot be determined without the temperature.
 
 **Q1.M12 🟡**
 To be classified as a binary solution, a mixture must have:
+<br>
 (A) Exactly two chemical bonds formed.
+<br>
 (B) Only two distinct physical phases.
-(C) Exactly one solute and exactly one solvent.
+<br>
+(C)
+ Exactly one solute and exactly one solvent.
+<br>
 (D) Only covalent compounds, no ionic salts.
 
 **Q1.M13 🟢**
-A saturated solution is cooled down. What typically happens?
+A saturated solution is cooled down. What typically happens?<br>
+<br>
 (A) It becomes a colloidal dispersion.
+<br>
 (B) The solvent evaporates instantly.
-(C) Excess solute crystallizes and falls out as a solid.
+<br>
+(C)
+ Excess solute crystallizes and falls out as a solid.
+<br>
 (D) It turns into a gaseous solution.
 
 **Q1.M14 🔴 (The "Subtle Word" Trap)**
-Which of the following statements about true solutions is **strictly accurate**?
+Which of the following statements about true solutions is **strictly accurate**?<br>
+<br>
 (A) The solute particles settle down if left undisturbed for a long time.
+<br>
 (B) The components can be separated by a centrifuge operating at low speeds.
-(C) The chemical properties of the solute and solvent are altered upon mixing.
+<br>
+(C)
+ The chemical properties of the solute and solvent are altered upon mixing.
+<br>
 (D) The physical properties of the solution (like density) can vary depending on its composition.
 
 **Q1.M15 🟡**
 You dissolve an unknown amount of salt in a glass of water until no more dissolves. You carefully pour off the clear liquid into a new glass, leaving the undissolved salt behind. The liquid in the new glass is:
+<br>
 (A) A heterogeneous mixture because it came from a glass with solid at the bottom.
+<br>
 (B) A supersaturated solution.
-(C) A true, homogeneous, saturated binary solution.
+<br>
+(C)
+ A true, homogeneous, saturated binary solution.
+<br>
 (D) A suspension.
 
 <details>
 <summary>💡 Full Solutions — Stage 8 MCQ Mastery</summary>
 
-**Q1.M1 → Answer: (B)**
+**Q1.M1 → Answer: <br>
+(B)**
 - Moles of X = $20 / 40 = 0.5\text{ mol}$
 - Moles of Y = $20 / 20 = 1.0\text{ mol}$
 - Since both are liquids, the one with more moles is the solvent. Y has more moles.
 - Trap: Assuming higher mass or equal mass means something without converting to moles.
 
-**Q1.M2 → Answer: (B)**
+**Q1.M2 → Answer: <br>
+(B)**
 - Quaternary = 1 solvent + 3 solutes = 4 components.
-- (A) 2 components (Binary)
-- (B) Water + Glucose + Fructose + Sucrose = 4 components. True solution. ✓
-- (C) Sand does not dissolve; it's a suspension, not a true solution.
-- (D) Separate chambers means they aren't mixed into a solution.
+- <br>
+(A) 2 components (Binary)
+- <br>
+(B) Water + Glucose + Fructose + Sucrose = 4 components. True solution. ✓
+- <br>
+(C)
+ Sand does not dissolve; it's a suspension, not a true solution.
+- <br>
+(D) Separate chambers means they aren't mixed into a solution.
 
-**Q1.M3 → Answer: (A)**
+**Q1.M3 → Answer: <br>
+(A)**
 - Since the final state is solid, the solvent MUST be the solid component.
 - Therefore, A is the solvent, B is the solute. (Example: Hg liquid in Na solid).
 - Trap: People assume liquids dissolve solids. But in solid solutions, the solid is the solvent!
 
-**Q1.M4 → Answer: (A)**
+**Q1.M4 → Answer: <br>
+(A)**
 - Largest mole fraction is $N_2$ (78%), so it is the solvent. The rest are solutes. Since there are 3 main components mentioned here, ternary is a good descriptor (though real air has more).
 - Trap: Thinking gases don't have solvents, or treating biologically active $O_2$ as special.
 
-**Q1.M5 → Answer: (B)**
+**Q1.M5 → Answer: <br>
+(B)**
 - Tyndall effect (visible laser path) is the classic hallmark of a colloid. True solutions do not scatter light. Uniform color is not enough to prove it's a true solution.
 - Trap: Believing "uniform color" automatically means true solution.
 
-**Q1.M6 → Answer: (D)**
+**Q1.M6 → Answer: <br>
+(D)**
 - Let's check states: Glucose (solid), Urea (solid), Water (liquid).
 - Wait, the question asks to identify the solvent. The final state is "aqueous solution" (liquid). 
 - **Rule:** If components are in different states, the one matching the final phase is the solvent. Since the solution is liquid, Water is the solvent.
@@ -782,48 +986,79 @@ You dissolve an unknown amount of salt in a glass of water until no more dissolv
 - Moles of Water and Urea are equal. Mass of Urea is highest. 
 - But state rules supreme! Water is liquid, solution is liquid. Water is solvent.
 
-**Q1.M7 → Answer: (D)**
+**Q1.M7 → Answer: <br>
+(D)**
 - Gas in solid: $H_2$ in Pd (Possible)
 - Solid in gas: Iodine vapor or Camphor in $N_2$ (Possible)
 - Gas in liquid: $O_2$ in water (Possible)
 - All 9 combinations are physically possible.
 
-**Q1.M8 → Answer: (B)**
+**Q1.M8 → Answer: <br>
+(B)**
 - The fundamental defining difference is particle size. True solution < 1 nm. Colloid = 1 nm to 1000 nm.
-- (A) is wrong because gold sols can be red/purple and translucent. (C) is wrong because colloids also pass through normal filter paper. (D) is semantically tricky; colloids are generally considered heterogeneous at a micro-level (two phases: dispersed phase and dispersion medium).
+- <br>
+(A) is wrong because gold sols can be red/purple and translucent. <br>
+(C)
+ is wrong because colloids also pass through normal filter paper. <br>
+(D) is semantically tricky; colloids are generally considered heterogeneous at a micro-level (two phases: dispersed phase and dispersion medium).
 
-**Q1.M9 → Answer: (A)**
+**Q1.M9 → Answer: <br>
+(A)**
 - $X_P = 0.6$. Since it's a binary solution (implied by $X_P + X_Q = 1$), $X_Q = 0.4$.
 - Therefore, Moles of P > Moles of Q. 
 - Since both are liquids, the one with more moles is the solvent. Thus, P is the solvent.
-- Trap: (B) Mass depends on molar mass. Even if $X_P > X_Q$, if Q is very heavy, mass of Q could be higher.
+- Trap: <br>
+(B) Mass depends on molar mass. Even if $X_P > X_Q$, if Q is very heavy, mass of Q could be higher.
 
-**Q1.M10 → Answer: (C)**
-- (A) Gold + Copper/Silver = Solid in Solid.
-- (B) Copper + Zinc = Solid in Solid.
-- (C) Amalgam = Liquid (Mercury) in Solid (Metal). So it is Liquid-in-Solid.
-- (D) Cu + Ni + Zn = Solid in Solid.
+**Q1.M10 → Answer: <br>
+(C)
+**
+- <br>
+(A) Gold + Copper/Silver = Solid in Solid.
+- <br>
+(B) Copper + Zinc = Solid in Solid.
+- <br>
+(C)
+ Amalgam = Liquid (Mercury) in Solid (Metal). So it is Liquid-in-Solid.
+- <br>
+(D) Cu + Ni + Zn = Solid in Solid.
 
-**Q1.M11 → Answer: (B)**
+**Q1.M11 → Answer: <br>
+(B)**
 - Water mass = $500\text{ mL} \times 1\text{ g/mL} = 500\text{ g}$. Moles = $500 / 18 = 27.7\text{ mol}$.
 - Ethanol mass = $500\text{ mL} \times 0.789\text{ g/mL} = 394.5\text{ g}$. Moles = $394.5 / 46 = 8.57\text{ mol}$.
 - Water has way more moles. Water is the solvent.
 - Trap: Looking at equal volumes and assuming equal moles.
 
-**Q1.M12 → Answer: (C)**
+**Q1.M12 → Answer: <br>
+(C)
+**
 - Binary means exactly 2 components: 1 solvent + 1 solute.
-- Bonds (A), phases (B), and covalency (D) have nothing to do with the "binary" classification.
+- Bonds <br>
+(A), phases <br>
+(B), and covalency <br>
+(D) have nothing to do with the "binary" classification.
 
-**Q1.M13 → Answer: (C)**
+**Q1.M13 → Answer: <br>
+(C)
+**
 - Solubility of most solids decreases with temperature. Cooling a saturated solution forces excess solute out of the dissolved state (crystallization).
 
-**Q1.M14 → Answer: (D)**
-- (A) False, they never settle. 
-- (B) False, centrifuge won't separate a true solution (you need evaporation/distillation).
-- (C) False, mixing is a physical change; chemical properties are retained.
-- (D) True. Unlike pure compounds, mixtures (solutions) have variable compositions, so their density, boiling point, etc., vary depending on how much solute you add.
+**Q1.M14 → Answer: <br>
+(D)**
+- <br>
+(A) False, they never settle. 
+- <br>
+(B) False, centrifuge won't separate a true solution (you need evaporation/distillation).
+- <br>
+(C)
+ False, mixing is a physical change; chemical properties are retained.
+- <br>
+(D) True. Unlike pure compounds, mixtures (solutions) have variable compositions, so their density, boiling point, etc., vary depending on how much solute you add.
 
-**Q1.M15 → Answer: (C)**
+**Q1.M15 → Answer: <br>
+(C)
+**
 - The clear liquid decanted off the top of the solid is a perfect, saturated, true solution. The heterogeneous part was left behind in the other glass. 
 
 </details>

@@ -93,7 +93,7 @@ By the early 1900s, Wall Street argued that the US needed a "Lender of Last Reso
 
 ## 3. The "Origin of the Lie": Jekyll Island and 1913
 
-If the Federal Reserve is a government agency, why was it conceived in total secrecy by private bankers on a private island?
+If the Federal Reserve is a government agency, why was it conceived in total secrecy by private bankers on a private island?<br>
 
 ### The Secret Meeting (November 1910)
 In November 1910, a private train car belonging to **Nelson Aldrich** left New Jersey. It carried seven men who controlled approximately 25% of the world's wealth at the time.
@@ -153,7 +153,7 @@ When money is broken, society breaks. Since 1971, we have witnessed one of the l
 From 1948 to 1971, **Productivity** (how much we produce) and **Wages** (how much we get paid) rose together.
 *   After 1971, productivity continued to skyrocket (thanks to computers/internet).
 *   **Wages flatlined**. Corrected for inflation, the average worker today earns roughly the same as they did in the 1970s, despite being far more productive.
-*   **Where did the extra money go?** It went to the top 1% and the corporate elite.
+*   **Where did the extra money go?<br>** It went to the top 1% and the corporate elite.
 
 ### The Cantillon Effect (The Mechanism of Theft)
 This is an 18th-century concept that explains *why* the rich get richer under this system.

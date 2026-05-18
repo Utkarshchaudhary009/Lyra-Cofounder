@@ -3,7 +3,7 @@
 
 This document outlines the most probable future for India: Getting stuck halfway up the mountain.
 
-## 1. What is the Middle Income Trap?
+## 1. What is the Middle Income Trap?<br>
 *   **The Definition:** It’s when a poor country gets "Okay" (Middle Income) but fails to get "Rich" (High Income).
 *   **The Cause:** You lose your advantage of "Cheap Labor" (Vietnam becomes cheaper), but you haven't built the "High Skills" (like Germany/Japan) to compete on quality.
 *   **The Examples:** Brazil, South Africa, Thailand. They grew fast for a while, then stopped and stagnated for decades.

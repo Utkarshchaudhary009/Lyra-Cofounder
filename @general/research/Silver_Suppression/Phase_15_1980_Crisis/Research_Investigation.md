@@ -65,7 +65,7 @@ The "1980 Silver Crisis" is historically framed as a story of "greedy brothers t
 *   **The Suppression Seed:** The coordinated global sell-off showed that Western financial centers act in unison when the "System" is threatened.
 
 ### Clue 7: Silver Delivery Squeeze (The Real Danger)
-*   **The Simple Truth:** Why did they panic? Because there wasn't enough silver. If the price stayed at $50, miners and people would melt down teapots, but in the short term, the vaults were empty.
+*   **The Simple Truth:** Why did they panic?<br> Because there wasn't enough silver. If the price stayed at $50, miners and people would melt down teapots, but in the short term, the vaults were empty.
 *   **The Hard Evidence:**
     *   **Backwardation:** Spot prices were higher than futures prices (Sign of severe physical shortage).
     *   **Panic:** The exchange feared a default where they would have to declare "we have no silver."
@@ -167,62 +167,62 @@ It wasn't a bubble bursting. It was a controlled demolition. The lesson was clea
 
 ## 7. Comprehension Check (Critical Thinking)
 
-*   **Q1:** Why did the COMEX implement "Liquidation Only" instead of just halting trading?
+*   **Q1:** Why did the COMEX implement "Liquidation Only" instead of just halting trading?<br>
     *   **A:** To force the price down. A halt pauses the price. "Liquidation Only" creates sell pressure with zero buy pressure, guaranteeing a crash to bail out the Shorts.
     *   **C:** Look up "LME Nickel cancellation 2022" for a modern version.
 
-*   **Q2:** If the Hunts were "cornering" the market, why were the banks the ones who needed a bailout?
+*   **Q2:** If the Hunts were "cornering" the market, why were the banks the ones who needed a bailout?<br>
     *   **A:** Because the banks were on the other side of the trade (Short). If the Hunts won, the banks lost. The bailout was to prevent the banks from defaulting.
-    *   **C:** Who holds the short positions in silver today?
+    *   **C:** Who holds the short positions in silver today?<br>
 
-*   **Q3:** What is the difference between a "Paper Squeeze" and a "Physical Squeeze"?
+*   **Q3:** What is the difference between a "Paper Squeeze" and a "Physical Squeeze"?<br>
     *   **A:** Paper squeeze is money vs. contracts. Physical squeeze is money vs. actual metal. Backwardation showed 1980 was becoming Physical.
-    *   **C:** Does COMEX have enough silver today to cover all paper contracts?
+    *   **C:** Does COMEX have enough silver today to cover all paper contracts?<br>
 
-*   **Q4:** Why did Volcker raise rates to 20%?
+*   **Q4:** Why did Volcker raise rates to 20%?<br>
     *   **A:** To stop inflation and make borrowing money (to buy silver) too expensive.
-    *   **C:** What happens if the Fed raises rates like that today with $34 Trillion in debt?
+    *   **C:** What happens if the Fed raises rates like that today with $34 Trillion in debt?<br>
 
-*   **Q5:** Did the Hunts actually "manipulate" the price, or did they just buy a lot?
+*   **Q5:** Did the Hunts actually "manipulate" the price, or did they just buy a lot?<br>
     *   **A:** Buying is a legal market action. Changing the rules so nobody else can buy is the actual manipulation.
-    *   **C:** Is it manipulation when a Central Bank prints money to buy bonds?
+    *   **C:** Is it manipulation when a Central Bank prints money to buy bonds?<br>
 
-*   **Q6:** What happened to the silver price on "Silver Thursday"?
+*   **Q6:** What happened to the silver price on "Silver Thursday"?<br>
     *   **A:** It collapsed by over 50% in one day ($21 to $10.80).
-    *   **C:** Could a crash like that happen in the stock market today?
+    *   **C:** Could a crash like that happen in the stock market today?<br>
 
-*   **Q7:** Who were the "Shorts" in 1980?
+*   **Q7:** Who were the "Shorts" in 1980?<br>
     *   **A:** Bullion banks and commercial hedgers who had sold silver they didn't own.
     *   **C:** Identify the "Big 4" banks shorting silver today.
 
-*   **Q8:** What is "Backwardation"?
+*   **Q8:** What is "Backwardation"?<br>
     *   **A:** When the cash price is higher than the futures price. It means "I need metal NOW."
-    *   **C:** Is silver in backwardation right now?
+    *   **C:** Is silver in backwardation right now?<br>
 
-*   **Q9:** Why is $50 the "Magic Number" for silver?
+*   **Q9:** Why is $50 the "Magic Number" for silver?<br>
     *   **A:** It was the 1980 high and the 2011 high. It is a psychological resistance level.
-    *   **C:** What is the inflation-adjusted value of $50 from 1980 today? (Hint: It's over $150).
+    *   **C:** What is the inflation-adjusted value of $50 from 1980 today?<br> (Hint: It's over $150).
 
-*   **Q10:** What was "Silver Rule 7"?
+*   **Q10:** What was "Silver Rule 7"?<br>
     *   **A:** Comex's rule change to increase margins and limit positions.
-    *   **C:** How often does Comex change margin requirements today?
+    *   **C:** How often does Comex change margin requirements today?<br>
 
-*   **Q11:** Why did Tiffany's run an ad against the Hunts?
+*   **Q11:** Why did Tiffany's run an ad against the Hunts?<br>
     *   **A:** High silver prices hurt their profits on jewelry. They wanted cheap silver.
-    *   **C:** Do industrial users (Tesla/Apple) want expensive or cheap silver?
+    *   **C:** Do industrial users (Tesla/Apple) want expensive or cheap silver?<br>
 
-*   **Q12:** What role did leverage play in the Hunts' downfall?
+*   **Q12:** What role did leverage play in the Hunts' downfall?<br>
     *   **A:** They borrowed money to buy silver. When the price dropped, they faced margin calls they couldn't pay.
     *   **C:** Never invest with money you don't have.
 
-*   **Q13:** What is the "Chain of Evidence" telling us about the Regulator's role?
+*   **Q13:** What is the "Chain of Evidence" telling us about the Regulator's role?<br>
     *   **A:** The Regulator acts as the referee who tackles the winning player to let the other team catch up.
-    *   **C:** Who appoints the CFTC commissioners?
+    *   **C:** Who appoints the CFTC commissioners?<br>
 
-*   **Q14:** Why is this Phase 15 important for the whole 60-phase research?
+*   **Q14:** Why is this Phase 15 important for the whole 60-phase research?<br>
     *   **A:** It is the "Peak" crisis that established the modern containment grid for silver.
     *   **C:** Phase 16 will likely cover the "Hangover" and the decades of bear market that followed.
 
-*   **Q15:** If the Hunts had bought with 100% cash and no leverage, would they have lost?
+*   **Q15:** If the Hunts had bought with 100% cash and no leverage, would they have lost?<br>
     *   **A:** Likely no. They could have held the physical metal through the volatility. Leverage killed them.
     *   **C:** "If you don't hold it, you don't own it."

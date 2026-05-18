@@ -143,8 +143,8 @@ So flux through curved surface = −(flux through flat) = **EπR²** (outward).
 
 **Practice:**
 
-1. 🟢 Charge −3 μC inside a closed surface. Flux = ? *(Ans: −3.39 × 10⁵ N·m²/C)*
-2. 🟢 ⭐ A cube contains charges +2 μC and −2 μC. Total flux through the cube? *(Ans: 0 — net enclosed charge = 0)*
+1. 🟢 Charge −3 μC inside a closed surface. Flux = ?<br> *(Ans: −3.39 × 10⁵ N·m²/C)*
+2. 🟢 ⭐ A cube contains charges +2 μC and −2 μC. Total flux through the cube?<br> *(Ans: 0 — net enclosed charge = 0)*
 3. 🟡 Charges +4 μC, −1 μC, +3 μC are inside a surface. A charge +5 μC is outside. Find the flux. *(Ans: (4 − 1 + 3) × 10⁻⁶ / ε₀ = 6 × 10⁻⁶ / ε₀ ≈ 6.78 × 10⁵ N·m²/C. Outside charge doesn't matter!)*
 
 ---
@@ -162,8 +162,8 @@ So flux through curved surface = −(flux through flat) = **EπR²** (outward).
 
 **Practice:**
 
-1. 🟡 Q = 12 μC at the centre of a cube. Flux through one face? *(Ans: 2 × 10⁻⁶ / ε₀ = 2.26 × 10⁵ N·m²/C)*
-2. 🔴 ⭐ A charge Q is at one corner of a cube. What is the flux through the cube?
+1. 🟡 Q = 12 μC at the centre of a cube. Flux through one face?<br> *(Ans: 2 × 10⁻⁶ / ε₀ = 2.26 × 10⁵ N·m²/C)*
+2. 🔴 ⭐ A charge Q is at one corner of a cube. What is the flux through the cube?<br>
 
 <details>
 <summary><b>Answer</b></summary>
@@ -199,7 +199,7 @@ q = ε₀Φ = 8.854 × 10⁻¹² × 8.85 × 10³ = **7.84 × 10⁻⁸ C ≈ 78.4
 **Practice:**
 
 1. 🟢 Φ = 10⁶ N·m²/C through a closed surface. Find q_enc. *(Ans: 8.854 μC)*
-2. 🟡 Flux entering a surface = 200 N·m²/C. Flux leaving = 500 N·m²/C. Charge inside? *(Ans: q = ε₀(500 − 200) = ε₀ × 300 ≈ 2.66 nC)*
+2. 🟡 Flux entering a surface = 200 N·m²/C. Flux leaving = 500 N·m²/C. Charge inside?<br> *(Ans: q = ε₀(500 − 200) = ε₀ × 300 ≈ 2.66 nC)*
 
 ---
 
@@ -234,14 +234,14 @@ This doesn't mean E = 0 at every point! It means whatever flux enters the surfac
 
 **Solved Example** 🟡
 
-> A charge Q is placed outside a closed surface S. What is the total flux through S?
+> A charge Q is placed outside a closed surface S. What is the total flux through S?<br>
 
 **Solution:** Φ = q_enc/ε₀ = **0** (no charge inside)
 
 **Practice:**
 
-1. 🟢 A charge sits just outside a sphere. Flux through the sphere? *(Ans: 0)*
-2. 🟡 An electric dipole is inside a closed surface. Flux through the surface? *(Ans: 0 — net charge of a dipole = +q + (−q) = 0)*
+1. 🟢 A charge sits just outside a sphere. Flux through the sphere?<br> *(Ans: 0)*
+2. 🟡 An electric dipole is inside a closed surface. Flux through the surface?<br> *(Ans: 0 — net charge of a dipole = +q + (−q) = 0)*
 
 ---
 
@@ -301,7 +301,7 @@ $$\oint \vec{E} \cdot d\vec{A} = \frac{q_{enclosed}}{\varepsilon_0}$$
 Here, the integral is over the entire closed surface (Gaussian surface), and q_enclosed is the algebraic sum of all charges inside the surface.
 </details>
 
-**Q2.** 🟡 ⭐ Define electric flux. What is its SI unit? *(2 marks)*
+**Q2.** 🟡 ⭐ Define electric flux. What is its SI unit?<br> *(2 marks)*
 
 <details>
 <summary><b>Model Answer</b></summary>
@@ -323,7 +323,7 @@ where θ is the angle between the electric field and the outward normal to the s
 *(See Type 5 above for the complete derivation.)*
 </details>
 
-**Q4.** 🟡 What is a Gaussian surface? What properties should it have for Gauss's law to be useful? *(2 marks)*
+**Q4.** 🟡 What is a Gaussian surface?<br> What properties should it have for Gauss's law to be useful?<br> *(2 marks)*
 
 <details>
 <summary><b>Model Answer</b></summary>

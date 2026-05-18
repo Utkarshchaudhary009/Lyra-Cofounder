@@ -9,7 +9,7 @@
 ### The Tug-of-War: Adding Players to the Team
 Recall that Electrode Potential is a "tug-of-war" for electrons between solid metal atoms (who want to dissolve) and aqueous metal ions (who want to deposit). 
 
-The Standard Potential ($E^\circ$) is the baseline strength of this tug-of-war when the concentration of ions in the water is exactly $1\ M$. But what happens if you don't have exactly $1\ M$?
+The Standard Potential ($E^\circ$) is the baseline strength of this tug-of-war when the concentration of ions in the water is exactly $1\ M$. But what happens if you don't have exactly $1\ M$?<br>
 - **If you add more ions (Concentration > $1\ M$):** The aqueous team has more "players" pulling for electrons. Their ability to reduce (gain electrons) becomes stronger. Therefore, the actual reduction potential ($E$) goes **up**.
 - **If you dilute the solution (Concentration < $1\ M$):** The aqueous team loses players. Their pulling power drops. The reduction potential ($E$) goes **down**.
 
@@ -47,7 +47,7 @@ $$ E = E^\circ + \frac{0.0591}{n} \log [M^{n+}] $$
 **Pattern:** "The Nernst equation requires $n$. Find the number of electrons transferred in the balanced half-reaction."
 
 **Solved Example** 🟢
-> What is the value of $n$ for the reduction of the dichromate ion in acidic medium? 
+> What is the value of $n$ for the reduction of the dichromate ion in acidic medium?<br> 
 > $Cr_2O_7^{2-} \rightarrow 2Cr^{3+}$
 
 <details><summary><b>Solution</b></summary>
@@ -60,27 +60,27 @@ $$ E = E^\circ + \frac{0.0591}{n} \log [M^{n+}] $$
 
 **Practice:**
 
-1. 🟢 What is the value of $n$ for $Al^{3+} \rightarrow Al$?
+1. 🟢 What is the value of $n$ for $Al^{3+} \rightarrow Al$?<br>
 <details><summary><b>Answer</b></summary>
 $Al^{3+} + 3e^- \rightarrow Al$. **$n = 3$**.
 </details>
 
-2. 🟢 What is the value of $n$ for $Cl_2 \rightarrow 2Cl^-$?
+2. 🟢 What is the value of $n$ for $Cl_2 \rightarrow 2Cl^-$?<br>
 <details><summary><b>Answer</b></summary>
 Each Cl atom goes from 0 to -1 (gains 1 electron). There are 2 atoms. $Cl_2 + 2e^- \rightarrow 2Cl^-$. **$n = 2$**.
 </details>
 
-3. 🟡 What is the value of $n$ for $MnO_4^- \rightarrow Mn^{2+}$?
+3. 🟡 What is the value of $n$ for $MnO_4^- \rightarrow Mn^{2+}$?<br>
 <details><summary><b>Answer</b></summary>
 Mn goes from $+7$ to $+2$. It gains 5 electrons. **$n = 5$**.
 </details>
 
-4. 🟡 A student writes the Nernst equation for $2Ag^+ + 2e^- \rightarrow 2Ag$. What value of $n$ must they use? What is the exponent on $[Ag^+]$ in the log term?
+4. 🟡 A student writes the Nernst equation for $2Ag^+ + 2e^- \rightarrow 2Ag$. What value of $n$ must they use?<br> What is the exponent on $[Ag^+]$ in the log term?<br>
 <details><summary><b>Answer</b></summary>
 They wrote it with 2 moles of electrons, so **$n = 2$**. Because of the stoichiometry, the concentration term must be squared: $\log \frac{1}{[Ag^+]^2}$. *(Note: It mathematically simplifies to the exact same result as using $n=1$ and no square!)*
 </details>
 
-5. 🔴 What is the value of $n$ for the conversion of Hydrogen Peroxide ($H_2O_2$) to Water ($H_2O$) in acidic medium?
+5. 🔴 What is the value of $n$ for the conversion of Hydrogen Peroxide ($H_2O_2$) to Water ($H_2O$) in acidic medium?<br>
 <details><summary><b>Answer</b></summary>
 $H_2O_2 + 2H^+ + 2e^- \rightarrow 2H_2O$. Oxygen goes from -1 to -2. Two oxygen atoms are involved. **$n = 2$**.
 </details>
@@ -118,7 +118,7 @@ $n = 1$. $[Ag^+] = 10^{-3}$.
 $E = 0.80 - \frac{0.0591}{1} \log \frac{1}{10^{-3}} = 0.80 - 0.0591 \times 3 = 0.80 - 0.1773 = \textbf{+0.6227\ V}$.
 </details>
 
-3. 🟡 An unknown metal M ($n=2$) has an electrode potential of $-0.40\ V$ when its ion concentration is $0.01\ M$. What is its standard electrode potential $E^\circ$?
+3. 🟡 An unknown metal M ($n=2$) has an electrode potential of $-0.40\ V$ when its ion concentration is $0.01\ M$. What is its standard electrode potential $E^\circ$?<br>
 <details><summary><b>Answer</b></summary>
 $E = E^\circ - \frac{0.0591}{2} \log \frac{1}{10^{-2}}$
 $-0.40 = E^\circ - 0.0295 \times 2$
@@ -148,7 +148,7 @@ $E_{ox} = -E_{red} = \textbf{+0.7895\ V}$.
 **Pattern:** "Qualitative and quantitative changes when water is added."
 
 **Solved Example** 🟡
-> If you dilute a $1\ M$ solution of $CuSO_4$ to $0.01\ M$, by how much does the reduction potential of the copper electrode change?
+> If you dilute a $1\ M$ solution of $CuSO_4$ to $0.01\ M$, by how much does the reduction potential of the copper electrode change?<br>
 
 <details><summary><b>Solution</b></summary>
 - Intuition: Dilution $\rightarrow$ fewer players pulling for electrons $\rightarrow$ reduction potential must **decrease**.
@@ -159,31 +159,31 @@ $E_{ox} = -E_{red} = \textbf{+0.7895\ V}$.
 
 **Practice:**
 
-1. 🟢 If you dilute a silver half-cell ($Ag^+/Ag$, $n=1$) by a factor of 10, by how much does the potential decrease?
+1. 🟢 If you dilute a silver half-cell ($Ag^+/Ag$, $n=1$) by a factor of 10, by how much does the potential decrease?<br>
 <details><summary><b>Answer</b></summary>
 $E = E^\circ - \frac{0.0591}{1} \log(10) = E^\circ - 0.0591$. 
 It decreases by **$0.0591\ V$**.
 </details>
 
-2. 🟢 If you dilute an aluminum half-cell ($Al^{3+}/Al$, $n=3$) by a factor of 10, by how much does the potential decrease?
+2. 🟢 If you dilute an aluminum half-cell ($Al^{3+}/Al$, $n=3$) by a factor of 10, by how much does the potential decrease?<br>
 <details><summary><b>Answer</b></summary>
 $E = E^\circ - \frac{0.0591}{3} \log(10) = E^\circ - 0.0197$.
 It decreases by **$0.0197\ V$**. (Higher valency = smaller change upon dilution).
 </details>
 
-3. 🟡 You have a Zinc electrode in $1\ M$ solution. You add a large amount of water to the beaker. Does the *oxidation* potential of Zinc increase or decrease?
+3. 🟡 You have a Zinc electrode in $1\ M$ solution. You add a large amount of water to the beaker. Does the *oxidation* potential of Zinc increase or decrease?<br>
 <details><summary><b>Answer</b></summary>
 Adding water dilutes the $Zn^{2+}$ ions. It becomes *easier* for solid Zinc to dissolve (oxidize) into a less crowded solution. Therefore, the **oxidation potential increases**.
 </details>
 
-4. 🟡 How many times must you dilute a $Cu^{2+}$ ($n=2$) solution to drop its potential by exactly $0.0591\ V$?
+4. 🟡 How many times must you dilute a $Cu^{2+}$ ($n=2$) solution to drop its potential by exactly $0.0591\ V$?<br>
 <details><summary><b>Answer</b></summary>
 Change in $E = \frac{0.0591}{2} \log(\text{dilution factor}) = 0.0591$.
 $\frac{1}{2} \log(x) = 1 \implies \log(x) = 2 \implies x = 10^2 = 100$.
 You must dilute it by **100 times**.
 </details>
 
-5. 🔴 For an electrode $M^{n+}/M$, the potential drops by $0.0197\ V$ when the solution is diluted 10 times. What is the valency ($n$) of the metal?
+5. 🔴 For an electrode $M^{n+}/M$, the potential drops by $0.0197\ V$ when the solution is diluted 10 times. What is the valency ($n$) of the metal?<br>
 <details><summary><b>Answer</b></summary>
 Drop = $\frac{0.0591}{n} \log(10) = 0.0197$
 $\frac{0.0591}{n} \times 1 = 0.0197$
@@ -215,7 +215,7 @@ $n = \frac{0.0591}{0.0197} = \textbf{3}$.
 Using shortcut: $E = -0.0591 \times 3 = \textbf{-0.1773\ V}$.
 </details>
 
-2. 🟢 A hydrogen electrode has a reduction potential of $-0.2364\ V$. What is the pH of the solution?
+2. 🟢 A hydrogen electrode has a reduction potential of $-0.2364\ V$. What is the pH of the solution?<br>
 <details><summary><b>Answer</b></summary>
 $-0.2364 = -0.0591 \times pH \implies pH = \frac{0.2364}{0.0591} = \textbf{4}$.
 </details>
@@ -226,14 +226,14 @@ Reduction potential $E_{red} = -0.0591 \times 7 = -0.4137\ V$.
 Oxidation potential $E_{ox} = -E_{red} = \textbf{+0.4137\ V}$.
 </details>
 
-4. 🟡 A hydrogen electrode is dipped in $0.05\ M\ H_2SO_4$ (assume complete dissociation). What is its reduction potential?
+4. 🟡 A hydrogen electrode is dipped in $0.05\ M\ H_2SO_4$ (assume complete dissociation). What is its reduction potential?<br>
 <details><summary><b>Answer</b></summary>
 $[H^+] = 2 \times 0.05 = 0.1\ M = 10^{-1}\ M$.
 $pH = 1$.
 $E = -0.0591 \times 1 = \textbf{-0.0591\ V}$.
 </details>
 
-5. 🔴 If the pressure of $H_2$ gas in a standard hydrogen electrode is increased to $100\ atm$ (while keeping $[H^+] = 1\ M$), what is the new reduction potential?
+5. 🔴 If the pressure of $H_2$ gas in a standard hydrogen electrode is increased to $100\ atm$ (while keeping $[H^+] = 1\ M$), what is the new reduction potential?<br>
 <details><summary><b>Answer</b></summary>
 $E = E^\circ - \frac{0.0591}{2} \log \frac{P_{H_2}}{[H^+]^2}$
 $E = 0 - \frac{0.0591}{2} \log \frac{100}{1^2} = -0.0295 \times \log(10^2)$
@@ -266,7 +266,7 @@ Since $Br_2$ is a pure liquid, its concentration is 1.
 Log term: **$\log ([Br^-]^2)$**.
 </details>
 
-2. 🟡 If you increase the concentration of $Cl^-$ ions around a Chlorine electrode, does its reduction potential increase or decrease?
+2. 🟡 If you increase the concentration of $Cl^-$ ions around a Chlorine electrode, does its reduction potential increase or decrease?<br>
 <details><summary><b>Answer</b></summary>
 $Cl^-$ is a product in the reduction reaction ($Cl_2 + 2e^- \rightarrow 2Cl^-$). According to Le Chatelier, adding product shifts equilibrium backwards, opposing reduction. Therefore, the reduction potential **decreases**.
 </details>
@@ -290,7 +290,7 @@ $E = 0.54 - \frac{0.0591}{2} \log(0.1)^2 = 0.54 - 0.0295 \times (-2) = 0.54 + 0.
 **Pattern:** "Interpreting straight line graphs of $E$ vs $\log[M^{n+}]$. "
 
 **Solved Example** 🟡
-> If you plot the reduction potential $E$ (y-axis) against $\log[Cu^{2+}]$ (x-axis) for a Copper electrode, what kind of graph do you get? What are its slope and y-intercept?
+> If you plot the reduction potential $E$ (y-axis) against $\log[Cu^{2+}]$ (x-axis) for a Copper electrode, what kind of graph do you get?<br> What are its slope and y-intercept?<br>
 
 <details><summary><b>Solution</b></summary>
 - Start with Nernst: $E = E^\circ - \frac{0.0591}{n} \log \frac{1}{[Cu^{2+}]}$
@@ -305,18 +305,18 @@ $E = 0.54 - \frac{0.0591}{2} \log(0.1)^2 = 0.54 - 0.0295 \times (-2) = 0.54 + 0.
 
 **Practice:**
 
-1. 🟢 For a plot of $E$ vs $\log[Ag^+]$, will the slope be steeper or flatter than the plot for $Cu^{2+}$?
+1. 🟢 For a plot of $E$ vs $\log[Ag^+]$, will the slope be steeper or flatter than the plot for $Cu^{2+}$?<br>
 <details><summary><b>Answer</b></summary>
 Slope for Ag ($n=1$) is $0.0591/1 = 0.0591$. Slope for Cu ($n=2$) is $0.0295$. 
 Therefore, the plot for Ag will be **steeper**.
 </details>
 
-2. 🟡 What does the y-intercept represent on a graph of $E$ vs $\log[M^{n+}]$?
+2. 🟡 What does the y-intercept represent on a graph of $E$ vs $\log[M^{n+}]$?<br>
 <details><summary><b>Answer</b></summary>
 The **Standard Electrode Potential ($E^\circ$)**. It is the potential when $\log[M^{n+}] = 0$, which means $[M^{n+}] = 1\ M$ (standard conditions).
 </details>
 
-3. 🔴 A graph of $E_{red}$ vs $\log[M^{n+}]$ gives a straight line with a slope of $+0.0197$. What is the charge on the metal ion?
+3. 🔴 A graph of $E_{red}$ vs $\log[M^{n+}]$ gives a straight line with a slope of $+0.0197$. What is the charge on the metal ion?<br>
 <details><summary><b>Answer</b></summary>
 Slope = $0.0591 / n$.
 $0.0197 = 0.0591 / n \implies n = 0.0591 / 0.0197 = \textbf{3}$. The ion is $M^{3+}$.
@@ -362,7 +362,7 @@ $E = - \frac{0.0591}{2} \log \frac{P_{H_2}}{[H^+]^2}$. To make E negative, the l
 (c) $2 / 1^2 = 2$ (Log is positive $\rightarrow E$ is negative).
 </details>
 
-**Q4. (Exemplar Type)** 🟡 What is the ratio of the slopes of the graphs of $E$ vs $\log[M^{n+}]$ for $Ag^+$ and $Zn^{2+}$?
+**Q4. (Exemplar Type)** 🟡 What is the ratio of the slopes of the graphs of $E$ vs $\log[M^{n+}]$ for $Ag^+$ and $Zn^{2+}$?<br>
 (a) $1:2$
 (b) $2:1$
 (c) $1:1$
@@ -413,7 +413,7 @@ $E = E^\circ - \frac{0.0591}{n} \log \frac{1}{[M^{n+}]}$
 where $E$ is electrode potential, $E^\circ$ is standard electrode potential, $n$ is number of electrons gained, and $[M^{n+}]$ is the molar concentration of the metal ion.
 </details>
 
-**Q2.** 🟡 How does the reduction potential of a metal electrode change if the concentration of its ions in solution is decreased? *(1 mark)*
+**Q2.** 🟡 How does the reduction potential of a metal electrode change if the concentration of its ions in solution is decreased?<br> *(1 mark)*
 <details><summary><b>Model Answer</b></summary>
 The reduction potential **decreases** when the concentration of metal ions is decreased.
 </details>
@@ -440,7 +440,7 @@ Reduction potential $E_{red} = -0.0591 \times pH = -0.0591 \times 10 = -0.591\ V
 The question asks for **oxidation potential**. $E_{ox} = -E_{red} = \textbf{+0.591\ V}$.
 </details>
 
-**Q2.** 🔴 For the half-cell $Fe^{3+} + e^- \rightarrow Fe^{2+}$, the standard potential is $+0.77\ V$. If a student prepares a solution where $[Fe^{3+}] = 0.1\ M$ and $[Fe^{2+}] = 0.01\ M$, what is the electrode potential?
+**Q2.** 🔴 For the half-cell $Fe^{3+} + e^- \rightarrow Fe^{2+}$, the standard potential is $+0.77\ V$. If a student prepares a solution where $[Fe^{3+}] = 0.1\ M$ and $[Fe^{2+}] = 0.01\ M$, what is the electrode potential?<br>
 (a) $0.77\ V$
 (b) $0.711\ V$
 (c) $0.829\ V$

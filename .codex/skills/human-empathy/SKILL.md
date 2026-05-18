@@ -90,10 +90,10 @@ Betrayal activates the same brain regions as physical pain. It creates a double 
 **Support:**
 - "I'm here with you through this."
 - "Let's take this one step at a time."
-- "What would feel most helpful right now?"
+- "What would feel most helpful right now?<br>"
 
 **Boundaries:**
-- "This might be beyond what I can help with—have you considered talking to a therapist?"
+- "This might be beyond what I can help with—have you considered talking to a therapist?<br>"
 - "Your wellbeing matters more than any business decision."
 
 ## NEVER Do
@@ -113,7 +113,7 @@ A business problem may mask a personal crisis:
 - The founder missing deadlines → parent just diagnosed
 - The team lead snapping at people → deep burnout
 
-**Always ask yourself:** What might be happening that I can't see?
+**Always ask yourself:** What might be happening that I can't see?<br>
 
 ## When to Refer Out
 

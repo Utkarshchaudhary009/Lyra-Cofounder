@@ -39,12 +39,12 @@ By late 1922, Germany was falling behind on payments. France, angry and impatien
 **The Math of Doom:**
 *   Revenue (Money coming in): Near Zero (factories closed, taxes largely uncollected).
 *   Expenses (Money going out): Massive (paying millions of idle workers).
-*   **The Solution?** The Printing Press. The government simply printed the money to pay the bills.
+*   **The Solution?<br>** The Printing Press. The government simply printed the money to pay the bills.
 
 ---
 
 ## 4. The Delusion: The Leaders' Mental Model
-Why did they think this would work?
+Why did they think this would work?<br>
 
 ### Rudolf Havenstein: The Architect of Inflation
 Rudolf Havenstein was the President of the Reichsbank (Germany's Central Bank). He had a mental model that seems insane today but was believed by many then:
@@ -87,7 +87,7 @@ The German middle class had been raised on a specific mental model: *Work hard, 
 
 ### The Farmers: The Real Power
 *   Farmers had "real" wealth: cows, potatoes, grain.
-*   They refused to sell their food for paper money. *"Why trade a sack of potatoes for a wheelbarrow of paper that will be trash tomorrow?"*
+*   They refused to sell their food for paper money. *"Why trade a sack of potatoes for a wheelbarrow of paper that will be trash tomorrow?<br>"*
 *   This led to **starvation** in the cities. City dwellers (including doctors and professors) would travel to the countryside, begging farmers to trade food for pianos, jewelry, or clothes. The farmers held all the leverage.
 
 ---

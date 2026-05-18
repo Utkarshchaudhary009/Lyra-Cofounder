@@ -8,7 +8,7 @@
 
 ### When There Are More Than Two Charges
 
-Coulomb's law tells you the force between **two** charges. But what if you have 3, 4, or 100 charges? Do they all interfere with each other in some complicated way?
+Coulomb's law tells you the force between **two** charges. But what if you have 3, 4, or 100 charges?<br> Do they all interfere with each other in some complicated way?<br>
 
 The answer is beautifully simple:
 
@@ -161,7 +161,7 @@ Direction: along the diagonal away from the opposite corner.
 
 **Practice:**
 
-1. 🟡 ⭐ +16Q and +Q at distance d. Where is the null point? *(Ans: 4d/5 from +16Q)*
+1. 🟡 ⭐ +16Q and +Q at distance d. Where is the null point?<br> *(Ans: 4d/5 from +16Q)*
 2. 🔴 +25 μC at origin, −4 μC at x = 9 cm. Find null point. *(Ans: x = 15 cm — beyond the −4 μC charge)*
 
 ---
@@ -170,7 +170,7 @@ Direction: along the diagonal away from the opposite corner.
 
 **Solved Example** 🟡
 
-> Six identical charges +Q are placed at the vertices of a regular hexagon of side a. What is the net force on a charge +q placed at the center?
+> Six identical charges +Q are placed at the vertices of a regular hexagon of side a. What is the net force on a charge +q placed at the center?<br>
 
 **Solution:**
 
@@ -182,8 +182,8 @@ By symmetry, for each charge, there is an **equal and opposite** charge on the o
 
 **Practice:**
 
-1. 🟢 Five identical charges at the vertices of a regular pentagon. Force at the center? *(Ans: 0)*
-2. 🟡 ⭐ Six charges +Q at five vertices and −Q at one vertex of a regular hexagon. Force on charge at center?
+1. 🟢 Five identical charges at the vertices of a regular pentagon. Force at the center?<br> *(Ans: 0)*
+2. 🟡 ⭐ Six charges +Q at five vertices and −Q at one vertex of a regular hexagon. Force on charge at center?<br>
 
 <details>
 <summary><b>Answer</b></summary>
@@ -201,13 +201,13 @@ Extra force = k(q)(2Q)/a² directed toward that vertex (the −Q vertex attracts
 **F = 2kQq/a²** directed toward the vertex with −Q.
 </details>
 
-3. 🔴 ⭐ Seven charges: +Q at all 6 vertices of a regular hexagon, and one +Q is removed. What is the force on a charge +q at the center? *(Ans: kQq/a² toward the vacant vertex — same logic: 5 charges = 6 charges minus 1, and the "missing" charge contributes the unbalanced force.)*
+3. 🔴 ⭐ Seven charges: +Q at all 6 vertices of a regular hexagon, and one +Q is removed. What is the force on a charge +q at the center?<br> *(Ans: kQq/a² toward the vacant vertex — same logic: 5 charges = 6 charges minus 1, and the "missing" charge contributes the unbalanced force.)*
 
 ---
 
 ## 🔀 Stage 4: Type Mixer
 
-**Q1.** 🔴 ⭐ Two charges +Q are fixed at (0, +a) and (0, −a). A charge −q is placed at the origin. If it is slightly displaced along the x-axis, will it return to origin? What if displaced along y-axis?
+**Q1.** 🔴 ⭐ Two charges +Q are fixed at (0, +a) and (0, −a). A charge −q is placed at the origin. If it is slightly displaced along the x-axis, will it return to origin?<br> What if displaced along y-axis?<br>
 
 <details>
 <summary><b>Solution</b></summary>
@@ -237,7 +237,7 @@ F_net = √(F² + F² + 2F² cos 60°) = F√(2 + 1) = F√3 = **2√3 kQ²/a²*
 Direction: toward the midpoint of the line joining the two +Q charges.
 </details>
 
-**Q3.** 🟡 Two charges +4Q and +Q are at distance d. A third charge q is placed at the null point. Is the equilibrium stable or unstable?
+**Q3.** 🟡 Two charges +4Q and +Q are at distance d. A third charge q is placed at the null point. Is the equilibrium stable or unstable?<br>
 
 <details>
 <summary><b>Solution</b></summary>
@@ -312,13 +312,13 @@ Direction: Along the angle bisector at A, directed away from side BC (i.e., alon
 
 **(b)** — If all six vertices had +q, the net force at center = 0. Missing one +q means the force from the remaining 5 is equal and opposite to what the 6th would exert. Since +q at the 6th vertex would push −Q **toward** the 6th vertex (attraction), the missing charge means the net force is **away** from the vacant vertex. Wait — −Q at center and +q at vertex → force on −Q is toward the vertex (attraction).
 
-The "missing" +q would have attracted −Q toward the vacant vertex with force kqQ/a². Without it, the net force is kqQ/a² **away from** the vacant vertex? No...
+The "missing" +q would have attracted −Q toward the vacant vertex with force kqQ/a². Without it, the net force is kqQ/a² **away from** the vacant vertex?<br> No...
 
 Let me reconsider. Six identical +q at vertices → net force on −Q at center = 0. Now remove one +q. The remaining 5 charges exert a force = −(force from the removed charge). The removed charge would have pulled −Q toward the vacant vertex. So the force from 5 charges = −(attraction toward vacant) = **away from vacant vertex**.
 
 Wait, no. If all 6 create zero net force, then F₅ + F₆ = 0 → F₅ = −F₆. F₆ (from the charge at the 6th vertex on −Q) = attraction toward vertex 6. So F₅ = repulsion from vertex 6 = **away from vacant vertex**.
 
-Hmm, but actually F₆ is toward vertex 6 (attraction). So F₅ = −F₆ = away from vertex 6? That would mean the 5 charges push −Q away from the vacant vertex. But physically, there's more attraction on the side with 5 charges, so −Q should be pulled toward the 5 charges (away from the vacant vertex). Yes, that's consistent.
+Hmm, but actually F₆ is toward vertex 6 (attraction). So F₅ = −F₆ = away from vertex 6?<br> That would mean the 5 charges push −Q away from the vacant vertex. But physically, there's more attraction on the side with 5 charges, so −Q should be pulled toward the 5 charges (away from the vacant vertex). Yes, that's consistent.
 
 **Answer: (b) kqQ/a² away from vacant vertex**
 

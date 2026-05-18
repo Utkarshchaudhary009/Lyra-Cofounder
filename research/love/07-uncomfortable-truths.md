@@ -16,7 +16,7 @@ You need respect, trust, compatible values, and practical alignment. Love withou
 
 People who love each other destroy each other every day. Love doesn't prevent cruelty, dishonesty, or incompatibility. It just makes you tolerate them longer than you should.
 
-**The test:** Remove the word "love" from your evaluation. Would you still choose this partnership based on respect, trust, and practical fit alone? If not — love is masking a structural problem.
+**The test:** Remove the word "love" from your evaluation. Would you still choose this partnership based on respect, trust, and practical fit alone?<br> If not — love is masking a structural problem.
 
 ---
 
@@ -36,7 +36,7 @@ Drama is not depth. Intensity is not intimacy. The relationship that produces th
 
 No matter how well you choose. No matter how good the person. You will be hurt.
 
-**The only question that matters:** Does this person hurt you **carelessly** (a character problem — they don't care enough to be careful with you) or **accidentally** (a human limitation they recognize, regret, and take responsibility for)?
+**The only question that matters:** Does this person hurt you **carelessly** (a character problem — they don't care enough to be careful with you) or **accidentally** (a human limitation they recognize, regret, and take responsibility for)?<br>
 
 Everyone hurts. Not everyone takes accountability for it. The accountability is the difference between a partner and a hazard.
 
@@ -61,7 +61,7 @@ Sometimes you need to go to bed angry, sleep, and address it with a rested prefr
 
 Forcing resolution at 11 PM when both people are tired, emotional, and neurologically impaired leads to worse conversations, more damage, and fake resolutions that don't hold.
 
-**What actually matters:** Not whether you go to bed angry — but whether there is a **reliable path back to repair.** Can you both trust that the conversation WILL happen? That the conflict won't be buried, forgotten, or weaponized later? That's the real skill — not the timing.
+**What actually matters:** Not whether you go to bed angry — but whether there is a **reliable path back to repair.** Can you both trust that the conversation WILL happen?<br> That the conflict won't be buried, forgotten, or weaponized later?<br> That's the real skill — not the timing.
 
 ---
 
@@ -70,10 +70,10 @@ Forcing resolution at 11 PM when both people are tired, emotional, and neurologi
 The neurochemical cocktail of early attraction has a shelf life. For everyone. For every relationship. No exception.
 
 What remains when passion settles:
-- Friendship — do you genuinely like this person?
-- Partnership — can you operate a shared life?
-- Respect — do you admire who they are?
-- Shared purpose — are you building something together?
+- Friendship — do you genuinely like this person?<br>
+- Partnership — can you operate a shared life?<br>
+- Respect — do you admire who they are?<br>
+- Shared purpose — are you building something together?<br>
 
 **If the foundation is only passion, the building will collapse.** Passion can be rekindled periodically, but it cannot be the primary structural support. It was never designed to be.
 
@@ -126,9 +126,9 @@ This is not blame. It's mechanics.
 Your selection criteria — often unconscious — is producing consistent output. The people change. The patterns don't. Which means the pattern is IN you, not in them.
 
 **What to fix:**
-- Identify the pattern (What type do I keep choosing? What's the common trait?)
-- Identify the source (Why does this type feel familiar? What childhood dynamic does it echo?)
-- Rebuild the criteria (What would a HEALTHY version of what I need look like?)
+- Identify the pattern (What type do I keep choosing?<br> What's the common trait?<br>)
+- Identify the source (Why does this type feel familiar?<br> What childhood dynamic does it echo?<br>)
+- Rebuild the criteria (What would a HEALTHY version of what I need look like?<br>)
 - Override the feeling ("Exciting" might be your word for "unstable." "Boring" might be your word for "safe.")
 
 Don't increase search volume. Fix the filter.
@@ -143,8 +143,8 @@ A structured framework that forces honest self-assessment before commitment.
 START
   │
   ▼
-Am I someone worth choosing?
-(Emotionally stable? Financially directed? Healthy? Purposeful?)
+Am I someone worth choosing?<br>
+(Emotionally stable?<br> Financially directed?<br> Healthy?<br> Purposeful?<br>)
   │
   ├── NO → Work on yourself first. Everything else is premature.
   │         The quality of your options is capped by the quality of who you are.
@@ -152,7 +152,7 @@ Am I someone worth choosing?
   ├── YES
   │     │
   │     ▼
-  │   Do I know WHY I want a partner?
+  │   Do I know WHY I want a partner?<br>
   │   (Honest reason — not the one I'd say publicly)
   │     │
   │     ├── NO → Figure this out first.
@@ -161,7 +161,7 @@ Am I someone worth choosing?
   │     ├── YES
   │     │     │
   │     │     ▼
-  │     │   Does this person pass the CHARACTER tests?
+  │     │   Does this person pass the CHARACTER tests?<br>
   │     │   (90+ days of observation. Stress, Power, Accountability, Consistency)
   │     │     │
   │     │     ├── NO → Walk away. Character doesn't improve with your love.
@@ -170,7 +170,7 @@ Am I someone worth choosing?
   │     │     ├── YES
   │     │     │     │
   │     │     │     ▼
-  │     │     │   Are we COMPATIBLE on the 5 friction-generators?
+  │     │     │   Are we COMPATIBLE on the 5 friction-generators?<br>
   │     │     │   (Money, Conflict Style, Life Trajectory, Family, Intimacy)
   │     │     │     │
   │     │     │     ├── NO on 3+ → Likely unsustainable. Love won't fix daily friction.
@@ -179,8 +179,8 @@ Am I someone worth choosing?
   │     │     │     ├── YES on most
   │     │     │     │     │
   │     │     │     │     ▼
-  │     │     │     │   Am I choosing from ABUNDANCE or SCARCITY?
-  │     │     │     │   (Do I want THIS person? Or do I want "not alone"?)
+  │     │     │     │   Am I choosing from ABUNDANCE or SCARCITY?<br>
+  │     │     │     │   (Do I want THIS person?<br> Or do I want "not alone"?<br>)
   │     │     │     │     │
   │     │     │     │     ├── SCARCITY → Pause. Scarcity choices need revision later.
   │     │     │     │     │              The cost of revision is far higher than the
@@ -190,7 +190,7 @@ Am I someone worth choosing?
   │     │     │     │     │     │
   │     │     │     │     │     ▼
   │     │     │     │     │   Could I build a life with who they ARE TODAY,
-  │     │     │     │     │   if they never changed a single thing?
+  │     │     │     │     │   if they never changed a single thing?<br>
   │     │     │     │     │     │
   │     │     │     │     │     ├── NO → You're choosing a fantasy. Stop.
   │     │     │     │     │     │         Potential is not a partner. Reality is.
@@ -198,7 +198,7 @@ Am I someone worth choosing?
   │     │     │     │     │     ├── YES
   │     │     │     │     │     │     │
   │     │     │     │     │     │     ▼
-  │     │     │     │     │     │   Do I RESPECT this person?
+  │     │     │     │     │     │   Do I RESPECT this person?<br>
   │     │     │     │     │     │   (Not love — respect. For their character,
   │     │     │     │     │     │    their mind, their choices, their integrity.)
   │     │     │     │     │     │     │
@@ -222,7 +222,7 @@ YOUR FOUNDATION (must be built BEFORE choosing)
 ├── Diversified dopamine portfolio (5+ active sources)
 ├── Ability to tolerate discomfort without panic-acting
 ├── Self-knowledge: "I go to repair because I want to, not because I must"
-├── Honest self-assessment: "Would I tell my friend to stay in this?"
+├── Honest self-assessment: "Would I tell my friend to stay in this?<br>"
 └── Self-worth sufficient to enforce standards
 │
 │
@@ -241,17 +241,17 @@ EVALUATING THEM (over time, not in one instance)
 │   └── Intimacy/connection needs match
 │
 ├── Conflict-Repair Test (Chapter 6)
-│   ├── When they have the advantage, do they exploit or bridge?
-│   ├── Repair ratio: Who initiates? Track over 10+ conflicts
-│   ├── Post-repair: Evolve or reset?
-│   └── Do they bring their OWN accountability unprompted?
+│   ├── When they have the advantage, do they exploit or bridge?<br>
+│   ├── Repair ratio: Who initiates?<br> Track over 10+ conflicts
+│   ├── Post-repair: Evolve or reset?<br>
+│   └── Do they bring their OWN accountability unprompted?<br>
 │
 └── Sustainability Check (Chapter 3)
-    ├── Is this a partnership of two whole people?
-    ├── Or two incomplete people using each other as dopamine supply?
+    ├── Is this a partnership of two whole people?<br>
+    ├── Or two incomplete people using each other as dopamine supply?<br>
     ├── Remove the chemistry: Is there friendship, respect, and
-    │   practical compatibility underneath?
-    └── Am I choosing, or am I addicted?
+    │   practical compatibility underneath?<br>
+    └── Am I choosing, or am I addicted?<br>
 ```
 
 ---

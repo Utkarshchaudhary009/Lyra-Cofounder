@@ -6,13 +6,13 @@
 
 ---
 
-# PART 1: SETTING THE STAGE - WHAT WAS HAPPENING?
+# PART 1: SETTING THE STAGE - WHAT WAS HAPPENING?<br>
 
 ## 1.1 The Historical Context (Explaining to a 10th Grader)
 
 Imagine you have a country that has been at war for over 10 years. First, they fought Japan (1937-1945), and then immediately after, they started a brutal civil war between two groups: the Nationalists (led by Chiang Kai-shek) and the Communists (led by Mao Zedong).
 
-**The Problem**: How do you pay for a war? Wars need:
+**The Problem**: How do you pay for a war?<br> Wars need:
 - Soldiers (who need salaries)
 - Weapons (very expensive)
 - Food, clothes, transportation
@@ -191,7 +191,7 @@ Famous photographer Henri Cartier-Bresson was sent by *Life Magazine* to Shangha
 
 ---
 
-# PART 4: THE WINNERS - WHO PROFITED FROM CHAOS?
+# PART 4: THE WINNERS - WHO PROFITED FROM CHAOS?<br>
 
 ## 4.1 The Elite and Connected Families
 
@@ -345,7 +345,7 @@ By March 1950, despite wholesale prices being **200 times their mid-1949 levels*
 - Stable currency
 - End of hyperinflation
 
-**How?**
+**How?<br>**
 1. State organs and military funds deposited in state banks (reduced money velocity)
 2. Sharp reduction in private bank deposit turnover
 3. Fiscal consolidation (cut spending)
@@ -473,7 +473,7 @@ The famous economist Milton Friedman concluded:
 
 ---
 
-# PART 8: LESSONS - WHAT CAN YOU LEARN FROM THIS?
+# PART 8: LESSONS - WHAT CAN YOU LEARN FROM THIS?<br>
 
 ## 8.1 Lessons for Individuals
 
@@ -546,7 +546,7 @@ The famous economist Milton Friedman concluded:
 
 ## 8.4 Modern Applications
 
-### What Would This Look Like Today?
+### What Would This Look Like Today?<br>
 
 1. **Cryptocurrency**: Modern equivalent of Hong Kong dollar - a parallel system outside government control
 2. **Gold and precious metals**: Still the ultimate safe haven
@@ -557,13 +557,13 @@ The famous economist Milton Friedman concluded:
 
 ### Questions to Ask About Your Own Currency
 
-1. Is my government running massive deficits?
-2. Is the central bank printing money to fund government spending?
-3. Are rich and connected people moving their money abroad?
-4. Is there a growing gap between official and black market exchange rates?
-5. Are price controls being discussed or implemented?
-6. Is the government making promises about currency backing that seem too good?
-7. Are there signs of political instability?
+1. Is my government running massive deficits?<br>
+2. Is the central bank printing money to fund government spending?<br>
+3. Are rich and connected people moving their money abroad?<br>
+4. Is there a growing gap between official and black market exchange rates?<br>
+5. Are price controls being discussed or implemented?<br>
+6. Is the government making promises about currency backing that seem too good?<br>
+7. Are there signs of political instability?<br>
 
 ---
 
@@ -742,7 +742,7 @@ In Weimar Germany, the *Bildungsbürgertum* (educated professionals - doctors, l
 ### What Hyperinflation Does to People's Minds
 
 **Immediate Effects**:
-1. **Loss of future orientation**: Why save when savings disappear?
+1. **Loss of future orientation**: Why save when savings disappear?<br>
 2. **Panic behavior**: Spend everything immediately
 3. **Hoarding mentality**: Accumulate physical goods
 4. **Distrust of institutions**: All government promises become lies
@@ -889,7 +889,7 @@ These seven principles are not abstract theories. They are patterns extracted fr
 
 ### The Core Concept (For a 10th Grader)
 
-Imagine you have an ice cube in your hand on a hot summer day. Every second, it's melting. What do you do? You don't hold onto it and hope it stops melting. You either eat it immediately or put it in a freezer.
+Imagine you have an ice cube in your hand on a hot summer day. Every second, it's melting. What do you do?<br> You don't hold onto it and hope it stops melting. You either eat it immediately or put it in a freezer.
 
 Money during hyperinflation is exactly like that ice cube. Every hour you hold it, it melts (loses value). The winners understood this. The losers kept hoping the ice would stop melting.
 
@@ -968,9 +968,9 @@ Money during hyperinflation is exactly like that ice cube. Every hour you hold i
 
 ### The Core Concept (For a 10th Grader)
 
-Imagine a friend who has borrowed money from you five times and never paid it back. Now they promise, "This time is different. I SWEAR I'll pay you back." Would you believe them?
+Imagine a friend who has borrowed money from you five times and never paid it back. Now they promise, "This time is different. I SWEAR I'll pay you back." Would you believe them?<br>
 
-Governments facing hyperinflation are like that unreliable friend. They've already shown they'll print unlimited money. When they suddenly announce a new currency "backed by gold," why would you believe them?
+Governments facing hyperinflation are like that unreliable friend. They've already shown they'll print unlimited money. When they suddenly announce a new currency "backed by gold," why would you believe them?<br>
 
 ### Case Study 1: The Gold Yuan Deception (China 1948)
 
@@ -1038,7 +1038,7 @@ Even in the United States, the government changed the rules:
 4. **"We've limited money printing"** - Check if there's enforcement
 5. **"Patriotic duty to use new currency"** - Emotional manipulation
 
-**The Test Question**: Can I walk into a bank and exchange this paper for the physical gold it claims to represent?
+**The Test Question**: Can I walk into a bank and exchange this paper for the physical gold it claims to represent?<br>
 
 If the answer is NO, it's not backed by gold. It's a promise.
 
@@ -1117,9 +1117,9 @@ Those who knew early could take action. Those who found out late were stuck with
 
 **During Crisis**:
 1. **Black market rates**: The real exchange rate, not official fiction
-2. **Border activity**: What are goods actually trading for?
+2. **Border activity**: What are goods actually trading for?<br>
 3. **Diaspora networks**: Family abroad often has clearer perspective
-4. **Historical patterns**: What happened in previous currency deaths?
+4. **Historical patterns**: What happened in previous currency deaths?<br>
 
 ---
 
@@ -1420,7 +1420,7 @@ Imagine two scenarios:
 1. You have $10,000 in a bank, but no friends or family
 2. You have $100 in cash, but a strong network of family and friends who help each other
 
-Which person is better prepared for a crisis?
+Which person is better prepared for a crisis?<br>
 
 During hyperinflation, banks fail, governments betray you, and institutions collapse. But family and trusted community survive. The people who made it through currency deaths didn't do it alone.
 
@@ -1455,7 +1455,7 @@ During hyperinflation, banks fail, governments betray you, and institutions coll
 
 ### Case Study 3: Barter Networks and Community Trading
 
-**During Hyperinflation**, formal markets fail. What replaces them?
+**During Hyperinflation**, formal markets fail. What replaces them?<br>
 
 **From accounts across multiple hyperinflations**:
 
@@ -1481,7 +1481,7 @@ During the worst of hyperinflation, cigarettes became an alternative currency be
 - Internationally acceptable
 - Government couldn't inflate them
 
-**Who Had Cigarettes?**:
+**Who Had Cigarettes?<br>**:
 - Those with foreign connections (imports)
 - Those with barter networks
 - Those who had stockpiled earlier

@@ -397,7 +397,7 @@ Forensic analysis reveals that **Persistence of Network** is the primary driver 
 - **Findings:**
     - **Spiritual Errors:** A 2009 accidental text of a Bible verse to a stranger (Isaiah Stearns) resulting in a decade-long marriage.
     - **Life-Stage Synchronization:** A post-divorce woman accidentally texting a man who was also looking for an exit from an unhappy relationship (Matching Vulnerability).
-    - **The Scam Threshold:** Redditors now report a "Scam Barrier" where accidental texts are viewed with extreme suspicion due to "Pig Butchering" scams (e.g., "Is this the golf instructor?").
+    - **The Scam Threshold:** Redditors now report a "Scam Barrier" where accidental texts are viewed with extreme suspicion due to "Pig Butchering" scams (e.g., "Is this the golf instructor?<br>").
     - **Physical Serendipity:** Meeting because someone walked into the wrong house or delivered a package to the wrong door, leading to a "neighborly" bond.
 
 **Reflection 32:**
@@ -814,7 +814,7 @@ Forensic analysis reveals that **Crisis-Based Meeting** (the accident) is viewed
     - **The "Stuffed Gorilla" Hook:** A drunken meeting at a county fair involving a won prize (stuffed gorilla) and an "obnoxious but smooth" pickup line leading to a long-term relationship.
     - **Taking One for the Team:** A drunk friend revealing that one partner was initially "taking one for the team" by approaching the other (The "Ugly Truth" revelation).
     - **The Vomit Bond:** A first date where one party drank too much and threw up, and the other cared for them and stayed over (Extreme early vulnerability/care-taking).
-    - **The "Want to get drunk?" Spark:** Marriage stories (37+ years) starting from a single question: "I'm going home to get drunk. Want to come?"
+    - **The "Want to get drunk?<br>" Spark:** Marriage stories (37+ years) starting from a single question: "I'm going home to get drunk. Want to come?<br>"
 
 **Reflection 68:**
 Forensic analysis shows that **Alcohol creates a "High-Vulnerability Window."** It forces a "sink or swim" moment for the relationship's empathy. The "Gorilla" and "Vomit" stories prove that extreme initial behavior can be successfully reframed into a romantic legend. I will now drill down into **Airport Serendipity**, searching for stories of flight-based meetings.
@@ -1606,7 +1606,7 @@ Forensic analysis reveals that **Service Errors (The Librarian's Mistake)** are 
     - **Alice & Fred Glue:** Relationships where a shared opposition to a specific person or organization (The Common Enemy) served as the primary glue during the early stages.
 
 **Reflection 135:**
-Forensic analysis reveals that **Shared Dislike is a "Social Sieve."** It rapidly aligns two people against an external factor, creating a "Bonds of the Besieged" dynamic. This is more intense than shared positive interest because it implies a shared worldview and defensive posture. I will now drill down into **Coffee Shop Table Sharing**, searching for stories of "Is this seat taken?" serendipity.
+Forensic analysis reveals that **Shared Dislike is a "Social Sieve."** It rapidly aligns two people against an external factor, creating a "Bonds of the Besieged" dynamic. This is more intense than shared positive interest because it implies a shared worldview and defensive posture. I will now drill down into **Coffee Shop Table Sharing**, searching for stories of "Is this seat taken?<br>" serendipity.
 
 ---
 
@@ -1721,7 +1721,7 @@ Forensic analysis reveals that **Low-Stakes Competition (Badminton/Games)** acts
 - **Findings:**
     - **The "Match" Mumble:** Couples who met online (Tinder/Match) but tell family they met at a "Mutual Friend's Wedding" or "In College" to avoid digital stigma (Narrative Protection).
     - **The Tennis Court Retcon:** Fabricating a "Tennis Court" meeting to replace a less "Rom-Com" reality (e.g., meeting while intoxicated at a bar).
-    - **Social Anxiety Spins:** Creating elaborate fictional origins to satisfy the "How did you meet?" script for curious friends.
+    - **Social Anxiety Spins:** Creating elaborate fictional origins to satisfy the "How did you meet?<br>" script for curious friends.
 
 **Reflection 145:**
 Forensic analysis reveals that **The "Decoy Story" is a Social Shield.** It proves that "How we met" is often a performance for others, while the true origin is protected as a private secret. I will now drill down into **Coachella Tents & Laundry**, searching for stories of shared festival logistics.

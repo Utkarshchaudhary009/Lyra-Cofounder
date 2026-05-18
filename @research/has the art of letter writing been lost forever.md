@@ -25,7 +25,7 @@ But I haven't told you his last line. Not yet.
 
 *[Shift. A touch of humor.]*
 
-What does our school think a letter is? Chapter twelve. Subject line. Salutation. Yours faithfully. We write letters to the Municipal Commissioner about garbage on MG Road — letters we will never send, to people we will never meet, about problems we did not choose.
+What does our school think a letter is?<br> Chapter twelve. Subject line. Salutation. Yours faithfully. We write letters to the Municipal Commissioner about garbage on MG Road — letters we will never send, to people we will never meet, about problems we did not choose.
 
 *[Let the room laugh.]*
 

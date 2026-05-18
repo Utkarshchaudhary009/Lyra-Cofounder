@@ -4,7 +4,7 @@
 
 ### The Paradox of Addition
 
-Imagine you have two buckets of water. One is at $20^\circ C$, and the other is at $40^\circ C$. If you pour them together, does the combined water boil at $60^\circ C$? Of course not. Temperature is an *intensive* property—it depends on the nature of the material, not the amount. You cannot simply add temperatures together.
+Imagine you have two buckets of water. One is at $20^\circ C$, and the other is at $40^\circ C$. If you pour them together, does the combined water boil at $60^\circ C$?<br> Of course not. Temperature is an *intensive* property—it depends on the nature of the material, not the amount. You cannot simply add temperatures together.
 
 Now imagine you are given the standard reduction potentials for two consecutive reactions of Iron:
 1. $Fe^{3+} + e^- \rightarrow Fe^{2+} \quad (E^\circ_1 = +0.77\ V)$
@@ -12,7 +12,7 @@ Now imagine you are given the standard reduction potentials for two consecutive 
 
 A student naturally assumes that to find the potential for the full reduction from $Fe^{3+}$ all the way down to solid $Fe$, they can just add the two voltages together: $0.77 + (-0.44) = +0.33\ V$. 
 
-But if you run this experiment in a laboratory, the voltmeter reads **$-0.04\ V$**. The student's prediction is completely wrong. Why? Because just like temperature, **Voltage (Potential) is an intensive property.** You cannot add or subtract voltages when you are merging half-reactions. 
+But if you run this experiment in a laboratory, the voltmeter reads **$-0.04\ V$**. The student's prediction is completely wrong. Why?<br> Because just like temperature, **Voltage (Potential) is an intensive property.** You cannot add or subtract voltages when you are merging half-reactions. 
 
 To solve this paradox, we have to look past the "push" of the voltage and measure the actual, physical *work* being done. We have to look at energy.
 
@@ -27,7 +27,7 @@ $$ \text{Electrical Work} = \text{Total Charge} \times \text{Cell Potential} $$
 
 If $n$ moles of electrons are transferred in a reaction, the total charge is $nF$ (where $F$ is Faraday's constant, roughly $96487\ C\ mol^{-1}$). Therefore, the maximum electrical work the cell can do is $nFE_{cell}$.
 
-But where does this work come from? It comes from the intrinsic chemical energy of the atoms themselves. In thermodynamics, the maximum non-expansion work that can be extracted from a closed system is defined as the decrease in its **Gibbs Free Energy ($\Delta G$)**. 
+But where does this work come from?<br> It comes from the intrinsic chemical energy of the atoms themselves. In thermodynamics, the maximum non-expansion work that can be extracted from a closed system is defined as the decrease in its **Gibbs Free Energy ($\Delta G$)**. 
 
 Since the system is losing this energy to do work *on* the surroundings, $\Delta G$ must be negative.
 $$ \Delta G = -nFE_{cell} $$
@@ -53,8 +53,8 @@ $\Delta G^\circ = - 212,271\ J = \textbf{-212.27\ kJ}$.
 The maximum electrical work the cell can do is the magnitude of this energy decrease: **$212.27\ kJ$**.
 </details>
 
-**Problem 2:** A cell reaction is written as $2Al(s) + 3Cu^{2+}(aq) \rightarrow 2Al^{3+}(aq) + 3Cu(s)$ with $E^\circ_{cell} = 2.00\ V$. What is the $\Delta G^\circ$ for this reaction? 
-If a student writes the reaction as $Al(s) + \frac{3}{2}Cu^{2+}(aq) \rightarrow Al^{3+}(aq) + \frac{3}{2}Cu(s)$, does the $\Delta G^\circ$ change? Does the $E^\circ_{cell}$ change?
+**Problem 2:** A cell reaction is written as $2Al(s) + 3Cu^{2+}(aq) \rightarrow 2Al^{3+}(aq) + 3Cu(s)$ with $E^\circ_{cell} = 2.00\ V$. What is the $\Delta G^\circ$ for this reaction?<br> 
+If a student writes the reaction as $Al(s) + \frac{3}{2}Cu^{2+}(aq) \rightarrow Al^{3+}(aq) + \frac{3}{2}Cu(s)$, does the $\Delta G^\circ$ change?<br> Does the $E^\circ_{cell}$ change?<br>
 
 <details><summary><b>Solution</b></summary>
 For the first reaction, $Al \rightarrow Al^{3+} + 3e^-$. Since there are 2 Al atoms, $n = 6$.
@@ -84,7 +84,7 @@ $$ E^\circ_{cell} = \frac{RT}{nF} \ln K_c $$
 
 ### Checkpoint 2: Navigating the Triangle
 
-**Problem 1:** A hypothetical cell reaction has $\Delta G^\circ = +45\ kJ\ mol^{-1}$. What can you infer about the sign of its $E^\circ_{cell}$ and the magnitude of its $K_c$? Will this cell power a lightbulb?
+**Problem 1:** A hypothetical cell reaction has $\Delta G^\circ = +45\ kJ\ mol^{-1}$. What can you infer about the sign of its $E^\circ_{cell}$ and the magnitude of its $K_c$?<br> Will this cell power a lightbulb?<br>
 
 <details><summary><b>Solution</b></summary>
 - Since $\Delta G^\circ$ is positive, the reaction requires energy to proceed. It is non-spontaneous.
@@ -109,7 +109,7 @@ $$ E^\circ_{cell} = \frac{RT}{nF} \ln K_c $$
 
 ### Resolving the Paradox: Hess's Law for Electrochemistry
 
-We return to our opening paradox. Why does $0.77\ V$ and $-0.44\ V$ not add up to $+0.33\ V$?
+We return to our opening paradox. Why does $0.77\ V$ and $-0.44\ V$ not add up to $+0.33\ V$?<br>
 
 When you combine two separate chemical equations to form a third, you are essentially combining the *energy* of those reactions. According to Hess's Law, energies ($\Delta G$) are strictly additive. Voltages ($E^\circ$) are not.
 
@@ -125,7 +125,7 @@ $$ n_3 E_3 = n_1 E_1 + n_2 E_2 $$
 Let's test this on our iron paradox.
 1. $Fe^{3+} + 1e^- \rightarrow Fe^{2+}$ ($n_1 = 1, E_1 = +0.77\ V$)
 2. $Fe^{2+} + 2e^- \rightarrow Fe$ ($n_2 = 2, E_2 = -0.44\ V$)
-3. Target: $Fe^{3+} + 3e^- \rightarrow Fe$ ($n_3 = 3, E_3 = ?$)
+3. Target: $Fe^{3+} + 3e^- \rightarrow Fe$ ($n_3 = 3, E_3 = ?<br>$)
 
 $$ 3 \times E_3 = (1 \times 0.77) + (2 \times -0.44) $$
 $$ 3E_3 = 0.77 - 0.88 = -0.11 $$
@@ -171,7 +171,7 @@ $E^\circ_3 = \textbf{\frac{5E^\circ_1 + 2E^\circ_2}{7}}$.
 
 ### The Culmination: Synthesis and Application
 
-We have seen that voltages cannot be added when calculating a new half-reaction. However, what if we are calculating the EMF of a full cell ($E^\circ_{cell} = E^\circ_{cathode} - E^\circ_{anode}$)? Why are we allowed to just subtract the voltages there without using $\Delta G$?
+We have seen that voltages cannot be added when calculating a new half-reaction. However, what if we are calculating the EMF of a full cell ($E^\circ_{cell} = E^\circ_{cathode} - E^\circ_{anode}$)?<br> Why are we allowed to just subtract the voltages there without using $\Delta G$?<br>
 
 Because in a balanced *full cell* reaction, the number of electrons lost at the anode is exactly equal to the number of electrons gained at the cathode. The $n$ value is the same for the entire process. 
 

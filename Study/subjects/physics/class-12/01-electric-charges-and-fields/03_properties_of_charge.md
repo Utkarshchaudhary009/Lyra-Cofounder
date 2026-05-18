@@ -43,7 +43,7 @@ $$Q = ne \quad \text{where } n = 0, \pm1, \pm2, \pm3, \ldots$$
 
 > **Analogy:** You can buy 1 egg, 2 eggs, 10 eggs — but never 1.5 eggs. Similarly, charge is "quantized" into indivisible units of *e*.
 
-**Why don't we notice quantization in daily life?**
+**Why don't we notice quantization in daily life?<br>**
 
 Because *e* is incredibly small. A charge of 1 μC = 10⁻⁶ C contains about 6.25 × 10¹² elementary charges. At this scale, the "graininess" is invisible — like how sand looks smooth from an airplane.
 
@@ -73,9 +73,13 @@ $$Q = ne$$
 
 | Variable | Meaning | Unit |
 |----------|---------|------|
-| Q | Total charge | Coulomb (C) |
+| Q | Total charge | Coulomb <br>
+(C)
+ |
 | n | Integer (positive, negative, or zero) | dimensionless |
-| e | Elementary charge = 1.6 × 10⁻¹⁹ C | Coulomb (C) |
+| e | Elementary charge = 1.6 × 10⁻¹⁹ C | Coulomb <br>
+(C)
+ |
 
 **Note on quarks:** Quarks carry charges of ±e/3 or ±2e/3, but they are **never observed in isolation** (confinement). So for all practical and exam purposes, e is the minimum free charge.
 
@@ -95,8 +99,8 @@ Q = (+3) + (−5) + (+7) + (−1) = **+4 μC**
 **Practice:**
 
 1. 🟢 Find total charge: +12 nC, −8 nC, +3 nC, −7 nC. *(Ans: 0)*
-2. 🟢 A system has charges 2e, −3e, 5e, −e. What is the total charge in coulombs? *(Ans: 3e = 4.8 × 10⁻¹⁹ C)*
-3. 🟡 Three identical spheres carry charges +Q, +2Q, −4Q. They are all brought into contact simultaneously and then separated. What charge does each carry? *(Ans: −Q/3 each)*
+2. 🟢 A system has charges 2e, −3e, 5e, −e. What is the total charge in coulombs?<br> *(Ans: 3e = 4.8 × 10⁻¹⁹ C)*
+3. 🟡 Three identical spheres carry charges +Q, +2Q, −4Q. They are all brought into contact simultaneously and then separated. What charge does each carry?<br> *(Ans: −Q/3 each)*
 
 ---
 
@@ -155,16 +159,16 @@ Total = 3Q/8 + Q/4 + 3Q/8 = 3Q/8 + 2Q/8 + 3Q/8 = 8Q/8 = Q ✓
 **Practice:**
 
 1. 🟢 Verify charge conservation in pair production: γ → e⁻ + e⁺ *(Ans: 0 = −e + e = 0 ✓)*
-2. 🟡 In pair annihilation: e⁻ + e⁺ → 2γ. Is charge conserved? *(Ans: (−e + e) = 0, and 2γ = 0. Yes ✓)*
+2. 🟡 In pair annihilation: e⁻ + e⁺ → 2γ. Is charge conserved?<br> *(Ans: (−e + e) = 0, and 2γ = 0. Yes ✓)*
 3. 🟡 In nuclear fission: ²³⁵U + n → ¹⁴⁴Ba + ⁸⁹Kr + 3n. Verify charge conservation. *(Ans: 92 + 0 = 56 + 36 + 0 = 92 ✓)*
 
 ---
 
-### Type 4: Is this charge quantized? ⭐
+### Type 4: Is this charge quantized?<br> ⭐
 
 **Solved Example** 🟢
 
-> Which of the following charges are possible? (a) 4.0 × 10⁻¹⁹ C (b) 3.2 × 10⁻¹⁹ C (c) 6.4 × 10⁻¹⁹ C (d) 5.0 × 10⁻¹⁹ C
+> Which of the following charges are possible?<br> (a) 4.0 × 10⁻¹⁹ C (b) 3.2 × 10⁻¹⁹ C (c) 6.4 × 10⁻¹⁹ C (d) 5.0 × 10⁻¹⁹ C
 
 **Solution:**
 - (a) n = 4.0/1.6 = 2.5 → **Not possible** ✗
@@ -184,7 +188,7 @@ Total = 3Q/8 + Q/4 + 3Q/8 = 3Q/8 + 2Q/8 + 3Q/8 = 8Q/8 = Q ✓
 
 **Solved Example** 🟡
 
-> How many electrons must be removed from a neutral body to give it a charge of +1 C?
+> How many electrons must be removed from a neutral body to give it a charge of +1 C?<br>
 
 **Solution:**
 n = Q/e = 1 / (1.6 × 10⁻¹⁹) = **6.25 × 10¹⁸ electrons**
@@ -193,9 +197,9 @@ n = Q/e = 1 / (1.6 × 10⁻¹⁹) = **6.25 × 10¹⁸ electrons**
 
 **Practice:**
 
-1. 🟢 How many electrons are in 1 mC of charge? *(Ans: 6.25 × 10¹⁵)*
-2. 🟡 A copper coin (mass 3 g, atomic mass 63.5 u, Z = 29) has how many electrons? *(Ans: ≈ 8.4 × 10²³)*
-3. 🔴 What fraction of electrons in the coin from Q2 would need to be removed to give it a charge of +1 C? *(Ans: ~7.4 × 10⁻⁶ → less than 1 in a million!)*
+1. 🟢 How many electrons are in 1 mC of charge?<br> *(Ans: 6.25 × 10¹⁵)*
+2. 🟡 A copper coin (mass 3 g, atomic mass 63.5 u, Z = 29) has how many electrons?<br> *(Ans: ≈ 8.4 × 10²³)*
+3. 🔴 What fraction of electrons in the coin from Q2 would need to be removed to give it a charge of +1 C?<br> *(Ans: ~7.4 × 10⁻⁶ → less than 1 in a million!)*
 
 ---
 
@@ -203,7 +207,7 @@ n = Q/e = 1 / (1.6 × 10⁻¹⁹) = **6.25 × 10¹⁸ electrons**
 
 **Solved Example** 🟡
 
-> A hydrogen atom has 1 proton and 1 electron. What is the total charge? A helium atom has 2 protons, 2 neutrons, and 2 electrons. Total charge?
+> A hydrogen atom has 1 proton and 1 electron. What is the total charge?<br> A helium atom has 2 protons, 2 neutrons, and 2 electrons. Total charge?<br>
 
 **Solution:**
 - H: +e + (−e) = **0**
@@ -213,9 +217,9 @@ All neutral atoms have zero net charge.
 
 **Practice:**
 
-1. 🟢 A Na⁺ ion has 11 protons and 10 electrons. What is its charge? *(Ans: +e = 1.6 × 10⁻¹⁹ C)*
-2. 🟢 An O²⁻ ion has 8 protons and 10 electrons. Charge? *(Ans: −2e = −3.2 × 10⁻¹⁹ C)*
-3. 🟡 In 1 mole of NaCl, what is the total charge? *(Ans: 0 — equal Na⁺ and Cl⁻ ions)*
+1. 🟢 A Na⁺ ion has 11 protons and 10 electrons. What is its charge?<br> *(Ans: +e = 1.6 × 10⁻¹⁹ C)*
+2. 🟢 An O²⁻ ion has 8 protons and 10 electrons. Charge?<br> *(Ans: −2e = −3.2 × 10⁻¹⁹ C)*
+3. 🟡 In 1 mole of NaCl, what is the total charge?<br> *(Ans: 0 — equal Na⁺ and Cl⁻ ions)*
 
 ---
 
@@ -232,8 +236,8 @@ All neutral atoms have zero net charge.
 
 **Practice:**
 
-1. 🟢 Cu → Cu²⁺ + 2e⁻. Is charge conserved? *(Ans: Yes)*
-2. 🟡 2H₂ + O₂ → 2H₂O. Is charge conserved? *(Ans: Yes — all neutral species, total charge = 0 throughout)*
+1. 🟢 Cu → Cu²⁺ + 2e⁻. Is charge conserved?<br> *(Ans: Yes)*
+2. 🟡 2H₂ + O₂ → 2H₂O. Is charge conserved?<br> *(Ans: Yes — all neutral species, total charge = 0 throughout)*
 
 ---
 
@@ -241,7 +245,7 @@ All neutral atoms have zero net charge.
 
 **Solved Example** 🟡
 
-> "Charge is conserved" and "charge is quantized" — are these independent properties? Can a system violate one while obeying the other?
+> "Charge is conserved" and "charge is quantized" — are these independent properties?<br> Can a system violate one while obeying the other?<br>
 
 **Solution:**
 
@@ -254,8 +258,8 @@ In principle, you could have a universe where charge is conserved but not quanti
 **Practice:**
 
 1. 🟡 "At the macroscopic level, quantization of charge can be ignored." Justify. *(Ans: Because e is so small, macroscopic charges contain ~10¹²⁺ quanta, making charge appear continuous)*
-2. 🟡 Does conservation of charge hold for non-isolated systems? *(Ans: No — charge can flow in/out. It holds only for the total isolated system.)*
-3. 🟡 A proton and an antiproton annihilate to produce two gamma ray photons. Is charge conserved? *(Ans: Yes. +e + (−e) = 0, and γ photons have zero charge.)*
+2. 🟡 Does conservation of charge hold for non-isolated systems?<br> *(Ans: No — charge can flow in/out. It holds only for the total isolated system.)*
+3. 🟡 A proton and an antiproton annihilate to produce two gamma ray photons. Is charge conserved?<br> *(Ans: Yes. +e + (−e) = 0, and γ photons have zero charge.)*
 
 ---
 
@@ -275,7 +279,7 @@ A = +2 μC, B = +3 μC, C = +3 μC.
 **Check:** 2 + 3 + 3 = 8 μC. Original: 6 + (−2) + 4 = 8 μC ✓ **Conserved.**
 </details>
 
-**Q2.** 🔴 A body has 10²⁰ protons and 10²⁰ + 3 × 10¹² electrons. Find (a) the net charge on the body, (b) is this charge quantized? (c) what fraction of total electrons constitutes the excess?
+**Q2.** 🔴 A body has 10²⁰ protons and 10²⁰ + 3 × 10¹² electrons. Find (a) the net charge on the body, (b) is this charge quantized?<br> (c) what fraction of total electrons constitutes the excess?<br>
 
 <details>
 <summary><b>Solution</b></summary>
@@ -291,9 +295,9 @@ Q = −ne = −3 × 10¹² × 1.6 × 10⁻¹⁹ = **−4.8 × 10⁻⁷ C = −0.
 </details>
 
 **Q3.** 🟡 When 10¹⁴ electrons are transferred from body A to body B:
-(a) What is the charge acquired by B?
-(b) What is the charge on A?
-(c) Is the total charge conserved?
+(a) What is the charge acquired by B?<br>
+(b) What is the charge on A?<br>
+(c) Is the total charge conserved?<br>
 
 <details>
 <summary><b>Solution</b></summary>
@@ -319,7 +323,7 @@ Q = −ne = −3 × 10¹² × 1.6 × 10⁻¹⁹ = **−4.8 × 10⁻⁷ C = −0.
 3. **Quantization:** Charge exists in discrete packets. The charge on any body is always an integral multiple of the elementary charge e = 1.6 × 10⁻¹⁹ C. That is, Q = ne, where n is an integer.
 </details>
 
-**Q2.** 🟡 ⭐ What is quantization of charge? Why is it not observed at the macroscopic level? *(3 marks)*
+**Q2.** 🟡 ⭐ What is quantization of charge?<br> Why is it not observed at the macroscopic level?<br> *(3 marks)*
 
 <details>
 <summary><b>Model Answer</b></summary>
@@ -329,7 +333,7 @@ Q = −ne = −3 × 10¹² × 1.6 × 10⁻¹⁹ = **−4.8 × 10⁻⁷ C = −0.
 At the **macroscopic level**, the charges we deal with (microcoulombs, millicoulombs) involve an enormous number of elementary charges (~10¹² or more). At this scale, the discrete nature of charge is imperceptible, and charge appears to be a continuous quantity — just as individual grains of sand are invisible when looking at a beach from a distance.
 </details>
 
-**Q3.** 🟡 An ebonite rod is rubbed with fur. The rod acquires a charge of −4.8 × 10⁻⁸ C. (a) How many electrons were transferred and in which direction? (b) What charge does the fur acquire? *(3 marks)*
+**Q3.** 🟡 An ebonite rod is rubbed with fur. The rod acquires a charge of −4.8 × 10⁻⁸ C. (a) How many electrons were transferred and in which direction?<br> (b) What charge does the fur acquire?<br> *(3 marks)*
 
 <details>
 <summary><b>Model Answer</b></summary>
@@ -340,7 +344,7 @@ Direction: From fur to ebonite rod (rod gained electrons, so fur lost them).
 (b) By conservation of charge: Charge on fur = **+4.8 × 10⁻⁸ C**
 </details>
 
-**Q4.** 🟢 Is a charge of 2 × 10⁻¹⁹ C possible? Justify. *(1 mark)*
+**Q4.** 🟢 Is a charge of 2 × 10⁻¹⁹ C possible?<br> Justify. *(1 mark)*
 
 <details>
 <summary><b>Model Answer</b></summary>
@@ -354,7 +358,7 @@ Since n is not an integer, this charge is **not possible** according to the quan
 
 ## 🚀 Stage 6: JEE Mains Arena
 
-**Q1.** 🟡 ⭐ Which of the following is NOT a property of electric charge?
+**Q1.** 🟡 ⭐ Which of the following is NOT a property of electric charge?<br>
 
 (a) Charge is conserved  
 (b) Charge is quantized  

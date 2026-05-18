@@ -9,7 +9,7 @@
 ### The Water Pump Analogy
 
 Think of a water circuit. The pipes are wires, the water is charge, and the flow is current.
-What keeps the water moving? **A pump.**
+What keeps the water moving?<br> **A pump.**
 An electrochemical cell (a battery) is exactly like a water pump. It doesn't *create* water (charge); it just takes water from a low-pressure area and pumps it up to a high-pressure area so it can flow down through the pipes again.
 
 - **Electromotive Force (EMF, $\varepsilon$):** This is the "pump rating" printed on the box. It's the maximum pressure difference the pump can create when *nothing* is flowing. (e.g., $1.5\text{V}$ AA battery).
@@ -47,7 +47,7 @@ $V = IR$ (Ohm's law for the external circuit).
 
 Depending on what the cell is doing, $V$ behaves differently:
 
-| Scenario | What's happening? | Equation for $V$ | Relationship |
+| Scenario | What's happening?<br> | Equation for $V$ | Relationship |
 |----------|-------------------|------------------|--------------|
 | **Discharging** | Cell is giving current to the circuit | $V = \varepsilon - Ir$ | $V < \varepsilon$ |
 | **Charging** | Another bigger battery is pushing current *into* this cell | $V = \varepsilon + Ir$ | $V > \varepsilon$ |
@@ -84,7 +84,7 @@ Terminal Voltage $V = IR = 2 \times 4 = \mathbf{8\text{ V}}$.
 $I = \frac{\varepsilon}{R+r} = \frac{2}{3.5 + 0.5} = \frac{2}{4} = \mathbf{0.5\text{ A}}$.
 </details>
 
-2. 🟢 What is the terminal voltage of the cell in Q1 while the current is flowing?
+2. 🟢 What is the terminal voltage of the cell in Q1 while the current is flowing?<br>
 
 <details>
 <summary><b>Answer</b></summary>
@@ -103,7 +103,7 @@ Equate the two: $1.5 + 0.5r = 1.75 + 0.25r \implies 0.25r = 0.25 \implies \mathb
 Substitute $r$ into Case 1: $\varepsilon = 1.5 + 0.5(1) = \mathbf{2\text{ V}}$.
 </details>
 
-4. 🟡 A battery of EMF $6\text{V}$ and internal resistance $1\text{ } \Omega$ is short-circuited. What is the current? What is the terminal voltage?
+4. 🟡 A battery of EMF $6\text{V}$ and internal resistance $1\text{ } \Omega$ is short-circuited. What is the current?<br> What is the terminal voltage?<br>
 
 <details>
 <summary><b>Answer</b></summary>
@@ -121,7 +121,7 @@ Terminal voltage $V = I \times R = 6 \times 0 = \mathbf{0\text{ V}}$.
 
 **Solved Example** 🟡
 
-> A storage battery of EMF $8.0\text{V}$ and internal resistance $0.5\text{ } \Omega$ is being charged by a $120\text{V}$ DC supply using a series resistor of $15.5\text{ } \Omega$. What is the terminal voltage of the battery during charging?
+> A storage battery of EMF $8.0\text{V}$ and internal resistance $0.5\text{ } \Omega$ is being charged by a $120\text{V}$ DC supply using a series resistor of $15.5\text{ } \Omega$. What is the terminal voltage of the battery during charging?<br>
 
 <details>
 <summary><b>Solution</b></summary>
@@ -137,7 +137,7 @@ $V = \varepsilon + Ir = 8.0 + (7 \times 0.5) = 8.0 + 3.5 = \mathbf{11.5\text{ V}
 
 **Practice:**
 
-1. 🟡 A $12\text{V}$ car battery with internal resistance $0.4\text{ } \Omega$ is being charged with a current of $5\text{ A}$. What is the potential difference across its terminals?
+1. 🟡 A $12\text{V}$ car battery with internal resistance $0.4\text{ } \Omega$ is being charged with a current of $5\text{ A}$. What is the potential difference across its terminals?<br>
 
 <details>
 <summary><b>Answer</b></summary>
@@ -146,7 +146,7 @@ Since it's charging, $V = \varepsilon + Ir$.
 $V = 12 + (5 \times 0.4) = 12 + 2 = \mathbf{14\text{ V}}$.
 </details>
 
-2. 🟡 What is the purpose of having a series resistor when charging a battery from a high voltage DC supply?
+2. 🟡 What is the purpose of having a series resistor when charging a battery from a high voltage DC supply?<br>
 
 <details>
 <summary><b>Answer</b></summary>
@@ -205,7 +205,7 @@ The graph is a curve starting from the origin and asymptotically approaching the
 
 **Solved Example** 🔴
 
-> A cell of EMF $10\text{V}$ and internal resistance $3\text{ } \Omega$ is connected to a variable resistor $R$. For what value of $R$ will the power dissipated in it be maximum? What is this maximum power?
+> A cell of EMF $10\text{V}$ and internal resistance $3\text{ } \Omega$ is connected to a variable resistor $R$. For what value of $R$ will the power dissipated in it be maximum?<br> What is this maximum power?<br>
 
 <details>
 <summary><b>Solution</b></summary>
@@ -218,7 +218,7 @@ Maximum power $P_{max} = \frac{\varepsilon^2}{4r} = \frac{10^2}{4 \times 3} = \f
 
 **Practice:**
 
-1. 🟡 A cell ($\varepsilon=6\text{V}$, $r=2\text{ }\Omega$) is connected to $R$. Plot a graph of Power $P$ vs $R$. At what $R$ does the peak occur?
+1. 🟡 A cell ($\varepsilon=6\text{V}$, $r=2\text{ }\Omega$) is connected to $R$. Plot a graph of Power $P$ vs $R$. At what $R$ does the peak occur?<br>
 
 <details>
 <summary><b>Answer</b></summary>
@@ -231,7 +231,7 @@ The peak occurs precisely at $R = r = \mathbf{2\text{ }\Omega}$.
 
 ## 🔀 Stage 4: Type Mixer
 
-**Q1.** 🔴 A battery of EMF $10\text{V}$ and internal resistance $3\text{ } \Omega$ is connected to a resistor. If the current in the circuit is $0.5\text{ A}$, what is the resistance of the resistor? What is the terminal voltage of the battery when the circuit is closed?
+**Q1.** 🔴 A battery of EMF $10\text{V}$ and internal resistance $3\text{ } \Omega$ is connected to a resistor. If the current in the circuit is $0.5\text{ A}$, what is the resistance of the resistor?<br> What is the terminal voltage of the battery when the circuit is closed?<br>
 
 <details>
 <summary><b>Solution</b></summary>
@@ -261,7 +261,7 @@ $2 = (24 - E_{back}) / 2 \implies 4 = 24 - E_{back} \implies E_{back} = \mathbf{
 
 ## 📋 Stage 5: Board Arsenal
 
-**Q1.** 🟢 Define internal resistance of a cell. On what factors does it depend? *(2 marks)*
+**Q1.** 🟢 Define internal resistance of a cell. On what factors does it depend?<br> *(2 marks)*
 
 <details>
 <summary><b>Model Answer</b></summary>
@@ -327,7 +327,7 @@ The graph starts at 0 and curves upwards, flattening out at $V = \varepsilon$.
 **Answer: (c)**
 </details>
 
-**Q3.** 🔴 ⭐ In a circuit, a cell of EMF $\varepsilon$ and internal resistance $r$ is connected to an external resistance $R$. A voltmeter (which is non-ideal and has finite resistance $R_v$) is connected across the cell. Which of the following statements is true?
+**Q3.** 🔴 ⭐ In a circuit, a cell of EMF $\varepsilon$ and internal resistance $r$ is connected to an external resistance $R$. A voltmeter (which is non-ideal and has finite resistance $R_v$) is connected across the cell. Which of the following statements is true?<br>
 
 (a) The voltmeter reads exactly $\varepsilon$.
 (b) The voltmeter reads slightly less than $\varepsilon$ even if $R$ is disconnected.

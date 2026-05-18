@@ -29,7 +29,7 @@ In this introductory chapter, our "formulas" are the strict definitions and rule
 ### 1. The LEO-GER Rule
 To master electrochemistry, you must never confuse oxidation and reduction. Remember: **LEO** the lion says **GER**.
 
-| Term | Meaning | What happens to Oxidation State? | Role in Reaction |
+| Term | Meaning | What happens to Oxidation State?<br> | Role in Reaction |
 |------|---------|--------------------------------|------------------|
 | **Oxidation** | **L**oss of **E**lectrons | Increases (moves towards positive) | It is the **Reducing Agent** |
 | **Reduction** | **G**ain of **E**lectrons | Decreases (moves towards negative) | It is the **Oxidizing Agent** |
@@ -54,7 +54,7 @@ For current to flow, you need charge carriers. In a wire, it's electrons. In a s
 
 **Solved Example** 🟢
 
-> When a substance conducts electricity, its chemical composition changes and mass is transferred to the electrodes. Is this a metallic or electrolytic conductor? What happens to its conductivity if we heat it?
+> When a substance conducts electricity, its chemical composition changes and mass is transferred to the electrodes. Is this a metallic or electrolytic conductor?<br> What happens to its conductivity if we heat it?<br>
 
 <details>
 <summary><b>Solution</b></summary>
@@ -65,7 +65,7 @@ For current to flow, you need charge carriers. In a wire, it's electrons. In a s
 
 **Practice:**
 
-1. 🟢 Why does a copper wire not undergo any chemical change when an electric current is passed through it?
+1. 🟢 Why does a copper wire not undergo any chemical change when an electric current is passed through it?<br>
 <details><summary><b>Answer</b></summary>
 Copper is a metallic conductor. The charge carriers are free electrons. Since no ions or atoms are transported, there is no chemical change or transfer of mass.
 </details>
@@ -76,23 +76,23 @@ Copper is a metallic conductor. The charge carriers are free electrons. Since no
 - Conductor B: **Electrolytic Conductor**. Heating increases ion mobility, thus increasing conductivity.
 </details>
 
-3. 🟡 Why do solid $NaCl$ crystals act as insulators while molten $NaCl$ is an excellent conductor?
+3. 🟡 Why do solid $NaCl$ crystals act as insulators while molten $NaCl$ is an excellent conductor?<br>
 <details><summary><b>Answer</b></summary>
 In solid $NaCl$, the $Na^+$ and $Cl^-$ ions are held rigidly in a crystal lattice and cannot move. When melted, the lattice breaks, and the ions are free to migrate and conduct electricity (Electrolytic conduction).
 </details>
 
-4. 🟡 A student measures the mass of a copper wire before and after passing current for 1 hour. Will the mass change? What if they used a copper wire as an anode in a $CuSO_4$ solution?
+4. 🟡 A student measures the mass of a copper wire before and after passing current for 1 hour. Will the mass change?<br> What if they used a copper wire as an anode in a $CuSO_4$ solution?<br>
 <details><summary><b>Answer</b></summary>
 - First case: No mass change. Metallic conduction transfers electrons, which have negligible mass.
 - Second case: The mass of the anode will decrease. This is electrolytic conduction (electrolysis); the copper anode will oxidize and dissolve into the solution as $Cu^{2+}$ ions.
 </details>
 
-5. 🟢 Does the passage of electric current through an electrolytic solution obey Ohm's Law?
+5. 🟢 Does the passage of electric current through an electrolytic solution obey Ohm's Law?<br>
 <details><summary><b>Answer</b></summary>
 Yes, electrolytic solutions obey Ohm's Law ($V = IR$) as long as the physical conditions (like temperature) remain constant.
 </details>
 
-6. 🔴 You pass current through a graphite rod and an aqueous $HCl$ solution. In which case do the charge carriers move from the positive to the negative terminal inside the conductor?
+6. 🔴 You pass current through a graphite rod and an aqueous $HCl$ solution. In which case do the charge carriers move from the positive to the negative terminal inside the conductor?<br>
 <details><summary><b>Answer</b></summary>
 In aqueous $HCl$ (Electrolytic), cations ($H^+$) move toward the negative terminal (cathode), and anions ($Cl^-$) move toward the positive terminal (anode). So, cations move from positive to negative. 
 In graphite (Metallic), electrons (negative charge) move from the negative terminal to the positive terminal.
@@ -144,7 +144,7 @@ In graphite (Metallic), electrons (negative charge) move from the negative termi
 - Cl goes from -1 to 0 (Oxidation). So, **$HCl$ is the Reducing Agent**.
 </details>
 
-5. 🔴 $2Cu^+(aq) \rightarrow Cu^{2+}(aq) + Cu(s)$. Identify the substance oxidized and reduced. What special name is given to this type of reaction?
+5. 🔴 $2Cu^+(aq) \rightarrow Cu^{2+}(aq) + Cu(s)$. Identify the substance oxidized and reduced. What special name is given to this type of reaction?<br>
 <details><summary><b>Answer</b></summary>
 - One $Cu^+$ ion goes from +1 to +2 (Oxidation).
 - Another $Cu^+$ ion goes from +1 to 0 (Reduction).
@@ -292,7 +292,7 @@ Reduction: $Fe^{3+} + e^- \rightarrow Fe^{2+}$
 
 **Solved Example** 🟡
 
-> In a Galvanic cell where Zn is the anode and Cu is the cathode, what is the direction of electron flow in the external circuit, and in which direction do anions move through the salt bridge?
+> In a Galvanic cell where Zn is the anode and Cu is the cathode, what is the direction of electron flow in the external circuit, and in which direction do anions move through the salt bridge?<br>
 
 <details>
 <summary><b>Solution</b></summary>
@@ -303,33 +303,33 @@ Reduction: $Fe^{3+} + e^- \rightarrow Fe^{2+}$
 
 **Practice:**
 
-1. 🟢 In an unknown cell, electrons flow from Electrode A to Electrode B through the external wire. Which electrode is the cathode?
+1. 🟢 In an unknown cell, electrons flow from Electrode A to Electrode B through the external wire. Which electrode is the cathode?<br>
 <details><summary><b>Answer</b></summary>
 Electrons flow from Anode to Cathode. Therefore, **Electrode B is the cathode**.
 </details>
 
-2. 🟢 During the electrolysis of molten $NaCl$, towards which electrode do the $Na^+$ ions move?
+2. 🟢 During the electrolysis of molten $NaCl$, towards which electrode do the $Na^+$ ions move?<br>
 <details><summary><b>Answer</b></summary>
 $Na^+$ are cations, so they move towards the negatively charged **cathode** to gain electrons (reduce).
 </details>
 
-3. 🟡 If $KNO_3$ is used in a salt bridge for a $Zn/Cu$ cell, where do the $K^+$ ions migrate?
+3. 🟡 If $KNO_3$ is used in a salt bridge for a $Zn/Cu$ cell, where do the $K^+$ ions migrate?<br>
 <details><summary><b>Answer</b></summary>
 $K^+$ are cations. They migrate towards the **Cathode half-cell (Cu)** to neutralize the excess negative charge left behind when $Cu^{2+}$ ions discharge onto the electrode.
 *(Trick: Cations migrate to Cathode, Anions migrate to Anode).*
 </details>
 
-4. 🟡 You observe that an electrode is getting thinner (losing mass) over time. Are electrons flowing into or out of this electrode in the external wire?
+4. 🟡 You observe that an electrode is getting thinner (losing mass) over time. Are electrons flowing into or out of this electrode in the external wire?<br>
 <details><summary><b>Answer</b></summary>
 Losing mass means the metal is dissolving as ions (e.g., $M \rightarrow M^+ + e^-$). This is Oxidation, so it's the Anode. Electrons are being generated here and are **flowing out of this electrode** into the external wire.
 </details>
 
-5. 🔴 In an electrolytic cell, the battery's positive terminal is connected to Electrode X. What is the sign of X, and what chemical process happens there?
+5. 🔴 In an electrolytic cell, the battery's positive terminal is connected to Electrode X. What is the sign of X, and what chemical process happens there?<br>
 <details><summary><b>Answer</b></summary>
 In an electrolytic cell, the electrode connected to the positive terminal of the battery acquires a **positive sign**. Since anions will be attracted to this positive plate and lose their electrons, **Oxidation** occurs here. Therefore, Electrode X is the **Anode**.
 </details>
 
-6. 🔴 Why do electrons not flow through the salt bridge?
+6. 🔴 Why do electrons not flow through the salt bridge?<br>
 <details><summary><b>Answer</b></summary>
 The salt bridge contains an electrolyte solution (like $KCl$ in agar-agar gel). Electrolytic conductors only conduct via the movement of mobile ions. There are no free delocalized electrons in the salt bridge to carry a current, so electrons must take the external wire.
 </details>
@@ -363,7 +363,7 @@ Anode: **Fe** (undergoes oxidation). Cathode: **Standard Hydrogen Electrode** (w
 Anode: **Aluminum (Al)**. Cathode: **Copper (Cu)**.
 </details>
 
-3. 🟡 In the reaction $Pb(s) + PbO_2(s) + 2H_2SO_4 \rightarrow 2PbSO_4 + 2H_2O$ (Lead-acid battery discharge), which substance acts as the anode?
+3. 🟡 In the reaction $Pb(s) + PbO_2(s) + 2H_2SO_4 \rightarrow 2PbSO_4 + 2H_2O$ (Lead-acid battery discharge), which substance acts as the anode?<br>
 <details><summary><b>Answer</b></summary>
 $Pb(s)$ is oxidized to $Pb^{2+}$ (in $PbSO_4$). Thus, the **Pb(s) plate** acts as the anode.
 </details>
@@ -373,12 +373,12 @@ $Pb(s)$ is oxidized to $Pb^{2+}$ (in $PbSO_4$). Thus, the **Pb(s) plate** acts a
 $I^-$ is oxidized to $I_2$. Therefore, the electrode where $I^-$ loses electrons is the **Anode**.
 </details>
 
-5. 🔴 Consider the electrolysis of water: $2H_2O \rightarrow 2H_2 + O_2$. At which electrode is $O_2$ gas evolved?
+5. 🔴 Consider the electrolysis of water: $2H_2O \rightarrow 2H_2 + O_2$. At which electrode is $O_2$ gas evolved?<br>
 <details><summary><b>Answer</b></summary>
 Oxygen in water is -2, and in $O_2$ it is 0. This is an increase in oxidation state (Oxidation). Therefore, $O_2$ is evolved at the **Anode**.
 </details>
 
-6. 🔴 In a Hydrogen-Oxygen fuel cell: $2H_2 + O_2 \rightarrow 2H_2O$. Which gas is fed to the Anode?
+6. 🔴 In a Hydrogen-Oxygen fuel cell: $2H_2 + O_2 \rightarrow 2H_2O$. Which gas is fed to the Anode?<br>
 <details><summary><b>Answer</b></summary>
 $H_2$ goes from 0 to +1 (Oxidation). Therefore, **Hydrogen gas ($H_2$)** is fed to the Anode.
 </details>
@@ -434,7 +434,7 @@ Cu+ goes to +2 and 0. It is a **Disproportionation Reaction**.
 
 *These MCQs test the subtle details that are often ignored in standard readings.*
 
-**Q1. (Subtle Detail - NCERT Type)** 🟡 Which of the following statements about electrolytic conduction is INCORRECT?
+**Q1. (Subtle Detail - NCERT Type)** 🟡 Which of the following statements about electrolytic conduction is INCORRECT?<br>
 (a) It involves the transfer of matter.
 (b) It involves a chemical change.
 (c) The conductivity always decreases with an increase in temperature.
@@ -447,7 +447,7 @@ Cu+ goes to +2 and 0. It is a **Disproportionation Reaction**.
 Electrolytic conductivity *increases* with an increase in temperature because the mobility of ions increases due to a decrease in the viscosity of the medium and an increase in kinetic energy.
 </details>
 
-**Q2. (Exemplar Type)** 🟡 Which of the following describes the behavior of a metallic conductor at absolute zero (0 K)?
+**Q2. (Exemplar Type)** 🟡 Which of the following describes the behavior of a metallic conductor at absolute zero (0 K)?<br>
 (a) It behaves as a perfect insulator.
 (b) Its conductivity becomes zero due to frozen electrons.
 (c) It becomes a superconductor as lattice vibrations completely cease.
@@ -473,7 +473,7 @@ In metallic conductors, resistance is caused by the vibration of positive kernel
 When an external opposing voltage ($E_{ext}$) is greater than the cell's own potential ($E_{cell}$), the reaction reverses. The cell then acts as an electrolytic cell, consuming electrical energy to drive the non-spontaneous reverse reaction.
 </details>
 
-**Q4. (Tricky)** 🔴 Which of the following does NOT conduct electricity?
+**Q4. (Tricky)** 🔴 Which of the following does NOT conduct electricity?<br>
 (a) Fused $NaCl$
 (b) Solid $NaCl$
 (c) Brine solution
@@ -547,8 +547,8 @@ In a Galvanic/Electrochemical cell, Anode is where oxidation happens (loss of el
 </details>
 
 **Q2.** 🟡 In the reaction $2Al(s) + 3Cu^{2+}(aq) \rightarrow 2Al^{3+}(aq) + 3Cu(s)$: 
-(a) Which species is the reducing agent?
-(b) How many moles of electrons are transferred per mole of Al reacted?
+(a) Which species is the reducing agent?<br>
+(b) How many moles of electrons are transferred per mole of Al reacted?<br>
 
 <details>
 <summary><b>Solution</b></summary>
@@ -557,7 +557,7 @@ In a Galvanic/Electrochemical cell, Anode is where oxidation happens (loss of el
 (b) 1 mole of Al loses 3 moles of electrons to become $Al^{3+}$. Therefore, **3 moles of electrons** are transferred per mole of Al.
 </details>
 
-**Q3.** 🔴 The reaction $Cu(s) + 2Ag^+(aq) \rightarrow Cu^{2+}(aq) + 2Ag(s)$ is carried out by dropping a copper strip directly into a beaker of silver nitrate. Will it generate an electric current? Why or why not? What if the reactants are separated into two half-cells?
+**Q3.** 🔴 The reaction $Cu(s) + 2Ag^+(aq) \rightarrow Cu^{2+}(aq) + 2Ag(s)$ is carried out by dropping a copper strip directly into a beaker of silver nitrate. Will it generate an electric current?<br> Why or why not?<br> What if the reactants are separated into two half-cells?<br>
 
 <details>
 <summary><b>Solution</b></summary>
@@ -606,7 +606,7 @@ $Cu(s) + 2Ag^+(aq) \rightarrow Cu^{2+}(aq) + 2Ag(s)$ *(2 marks)*
 - $Ag^+$ reduces to $Ag(s)$ (gain of electrons). Hence, **Ag⁺ is the oxidizing agent**.
 </details>
 
-**Q4.** 🟡 Can we store copper sulphate solution in a zinc vessel? Explain using the concept of redox. *(2 marks)*
+**Q4.** 🟡 Can we store copper sulphate solution in a zinc vessel?<br> Explain using the concept of redox. *(2 marks)*
 
 <details>
 <summary><b>Model Answer</b></summary>
@@ -616,7 +616,7 @@ $Zn(s) + CuSO_4(aq) \rightarrow ZnSO_4(aq) + Cu(s)$
 The zinc vessel will undergo oxidation, dissolve into the solution, and develop holes.
 </details>
 
-**Q5.** 🟢 What is the primary function of a salt bridge in an electrochemical cell? *(1 mark)*
+**Q5.** 🟢 What is the primary function of a salt bridge in an electrochemical cell?<br> *(1 mark)*
 
 <details>
 <summary><b>Model Answer</b></summary>
@@ -653,7 +653,7 @@ In metals, increasing temperature causes the positive lattice ions (kernels) to 
 
 **Q2.** 🔴 Given the following reaction taking place in a cell:
 $H_2(g) + Cl_2(g) \rightarrow 2HCl(aq)$
-Which of the following is true?
+Which of the following is true?<br>
 (a) $H_2$ undergoes reduction at the cathode.
 (b) $Cl_2$ undergoes oxidation at the anode.
 (c) $H_2$ is the reducing agent and undergoes oxidation at the anode.
@@ -670,7 +670,7 @@ Which of the following is true?
 Therefore, statement (c) is perfectly correct.
 </details>
 
-**Q3.** 🔴 During the electrolysis of water, $H_2$ and $O_2$ are produced. If the volume of $O_2$ produced is $V$, what is the volume of $H_2$ produced under the same conditions, and which substance acts as the reducing agent during the *reverse* spontaneous reaction in a fuel cell?
+**Q3.** 🔴 During the electrolysis of water, $H_2$ and $O_2$ are produced. If the volume of $O_2$ produced is $V$, what is the volume of $H_2$ produced under the same conditions, and which substance acts as the reducing agent during the *reverse* spontaneous reaction in a fuel cell?<br>
 (a) $2V$, $O_2$
 (b) $2V$, $H_2$
 (c) $V/2$, $H_2$
@@ -684,7 +684,7 @@ The electrolysis of water: $2H_2O \rightarrow 2H_2 + O_2$. For every 1 mole of $
 In a fuel cell (reverse reaction): $2H_2 + O_2 \rightarrow 2H_2O$. Here, $H_2$ is oxidized (0 to +1), so it acts as the **Reducing Agent**.
 </details>
 
-**Q4.** 🔴 An electric current of 10 A is passed through a metallic wire. What is the total mass of electrons passing through any cross-section of the wire in 1 second? ($m_e = 9.1 \times 10^{-31}$ kg, $e = 1.6 \times 10^{-19}$ C).
+**Q4.** 🔴 An electric current of 10 A is passed through a metallic wire. What is the total mass of electrons passing through any cross-section of the wire in 1 second?<br> ($m_e = 9.1 \times 10^{-31}$ kg, $e = 1.6 \times 10^{-19}$ C).
 (a) $5.68 \times 10^{-11}$ kg
 (b) $9.1 \times 10^{-30}$ kg
 (c) $1.6 \times 10^{-18}$ kg

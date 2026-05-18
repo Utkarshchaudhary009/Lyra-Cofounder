@@ -167,7 +167,7 @@ Imagine if someone said "Let's use silver as money instead of just trading chick
 
 **Before Coins: Barter System (Before 3000 BCE)**
 - Direct trade: "I give you 5 chickens for 3 goats"
-- Problem: What if you don't need what others offer?
+- Problem: What if you don't need what others offer?<br>
 - Solution: Use valuable items everyone wants
 - Materials used: Sea shells, obsidian, copper, silver
 
@@ -181,7 +181,7 @@ Imagine if someone said "Let's use silver as money instead of just trading chick
 
 **First Official Silver Coins (700-600 BCE)**
 - **Lydia** (modern Turkey): Created first official coins
-- Why silver? Most consistent purity from that region
+- Why silver?<br> Most consistent purity from that region
 - Coins were stamped with ruler's mark = guarantee of weight
 - Benefits:
   - Everyone knows weight by stamp
@@ -224,7 +224,7 @@ Silver:
 ### Search: "Silver value ancient Egypt"
 
 **Simple Explanation for Kids:**
-Ancient Egypt was RIGHT NEXT TO deserts—perfect for mining gold. So gold was common. But silver? Had to come from far away. This made silver MORE valuable than gold!
+Ancient Egypt was RIGHT NEXT TO deserts—perfect for mining gold. So gold was common. But silver?<br> Had to come from far away. This made silver MORE valuable than gold!
 
 **Egypt's Silver Situation:**
 
@@ -476,7 +476,7 @@ Rome became the most powerful empire by using silver as currency to pay soldiers
 - By 270 CE: 5% silver, 95% copper
 - COINS STILL CALLED "SILVER" but mostly copper!
 
-**Why Did They Do It?**
+**Why Did They Do It?<br>**
 - Needed more coins to pay army
 - Could "stretch" silver supply
 - If using half silver, could mint twice as many coins
@@ -487,7 +487,7 @@ Rome became the most powerful empire by using silver as currency to pay soldiers
 - Had to test purity before accepting
 - Prices rose to compensate (inflation)
 - Confidence in system declined
-- Sound familiar? (We'll see this pattern repeat!)
+- Sound familiar?<br> (We'll see this pattern repeat!)
 
 **Roman Trade Networks:**
 
@@ -546,7 +546,7 @@ You might think gold is always more valuable than silver (it is today). But in a
 - Gold MUCH more valuable!
 - Reason: Different industrial uses, different supply dynamics
 
-**Why The Change?**
+**Why The Change?<br>**
 
 **Reasons Gold Became More Valuable:**
 
@@ -654,19 +654,19 @@ You might think gold is always more valuable than silver (it is today). But in a
 
 ## COMPREHENSION CHECK (For 10-Year-Olds)
 
-**Q1: Why was silver valuable in ancient times?**
+**Q1: Why was silver valuable in ancient times?<br>**
 A: Because it was shiny, didn't rust, was easy to work with, and couldn't be found everywhere.
 
-**Q2: How did silver help trade?**
+**Q2: How did silver help trade?<br>**
 A: People could sell their goods for silver, then use that silver to buy what they needed from different people.
 
-**Q3: Why did some places have more silver than others?**
+**Q3: Why did some places have more silver than others?<br>**
 A: Some regions had silver deposits underground while others didn't, so they had to trade for it.
 
-**Q4: What happened when Rome mixed copper with silver coins?**
+**Q4: What happened when Rome mixed copper with silver coins?<br>**
 A: People noticed the coins weren't as pure, trusted them less, and wanted more coins for the same goods (inflation).
 
-**Q5: Was silver always worth more than gold?**
+**Q5: Was silver always worth more than gold?<br>**
 A: No! In ancient times, silver was often worth MORE than gold because there was more of it being used in daily life.
 
 ---

@@ -8,7 +8,7 @@
 
 ### Making the Invisible Visible
 
-Electric fields are invisible. You can't see them, touch them, or smell them. So how do you *visualize* what's happening in the space around charges?
+Electric fields are invisible. You can't see them, touch them, or smell them. So how do you *visualize* what's happening in the space around charges?<br>
 
 **Electric field lines** (also called lines of force) are imaginary curves drawn in space such that:
 
@@ -115,7 +115,7 @@ Pattern: N lines curve from +Q to −2Q. N additional lines come from infinity a
 
 **Solved Example** 🟡
 
-> In a field line diagram, charge A has 12 lines emerging from it, and charge B has 8 lines terminating on it. What can you conclude?
+> In a field line diagram, charge A has 12 lines emerging from it, and charge B has 8 lines terminating on it. What can you conclude?<br>
 
 **Solution:**
 - A is **positive** (lines emerge)
@@ -126,7 +126,7 @@ Pattern: N lines curve from +Q to −2Q. N additional lines come from infinity a
 
 **Practice:**
 
-1. 🟢 Charge A has 6 lines out, charge B has 6 lines in. What's q_A/q_B? *(Ans: −1, they are equal and opposite)*
+1. 🟢 Charge A has 6 lines out, charge B has 6 lines in. What's q_A/q_B?<br> *(Ans: −1, they are equal and opposite)*
 2. 🟡 Charge A has 18 lines out, charge B has 6 lines in. Find |q_A|/|q_B| and how many lines go to infinity. *(Ans: 3, and 12 lines escape)*
 
 ---
@@ -135,19 +135,19 @@ Pattern: N lines curve from +Q to −2Q. N additional lines come from infinity a
 
 **Solved Example** 🟡
 
-> "Two electric field lines can cross each other." True or False? Justify.
+> "Two electric field lines can cross each other." True or False?<br> Justify.
 
 **Solution:** **False.** If two field lines crossed, at the crossing point there would be two different tangent directions — meaning two different E vectors at the same point. Since E is unique at every point, this is impossible.
 
 **Practice:**
 
-1. 🟢 "Electric field lines form closed loops in electrostatics." T/F? *(Ans: False — they start/end on charges)*
-2. 🟢 "Field lines are always perpendicular to equipotential surfaces." T/F? *(Ans: True)*
-3. 🟡 "In a region where E = 0, there are no field lines." T/F? *(Ans: True)*
-4. 🟡 "If field lines are parallel and equidistant, the field is uniform." T/F? *(Ans: True)*
-5. 🟡 ⭐ "Field lines can start from a negative charge." T/F? *(Ans: False — they always start from positive charges or infinity)*
-6. 🟡 "The electric field is zero where no field lines pass." T/F? *(Ans: True — density of lines represents magnitude)*
-7. 🔴 "If field lines are curved, the electric field has varying magnitude." T/F? *(Ans: Not necessarily. Curvature indicates changing direction, but magnitude could remain constant along a curve in special cases. Generally true for typical configurations.)*
+1. 🟢 "Electric field lines form closed loops in electrostatics." T/F?<br> *(Ans: False — they start/end on charges)*
+2. 🟢 "Field lines are always perpendicular to equipotential surfaces." T/F?<br> *(Ans: True)*
+3. 🟡 "In a region where E = 0, there are no field lines." T/F?<br> *(Ans: True)*
+4. 🟡 "If field lines are parallel and equidistant, the field is uniform." T/F?<br> *(Ans: True)*
+5. 🟡 ⭐ "Field lines can start from a negative charge." T/F?<br> *(Ans: False — they always start from positive charges or infinity)*
+6. 🟡 "The electric field is zero where no field lines pass." T/F?<br> *(Ans: True — density of lines represents magnitude)*
+7. 🔴 "If field lines are curved, the electric field has varying magnitude." T/F?<br> *(Ans: Not necessarily. Curvature indicates changing direction, but magnitude could remain constant along a curve in special cases. Generally true for typical configurations.)*
 
 ---
 
@@ -155,7 +155,7 @@ Pattern: N lines curve from +Q to −2Q. N additional lines come from infinity a
 
 **Solved Example** 🟢
 
-> How can you distinguish between a uniform and non-uniform electric field from field lines?
+> How can you distinguish between a uniform and non-uniform electric field from field lines?<br>
 
 **Solution:**
 
@@ -168,8 +168,8 @@ Pattern: N lines curve from +Q to −2Q. N additional lines come from infinity a
 
 **Practice:**
 
-1. 🟢 Between two large parallel plates with opposite charges, what do the field lines look like? *(Ans: Parallel, equally spaced, perpendicular to plates — uniform field)*
-2. 🟡 Near a point charge, are the field lines getting closer together or farther apart as you move away? What does this tell you about E? *(Ans: Farther apart → E decreases with distance)*
+1. 🟢 Between two large parallel plates with opposite charges, what do the field lines look like?<br> *(Ans: Parallel, equally spaced, perpendicular to plates — uniform field)*
+2. 🟡 Near a point charge, are the field lines getting closer together or farther apart as you move away?<br> What does this tell you about E?<br> *(Ans: Farther apart → E decreases with distance)*
 
 ---
 
@@ -185,7 +185,7 @@ Lines ∝ charge → q₂/q₁ = 16/8 = 2 → q₂ = 2 × 2 = **4 μC**
 **Practice:**
 
 1. 🟢 6 lines from +q, 18 lines from +Q. If q = 1 nC, find Q. *(Ans: 3 nC)*
-2. 🟡 In a system of +3Q and −Q, if 24 lines emerge from +3Q, how many terminate on −Q? How many go to infinity? *(Ans: 8 terminate on −Q, 16 go to infinity)*
+2. 🟡 In a system of +3Q and −Q, if 24 lines emerge from +3Q, how many terminate on −Q?<br> How many go to infinity?<br> *(Ans: 8 terminate on −Q, 16 go to infinity)*
 
 ---
 
@@ -203,14 +203,14 @@ Lines ∝ charge → q₂/q₁ = 16/8 = 2 → q₂ = 2 × 2 = **4 μC**
 
 **Practice:**
 
-1. 🟢 Why are field lines perpendicular to conductor surfaces? *(Ans: If E had a tangential component at the surface, surface charges would move — contradicting electrostatic equilibrium.)*
+1. 🟢 Why are field lines perpendicular to conductor surfaces?<br> *(Ans: If E had a tangential component at the surface, surface charges would move — contradicting electrostatic equilibrium.)*
 2. 🟡 A hollow metal sphere has charge +Q. Describe field lines inside and outside. *(Ans: None inside (E = 0), radially outward outside)*
 
 ---
 
 ## 🔀 Stage 4: Type Mixer
 
-**Q1.** 🟡 ⭐ A charge +2Q is placed near a charge −Q. Draw the field line pattern. How many lines go to infinity if 20 lines leave +2Q?
+**Q1.** 🟡 ⭐ A charge +2Q is placed near a charge −Q. Draw the field line pattern. How many lines go to infinity if 20 lines leave +2Q?<br>
 
 <details>
 <summary><b>Solution</b></summary>
@@ -248,7 +248,7 @@ Pattern: 10 lines curve from +2Q to −Q. 10 lines emerge from +2Q and go to inf
 4. The relative closeness (density) of field lines indicates the strength of the electric field — closer lines mean stronger field.
 </details>
 
-**Q2.** 🟡 ⭐ Why do electric field lines never cross each other? *(2 marks)*
+**Q2.** 🟡 ⭐ Why do electric field lines never cross each other?<br> *(2 marks)*
 
 <details>
 <summary><b>Model Answer</b></summary>
@@ -268,7 +268,7 @@ If two field lines crossed at a point, there would be two tangent directions at 
 (c) **Two +Q charges:** Lines emerge from each charge and go to infinity. Between the charges, lines repel each other — there is a neutral point (E = 0) at the midpoint. No lines connect one +Q to the other.
 </details>
 
-**Q4.** 🟡 How is the magnitude of the electric field represented by field lines? *(1 mark)*
+**Q4.** 🟡 How is the magnitude of the electric field represented by field lines?<br> *(1 mark)*
 
 <details>
 <summary><b>Model Answer</b></summary>
@@ -280,7 +280,7 @@ The magnitude of the electric field is represented by the **density** (closeness
 
 ## 🚀 Stage 6: JEE Mains Arena
 
-**Q1.** 🟡 ⭐ Electric field lines are shown in a region. At which point is the electric field strongest?
+**Q1.** 🟡 ⭐ Electric field lines are shown in a region. At which point is the electric field strongest?<br>
 
 If lines are closest together at point P₁ and farthest apart at point P₃:
 
@@ -306,7 +306,7 @@ Lines from q₁: 18 (outgoing → positive). Lines into q₂: 6 (incoming → ne
 **Answer: (b)**
 </details>
 
-**Q3.** 🟡 Which of the following statements about electrostatic field lines is FALSE?
+**Q3.** 🟡 Which of the following statements about electrostatic field lines is FALSE?<br>
 
 (a) They start from positive charges  
 (b) They never intersect  

@@ -6,7 +6,7 @@
 
 ## 🎯 Stage 1: The Core Idea
 
-### What Is Electric Current?
+### What Is Electric Current?<br>
 
 Imagine a crowded corridor during lunch break. Students are walking randomly in every direction — no net movement anywhere. Now imagine the fire alarm goes off: suddenly, everyone rushes toward the exit. There's now a *net flow* of students in one direction.
 
@@ -45,8 +45,11 @@ $$I = \frac{Q}{t} = \frac{ne}{t}$$
 
 | Symbol | Meaning | Unit |
 |--------|---------|------|
-| I | Electric current | Ampere (A) |
-| Q | Total charge flowing | Coulomb (C) |
+| I | Electric current | Ampere <br>
+(A) |
+| Q | Total charge flowing | Coulomb <br>
+(C)
+ |
 | t | Time | Second (s) |
 | n | Number of electrons | Dimensionless |
 | e | Elementary charge | 1.6 × 10⁻¹⁹ C |
@@ -102,7 +105,7 @@ $$Q = \int_0^t I \, dt$$
 I = 180/60 = **3 A**
 </details>
 
-2. 🟢 A current of 0.5 A flows for 10 minutes. How much charge passes through the conductor?
+2. 🟢 A current of 0.5 A flows for 10 minutes. How much charge passes through the conductor?<br>
 
 <details>
 <summary><b>Answer</b></summary>
@@ -119,7 +122,7 @@ t = 2 × 3600 = 7200 s
 I = 4.8 × 10⁴ / 7200 = 6.67 A = **6670 mA**
 </details>
 
-4. 🟡 How long will it take for 10⁴ C of charge to flow if the current is 500 mA?
+4. 🟡 How long will it take for 10⁴ C of charge to flow if the current is 500 mA?<br>
 
 <details>
 <summary><b>Answer</b></summary>
@@ -155,7 +158,7 @@ Q = 10²⁰ × 1.6 × 10⁻¹⁹ = 16 C
 I = 16/4 = **4 A**
 </details>
 
-2. 🟡 A current of 2 A flows through a conductor. How many electrons pass a cross-section per second?
+2. 🟡 A current of 2 A flows through a conductor. How many electrons pass a cross-section per second?<br>
 
 <details>
 <summary><b>Answer</b></summary>
@@ -173,7 +176,7 @@ n = Q/e = 2 / (1.6 × 10⁻¹⁹) = **1.25 × 10¹⁹ electrons**
 (b) n = Q/e = 600 / (1.6 × 10⁻¹⁹) = **3.75 × 10²¹ electrons**
 </details>
 
-4. 🟡 If 10⁶ electrons are removed from a conductor every microsecond, what current does this constitute?
+4. 🟡 If 10⁶ electrons are removed from a conductor every microsecond, what current does this constitute?<br>
 
 <details>
 <summary><b>Answer</b></summary>
@@ -181,7 +184,7 @@ n = Q/e = 2 / (1.6 × 10⁻¹⁹) = **1.25 × 10¹⁹ electrons**
 Q/t = ne/t = 10⁶ × 1.6 × 10⁻¹⁹ / 10⁻⁶ = 1.6 × 10⁻⁷ A = **0.16 μA**
 </details>
 
-5. 🔴 A current of 1.6 mA flows through a conductor. How many electrons pass through a cross-section in 1 nanosecond?
+5. 🔴 A current of 1.6 mA flows through a conductor. How many electrons pass through a cross-section in 1 nanosecond?<br>
 
 <details>
 <summary><b>Answer</b></summary>
@@ -292,11 +295,11 @@ Q = area of triangle = ½ × 8 × 5 = **20 C**
 
 ### Type 5: Direction of conventional vs electron current
 
-**Pattern:** "In which direction does current flow? / Identify electron flow direction."
+**Pattern:** "In which direction does current flow?<br> / Identify electron flow direction."
 
 **Solved Example** 🟢
 
-> In an external circuit, electrons flow from terminal A to terminal B of a battery. What is the direction of conventional current?
+> In an external circuit, electrons flow from terminal A to terminal B of a battery. What is the direction of conventional current?<br>
 
 <details>
 <summary><b>Solution</b></summary>
@@ -308,7 +311,7 @@ This means B is the positive terminal and A is the negative terminal.
 
 **Practice:**
 
-1. 🟢 Electrons drift from right to left through a wire. What is the direction of conventional current?
+1. 🟢 Electrons drift from right to left through a wire. What is the direction of conventional current?<br>
 
 <details>
 <summary><b>Answer</b></summary>
@@ -316,7 +319,7 @@ This means B is the positive terminal and A is the negative terminal.
 Conventional current flows **left to right** (opposite to electron flow).
 </details>
 
-2. 🟡 A battery drives a current of 2 A through an external circuit from its positive terminal P to a bulb and back to its negative terminal N. In which direction do the electrons actually move?
+2. 🟡 A battery drives a current of 2 A through an external circuit from its positive terminal P to a bulb and back to its negative terminal N. In which direction do the electrons actually move?<br>
 
 <details>
 <summary><b>Answer</b></summary>
@@ -324,7 +327,7 @@ Conventional current flows **left to right** (opposite to electron flow).
 Electrons move from **N (negative terminal) → through external circuit → to P (positive terminal)** — opposite to conventional current.
 </details>
 
-3. 🟡 Current flows clockwise in a circular loop when viewed from above. What is the direction of electron flow?
+3. 🟡 Current flows clockwise in a circular loop when viewed from above. What is the direction of electron flow?<br>
 
 <details>
 <summary><b>Answer</b></summary>
@@ -384,7 +387,7 @@ Net = 0.8 (B→A) − 0.48 (A→B) = **0.32 A from B to A**
 
 ## 🔀 Stage 4: Type Mixer
 
-**Q1.** 🟡 ⭐ A steady current of 8 A flows through a conductor for 3 minutes. (a) How much charge flows? (b) How many electrons pass through any cross-section? (c) If the current direction reverses, in which direction do the electrons actually move now?
+**Q1.** 🟡 ⭐ A steady current of 8 A flows through a conductor for 3 minutes. (a) How much charge flows?<br> (b) How many electrons pass through any cross-section?<br> (c) If the current direction reverses, in which direction do the electrons actually move now?<br>
 
 <details>
 <summary><b>Solution</b></summary>
@@ -396,7 +399,7 @@ Net = 0.8 (B→A) − 0.48 (A→B) = **0.32 A from B to A**
 (c) If conventional current reverses direction, electrons now drift in the **original conventional current direction** (since electron flow is always opposite to conventional current).
 </details>
 
-**Q2.** 🟡 The current through a wire is given by I = (6t + 4) A. (a) Find the charge flowing between t = 0 and t = 3 s. (b) How many electrons flow in this time? (c) What is the average current?
+**Q2.** 🟡 The current through a wire is given by I = (6t + 4) A. (a) Find the charge flowing between t = 0 and t = 3 s. (b) How many electrons flow in this time?<br> (c) What is the average current?<br>
 
 <details>
 <summary><b>Solution</b></summary>
@@ -408,7 +411,7 @@ Net = 0.8 (B→A) − 0.48 (A→B) = **0.32 A from B to A**
 (c) I_avg = Q/t = 39/3 = **13 A**
 </details>
 
-**Q3.** 🔴 ⭐ In an electrolyte solution, Na⁺ ions move to the right at a rate of 4 × 10¹⁸ per second and Cl⁻ ions move to the left at a rate of 3.6 × 10¹⁸ per second. (a) Find the current due to each ion. (b) Find the total current. (c) How much charge passes through a cross-section in 10 seconds?
+**Q3.** 🔴 ⭐ In an electrolyte solution, Na⁺ ions move to the right at a rate of 4 × 10¹⁸ per second and Cl⁻ ions move to the left at a rate of 3.6 × 10¹⁸ per second. (a) Find the current due to each ion. (b) Find the total current. (c) How much charge passes through a cross-section in 10 seconds?<br>
 
 <details>
 <summary><b>Solution</b></summary>
@@ -438,7 +441,7 @@ Total Q = 10 + 1 = **11 C**
 
 ## 📋 Stage 5: Board Arsenal
 
-**Q1.** 🟢 ⭐ Define electric current. Is it a scalar or vector? Why? *(2 marks)*
+**Q1.** 🟢 ⭐ Define electric current. Is it a scalar or vector?<br> Why?<br> *(2 marks)*
 
 <details>
 <summary><b>Model Answer</b></summary>
@@ -453,7 +456,8 @@ Electric current is a **scalar quantity**. Although current has a direction (alo
 <details>
 <summary><b>Model Answer</b></summary>
 
-The SI unit of electric current is the **ampere (A)**. One ampere is defined as the current flowing through a conductor when one coulomb of charge passes through any cross-section in one second.
+The SI unit of electric current is the **ampere <br>
+(A)**. One ampere is defined as the current flowing through a conductor when one coulomb of charge passes through any cross-section in one second.
 
 1 A = 1 C / 1 s
 </details>

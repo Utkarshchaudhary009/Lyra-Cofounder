@@ -40,7 +40,7 @@ Phase 28 (2020-2021) proves that modern price suppression is **elastic**. It can
 *   **The Suppression Seed:** **"Gaslighting."** The Fed called inflation "Transitory." They lied. By controlling the narrative, they kept mainstream capital out of silver for just long enough to let the banks position themselves.
 
 ### Clue 4: The Miners' "Dead Cat Bounce"
-*   **The Simple Truth:** Remember how miners were dying in 2019? Suddenly, with silver at $25 (instead of $15), they were printing money. But here's the catch: they had closed so many mines that they couldn't just "turn them back on" instantly. It takes years to restart a mine. So, even though price was up, **production fell**.
+*   **The Simple Truth:** Remember how miners were dying in 2019?<br> Suddenly, with silver at $25 (instead of $15), they were printing money. But here's the catch: they had closed so many mines that they couldn't just "turn them back on" instantly. It takes years to restart a mine. So, even though price was up, **production fell**.
 *   **The Hard Evidence:**
     *   **2020 Supply:** Mined silver production **FELL 6%** (partly due to COVID lockdowns in Mexico/Peru).
     *   **The Gap:** Supply was falling while demand was exploding.
@@ -69,7 +69,7 @@ Phase 28 (2020-2021) proves that modern price suppression is **elastic**. It can
 *   **The Suppression Seed:** **"Regulatory Complicity."** The regulator didn't stop the manipulation; they *bragged* about it as a tool for "market stability." This confirmed that price suppression is state-sanctioned.
 
 ### Clue 8: The Birth of the "Apex Predator" (Position Limits)
-*   **The Simple Truth:** The regulators updated the rules (Position Limits) in 2020/2021. You'd think they would limit how much one bank can control, right? Instead, they expanded exemptions like "Bona Fide Hedging." This basically gave the biggest banks a permission slip to hold positions way larger than anyone else, solidifying their dominance.
+*   **The Simple Truth:** The regulators updated the rules (Position Limits) in 2020/2021. You'd think they would limit how much one bank can control, right?<br> Instead, they expanded exemptions like "Bona Fide Hedging." This basically gave the biggest banks a permission slip to hold positions way larger than anyone else, solidifying their dominance.
 *   **The Hard Evidence:**
     *   **Oct 2020:** CFTC approves new Position Limits rule.
     *   **Effect:** Expanded the definition of "hedging," making it easier for bullion banks to hold massive short positions without penalty.
@@ -115,7 +115,7 @@ Phase 28 (2020-2021) proves that modern price suppression is **elastic**. It can
 | **Premiums** | The extra fee you pay above the "Spot Price" to get a real coin. |
 | **Spot Price** | The price of a 5,000oz contract in London/NY. Not the price of a coin in your hand. |
 | **Authorized Purchaser (AP)** | A big dealer allowed to buy directly from the US Mint. |
-| **Rationing / Allocation** | When the Mint tells dealers: "You want 1,000 coins? We can only give you 100." |
+| **Rationing / Allocation** | When the Mint tells dealers: "You want 1,000 coins?<br> We can only give you 100." |
 | **Deficit** | Demand > Supply. We are using more than we are digging. |
 | **Structural Deficit** | A deficit that won't go away (permanent shortage). |
 | **Tamp Down** | A slang term (from CFTC Chair) for suppressing volatility/price spikes. |
@@ -146,7 +146,7 @@ Inspired by the victory over hedge funds in GameStop, retail investors on Reddit
 
 It worked... briefly. Dealers were wiped clean of inventory in 48 hours. Premiums on coins skyrocketed to 40%. The physical market was broken. There simply wasn't enough metal.
 
-So, why didn't the price go to $100?
+So, why didn't the price go to $100?<br>
 
 Because the retail investors made a critical mistake. They bought the **SLV ETF**. They poured billions of dollars into a financial product managed by the very banks they were trying to fight. The banks used that inflow of cash to issue more *shares* (paper silver) rather than buying physical metal to drive the price up. They absorbed the demand into the "paper void."
 
@@ -165,35 +165,35 @@ Despite this brutal suppression, the fundamental reality shifted forever in 2021
 
 ## 7. COMPREHENSION CHECK (Critical Thinking)
 
-*   **Q1:** Why did the "Silver Squeeze" fail to break $30?
+*   **Q1:** Why did the "Silver Squeeze" fail to break $30?<br>
     *   **A:** Retail investors bought paper instruments (SLV/Options) instead of just physical, and the Banks/Regulators intervened ("Tamp Down") with massive volume to cap the price.
-*   **Q2:** If demand was at an "All-Time High" in 2021, why did the price drop by end of year?
+*   **Q2:** If demand was at an "All-Time High" in 2021, why did the price drop by end of year?<br>
     *   **A:** Because the price is set by the Paper Market (Futures), heavily influenced by Fed policy (rising yields/dollar), not by the physical supply/demand balance.
-*   **Q3:** What is the significance of the 2021 Market Deficit?
+*   **Q3:** What is the significance of the 2021 Market Deficit?<br>
     *   **A:** It proves that at current prices ($22-$25), there isn't enough silver being produced. We are consuming stockpiles. This is unsustainable long-term.
-*   **Q4:** How did "Unlimited QE" impact silver?
+*   **Q4:** How did "Unlimited QE" impact silver?<br>
     *   **A:** It created massive inflation expectations, driving investment demand. It validated silver's role as a hedge against currency debasement.
-*   **Q5:** Why are "Position Limit" exemptions dangerous?
+*   **Q5:** Why are "Position Limit" exemptions dangerous?<br>
     *   **A:** They allow a single entity (like a massive bank) to corner or suppress a market by holding a concentrated position that outweighs all other participants.
-*   **Q6:** What happened to US Mint production in 2020?
+*   **Q6:** What happened to US Mint production in 2020?<br>
     *   **A:** It failed. They couldn't get silver blanks. They rationed sales. This proved the fragility of the physical supply chain.
-*   **Q7:** Why is the "Solar" demand story so important in this phase?
+*   **Q7:** Why is the "Solar" demand story so important in this phase?<br>
     *   **A:** It grew to ~11-12% of total demand. It proved that industrial demand is robust even when investment demand fluctuates.
-*   **Q8:** What is the difference between SLV and PSLV?
+*   **Q8:** What is the difference between SLV and PSLV?<br>
     *   **A:** SLV is often criticized for its ties to bullion banks and lack of direct redemption. PSLV is generally viewed as holding fully allocated physical silver outside the COMEX system.
-*   **Q9:** Why did the Gold/Silver ratio hit 125:1?
+*   **Q9:** Why did the Gold/Silver ratio hit 125:1?<br>
     *   **A:** In the initial panic (March 2020), industrial commodities (Silver) were dumped faster than monetary assets (Gold). It was a "liquidity crunch."
-*   **Q10:** Did the miners fully recover in 2021?
+*   **Q10:** Did the miners fully recover in 2021?<br>
     *   **A:** Production recovered, but costs rose (inflation), and reserve grades continued to fall. They are running on a treadmill.
-*   **Q11:** What is the "Fed Put"?
+*   **Q11:** What is the "Fed Put"?<br>
     *   **A:** The belief that the Fed will always print money to save the market from crashing.
-*   **Q12:** How did the "Tamp Down" comment affect market psychology?
+*   **Q12:** How did the "Tamp Down" comment affect market psychology?<br>
     *   **A:** It confirmed to many conspiracists that the regulators are not neutral referees but active participants in suppressing volatility (and price).
-*   **Q13:** Why was 2021 a turning point for "Green" silver?
+*   **Q13:** Why was 2021 a turning point for "Green" silver?<br>
     *   **A:** The global commitment to Net Zero (COP26, etc.) solidified silver's role as a *strategic* metal, not just a precious one.
-*   **Q14:** Why did dealers run out of silver?
+*   **Q14:** Why did dealers run out of silver?<br>
     *   **A:** The "Just-in-Time" supply chain couldn't handle a massive vertical spike in demand. The inventory wasn't there.
-*   **Q15:** What does the 2020-2021 era tell us about the future (Phase 60)?
+*   **Q15:** What does the 2020-2021 era tell us about the future (Phase 60)?<br>
     *   **A:** It was a dress rehearsal. It showed that when the real panic hits, physical metal will vanish, premiums will explode, and paper markets will likely decouple from reality completely.
 
-**C:** *The deficits that started in 2021 are still compounding today. Every solar panel installed deepens the hole. The banks stopped the squeeze in 2021, but can they stop the geology of 2030? Phase 29 waits.*
+**C:** *The deficits that started in 2021 are still compounding today. Every solar panel installed deepens the hole. The banks stopped the squeeze in 2021, but can they stop the geology of 2030?<br> Phase 29 waits.*

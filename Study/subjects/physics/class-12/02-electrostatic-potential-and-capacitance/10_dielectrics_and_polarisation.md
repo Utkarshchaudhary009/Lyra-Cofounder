@@ -6,9 +6,9 @@
 
 ### The Story of the Stubborn Insulator
 
-Conductors are like crowds of free citizens — when an electric field arrives, the charges move freely across the entire body of the conductor, redistributing to cancel the field inside. But what about insulators — materials like glass, rubber, plastic, or pure water? In these materials, there are **no free charges**. Every electron is bound tightly to its parent atom. They cannot migrate.
+Conductors are like crowds of free citizens — when an electric field arrives, the charges move freely across the entire body of the conductor, redistributing to cancel the field inside. But what about insulators — materials like glass, rubber, plastic, or pure water?<br> In these materials, there are **no free charges**. Every electron is bound tightly to its parent atom. They cannot migrate.
 
-So when you place a piece of glass in an electric field, does nothing happen?
+So when you place a piece of glass in an electric field, does nothing happen?<br>
 
 Far from it. Something far more subtle occurs. The electrons cannot leave their atoms, but they can *shift* — slightly. Every atom in the material becomes a tiny electric dipole. The positive nucleus stays roughly in place, but the electron cloud is tugged slightly in the opposite direction to the field. Billions of atoms, all doing this simultaneously, create a macroscopic effect: the material **polarises**.
 
@@ -73,7 +73,7 @@ The force is **reduced** by a factor of $K$ inside a dielectric.
 
 ### Checkpoint 1: Conceptual Understanding
 
-**Problem 1:** A parallel plate capacitor has air between its plates and an electric field of $3 \times 10^4$ V/m. If a glass slab ($K = 5$) is inserted between the plates, what is the new electric field inside the glass?
+**Problem 1:** A parallel plate capacitor has air between its plates and an electric field of $3 \times 10^4$ V/m. If a glass slab ($K = 5$) is inserted between the plates, what is the new electric field inside the glass?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -82,7 +82,7 @@ $E_{glass} = \frac{E_0}{K} = \frac{3 \times 10^4}{5} = \textbf{6000 V/m}$
 The field is reduced by a factor of 5 inside the glass.
 </details>
 
-**Problem 2:** Two point charges of $+2\mu C$ each are held $10$ cm apart in vacuum. What is the force between them? If the same charges are placed $10$ cm apart inside water ($K = 80$), what is the new force?
+**Problem 2:** Two point charges of $+2\mu C$ each are held $10$ cm apart in vacuum. What is the force between them?<br> If the same charges are placed $10$ cm apart inside water ($K = 80$), what is the new force?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -93,7 +93,7 @@ In water: $F = \frac{F_0}{K} = \frac{3.6}{80} = \textbf{0.045 N}$
 The electrostatic force is 80 times weaker in water. This is why NaCl dissolves in water but not in oil ($K \approx 2$) — water weakens the ionic bond enough for thermal energy to pull the ions apart.
 </details>
 
-**Problem 3:** Is it correct to say that a dielectric "blocks" the electric field? Why or why not?
+**Problem 3:** Is it correct to say that a dielectric "blocks" the electric field?<br> Why or why not?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -108,7 +108,7 @@ A more accurate statement: "A dielectric partially screens the electric field by
 
 *An engineer is testing the effect of different dielectric materials in a parallel plate capacitor. The plates are separated by $5$ mm, and a potential difference of $100$ V is applied across them.*
 
-**Problem 1:** What is the electric field between the plates (without any dielectric)?
+**Problem 1:** What is the electric field between the plates (without any dielectric)?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -117,7 +117,7 @@ $E_0 = \frac{V}{d} = \frac{100}{5 \times 10^{-3}} = \textbf{20,000 V/m = 20 kV/m
 
 *She inserts a mica slab ($K = 6$) that completely fills the gap between the plates. The battery remains connected.*
 
-**Problem 2:** What is the electric field inside the mica?
+**Problem 2:** What is the electric field inside the mica?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -134,7 +134,7 @@ This is a critical distinction:
 
 *She now disconnects the battery and then inserts a fresh mica slab ($K = 6$).*
 
-**Problem 3:** What is the electric field inside the mica now?
+**Problem 3:** What is the electric field inside the mica now?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -145,7 +145,7 @@ $E = \frac{E_0}{K} = \frac{20000}{6} = \textbf{3333 V/m}$
 The field is reduced by a factor of 6.
 </details>
 
-**Problem 4:** What is the new voltage across the plates?
+**Problem 4:** What is the new voltage across the plates?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -176,7 +176,7 @@ The voltage dropped from 100 V to 16.67 V. The "missing" voltage is being used t
 
 (a) Find the initial charge, field, and energy.  
 (b) A dielectric slab of $K = 4$ and thickness $2$ mm (full gap) is inserted. Find the new charge, field, voltage, and energy.  
-(c) Where did the "missing" energy go?
+(c) Where did the "missing" energy go?<br>
 
 <details><summary><b>Solution</b></summary>
 
@@ -216,7 +216,7 @@ Energy reduced by factor $K$: $U = U_0/K = 0.885/4 = 0.221$ μJ ✓
 
 (a) Increases &emsp; (b) Decreases by factor $K$ &emsp; (c) Remains same &emsp; (d) Doubles
 
-<details><summary><b>Answer</b></summary>**(b)** Battery disconnected → $Q$ constant. $E = \sigma/\epsilon_0$ stays if $Q$ is constant? No — $E_{inside} = E_0/K$ in the dielectric. So $E$ decreases by $K$.</details>
+<details><summary><b>Answer</b></summary>**(b)** Battery disconnected → $Q$ constant. $E = \sigma/\epsilon_0$ stays if $Q$ is constant?<br> No — $E_{inside} = E_0/K$ in the dielectric. So $E$ decreases by $K$.</details>
 
 ---
 
@@ -334,7 +334,7 @@ Energy reduced by factor $K$: $U = U_0/K = 0.885/4 = 0.221$ μJ ✓
 
 ### Section B: Short Answer Questions
 
-**Q16.** Distinguish between polar and non-polar dielectrics with examples. Which has a larger dielectric constant?
+**Q16.** Distinguish between polar and non-polar dielectrics with examples. Which has a larger dielectric constant?<br>
 
 <details><summary><b>Answer</b></summary>
 
@@ -557,7 +557,7 @@ Both capacitors have the same charge (series): $Q_1 = Q_2 = \mathbf{600\,\mu C}$
 
 ---
 
-**Q31.** A capacitor of $4\,\mu F$ is charged to $50$ V with air. A dielectric of $K = 5$ is now inserted with the battery disconnected. What is the new potential difference?
+**Q31.** A capacitor of $4\,\mu F$ is charged to $50$ V with air. A dielectric of $K = 5$ is now inserted with the battery disconnected. What is the new potential difference?<br>
 
 <details><summary><b>Answer</b></summary>
 

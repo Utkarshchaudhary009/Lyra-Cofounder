@@ -1,6 +1,6 @@
 
 
-# 🎤 The Paradox of Choice: Does More Freedom Make Us Less Happy?
+# 🎤 The Paradox of Choice: Does More Freedom Make Us Less Happy?<br>
 
 *As delivered by a 16-year-old student from Uttar Pradesh*
 
@@ -13,7 +13,7 @@ You passed. Good marks.
 And before you can even feel happy —
 *someone* asks you:
 
-**"Toh ab kya loge? Science? Commerce? Arts?"**
+**"Toh ab kya loge?<br> Science?<br> Commerce?<br> Arts?<br>"**
 
 And suddenly, the happiness is gone.
 Because now you have to *choose.*
@@ -39,9 +39,9 @@ They make us more afraid.**
 An American psychologist named Barry Schwartz did a study.
 One group could choose from 6 options. Another from 24.
 The people with *fewer* choices were happier with what they picked.
-Why? Because when you have 24 options, you spend the rest of your life wondering about the 23 you didn't choose.
+Why?<br> Because when you have 24 options, you spend the rest of your life wondering about the 23 you didn't choose.
 
-Sound familiar?
+Sound familiar?<br>
 When we are choosing between Science and Commerce — we don't just choose a stream.
 We carry the weight of every stream we *didn't* take.
 Forever.
@@ -106,7 +106,7 @@ and meant it completely.
 |---|---|---|
 | **Opening scene** | Supermarket jam aisle | Class 10 results + stream selection |
 | **Core example** | Generic Western study | Reframed with Indian student anxiety |
-| **Cultural voice** | Neutral/Western | Hindi phrase drop (*"Toh ab kya loge?"*), UP student POV |
+| **Cultural voice** | Neutral/Western | Hindi phrase drop (*"Toh ab kya loge?<br>"*), UP student POV |
 | **Career references** | Abstract | JEE/NEET stream pressure, coaching paralysis |
 | **Emotional anchor** | Consumer satisfaction | Academic identity and self-worth |
 | **Teacher acknowledgment** | None | Directly addressed — *"the teachers I most respect"* |
