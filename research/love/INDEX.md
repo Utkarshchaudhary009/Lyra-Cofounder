@@ -54,6 +54,12 @@ Every claim here was built by questioning until nothing was left to question. No
 |---|---------|-------------|
 | 9 | [The Countdown Situation](./09-applied-the-countdown-situation.md) | Met a genuinely good person with a separation deadline — the countdown effect, "right person wrong time" deconstructed, practical options |
 
+### Part VI: Lessons from the Field
+
+| # | Chapter | Description |
+|---|---------|-------------|
+| 10 | [Lessons from the Field](./10-lessons-from-the-field.md) | Real-world lessons from three relationships — directness vs. indirectness, loyalty tests, proxy communication, the attraction-connection split, the wrong lesson trap, and emotional recovery |
+
 ---
 
 ## Core Principles
@@ -66,5 +72,5 @@ Every claim here was built by questioning until nothing was left to question. No
 
 ---
 
-*Last updated: April 18, 2026*
+*Last updated: May 23, 2026*
 *Status: Living document — always open to revision*
