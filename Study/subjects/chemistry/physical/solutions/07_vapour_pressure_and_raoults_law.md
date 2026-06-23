@@ -195,8 +195,7 @@ Answer: VP(H₂O) < VP(CHCl₃)
 **7.1b:** Water has hydrogen bonding (strongest); ethanol has hydrogen bonding (weaker than water due to larger nonpolar part); diethyl ether has dipole-dipole only.
 **Increasing VP: water < ethanol < diethyl ether**
 
-**7.1c:** Stronger IMF → molecules harder to escape → **VP<br>
-(B) < 200 torr**
+**7.1c:** Stronger IMF → molecules harder to escape → **VP           (B) < 200 torr**
 
 **7.1d:** VP is related to equilibrium constant K_p for vaporization. K_p = e^(−ΔH/RT). Since ΔH_vap > 0, as T increases, K_p increases exponentially (Arrhenius-type). Hence VP is exponential, not linear.
 </details>
@@ -232,18 +231,8 @@ Compare with P_T = P°_B + χ_A(P°_A − P°_B):
 | 7.2b | Equal moles of A (P° = 200) and B (P° = 500). Find P_total. | 🟢 |
 | 7.2c | At 300 K, 1 mol hexane + 3 mol heptane → P_T = 550 mm. Adding 1 more mol heptane → P_T = 560 mm. Find P°_heptane. ⭐ | 🔴 |
 | 7.2d | If P_T = 250X_B + 150, find P°_A and P°_B. | 🟡 |
-| DPP 6.7 | The vapour pressure of pure CHCl₃ and CH₂Cl₂ are 200 and 41.5 atm respectively. The weight of CHCl₃ and CH₂Cl₂ are 11.9 g and 17 g respectively in a solution. The vapour pressure of solution (in atm) will be: <br>
-(A) 80.5 <br>
-(B) 79.5 <br>
-(C)
- 94.3 <br>
-(D) 105.5 | 🟡 |
-| DPP 8.8 | Two liquids A and B form ideal solutions. At 300 K, the vapour pressure of a solution containing 1 mole of A and 3 moles of B is 550 mmHg. At the same temperature, if one more mole of B is added to this solution, the vapour pressure of the solution increases by 10 mmHg. The vapour pressure of A and B in their pure states (in mmHg) are respectively: <br>
-(A) 400, 600 <br>
-(B) 500, 500 <br>
-(C)
- 600, 400 <br>
-(D) None of these | 🔴 |
+| DPP 6.7 | The vapour pressure of pure CHCl₃ and CH₂Cl₂ are 200 and 41.5 atm respectively. The weight of CHCl₃ and CH₂Cl₂ are 11.9 g and 17 g respectively in a solution. The vapour pressure of solution (in atm) will be:   (A) 80.5   (B) 79.5   (C) 94.3   (D) 105.5 | 🟡 |
+| DPP 8.8 | Two liquids A and B form ideal solutions. At 300 K, the vapour pressure of a solution containing 1 mole of A and 3 moles of B is 550 mmHg. At the same temperature, if one more mole of B is added to this solution, the vapour pressure of the solution increases by 10 mmHg. The vapour pressure of A and B in their pure states (in mmHg) are respectively:   (A) 400, 600   (B) 500, 500   (C) 600, 400   (D) None of these | 🔴 |
 
 <details>
 <summary>💡 Solutions for Type 2</summary>
@@ -265,15 +254,12 @@ Compare with P_T = P°_B + χ_A(P°_A − P°_B):
 **DPP 6.7:** Molar mass of CHCl₃ = 12 + 1 + 3×35.5 = 119. Molar mass of CH₂Cl₂ = 12 + 2 + 2×35.5 = 85.
 n_CHCl₃ = 11.9 / 119 = 0.1 mol; n_CH₂Cl₂ = 17 / 85 = 0.2 mol. Total moles = 0.3 mol.
 χ_CHCl₃ = 0.1/0.3 = 1/3; χ_CH₂Cl₂ = 0.2/0.3 = 2/3.
-P_total = P°_CHCl₃ × χ_CHCl₃ + P°_CH₂Cl₂ × χ_CH₂Cl₂ = 200 × (1/3) + 41.5 × (2/3) = 66.67 + 27.67 = **94.34 atm ≈ 94.3 atm → Answer: <br>
-(C)
-**
+P_total = P°_CHCl₃ × χ_CHCl₃ + P°_CH₂Cl₂ × χ_CH₂Cl₂ = 200 × (1/3) + 41.5 × (2/3) = 66.67 + 27.67 = **94.34 atm ≈ 94.3 atm → Answer:        (C) *
 
 **DPP 8.8:** Let pure state VP be P°_A and P°_B.
 Case 1: n_A = 1, n_B = 3 → χ_A = 0.25, χ_B = 0.75. P_T = 0.25P°_A + 0.75P°_B = 550.
 Case 2: n_A = 1, n_B = 4 → χ_A = 0.20, χ_B = 0.80. P_T = 0.20P°_A + 0.80P°_B = 560.
-Solving simultaneously yields P°_A = **400 mmHg** and P°_B = **600 mmHg → Answer: <br>
-(A)**
+Solving simultaneously yields P°_A = **400 mmHg** and P°_B = **600 mmHg → Answer:    (A)**
 </details>
 
 ---
@@ -306,12 +292,7 @@ Vapour is richer in B (more volatile: P°_B > P°_A).
 | 7.3b | P°_A = 300 torr, P°_B = 800 torr, χ_A = 0.6. Find Y_A, Y_B. ⭐ | 🟡 |
 | 7.3c | P°_A > P°_B. If X_A = Y_A, what can you conclude?<br> | 🔴 |
 | 7.3d | A liquid mixture has P°_A = 350, P°_B = 750 mm Hg. Find X_A if Y_A = Y_B. | 🔴 |
-| DPP 6.3 | The vapour pressure of pure benzene and toluene are 160 and 60 torr respectively. The mole fraction of toluene in vapour phase in contact with equimolar solution of benzene and toluene is: <br>
-(A) 0.50 <br>
-(B) 0.6 <br>
-(C)
- 0.27 <br>
-(D) 0.73 | 🟡 |
+| DPP 6.3 | The vapour pressure of pure benzene and toluene are 160 and 60 torr respectively. The mole fraction of toluene in vapour phase in contact with equimolar solution of benzene and toluene is:    (A) 0.50            (B) 0.6        (C) 0.27            (D) 0.73 | 🟡 |
 
 <details>
 <summary>💡 Solutions for Type 3</summary>
@@ -329,9 +310,7 @@ Vapour is richer in B (more volatile: P°_B > P°_A).
 
 **DPP 6.3:** Equimolar solution means χ_benz = 0.5, χ_tol = 0.5.
 P_benz = 160 × 0.5 = 80 torr; P_tol = 60 × 0.5 = 30 torr. Total pressure = 80 + 30 = 110 torr.
-Y_tol = P_tol / P_total = 30 / 110 = **0.2727 ≈ 0.27 → Answer: <br>
-(C)
-**
+Y_tol = P_tol / P_total = 30 / 110 = **0.2727 ≈ 0.27 → Answer:        (C) *
 </details>
 
 ---
@@ -376,66 +355,16 @@ MM = 4.35/0.0667 = 65.25 g/mol
 | 7.4c | 20 g non-ionic solute in 100 g water. VP drops from 17.54 to 17.24 mm. Find MM. | 🟡 |
 | 7.4d | Benzene VP = 750 mm at 80°C. Adding 2 g non-volatile substance to 78 g benzene drops VP by 10 mm. Find MM. ⭐ | 🟡 |
 | 7.4e | Mass of urea needed to reduce VP of water by 25% at some temperature. | 🔴 |
-| DPP 6.1 | Which of the following is the expression of Raoult's law?<br> (p = vapour pressure of pure solvent, ps = vapour pressure of the solution, n = moles of solute, N = moles of solvent) <br>
-(A) (p − ps)/ps = n/N <br>
-(B) (p − ps)/p = N/(N+n) <br>
-(C)
- (p − ps)/ps = N/n <br>
-(D) (ps − p)/p = (N − n)/N | 🟢 |
-| DPP 6.2 | The vapour pressure of water at room temperature is lowered by 5% by dissolving a solute in it, then the approximately molality of solution is: <br>
-(A) 2 <br>
-(B) 1 <br>
-(C)
- 4 <br>
-(D) 3 | 🟡 |
-| DPP 6.4 | Relative lowering of vapour pressure of a dilute solution is 0.2. What is the mole fraction of the non-volatile solute?<br> <br>
-(A) 0.8 <br>
-(B) 0.5 <br>
-(C)
- 0.3 <br>
-(D) 0.2 | 🟢 |
-| DPP 6.5 | The statement "the relative lowering of the vapour pressure is equal to the ratio of moles of the solute to the total number of the moles in the solution" refers to: <br>
-(A) Hess's law <br>
-(B) Dalton's law <br>
-(C)
- Raoult's law <br>
-(D) Charles' law | 🟢 |
-| DPP 6.6 | The vapour pressure of water at 20°C is 17.54 mm. When 20 g of non-ionic substance is dissolved in 100 g of water, the vapour pressure is lowered by 0.30 mm. What is the molecular weight of the substance?<br> <br>
-(A) 210.48 <br>
-(B) 206.88 <br>
-(C)
- 215.2 <br>
-(D) 200.8 | 🟡 |
-| DPP 6.8 | The vapour pressure lowering caused by the addition of 100 g of sucrose (molecular mass = 342) to 1000 g of water if the vapour pressure of pure water at 25ºC is 23.8 mm Hg, is: <br>
-(A) 1.25 mm Hg <br>
-(B) 0.125 mm Hg <br>
-(C)
- 1.15 mm Hg <br>
-(D) 0.012 mm Hg | 🟢 |
-| DPP 7.2 | For a dilute solution, Raoult's law states that: <br>
-(A) The lowering of vapour pressure is equal to mole fraction of solute <br>
-(B) The relative lowering of vapour pressure is equal to mole fraction of solute <br>
-(C)
- The relative lowering of vapour pressure is proportional to the amount of solute in solution <br>
-(D) The vapour pressure of the solution is equal to the mole fraction of solvent | 🟢 |
-| DPP 7.6 | The relative lowering of vapour pressure of a dilute aqueous solution containing non-volatile solute is 0.0125. The molality of the solution is about: <br>
-(A) 0.70 <br>
-(B) 0.50 <br>
-(C)
- 0.90 <br>
-(D) 0.80 | 🟡 |
-| DPP 7.8 | Which of the following is incorrect?<br> <br>
-(A) Relative lowering of vapour pressure is independent of the nature of the solute and the solvent. <br>
-(B) The relative lowering of vapour pressure is a colligative property. <br>
-(C)
- Vapour pressure of a solution is lower than the vapour pressure of the solvent. <br>
-(D) The relative lowering of vapour pressure is directly proportional to the original pressure. | 🟢 |
-| DPP 7.9 | The mass of a non-volatile solute of molar mass 40 g mol⁻¹ that should be dissolved in 114 g of Octane to lower its vapour pressure by 20% is: <br>
-(A) 10 g <br>
-(B) 11.4 g <br>
-(C)
- 9.8 g <br>
-(D) 12.8 g | 🔴 |
+| DPP 6.1 | Which of the following is the expression of Raoult's law?<br> (p = vapour pressure of pure solvent, ps = vapour pressure of the solution, n = moles of solute, N = moles of solvent)    (A) (p − ps)/ps = n/N            (B) (p − ps)/p = N/(N+n)        (C) (p − ps)/ps = N/n            (D) (ps − p)/p = (N − n)/N | 🟢 |
+| DPP 6.2 | The vapour pressure of water at room temperature is lowered by 5% by dissolving a solute in it, then the approximately molality of solution is:    (A) 2            (B) 1        (C) 4            (D) 3 | 🟡 |
+| DPP 6.4 | Relative lowering of vapour pressure of a dilute solution is 0.2. What is the mole fraction of the non-volatile solute?<br>    (A) 0.8            (B) 0.5        (C) 0.3            (D) 0.2 | 🟢 |
+| DPP 6.5 | The statement "the relative lowering of the vapour pressure is equal to the ratio of moles of the solute to the total number of the moles in the solution" refers to:    (A) Hess's law            (B) Dalton's law        (C) Raoult's law            (D) Charles' law | 🟢 |
+| DPP 6.6 | The vapour pressure of water at 20°C is 17.54 mm. When 20 g of non-ionic substance is dissolved in 100 g of water, the vapour pressure is lowered by 0.30 mm. What is the molecular weight of the substance?<br>    (A) 210.48            (B) 206.88        (C) 215.2            (D) 200.8 | 🟡 |
+| DPP 6.8 | The vapour pressure lowering caused by the addition of 100 g of sucrose (molecular mass = 342) to 1000 g of water if the vapour pressure of pure water at 25ºC is 23.8 mm Hg, is:    (A) 1.25 mm Hg            (B) 0.125 mm Hg        (C) 1.15 mm Hg            (D) 0.012 mm Hg | 🟢 |
+| DPP 7.2 | For a dilute solution, Raoult's law states that:    (A) The lowering of vapour pressure is equal to mole fraction of solute            (B) The relative lowering of vapour pressure is equal to mole fraction of solute        (C) The relative lowering of vapour pressure is proportional to the amount of solute in solution            (D) The vapour pressure of the solution is equal to the mole fraction of solvent | 🟢 |
+| DPP 7.6 | The relative lowering of vapour pressure of a dilute aqueous solution containing non-volatile solute is 0.0125. The molality of the solution is about:    (A) 0.70            (B) 0.50        (C) 0.90            (D) 0.80 | 🟡 |
+| DPP 7.8 | Which of the following is incorrect?<br>    (A) Relative lowering of vapour pressure is independent of the nature of the solute and the solvent.            (B) The relative lowering of vapour pressure is a colligative property.        (C) Vapour pressure of a solution is lower than the vapour pressure of the solvent.            (D) The relative lowering of vapour pressure is directly proportional to the original pressure. | 🟢 |
+| DPP 7.9 | The mass of a non-volatile solute of molar mass 40 g mol⁻¹ that should be dissolved in 114 g of Octane to lower its vapour pressure by 20% is:    (A) 10 g            (B) 11.4 g        (C) 9.8 g            (D) 12.8 g | 🔴 |
 
 <details>
 <summary>💡 Solutions for Type 4</summary>
@@ -457,46 +386,34 @@ RLVP = 0.25 = n_urea/(n_urea + n_H₂O)
 0.25(n_urea + 55.56) = n_urea → 0.75n_urea = 13.89 → n_urea = 18.52 mol
 **W_urea = 18.52 × 60 = 1111 g per 1000g water**
 
-**DPP 6.1:** Modified form of Raoult's law states: (p − ps)/ps = n/N. This relates the lowering of vapour pressure directly to the moles of solute and solvent. → **Answer: <br>
-(A)**
+**DPP 6.1:** Modified form of Raoult's law states: (p − ps)/ps = n/N. This relates the lowering of vapour pressure directly to the moles of solute and solvent. → **Answer:    (A)**
 
 **DPP 6.2:** Lowered by 5% means RLVP = (p − ps)/p = 0.05 = χ_solute.
-Formula: m = (χ_solute × 1000) / (χ_solvent × 18) = (0.05 × 1000) / (0.95 × 18) = 50 / 17.1 = **2.92 m ≈ 3 m → Answer: <br>
-(D)**
+Formula: m = (χ_solute × 1000) / (χ_solvent × 18) = (0.05 × 1000) / (0.95 × 18) = 50 / 17.1 = **2.92 m ≈ 3 m → Answer:            (D)**
 
-**DPP 6.4:** RLVP directly equals the mole fraction of the non-volatile solute by Raoult's Law. Thus, χ_solute = **0.2 → Answer: <br>
-(D)**
+**DPP 6.4:** RLVP directly equals the mole fraction of the non-volatile solute by Raoult's Law. Thus, χ_solute = **0.2 → Answer:            (D)**
 
-**DPP 6.5:** This is the exact textbook definition of Raoult's law for solutions containing non-volatile solutes. → **Answer: <br>
-(C)
-**
+**DPP 6.5:** This is the exact textbook definition of Raoult's law for solutions containing non-volatile solutes. → **Answer:        (C) *
 
 **DPP 6.6:** Lowering ΔP = p − ps = 0.30 mm. p = 17.54 mm. Modified formula: (p − ps)/ps = n/N.
 ps = 17.54 − 0.30 = 17.24 mm.
-0.30 / 17.24 = (20/MM) / (100/18) = (20/MM) / 5.556 → MM = (20 × 17.24) / (0.30 × 5.556) = 344.8 / 1.6667 = **206.88 g/mol → Answer: <br>
-(B)**
+0.30 / 17.24 = (20/MM) / (100/18) = (20/MM) / 5.556 → MM = (20 × 17.24) / (0.30 × 5.556) = 344.8 / 1.6667 = **206.88 g/mol → Answer:            (B)**
 
 **DPP 6.8:** n_sucrose = 100 / 342 = 0.2924 mol; n_water = 1000 / 18 = 55.56 mol.
 χ_sucrose = 0.2924 / (0.2924 + 55.56) = 0.2924 / 55.8524 = 0.005235.
-ΔP = P° × χ_sucrose = 23.8 × 0.005235 = **0.1246 mm Hg ≈ 0.125 mm Hg → Answer: <br>
-(B)**
+ΔP = P° × χ_sucrose = 23.8 × 0.005235 = **0.1246 mm Hg ≈ 0.125 mm Hg → Answer:            (B)**
 
-**DPP 7.2:** For a dilute solution containing a non-volatile solute, Raoult's law states that the relative lowering of vapour pressure is equal to the mole fraction of the solute. → **Answer: <br>
-(B)**
+**DPP 7.2:** For a dilute solution containing a non-volatile solute, Raoult's law states that the relative lowering of vapour pressure is equal to the mole fraction of the solute. → **Answer:            (B)**
 
 **DPP 7.6:** RLVP = χ_solute = 0.0125 → χ_water = 0.9875.
-m = (0.0125 × 1000) / (0.9875 × 18) = 12.5 / 17.775 = **0.703 m ≈ 0.70 m → Answer: <br>
-(A)**
+m = (0.0125 × 1000) / (0.9875 × 18) = 12.5 / 17.775 = **0.703 m ≈ 0.70 m → Answer:    (A)**
 
-**DPP 7.8:** RLVP is independent of the nature of the solute (colligative property). However, it depends on the solvent's properties in some formulations, but the statement <br>
-(D) "directly proportional to the original pressure" is mathematically incorrect as RLVP is the *ratio* of lowering to the original pressure (ΔP/P°). → **Answer: <br>
-(D)**
+**DPP 7.8:** RLVP is independent of the nature of the solute (colligative property). However, it depends on the solvent's properties in some formulations, but the statement            (D) "directly proportional to the original pressure" is mathematically incorrect as RLVP is the *ratio* of lowering to the original pressure (ΔP/P°). → **Answer:            (D)**
 
 **DPP 7.9:** Octane (C₈H₁₈) MM = 8×12 + 18 = 114 g/mol. Mass of octane = 114 g → n_octane = 1 mol.
 Lower VP by 20% means RLVP = 0.20 = n_solute / (n_solute + n_octane).
 0.20(n_solute + 1) = n_solute → 0.20 = 0.80n_solute → n_solute = 0.25 mol.
-Mass of solute = 0.25 mol × 40 g/mol = **10 g → Answer: <br>
-(A)**
+Mass of solute = 0.25 mol × 40 g/mol = **10 g → Answer:    (A)**
 </details>
 
 ---
@@ -856,92 +773,56 @@ VP₂/80 = 10^0.2888 = 1.945
 
 **Q7.J1 🟡 ⭐**
 Vapour pressure of pure A = 400 mm, pure B = 600 mm. Mole fraction of B in solution = 0.5. Mole fraction of B in vapour is:
-<br>
-(A) 0.5  <br>
-(B) 0.6  <br>
-(C)
- 0.55  <br>
-(D) 0.45
+   (A) 0.5             (B) 0.6         (C) 0.55             (D) 0.45
 
 **Q7.J2 🟡 ⭐**
 RLVP of a solution = 0.0125. Molality of the solution (in water) is approximately:
-<br>
-(A) 0.70 m  <br>
-(B) 0.35 m  <br>
-(C)
- 1.0 m  <br>
-(D) 0.125 m
+   (A) 0.70 m             (B) 0.35 m         (C) 1.0 m             (D) 0.125 m
 
 **Q7.J3 🔴**
 80 g benzene (MM=78) dissolved in 100 g toluene (MM=92). P°_benzene = 160 torr, P°_toluene = 60 torr. Y_benzene in vapour is:
-<br>
-(A) 0.72  <br>
-(B) 0.65  <br>
-(C)
- 0.80  <br>
-(D) 0.55
+   (A) 0.72             (B) 0.65         (C) 0.80             (D) 0.55
 
 **Q7.J4 🔴 ⭐**
 The vapour pressure of benzene at 80°C is 750 mm. When 2 g of non-volatile substance is dissolved in 78 g benzene, VP drops to 740 mm. The molar mass of the solute is:
-<br>
-(A) 148 g/mol  <br>
-(B) 74 g/mol  <br>
-(C)
- 65 g/mol  <br>
-(D) 156 g/mol
+   (A) 148 g/mol             (B) 74 g/mol         (C) 65 g/mol             (D) 156 g/mol
 
 **Q7.J5 🔴**
 When a non-volatile solute is dissolved in water, VP decreases by 10 mm and χ_solute = 0.2. If VP decreases by 20 mm, the mole fraction of solvent is:
-<br>
-(A) 0.4  <br>
-(B) 0.6  <br>
-(C)
- 0.8  <br>
-(D) 0.2
+   (A) 0.4             (B) 0.6         (C) 0.8             (D) 0.2
 
 **Q7.J6 🟡 ⭐**
 The vapour pressure of a liquid is 100 torr at 300 K and 300 torr at 330 K. What is ΔH_vap in kJ/mol?<br> (R = 8.314 J/mol·K)
-<br>
-(A) 24.5  <br>
-(B) 30.1  <br>
-(C)
- 36.8  <br>
-(D) 42.0
+   (A) 24.5             (B) 30.1         (C) 36.8             (D) 42.0
 
 <details>
 <summary>💡 Full Solutions — JEE Mains Arena</summary>
 
-**7.J1 → Answer: <br>
-(B)**
+**7.J1 → Answer:            (B)**
 - χ_B = 0.5, χ_A = 0.5; P_A = 400×0.5=200; P_B = 600×0.5=300; P_T = 500
 - **Y_B = 300/500 = 0.6 ✓**
 
-**7.J2 → Answer: <br>
-(A)**
+**7.J2 → Answer:    (A)**
 - χ_solute = RLVP = 0.0125 → χ_water = 0.9875
 - m = (0.0125×1000)/(0.9875×18) = 12.5/17.775 = **0.703 m ≈ 0.70 m ✓**
 
-**7.J3 → Answer: <br>
-(A)**
+**7.J3 → Answer:    (A)**
 - n_benz = 80/78 = 1.026; n_tol = 100/92 = 1.087; Total = 2.113
 - χ_benz = 0.4857; χ_tol = 0.5143
 - P_benz = 160×0.4857 = 77.7; P_tol = 60×0.5143 = 30.86; P_T = 108.56
 - **Y_benz = 77.7/108.56 = 0.716 ≈ 0.72 ✓**
 
-**7.J4 → Answer: <br>
-(A)**
+**7.J4 → Answer:    (A)**
 - n_benz = 78/78 = 1 mol
 - (P°−P_s)/P_s = n_solute/n_solvent → (750−740)/740 = (2/MM)/1
 - 10/740 = 2/MM → **MM = 2×740/10 = 148 g/mol ✓**
 
-**7.J5 → Answer: <br>
-(B)**
+**7.J5 → Answer:            (B)**
 - From case 1: ΔP_1 = P° × χ_solute_1 = 10; χ_solute_1 = 0.2 → P° = 10/0.2 = 50 mm
 - Case 2: ΔP_2 = 20 mm; χ_solute_2 = 20/50 = 0.4
 - **χ_solvent = 1 − 0.4 = 0.6 ✓**
 
-**7.J6 → Answer: <br>
-(B)**
+**7.J6 → Answer:            (B)**
 - log(300/100) = (ΔH_vap / 2.303 × 8.314) × (1/300 − 1/330)
 - log(3) = 0.4771 = (ΔH_vap / 19.147) × (0.003333 − 0.003030) = (ΔH_vap / 19.147) × 0.000303
 - ΔH_vap / 19.147 = 0.4771 / 0.000303 = 1574.6
@@ -969,49 +850,34 @@ The vapour pressure of a liquid is 100 torr at 300 K and 300 torr at 330 K. What
 
 **Directions:** These questions test your psychological resilience against tricky phrasing. 
 - For **Assertion-Reason**, choose:
-  <br>
-(A) Both A and R are true, and R is the correct explanation of A.
-  <br>
-(B) Both A and R are true, but R is NOT the correct explanation of A.
-  <br>
-(C)
- A is true but R is false.
-  <br>
-(D) A is false but R is true.
+     (A) Both A and R are true, and R is the correct explanation of A.
+             (B) Both A and R are true, but R is NOT the correct explanation of A.
+         (C) A is true but R is false.
+             (D) A is false but R is true.
 - For **Statement I/II**, choose based on whether each statement is correct or incorrect.
 
 | # | Question | Difficulty |
 |---|----------|------------|
-| 7.S1 | **Assertion <br>
-(A):** The vapour pressure of a liquid increases exponentially with an increase in temperature.<br>**Reason (R):** The Clausius-Clapeyron equation dictates that $\ln(P)$ is directly proportional to $T$. | 🟡 |
+| 7.S1 | **Assertion    (A):** The vapour pressure of a liquid increases exponentially with an increase in temperature.<br>**Reason (R):** The Clausius-Clapeyron equation dictates that $\ln(P)$ is directly proportional to $T$. | 🟡 |
 | 7.S2 | **Statement I:** If the volume of the container enclosing a liquid-vapour equilibrium is suddenly doubled at constant temperature, the vapour pressure will eventually halve.<br>**Statement II:** Vapour pressure is an intensive property and is independent of the volume of the container or the amount of liquid present. | 🟢 |
-| 7.S3 | **Assertion <br>
-(A):** For an ideal liquid mixture of A and B, if $P_A^\circ > P_B^\circ$, the mole fraction of A in the vapour phase ($Y_A$) is always strictly greater than its mole fraction in the liquid phase ($\chi_A$).<br>**Reason (R):** The vapour phase is always richer in the more volatile component compared to the liquid phase. | 🟡 |
+| 7.S3 | **Assertion    (A):** For an ideal liquid mixture of A and B, if $P_A^\circ > P_B^\circ$, the mole fraction of A in the vapour phase ($Y_A$) is always strictly greater than its mole fraction in the liquid phase ($\chi_A$).<br>**Reason (R):** The vapour phase is always richer in the more volatile component compared to the liquid phase. | 🟡 |
 | 7.S4 | **Statement I:** The formula $\frac{P^\circ - P_s}{P_s} = \frac{n_{solute}}{n_{solvent}}$ is an exact mathematical relationship derived from Raoult's Law.<br>**Statement II:** The formula $\frac{P^\circ - P_s}{P^\circ} = \frac{n_{solute}}{n_{solvent}}$ is an approximation that only holds for very dilute solutions. | 🟢 |
-| 7.S5 | **Assertion <br>
-(A):** Addition of a non-volatile solute to a volatile solvent increases the rate of evaporation of the solvent.<br>**Reason (R):** Solute molecules occupy surface area, increasing the internal energy of the solvent molecules. | 🟢 |
+| 7.S5 | **Assertion    (A):** Addition of a non-volatile solute to a volatile solvent increases the rate of evaporation of the solvent.<br>**Reason (R):** Solute molecules occupy surface area, increasing the internal energy of the solvent molecules. | 🟢 |
 | 7.S6 | **Statement I:** If two volatile liquids A and B are mixed, and $P_A^\circ = 500\text{ torr}$ while $P_B^\circ = 200\text{ torr}$, the total vapour pressure of any mixture of A and B must lie strictly between $200\text{ torr}$ and $500\text{ torr}$.<br>**Statement II:** Total pressure $P_T = P_B^\circ + \chi_A(P_A^\circ - P_B^\circ)$, which is a linear interpolation between the pure vapour pressures. | 🟡 |
-| 7.S7 | **Assertion <br>
-(A):** In a closed vessel, the vapour pressure of water is $23.8\text{ torr}$ at $25^\circ\text{C}$. If salt is dissolved in the water, the vapour pressure remains $23.8\text{ torr}$.<br>**Reason (R):** Vapour pressure is a constant at a given temperature. | 🟢 |
+| 7.S7 | **Assertion    (A):** In a closed vessel, the vapour pressure of water is $23.8\text{ torr}$ at $25^\circ\text{C}$. If salt is dissolved in the water, the vapour pressure remains $23.8\text{ torr}$.<br>**Reason (R):** Vapour pressure is a constant at a given temperature. | 🟢 |
 | 7.S8 | **Statement I:** When plotting $P_{total}$ versus the mole fraction of component A ($\chi_A$) for an ideal binary solution, the graph is a straight line.<br>**Statement II:** When plotting $P_{total}$ versus the mole fraction of component A in the vapour phase ($Y_A$), the graph is also a straight line. | 🔴 |
-| 7.S9 | **Assertion <br>
-(A):** Relative lowering of vapour pressure is equal to the mole fraction of the solute.<br>**Reason (R):** This statement is true only for dilute solutions of non-volatile solutes. | 🟡 |
+| 7.S9 | **Assertion    (A):** Relative lowering of vapour pressure is equal to the mole fraction of the solute.<br>**Reason (R):** This statement is true only for dilute solutions of non-volatile solutes. | 🟡 |
 | 7.S10 | **Statement I:** For a solution containing a non-volatile solute, $P_s = P^\circ \cdot \chi_{solvent}$. This implies that the vapour pressure of the solution is directly proportional to the mole fraction of the solute.<br>**Statement II:** As the mole fraction of the solute increases, the vapour pressure of the solution decreases. | 🟢 |
-| 7.S11 | **Assertion <br>
-(A):** Fractional distillation can separate any ideal liquid mixture completely into its pure components.<br>**Reason (R):** In an ideal mixture, there is no azeotrope formation, so the successive boiling and condensation constantly enriches the vapour in the more volatile component until purity is reached. | 🟡 |
+| 7.S11 | **Assertion    (A):** Fractional distillation can separate any ideal liquid mixture completely into its pure components.<br>**Reason (R):** In an ideal mixture, there is no azeotrope formation, so the successive boiling and condensation constantly enriches the vapour in the more volatile component until purity is reached. | 🟡 |
 | 7.S12 | **Statement I:** The mass of a solute can be determined exactly using the formula $\frac{\Delta P}{P^\circ} = \frac{W_{solute} \times M_{solvent}}{MM_{solute} \times W_{solvent}}$ for all concentrations.<br>**Statement II:** This formula incorrectly assumes $n_{solute} + n_{solvent} \approx n_{solvent}$, which is only valid for highly dilute solutions. | 🟡 |
-| 7.S13 | **Assertion <br>
-(A):** At $100^\circ\text{C}$, the vapour pressure of pure water is exactly $1\text{ atm}$.<br>**Reason (R):** The normal boiling point of a liquid is defined as the temperature at which its vapour pressure equals $1\text{ atm}$. | 🟢 |
+| 7.S13 | **Assertion    (A):** At $100^\circ\text{C}$, the vapour pressure of pure water is exactly $1\text{ atm}$.<br>**Reason (R):** The normal boiling point of a liquid is defined as the temperature at which its vapour pressure equals $1\text{ atm}$. | 🟢 |
 | 7.S14 | **Statement I:** If liquid A is more volatile than liquid B, then the intermolecular forces in liquid A are stronger than those in liquid B.<br>**Statement II:** Weaker intermolecular forces allow molecules to escape more easily into the vapour phase. | 🟢 |
-| 7.S15 | **Assertion <br>
-(A):** In an ideal solution of A and B, if $Y_A = Y_B = 0.5$, then the liquid must be equimolar ($\chi_A = \chi_B = 0.5$).<br>**Reason (R):** The composition of the vapour phase mirrors the composition of the liquid phase for ideal solutions. | 🔴 |
+| 7.S15 | **Assertion    (A):** In an ideal solution of A and B, if $Y_A = Y_B = 0.5$, then the liquid must be equimolar ($\chi_A = \chi_B = 0.5$).<br>**Reason (R):** The composition of the vapour phase mirrors the composition of the liquid phase for ideal solutions. | 🔴 |
 
 <details>
 <summary>💡 Detailed Explanations for Stage 7</summary>
 
-**7.S1 → Answer: <br>
-(C)
- A is true but R is false.**
+**7.S1 → Answer:        (C) A is true but R is false.**
 - A is true: VP increases exponentially with T.
 - R is false: The equation is $\ln(P) = -\frac{\Delta H_{vap}}{RT} + C$. So $\ln(P)$ is proportional to $1/T$, NOT to $T$.
 
@@ -1019,24 +885,21 @@ The vapour pressure of a liquid is 100 torr at 300 K and 300 torr at 330 K. What
 - Statement I is false: If volume is doubled, pressure initially drops, but liquid evaporates to restore the equilibrium VP. As long as some liquid remains, VP will return to its original value.
 - Statement II is true: VP depends only on temperature and the nature of the liquid.
 
-**7.S3 → Answer: <br>
-(A) Both A and R are true, and R is the correct explanation.**
+**7.S3 → Answer:    (A) Both A and R are true, and R is the correct explanation.**
 - Mathematically, if $P_A^\circ > P_B^\circ$, then $Y_A = \frac{P_A^\circ \chi_A}{P_A^\circ \chi_A + P_B^\circ \chi_B}$. Dividing numerator and denominator by $P_A^\circ \chi_A$, we see $Y_A > \chi_A$ because the denominator is less than $1 + (\text{something})$.
 
 **7.S4 → Statement I is True, Statement II is True.**
 - Statement I is true: $\frac{P^\circ - P_s}{P_s} = \frac{P^\circ - P^\circ \chi_1}{P^\circ \chi_1} = \frac{1-\chi_1}{\chi_1} = \frac{\chi_2}{\chi_1} = \frac{n_2}{n_1}$. This is EXACT.
 - Statement II is true: $\frac{P^\circ - P_s}{P^\circ} = \chi_2 = \frac{n_2}{n_1 + n_2}$. The approximation $\approx \frac{n_2}{n_1}$ only works if $n_2$ is negligible.
 
-**7.S5 → Answer: <br>
-(D) A is false but R is false.**
+**7.S5 → Answer:            (D) A is false but R is false.**
 - A is false: It DECREASES the rate of evaporation (lowers VP).
 - R is false: Solute molecules occupy surface area, physically blocking solvent escape. It does not increase internal energy.
 
 **7.S6 → Statement I is True, Statement II is True.**
 - This is the fundamental premise of Raoult's Law for ideal solutions. The total pressure is a weighted average of the pure component pressures.
 
-**7.S7 → Answer: <br>
-(D) A is false but R is true.**
+**7.S7 → Answer:            (D) A is false but R is true.**
 - A is false: Dissolving salt (non-volatile solute) LOWERS the vapour pressure. It will be less than $23.8\text{ torr}$.
 - R is true: VP of a *pure* liquid is constant at a given temperature, but the assertion describes a solution. (Wait, R says "Vapour pressure is a constant at a given temperature". Technically, this refers to pure VP, but since A is false, D is the best fit).
 
@@ -1044,9 +907,7 @@ The vapour pressure of a liquid is 100 torr at 300 K and 300 torr at 330 K. What
 - Statement I is true: $P_T = P_B^\circ + \chi_A(P_A^\circ - P_B^\circ)$ is a linear equation $y = mx + c$.
 - Statement II is false: $Y_A = \frac{P_A^\circ \chi_A}{P_T}$. When plotted against $Y_A$, the total pressure curve is NOT a straight line; it's a curve (hyperbola).
 
-**7.S9 → Answer: <br>
-(C)
- A is true but R is false.**
+**7.S9 → Answer:        (C) A is true but R is false.**
 - A is true: $\frac{\Delta P}{P^\circ} = \chi_2$.
 - R is false: This equation is EXACT for all concentrations of ideal solutions, not just dilute ones. The approximation comes in when relating mole fraction to mass ratios.
 
@@ -1054,24 +915,21 @@ The vapour pressure of a liquid is 100 torr at 300 K and 300 torr at 330 K. What
 - Statement I is false: VP is directly proportional to the mole fraction of the SOLVENT ($\chi_1$), not the solute ($\chi_2$).
 - Statement II is true: $P_s = P^\circ(1 - \chi_{solute})$.
 
-**7.S11 → Answer: <br>
-(A) Both A and R are true, and R is the correct explanation.**
+**7.S11 → Answer:    (A) Both A and R are true, and R is the correct explanation.**
 - This is the theoretical basis of fractional distillation for ideal liquid mixtures.
 
 **7.S12 → Statement I is False, Statement II is True.**
 - Statement I is false: This formula is an approximation.
 - Statement II is true: The exact formula uses $\frac{\Delta P}{P_s} = \frac{n_2}{n_1}$.
 
-**7.S13 → Answer: <br>
-(A) Both A and R are true, and R is the correct explanation.**
+**7.S13 → Answer:    (A) Both A and R are true, and R is the correct explanation.**
 - This is the definition of the normal boiling point.
 
 **7.S14 → Statement I is False, Statement II is True.**
 - Statement I is false: More volatile means it evaporates EASIER, which means WEAKER intermolecular forces.
 - Statement II is true: Self-explanatory.
 
-**7.S15 → Answer: <br>
-(D) A is false but R is false.**
+**7.S15 → Answer:            (D) A is false but R is false.**
 - A is false: If $Y_A = Y_B$, then $P_A^\circ \chi_A = P_B^\circ \chi_B$. Since $P_A^\circ \neq P_B^\circ$ generally, $\chi_A \neq \chi_B$.
 - R is false: Vapour composition NEVER mirrors liquid composition in an ideal mixture unless $P_A^\circ = P_B^\circ$ (which means they are essentially the same liquid in terms of volatility).
 
@@ -1085,227 +943,142 @@ The vapour pressure of a liquid is 100 torr at 300 K and 300 torr at 330 K. What
 
 **Q7.M1 🟢**
 At a given temperature, the vapour pressure of a pure liquid A is $P^\circ$. If the container's volume is halved, the vapour pressure will:
-<br>
-(A) Double
-<br>
-(B) Halve
-<br>
-(C)
- Remain $P^\circ$
-<br>
-(D) Become $P^\circ / 4$
+   (A) Double
+           (B) Halve       
+(C) Remain $P^\circ$
+           (D) Become $P^\circ / 4$
 
 **Q7.M2 🟡 (The "Wrong Denominator" Trap)**
 For a solution of a non-volatile solute in a solvent, the exact relationship for calculating molar mass from relative lowering of vapour pressure is:
-<br>
-(A) $\frac{P^\circ - P_s}{P^\circ} = \frac{n_{solute}}{n_{solvent}}$
-<br>
-(B) $\frac{P^\circ - P_s}{P_s} = \frac{n_{solute}}{n_{solvent}}$
-<br>
-(C)
- $\frac{P_s - P^\circ}{P^\circ} = \frac{n_{solute}}{n_{solvent}}$
-<br>
-(D) $\frac{P^\circ - P_s}{P_s} = \frac{n_{solvent}}{n_{solute}}$
+   (A) $\frac{P^\circ - P_s}{P^\circ} = \frac{n_{solute}}{n_{solvent}}$
+           (B) $\frac{P^\circ - P_s}{P_s} = \frac{n_{solute}}{n_{solvent}}$       
+(C) $\frac{P_s - P^\circ}{P^\circ} = \frac{n_{solute}}{n_{solvent}}$
+           (D) $\frac{P^\circ - P_s}{P_s} = \frac{n_{solvent}}{n_{solute}}$
 
 **Q7.M3 🔴**
 An ideal mixture of A and B has $P_A^\circ = 300\text{ torr}$ and $P_B^\circ = 600\text{ torr}$. If the total pressure of the mixture is $400\text{ torr}$, what is the mole fraction of A in the VAPOUR phase ($Y_A$)?<br>
-<br>
-(A) $0.66$
-<br>
-(B) $0.33$
-<br>
-(C)
- $0.50$
-<br>
-(D) $0.75$
+   (A) $0.66$
+           (B) $0.33$       
+(C) $0.50$
+           (D) $0.75$
 
 **Q7.M4 🟡**
 To exactly halve the vapour pressure of a solvent (from $P^\circ$ to $0.5 P^\circ$) by adding a non-volatile solute, the ratio of moles of solute to moles of solvent ($n_{solute}/n_{solvent}$) must be:
-<br>
-(A) $0.5$
-<br>
-(B) $1.0$
-<br>
-(C)
- $2.0$
-<br>
-(D) $0.25$
+   (A) $0.5$
+           (B) $1.0$       
+(C) $2.0$
+           (D) $0.25$
 
 **Q7.M5 🟡 (The "Non-Volatile Definition" Trap)**
 A solution is prepared by mixing $10\text{ g}$ of glucose (non-volatile) and $10\text{ g}$ of urea (non-volatile) in $100\text{ g}$ of water. Which of the following is responsible for the vapour pressure of the solution?<br>
-<br>
-(A) Only glucose
-<br>
-(B) Only urea
-<br>
-(C)
- Both glucose and urea
-<br>
-(D) Only water
+   (A) Only glucose
+           (B) Only urea       
+(C) Both glucose and urea
+           (D) Only water
 
 **Q7.M6 🔴**
 For an ideal solution of two volatile liquids A and B, a plot of $\frac{1}{P_{total}}$ versus $Y_A$ (mole fraction of A in vapour phase) yields a straight line. What is the slope of this line?<br>
-<br>
-(A) $P_A^\circ - P_B^\circ$
-<br>
-(B) $\frac{1}{P_A^\circ} - \frac{1}{P_B^\circ}$
-<br>
-(C)
- $\frac{1}{P_B^\circ} - \frac{1}{P_A^\circ}$
-<br>
-(D) $P_B^\circ - P_A^\circ$
+   (A) $P_A^\circ - P_B^\circ$
+           (B) $\frac{1}{P_A^\circ} - \frac{1}{P_B^\circ}$       
+(C) $\frac{1}{P_B^\circ} - \frac{1}{P_A^\circ}$
+           (D) $P_B^\circ - P_A^\circ$
 
 **Q7.M7 🟡**
 Two liquids A and B form an ideal solution. If $P_A^\circ$ is twice $P_B^\circ$, and the mixture is prepared using equal MASSES of A and B (where $MM_A$ is half of $MM_B$), what is the mole fraction of A in the vapour phase ($Y_A$)?<br>
-<br>
-(A) $0.80$
-<br>
-(B) $0.66$
-<br>
-(C)
- $0.50$
-<br>
-(D) $0.88$
+   (A) $0.80$
+           (B) $0.66$       
+(C) $0.50$
+           (D) $0.88$
 
 **Q7.M8 🟢**
 The vapour pressure of pure water at $20^\circ\text{C}$ is $17.5\text{ mm Hg}$. A solution containing $1\text{ mole}$ of a non-volatile solute in $4\text{ moles}$ of water will have a vapour pressure of:
-<br>
-(A) $3.5\text{ mm Hg}$
-<br>
-(B) $14.0\text{ mm Hg}$
-<br>
-(C)
- $17.5\text{ mm Hg}$
-<br>
-(D) $8.75\text{ mm Hg}$
+   (A) $3.5\text{ mm Hg}$
+           (B) $14.0\text{ mm Hg}$       
+(C) $17.5\text{ mm Hg}$
+           (D) $8.75\text{ mm Hg}$
 
 **Q7.M9 🔴 (The "Tricky Vapour Composition" Trap)**
 Liquid A ($P_A^\circ = 100\text{ mm}$) and Liquid B ($P_B^\circ = 300\text{ mm}$) form an ideal solution. The liquid mixture is boiled, and the very first bubble of vapour is collected and condensed into a new container. If the original liquid had $\chi_A = 0.5$, what is the mole fraction of A in this *new* condensed liquid?<br>
-<br>
-(A) $0.50$
-<br>
-(B) $0.75$
-<br>
-(C)
- $0.25$
-<br>
-(D) $0.33$
+   (A) $0.50$
+           (B) $0.75$       
+(C) $0.25$
+           (D) $0.33$
 
 **Q7.M10 🟡**
 If $P_A^\circ = P_B^\circ$ for an ideal binary mixture, which of the following is ALWAYS true regardless of liquid composition?<br>
-<br>
-(A) $P_{total} = 2 P_A^\circ$
-<br>
-(B) $Y_A = \chi_A$
-<br>
-(C)
- $Y_A = 0.5$
-<br>
-(D) The mixture forms an azeotrope
+   (A) $P_{total} = 2 P_A^\circ$
+           (B) $Y_A = \chi_A$       
+(C) $Y_A = 0.5$
+           (D) The mixture forms an azeotrope
 
 **Q7.M11 🔴**
 An ideal solution contains equal moles of A, B, and C. Their pure vapour pressures are $100\text{ torr}$, $200\text{ torr}$, and $300\text{ torr}$ respectively. What is the mole fraction of B in the vapour phase?<br>
-<br>
-(A) $0.33$
-<br>
-(B) $0.50$
-<br>
-(C)
- $0.16$
-<br>
-(D) $0.25$
+   (A) $0.33$
+           (B) $0.50$       
+(C) $0.16$
+           (D) $0.25$
 
 **Q7.M12 🟡**
 The vapour pressure of a dilute aqueous solution of glucose is $740\text{ mm Hg}$ at $100^\circ\text{C}$. What is the mole fraction of the SOLVENT?<br>
-<br>
-(A) $740/760$
-<br>
-(B) $20/760$
-<br>
-(C)
- $20/740$
-<br>
-(D) $760/740$
+   (A) $740/760$
+           (B) $20/760$       
+(C) $20/740$
+           (D) $760/740$
 
 **Q7.M13 🟢**
 Which of the following does NOT affect the vapour pressure of a pure liquid?<br>
-<br>
-(A) Temperature
-<br>
-(B) Intermolecular forces
-<br>
-(C)
- Surface area of the liquid
-<br>
-(D) Nature of the liquid
+   (A) Temperature
+           (B) Intermolecular forces       
+(C) Surface area of the liquid
+           (D) Nature of the liquid
 
 **Q7.M14 🔴 (The "Reverse Math" Trap)**
 A mixture of volatile liquids A and B has a total vapour pressure of $600\text{ torr}$. The vapour phase contains $40\%\text{ A}$ by moles. If $P_A^\circ = 400\text{ torr}$, what is $P_B^\circ$?<br>
-<br>
-(A) $800\text{ torr}$
-<br>
-(B) $900\text{ torr}$
-<br>
-(C)
- $1000\text{ torr}$
-<br>
-(D) $600\text{ torr}$
+   (A) $800\text{ torr}$
+           (B) $900\text{ torr}$       
+(C) $1000\text{ torr}$
+           (D) $600\text{ torr}$
 
 **Q7.M15 🟡**
 According to the Clausius-Clapeyron equation, a plot of $\ln(P)$ versus $\frac{1}{T}$ gives a straight line. The slope of this line is:
-<br>
-(A) $\Delta H_{vap} / R$
-<br>
-(B) $-\Delta H_{vap} / R$
-<br>
-(C)
- $\Delta H_{vap}$
-<br>
-(D) $-\Delta H_{vap} / 2.303 R$
+   (A) $\Delta H_{vap} / R$
+           (B) $-\Delta H_{vap} / R$       
+(C) $\Delta H_{vap}$
+           (D) $-\Delta H_{vap} / 2.303 R$
 
 <details>
 <summary>💡 Full Solutions — Stage 8 MCQ Mastery</summary>
 
-**Q7.M1 → Answer: <br>
-(C)
-**
+**Q7.M1 → Answer:        (C) *
 - Vapour pressure is independent of container volume. It only depends on temperature.
 
-**Q7.M2 → Answer: <br>
-(B)**
+**Q7.M2 → Answer:            (B)**
 - The exact relationship derived from $\frac{P^\circ - P_s}{P^\circ} = \chi_{solute}$ without approximations is $\frac{P^\circ - P_s}{P_s} = \frac{n_{solute}}{n_{solvent}}$.
-- Trap: <br>
-(A) is the approximation.
+- Trap:    (A) is the approximation.
 
-**Q7.M3 → Answer: <br>
-(C)
-**
+**Q7.M3 → Answer:        (C) *
 - Step 1: Find liquid mole fractions. $P_T = P_A^\circ \chi_A + P_B^\circ(1 - \chi_A)$.
 - $400 = 300 \chi_A + 600 - 600 \chi_A \rightarrow 300 \chi_A = 200 \rightarrow \chi_A = 2/3$.
 - Step 2: Find partial pressure of A. $P_A = 300 \times (2/3) = 200\text{ torr}$.
 - Step 3: Find $Y_A$. $Y_A = P_A / P_T = 200 / 400 = 0.50$.
 - Trap: Assuming $Y_A = \chi_A$ or doing reverse math poorly.
 
-**Q7.M4 → Answer: <br>
-(B)**
+**Q7.M4 → Answer:            (B)**
 - $P_s = P^\circ \chi_{solvent}$. If $P_s = 0.5 P^\circ$, then $\chi_{solvent} = 0.5$.
 - This means $\chi_{solute}$ must also be $0.5$.
 - Therefore, $n_{solute} = n_{solvent}$, and their ratio is $1.0$.
 
-**Q7.M5 → Answer: <br>
-(D)**
+**Q7.M5 → Answer:            (D)**
 - Since both glucose and urea are non-volatile, they do not contribute to the vapour phase. ONLY water molecules evaporate, so the vapour pressure is due solely to water.
 
-**Q7.M6 → Answer: <br>
-(B)**
+**Q7.M6 → Answer:            (B)**
 - From Dalton's and Raoult's law: $P_A = Y_A P_T = \chi_A P_A^\circ \implies \chi_A = \frac{Y_A P_T}{P_A^\circ}$.
 - Similarly, $\chi_B = \frac{Y_B P_T}{P_B^\circ} = \frac{(1 - Y_A) P_T}{P_B^\circ}$.
 - Since $\chi_A + \chi_B = 1$, we get $\frac{Y_A P_T}{P_A^\circ} + \frac{(1 - Y_A) P_T}{P_B^\circ} = 1$.
 - Divide by $P_T$: $\frac{1}{P_T} = \frac{Y_A}{P_A^\circ} + \frac{1 - Y_A}{P_B^\circ} = Y_A \left( \frac{1}{P_A^\circ} - \frac{1}{P_B^\circ} \right) + \frac{1}{P_B^\circ}$.
 - This is $y = mx + c$. Slope $m = \frac{1}{P_A^\circ} - \frac{1}{P_B^\circ}$.
 
-**Q7.M7 → Answer: <br>
-(A)**
+**Q7.M7 → Answer:    (A)**
 - Let $M_A = x$. $M_B = x$.
 - $n_A = x / MM_A$. $n_B = x / MM_B = x / (2 MM_A) = 0.5 n_A$.
 - So $n_A = 2 n_B$. Therefore $\chi_A = 2/3$, $\chi_B = 1/3$.
@@ -1313,61 +1086,47 @@ According to the Clausius-Clapeyron equation, a plot of $\ln(P)$ versus $\frac{1
 - $P_T = (2/3) P_A^\circ + (1/6) P_A^\circ = (5/6) P_A^\circ$.
 - $Y_A = P_A / P_T = (2/3 P_A^\circ) / (5/6 P_A^\circ) = 4/5 = 0.80$.
 
-**Q7.M8 → Answer: <br>
-(B)**
+**Q7.M8 → Answer:            (B)**
 - $\chi_{solvent} = n_{solvent} / (n_{solute} + n_{solvent}) = 4 / (1 + 4) = 4/5 = 0.8$.
 - $P_s = P^\circ \chi_{solvent} = 17.5 \times 0.8 = 14.0\text{ mm Hg}$.
 
-**Q7.M9 → Answer: <br>
-(C)
-**
+**Q7.M9 → Answer:        (C) *
 - This is a distillation step. The first bubble's composition is $Y_A$.
 - $P_A = 100 \times 0.5 = 50$. $P_B = 300 \times 0.5 = 150$. $P_T = 200$.
 - $Y_A = 50 / 200 = 0.25$.
 - When this condenses, the new liquid has $\chi_A = Y_A = 0.25$.
-- Trap: <br>
-(A) Thinking it doesn't change, or <br>
-(B) using the wrong pressure ratio.
+- Trap:    (A) Thinking it doesn't change, or            (B) using the wrong pressure ratio.
 
-**Q7.M10 → Answer: <br>
-(B)**
+**Q7.M10 → Answer:            (B)**
 - If $P_A^\circ = P_B^\circ = P^\circ$, then $P_T = P^\circ \chi_A + P^\circ \chi_B = P^\circ (\chi_A + \chi_B) = P^\circ$.
 - $Y_A = P_A / P_T = (P^\circ \chi_A) / P^\circ = \chi_A$.
 - The vapour composition always matches the liquid composition, but it's an ideal solution, so it's NOT considered an azeotrope (an azeotrope specifically requires non-ideal behaviour).
 
-**Q7.M11 → Answer: <br>
-(A)**
+**Q7.M11 → Answer:    (A)**
 - $\chi_A = \chi_B = \chi_C = 1/3$.
 - $P_A = 100/3$, $P_B = 200/3$, $P_C = 300/3$.
 - $P_T = (100+200+300)/3 = 600/3 = 200$.
 - $Y_B = P_B / P_T = (200/3) / 200 = 1/3 = 0.33$.
 
-**Q7.M12 → Answer: <br>
-(A)**
+**Q7.M12 → Answer:    (A)**
 - At $100^\circ\text{C}$, the VP of pure water ($P^\circ$) is exactly $1\text{ atm} = 760\text{ mm Hg}$ (normal boiling point).
 - $P_s = P^\circ \chi_{solvent} \implies \chi_{solvent} = P_s / P^\circ = 740 / 760$.
-- Trap: <br>
-(B) gives the mole fraction of the solute (RLVP).
+- Trap:            (B) gives the mole fraction of the solute (RLVP).
 
-**Q7.M13 → Answer: <br>
-(C)
-**
+**Q7.M13 → Answer:        (C) *
 - Surface area affects the *rate* of evaporation, but NOT the final equilibrium vapour pressure. VP is purely an intensive property dependent on T and nature of liquid.
 
-**Q7.M14 → Answer: <br>
-(B)**
+**Q7.M14 → Answer:            (B)**
 - $Y_A = 0.40 \implies P_A = 0.40 \times P_T = 0.40 \times 600 = 240\text{ torr}$.
 - $P_B = 600 - 240 = 360\text{ torr}$.
 - Also, $P_A = P_A^\circ \chi_A \implies 240 = 400 \chi_A \implies \chi_A = 240/400 = 0.6$.
 - Since $\chi_A = 0.6$, $\chi_B = 0.4$.
 - $P_B = P_B^\circ \chi_B \implies 360 = P_B^\circ \times 0.4 \implies P_B^\circ = 360 / 0.4 = 900\text{ torr}$.
 
-**Q7.M15 → Answer: <br>
-(B)**
+**Q7.M15 → Answer:            (B)**
 - The equation is $\ln(P) = -\frac{\Delta H_{vap}}{R} \cdot \frac{1}{T} + C$.
 - This is $y = mx + c$. Slope $m = -\frac{\Delta H_{vap}}{R}$.
-- Trap: <br>
-(D) applies if the plot is $\log_{10}(P)$ instead of $\ln(P)$.
+- Trap:            (D) applies if the plot is $\log_{10}(P)$ instead of $\ln(P)$.
 </details>
 
 ---

@@ -7,14 +7,13 @@
 ---
 
 ## Option A: The Aftermath (Recommended)
-
-> Kal pehla video daala tha. Jaante ho uske baad kya hua?
->
+"What others think of you is none of your business."* this a popular saying in english liturature. 
+Aur Kal video post karke ek cheez samajh aayi — Camera mein apni shakal dekhna aur apni awaaz sunna — yeh sabse uncomfortable cheez hai.
 > Har 2 minute mein phone check kar raha tha. Kitne views aaye? Kisi ne kuch bola? Kisi ne mazaak udaaya?
 >
 > Aur phir realize hua — yahi toh problem hai. Main woh kar raha tha jo sab karte hain — dusron ki validation pe jeena.
 >
-> *"What others think of you is none of your business."*
+> 
 >
 > Aaj ka fear — logo ki opinion aur task usko ignore karna. Mushkil hai. But try kar raha hoon.
 >
@@ -24,9 +23,7 @@
 
 ## Option B: The Mirror
 
-> Kal video post karke ek cheez samajh aayi —
->
-> Camera mein apni shakal dekhna aur apni awaaz sunna — yeh sabse uncomfortable cheez hai.
+
 >
 > Hum sab apne aap se bhaag te hain. Mirror mein dekhte hain toh baal theek karte hain. But khud ko SUNNA? Apne thoughts sunna? 
 >
