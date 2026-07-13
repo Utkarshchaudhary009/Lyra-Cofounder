@@ -284,12 +284,34 @@ $L = \Delta(N\Phi)/\Delta I = 2.0/4 = 0.5$ H
 
 </details>
 
+**🌱 Noob-Mode Bridge 🟢**
+
+> A coil of self-inductance $L = 3$ H has its current changed uniformly from $1$ A to $4$ A in $0.3$ s. Find the magnitude of the back EMF induced.
+
+<details><summary><b>Answer</b></summary>
+
+$\Delta I = 4 - 1 = 3$ A, $\Delta t = 0.3$ s  
+$|\varepsilon| = L \cdot \dfrac{\Delta I}{\Delta t} = 3 \times \dfrac{3}{0.3} = 3 \times 10 = \boxed{30 \text{ V}}$
+
+</details>
+
 6. 🔴 A coil of 300 turns has $L = 30$ mH. When the current is increased from 2 A to 5 A over 0.06 s, calculate (a) the change in flux linkage and (b) the induced back EMF.
 
 <details><summary><b>Answer</b></summary>
 
 (a) $\Delta(N\Phi) = L \cdot \Delta I = 0.030 \times 3 = 0.09$ Wb  
 (b) $|\varepsilon| = L \cdot \Delta I/\Delta t = 0.030 \times 3/0.06 = 1.5$ V
+
+</details>
+
+**🌱 Noob-Mode Bridge 🟢**
+
+> The current through a $2$ H inductor varies as $I = 6t$ A (where $t$ is in seconds). Find the back EMF induced at $t = 2$ s.
+
+<details><summary><b>Answer</b></summary>
+
+$\dfrac{dI}{dt} = 6$ A/s (constant rate)  
+$|\varepsilon| = L \cdot \dfrac{dI}{dt} = 2 \times 6 = \boxed{12 \text{ V}}$
 
 </details>
 
@@ -430,6 +452,18 @@ New $L = \mu_r \times L_{\text{air}} = 1000 \times 6.28 \times 10^{-4} = 0.628$ 
 
 </details>
 
+**🌱 Noob-Mode Bridge 🟡**
+
+> The number of turns $N$, length $l$, and core of a solenoid are kept fixed, but its cross-sectional radius is tripled. By what factor does its self-inductance change?
+
+<details><summary><b>Answer</b></summary>
+
+Cross-sectional area $A = \pi r^2$, so tripling $r$ gives $A' = \pi(3r)^2 = 9\pi r^2 = 9A$.  
+From $L = \mu_0 N^2 A/l$, $L \propto A$, hence $L' = 9L$.  
+**Self-inductance becomes 9 times larger.**
+
+</details>
+
 6. 🔴 Two solenoids A and B have the same number of turns and the same length. The radius of B is twice that of A. What is the ratio $L_A : L_B$?
 
 <details><summary><b>Answer</b></summary>
@@ -447,6 +481,17 @@ $\boxed{L_A : L_B = 1 : 4}$
 $L = \mu_0 N^2 A/l$. New: $l' = 2l$, $A' = \pi(r/2)^2 = A/4$  
 $L' = \mu_0 N^2 (A/4)/(2l) = (\mu_0 N^2 A/l) \times (1/8) = L/8$  
 **L decreases to 1/8 of its original value.**
+
+</details>
+
+**🌱 Noob-Mode Bridge 🟢**
+
+> Two inductors $L_1 = 2$ H and $L_2 = 3$ H are connected in series with no mutual inductance between them. Find their equivalent inductance.
+
+<details><summary><b>Answer</b></summary>
+
+For series-connected inductors (no mutual coupling):  
+$L_{\text{eq}} = L_1 + L_2 = 2 + 3 = \boxed{5 \text{ H}}$
 
 </details>
 
@@ -555,6 +600,18 @@ $|\varepsilon| = L \cdot dI/dt = 0.2 \times 14 = 2.8$ V
 <details><summary><b>Answer</b></summary>
 
 $L = |\varepsilon| \cdot \Delta t / \Delta I = 1000 \times 0.005/5 = 1$ H
+
+</details>
+
+**🌱 Noob-Mode Bridge 🟡**
+
+> The current in a coil decays as $I = 5e^{-2t}$ A. Find $dI/dt$ and hence write the back EMF expression $|\varepsilon| = L\,|dI/dt|$.
+
+<details><summary><b>Answer</b></summary>
+
+$\dfrac{dI}{dt} = 5 \cdot (-2)e^{-2t} = -10e^{-2t}$ A/s  
+$|\varepsilon| = L \cdot 10e^{-2t}$  
+At $t = 0$: $|\varepsilon| = 10L$ (this shows how differentiating an exponential feeds the back-EMF formula).
 
 </details>
 
@@ -726,6 +783,18 @@ With a DC source (constant voltage), current $I = V/R$ stays the same (inductor 
 
 </details>
 
+**🌱 Noob-Mode Bridge 🟡**
+
+> Inserting an iron core increases a solenoid's self-inductance 4× (so $L \to 4L$). For an AC source of fixed rms voltage $V$ and angular frequency $\omega$, the inductive reactance is $X_L = \omega L$. (a) By what factor does $X_L$ change? (b) The current is $I = V/X_L$; by what factor does the current change?
+
+<details><summary><b>Answer</b></summary>
+
+(a) $X_L \propto L$, so $X_L \to 4X_L$ (fourfold increase).  
+(b) $I \propto 1/X_L$, so $I \to I/4$ — the current becomes one-fourth as large.  
+*(Higher $L$ → higher reactance → lower AC current.)*
+
+</details>
+
 4. 🔴 (NCERT Exemplar Q6.13) When a soft iron core is inserted into a solenoid connected to an AC source, which of the following happens momentarily?  
    (a) current increases &emsp; (b) current decreases &emsp; (c) current stays same &emsp; (d) flux stays same
 
@@ -800,6 +869,17 @@ At $t = \tau = 0.05$ s: $I = 2(1 - e^{-1}) = 2 \times 0.632 = 1.264$ A
 
 </details>
 
+**🌱 Noob-Mode Bridge 🟡**
+
+> In a series RL circuit (battery $\mathcal{E}$, resistance $R$, inductance $L$), the loop equation is $\mathcal{E} = iR + L\,\dfrac{di}{dt}$. At the instant the switch is closed ($t = 0$), the current $i = 0$. Find the initial rate of change of current $\left.di/dt\right|_{t=0}$.
+
+<details><summary><b>Answer</b></summary>
+
+At $t = 0$, $i = 0$, so $\mathcal{E} = 0 + L\,\dfrac{di}{dt}$  
+$\left.\dfrac{di}{dt}\right|_{t=0} = \dfrac{\mathcal{E}}{L}$
+
+</details>
+
 4. 🔴 In an RL circuit ($R = 5$ Ω, $L = 0.5$ H, $\mathcal{E} = 10$ V), find the rate of change of current at $t = 0$ and at $t \to \infty$.
 
 <details><summary><b>Answer</b></summary>
@@ -870,6 +950,17 @@ $u = B^2/(2\mu_0) = (0.4)^2/(2 \times 4\pi \times 10^{-7}) = 0.16/(8\pi \times 1
 
 $u = B^2/(2\mu_0) = 4/(8\pi \times 10^{-7}) = 5/(π \times 10^{-7}) \approx 1.59 \times 10^6$ J/m³  
 $U = u \times V = 1.59 \times 10^6 \times 50 \times 10^{-6} = 79.6$ J
+
+</details>
+
+**🌱 Noob-Mode Bridge 🟡**
+
+> Verify dimensionally that the energy stored in an inductor, $U = \frac{1}{2}LI^2$, has the dimension of joule (J). (Use $[L] = \text{kg·m}^2\text{·s}^{-2}\text{·A}^{-2}$ and $[I] = \text{A}$.)
+
+<details><summary><b>Answer</b></summary>
+
+$[U] = [L][I^2] = (\text{kg·m}^2\text{·s}^{-2}\text{·A}^{-2})(\text{A}^2) = \text{kg·m}^2\text{·s}^{-2} = \text{J}$ ✓  
+*(This practises the dimensional-check method used in the next question.)*
 
 </details>
 

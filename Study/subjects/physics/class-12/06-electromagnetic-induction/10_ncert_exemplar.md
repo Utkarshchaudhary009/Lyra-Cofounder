@@ -179,6 +179,20 @@ $$ P_{mech} = \left( \frac{B^2 l^2 v}{R} \right) v = \frac{B^2 l^2 v^2}{R} $$
 This mechanical power is entirely dissipated as Joule heating ($I^2 R$) in the rod.
 </details>
 
+**Qn. 🌱 Noob-Mode Bridge 🟢 (Rotational EMF — generator formula on-ramp)**
+A single-turn ($N = 1$) circular coil of area $A = 0.01 \text{ m}^2$ rotates at a constant angular speed $\omega = 100 \text{ rad/s}$ in a uniform magnetic field $B = 0.1 \text{ T}$.
+(a) What is the maximum induced EMF?
+(b) What is the average induced EMF over one complete rotation?
+<details><summary><b>Answer</b></summary>
+<b>(a) Maximum EMF</b>
+For a rotating coil, $\varepsilon(t) = N B A \omega \sin(\omega t)$, so the peak value is:
+$$ \varepsilon_{max} = N B A \omega = 1 \times 0.1 \times 0.01 \times 100 = 0.1 \text{ V} $$
+<b>(b) Average EMF over a full cycle</b>
+$\varepsilon(t)$ is a sine wave. Over one complete period the positive and negative halves cancel exactly, so:
+$$ \varepsilon_{avg} = 0 \text{ V} $$
+<i>Note:</i> "Average EMF" here means the algebraic average of the signed EMF, not the average of its magnitude. This is exactly the trap in the next Exemplar problem.
+</details>
+
 6. 🔴 **(Q6.16) A circular coil of radius 8 cm and 20 turns rotates about its vertical diameter with an angular speed of $50 \text{ rad/s}$ in a uniform horizontal magnetic field of magnitude $3 \times 10^{-2} \text{ T}$. Find the maximum and average EMF induced in the coil. If the coil forms a closed loop of resistance $10 \, \Omega$, find the maximum current in the coil.**
 <details><summary><b>Solution</b></summary>
 <b>Step 1: Given data</b>
@@ -250,6 +264,16 @@ Because the flux is increasing, an induced back-EMF is generated ($\varepsilon =
 This back-EMF opposes the battery's voltage, causing the net driving voltage to drop, which results in a momentary **decrease** in current.
 </details>
 
+**Qn. 🌱 Noob-Mode Bridge 🟢 (Lenz's law — the "oppose the change" intuition)**
+The North pole of a bar magnet is pushed toward the face of a closed conducting coil. Use Lenz's law to state:
+(a) which magnetic pole is induced on the near face of the coil, and
+(b) whether the coil attracts or repels the approaching magnet, and why.
+<details><summary><b>Answer</b></summary>
+<b>(a)</b> The approaching North pole increases the inward (toward the coil) flux. To oppose this <i>increase</i>, the near face of the coil must become a <b>North</b> pole (it must produce a field pointing back out, away from the coil, to fight the growing flux).
+<b>(b)</b> Like poles repel, so the coil <b>repels</b> the magnet. The external agent must do work to push the magnet in against this repulsion — that mechanical work becomes the electrical energy (Joule heat) in the coil.
+<i>This single cause-and-effect story is the seed of the formal energy-conservation proof in the next problem.</i>
+</details>
+
 11. 🔴 **(Q6.19) Show that Lenz's law is consistent with the law of conservation of energy.**
 <details><summary><b>Solution</b></summary>
 Lenz's Law states that the direction of the induced EMF and current will be such that it opposes the change in magnetic flux that produced it.
@@ -286,6 +310,17 @@ $\Phi = [B_0 (2\hat{i} + 3\hat{j} + 4\hat{k})] \cdot [L^2 \hat{k}]$
 Using dot product rules ($\hat{i}\cdot\hat{k} = 0$, $\hat{j}\cdot\hat{k} = 0$, $\hat{k}\cdot\hat{k} = 1$):
 $\Phi = B_0 \times 4 \times L^2 = 4B_0L^2 \text{ Wb}$.
 Only the $z$-component of the magnetic field actually penetrates the loop!
+</details>
+
+**Qn. 🌱 Noob-Mode Bridge 🟢 (Flux of a multi-piece loop — add the pieces)**
+A wire loop is made of two flat squares joined together: square $P$ lies in the $x\text{-}y$ plane (area vector $\vec{A}_P = L^2\hat{k}$) and square $Q$ lies in the $x\text{-}z$ plane (area vector $\vec{A}_Q = L^2\hat{i}$). A uniform field $\vec{B} = B_0 \hat{k}$ is present. Find the total flux through the loop by treating each flat piece separately.
+<details><summary><b>Answer</b></summary>
+Flux is additive over pieces:
+$$ \Phi_{total} = \vec{B}\cdot\vec{A}_P + \vec{B}\cdot\vec{A}_Q $$
+$$ \Phi_P = (B_0\hat{k})\cdot(L^2\hat{k}) = B_0 L^2 $$
+$$ \Phi_Q = (B_0\hat{k})\cdot(L^2\hat{i}) = 0 $$
+$$ \Phi_{total} = B_0 L^2 \text{ Wb} $$
+<i>Only the piece whose area vector has a component along $\vec{B}$ contributes. The next Exemplar problem extends this to a non-planar 3D loop where <b>both</b> pieces matter.</i>
 </details>
 
 2. **(Q6.2) A loop made of straight edges has six corners at $A(0,0,0)$, $B(L,0,0)$, $C(L,L,0)$, $D(0,L,0)$, $E(0,L,L)$, $F(0,0,L)$. A magnetic field $\vec{B} = B_0 (\hat{i} + \hat{k}) \text{ T}$ is present. The flux passing through loop ABCDEFA is:**
@@ -402,6 +437,19 @@ According to Faraday's Law, an EMF is induced if and only if there is a change i
 
 Here is where the real bosses reside. These Long Answer (LA) questions combine mechanics, calculus, and electromagnetism into single, challenging problems.
 
+**Qn. 🌱 Noob-Mode Bridge 🟢 (Motional EMF + magnetic braking force — no calculus yet)**
+A conducting rod of length $l = 0.20 \text{ m}$ slides on frictionless rails of total resistance $R = 0.50 \, \Omega$ in a uniform field $B = 0.40 \text{ T}$. The rod moves at $v = 2.0 \text{ m/s}$ perpendicular to $\vec{B}$.
+(a) Find the induced current.
+(b) Find the magnetic force on the rod and state its direction relative to the motion.
+<details><summary><b>Answer</b></summary>
+<b>(a) Induced current</b>
+$$ \varepsilon = B l v = 0.40 \times 0.20 \times 2.0 = 0.16 \text{ V} $$
+$$ I = \frac{\varepsilon}{R} = \frac{0.16}{0.50} = 0.32 \text{ A} $$
+<b>(b) Magnetic force</b>
+$$ F_m = I l B = 0.32 \times 0.20 \times 0.40 = 0.0256 \text{ N} $$
+By Lenz's law this force opposes the motion (it acts as a brake). In the next problem this same retarding force is fed into $F = ma = m\,dv/dt$ to produce exponential decay.
+</details>
+
 **1. The Exponential Brake (Q6.21)**
 > A conducting rod of mass $m$ and resistance $R$ slides without friction on two horizontal conducting rails of negligible resistance. The rails are connected at one end by a resistance $R_0$. A uniform magnetic field $B$ acts perpendicular to the plane of the rails. The rod is given a velocity $v_0$ at time $t=0$. Show that the velocity of the rod decreases exponentially with time.
 
@@ -435,6 +483,16 @@ $$ v(t) = v_0 \cdot e^{-t/\tau} $$
 Where $\tau = \frac{m(R + R_0)}{B^2 l^2}$ is the time constant. 
 
 <b>Conclusion:</b> The velocity decreases exponentially with time.
+</details>
+
+**Qn. 🌱 Noob-Mode Bridge 🟢 (Mutual inductance of coaxial solenoids — equal areas first)**
+Two coaxial solenoids of the <b>same</b> cross-sectional area $A = 2 \times 10^{-4} \text{ m}^2$, length $l = 0.30 \text{ m}$, have $N_1 = 400$ and $N_2 = 3000$ turns. Find their mutual inductance $M$.
+<details><summary><b>Answer</b></summary>
+For coaxial solenoids,
+$$ M = \frac{\mu_0 N_1 N_2 A}{l} $$
+$$ M = \frac{(4\pi \times 10^{-7}) \times 400 \times 3000 \times (2 \times 10^{-4})}{0.30} $$
+$$ M = \frac{96\pi \times 10^{-6}}{0.30} = 320\pi \times 10^{-6} \approx 1.0 \times 10^{-3} \text{ H} $$
+<i>Because the areas are equal, there is no "which area do I use?" trap. The next Exemplar problem makes the outer solenoid wider, so you must use the <b>inner</b> solenoid's area.</i>
 </details>
 
 **2. Coaxial Solenoids (Q6.22)**
@@ -497,6 +555,14 @@ The equation $\varepsilon = -Kt$ is a straight line passing through the origin w
 - Y-axis: Induced EMF ($\varepsilon$)
 - X-axis: Time ($t$)
 - Line: Starts at $(0,0)$ and goes straight down into the 4th quadrant.
+</details>
+
+**Qn. 🌱 Noob-Mode Bridge 🟢 (Effective length — only the endpoints' straight-line gap matters)**
+A wire of total length $L = 0.30 \text{ m}$ is bent into an L-shape so that its two free ends are separated by a straight-line distance $d = 0.20 \text{ m}$. The wire moves with velocity $v = 1.5 \text{ m/s}$ perpendicular to a uniform field $B = 0.50 \text{ T}$. Find the induced EMF.
+<details><summary><b>Answer</b></summary>
+For motional EMF of a moving conductor, only the <b>effective length</b> — the straight-line distance between the two ends — matters, regardless of how the wire is bent in between:
+$$ \varepsilon = B \, d \, v = 0.50 \times 0.20 \times 1.5 = 0.15 \text{ V} $$
+<i>The next problem applies this same idea to a semicircle, where the diameter is the effective length.</i>
 </details>
 
 **4. The Bent Conductor (Q6.24)**

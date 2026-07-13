@@ -303,6 +303,22 @@ $M = \dfrac{\Delta(N_2\Phi_2)}{\Delta I_1} = \dfrac{7.5 - 1.5}{8 - 2} = \dfrac{6
 
 </details>
 
+6b. 🌱 Noob-Mode Bridge 🟢 Two coils have self-inductances $L_1 = 9$ H and $L_2 = 16$ H and are perfectly coupled ($k = 1$). Find the mutual inductance $M$ using $M = k\sqrt{L_1 L_2}$.
+
+<details><summary><b>Answer</b></summary>
+
+$M = 1 \times \sqrt{9 \times 16} = \sqrt{144} = \boxed{12 \text{ H}}$
+
+</details>
+
+6c. 🌱 Noob-Mode Bridge 🟡 A coil's self-inductance in air is $L = 0.2$ H. An iron core of relative permeability $\mu_r = 100$ is inserted (no other change). By what factor does the inductance change, and what is its new value?
+
+<details><summary><b>Answer</b></summary>
+
+Inductance scales directly with permeability: $L' = \mu_r L = 100 \times 0.2 = \boxed{20 \text{ H}}$. The inductance increases by a factor of $\boxed{100}$.
+
+</details>
+
 7. 🔴 Two coils are wound on a common iron core of relative permeability 800. If the self-inductances of the two coils in air are $L_1 = 0.2$ H and $L_2 = 0.8$ H with perfect coupling ($k = 1$), find the mutual inductance when the iron core is inserted.
 
 <details><summary><b>Answer</b></summary>
@@ -499,6 +515,22 @@ $M' = \dfrac{\mu_0 (2N_1) N_2 (A/2)}{l} = \dfrac{\mu_0 N_1 N_2 A}{l} = M$
 
 </details>
 
+5b. 🌱 Noob-Mode Bridge 🟢 A solenoid is wound with 100 turns per cm and has length 20 cm. What is the total number of turns $N$?
+
+<details><summary><b>Answer</b></summary>
+
+$N = (100\ \text{turns/cm}) \times (20\ \text{cm}) = \boxed{2000\ \text{turns}}$
+
+</details>
+
+5c. 🌱 Noob-Mode Bridge 🟢 A circular coil has radius 2 cm. Find its cross-sectional area $A$ (use $A = \pi r^2$). Express your answer in m².
+
+<details><summary><b>Answer</b></summary>
+
+$r = 0.02$ m; $A = \pi (0.02)^2 = \boxed{4\pi \times 10^{-4}\ \text{m}^2}$
+
+</details>
+
 6. 🔴 Two coaxial solenoids: $S_1$ has 100 turns/cm, length 40 cm, radius 2 cm; $S_2$ has 300 turns wound over it with same length. Find M and then the peak EMF in $S_2$ if $I_1 = 2\sin(50\pi t)$ A.
 
 <details><summary><b>Answer</b></summary>
@@ -619,6 +651,18 @@ As $t \to \infty$: $\dfrac{dI_1}{dt} \to 0$ → $|\varepsilon_2| \to \boxed{0}$ 
 
 </details>
 
+5b. 🌱 Noob-Mode Bridge 🟡 Primary current $I_1 = I_0\sin(\omega t)$ with $I_0 = 2$ A and $\omega = 100$ rad/s, and $M = 0.5$ H. (a) Write $\varepsilon_2$ as a function of time. (b) What is its maximum value?
+
+<details><summary><b>Answer</b></summary>
+
+$\dfrac{dI_1}{dt} = I_0\omega\cos(\omega t) = 2 \times 100 \cos(100t) = 200\cos(100t)$ A/s
+
+$\varepsilon_2 = -M\dfrac{dI_1}{dt} = -0.5 \times 200\cos(100t) = \boxed{-100\cos(100t)\ \text{V}}$
+
+Maximum value: $|\varepsilon_{2,\max}| = \boxed{100\ \text{V}}$
+
+</details>
+
 6. 🔴 Current in primary: $I_1 = I_0\sin(\omega t)$. Show that the maximum induced EMF in secondary is $\varepsilon_{\max} = M\omega I_0$ and is $90°$ out of phase with the primary current.
 
 <details><summary><b>Answer</b></summary>
@@ -715,6 +759,16 @@ $M = \dfrac{\Delta(N_2\Phi_2)}{\Delta I_1} = \dfrac{45}{15} = \boxed{3 \text{ H}
 $M = \dfrac{\Delta(N_B\Phi_B)}{\Delta I_A} = \dfrac{25}{10} = \boxed{2.5 \text{ H}}$
 
 $|\varepsilon_B| = M \times \dfrac{\Delta I_A}{\Delta t} = 2.5 \times \dfrac{10}{0.5} = 2.5 \times 20 = \boxed{50 \text{ V}}$
+
+</details>
+
+4b. 🌱 Noob-Mode Bridge 🟢 A secondary coil has 100 turns. When the current in the primary changes by 5 A, the flux through each turn of the secondary changes by 0.01 Wb. Find $M$.
+
+<details><summary><b>Answer</b></summary>
+
+Total flux linkage change $= N \times \Delta\Phi_{\text{per turn}} = 100 \times 0.01 = 1$ Wb
+
+$M = \dfrac{N\,\Delta\Phi}{\Delta I_1} = \dfrac{1}{5} = \boxed{0.2 \text{ H}}$
 
 </details>
 
@@ -824,6 +878,20 @@ $= 3000\pi^2 \times 10^{-11} = 3\pi^2 \times 10^{-8} \approx \boxed{2.96 \times 
 
 </details>
 
+3b. 🌱 Noob-Mode Bridge 🟢 A small circular loop of radius 1 cm is placed coaxially at the centre of a long solenoid of $n = 500$ turns/m. Find $M$. (The solenoid field is $B = \mu_0 n I$; the loop captures flux $B \cdot A$ with $A = \pi r^2$.)
+
+<details><summary><b>Answer</b></summary>
+
+$B = \mu_0 n I = 4\pi \times 10^{-7} \times 500 \times I = 2\pi \times 10^{-4}\, I$ T
+
+$A = \pi r^2 = \pi (0.01)^2 = \pi \times 10^{-4}$ m²
+
+$\Phi = B \cdot A = (2\pi \times 10^{-4} I)(\pi \times 10^{-4}) = 2\pi^2 \times 10^{-8}\, I$ Wb
+
+$M = \dfrac{\Phi}{I} = \boxed{2\pi^2 \times 10^{-8}\ \text{H} \approx 1.97 \times 10^{-8}\ \text{H}}$
+
+</details>
+
 4. 🔴 A circular loop of radius 0.1 m is placed at the centre of a solenoid of radius 0.5 m, length 1 m, and 1000 turns. The loop's plane is perpendicular to the solenoid axis. Find M. Explain your answer physically.
 
 <details><summary><b>Answer</b></summary>
@@ -917,6 +985,16 @@ $k = \dfrac{M}{\sqrt{L_1 L_2}} = \dfrac{150}{\sqrt{100 \times 400}} = \dfrac{150
 $M = k\sqrt{L_1 L_2} = 0.8 \times \sqrt{0.4 \times 0.1} = 0.8 \times \sqrt{0.04} = 0.8 \times 0.2 = \boxed{0.16 \text{ H}}$
 
 $M_{\max} = \sqrt{L_1 L_2} = \sqrt{0.04} = \boxed{0.2 \text{ H}}$ (when $k = 1$)
+
+</details>
+
+3b. 🌱 Noob-Mode Bridge 🟡 For a transformer, self-inductance scales as the square of the turns ratio: $L_2/L_1 = (N_2/N_1)^2$. A primary coil has $L_1 = 2$ H and $N_1 = 200$ turns. Find $L_2$ if the secondary has $N_2 = 400$ turns.
+
+<details><summary><b>Answer</b></summary>
+
+$\dfrac{L_2}{L_1} = \left(\dfrac{N_2}{N_1}\right)^2 = \left(\dfrac{400}{200}\right)^2 = 2^2 = 4$
+
+$L_2 = 4 \times 2 = \boxed{8 \text{ H}}$
 
 </details>
 
@@ -1014,6 +1092,18 @@ The magnetic field of the **large coil** is approximately **uniform** over the a
 In contrast, $M_{12}$ requires computing the flux of the **small coil's non-uniform dipole field** over the entire large coil — a complex integration.
 
 **Reciprocity theorem says** $M_{12} = M_{21}$, so we compute the easy one ($M_{21}$) and use it as the answer for $M_{12}$ as well. This is the practical power of the theorem.
+
+</details>
+
+2b. 🌱 Noob-Mode Bridge 🟡 Coils A (100 turns) and B (200 turns) are magnetically coupled. When $I = 2$ A flows in A, the flux linkage in B is 4 Wb. (a) Find $M$. (b) Using reciprocity, find the flux linkage in A when $I = 3$ A flows in B.
+
+<details><summary><b>Answer</b></summary>
+
+**(a)** $M = \dfrac{N_B\Phi_{BA}}{I_A} = \dfrac{4}{2} = \boxed{2 \text{ H}}$
+
+By reciprocity, $M_{BA} = M_{AB} = M = 2$ H.
+
+**(b)** Flux linkage in A when B is primary: $N_A\Phi_{AB} = M\,I_B = 2 \times 3 = \boxed{6 \text{ Wb}}$
 
 </details>
 

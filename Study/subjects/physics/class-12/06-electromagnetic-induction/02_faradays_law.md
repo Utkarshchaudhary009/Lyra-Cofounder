@@ -226,6 +226,26 @@ $\varepsilon = 500 \times 4 \times 10^{-4} \times 0.754 = \mathbf{0.1508 \approx
 
 </details>
 
+**🌱 Noob-Mode Bridge 🟢** A long solenoid carries a current that changes, producing a magnetic field change of $\Delta B/\Delta t = 0.5$ T/s inside it. A separate single-turn search loop of area $A = 2\times10^{-3}$ m² is wrapped tightly around the solenoid's centre. Find the induced EMF in the search loop. *(This isolates the key idea for Q5: the secondary coil uses **its own area**, not the solenoid's cross-section, and the solenoid's rate of change of $B$.)*
+
+<details><summary><b>Answer</b></summary>
+
+The field change inside the solenoid is $\Delta B/\Delta t = 0.5$ T/s.
+
+Flux through one turn of the search loop: $\Phi = B\cdot A$, so
+
+$$\frac{d\Phi}{dt} = A\frac{dB}{dt}$$
+
+For $N_s = 1$ turn:
+
+$$\varepsilon = N_s A \frac{\Delta B}{\Delta t} = 1 \times 2\times10^{-3} \times 0.5 = \mathbf{1\times10^{-3}\text{ V} = 1\text{ mV}}$$
+
+*(Notice: the search loop's EMF depends on the loop's own area, NOT the solenoid's cross-section.)*
+
+</details>
+
+---
+
 5. 🔴 A solenoid of length 50 cm, radius 2 cm, has 1000 turns. A secondary coil of 200 turns and radius 1 cm is wound tightly at the centre of the solenoid. The current in the solenoid changes from 4 A to 0 in 0.02 s. Find the induced EMF in the secondary coil.
 <details><summary><b>Answer</b></summary>
 
@@ -246,6 +266,24 @@ $= 200 \times 16\pi^2 \times 10^{-6}$
 $= 3200\pi^2 \times 10^{-6} \approx \mathbf{3.16 \times 10^{-2} \text{ V} = 31.6 \text{ mV}}$
 
 </details>
+
+**🌱 Noob-Mode Bridge 🟡** A coil of area $A = 0.01$ m² sits in a magnetic field that decays as $B = B_0 e^{-\alpha t}$ with $B_0 = 2$ T and $\alpha = 1$ s⁻¹, perpendicular to the coil. Find the induced EMF at $t = 0$ (take $N = 1$). *(This previews the exponential derivative needed in Q6–Q7 — remember $\frac{d}{dt}e^{-\alpha t} = -\alpha e^{-\alpha t}$.)*
+
+<details><summary><b>Answer</b></summary>
+
+$\Phi = B A = B_0 e^{-\alpha t} A$
+
+$$\frac{d\Phi}{dt} = B_0 A (-\alpha) e^{-\alpha t} = -B_0 A\alpha e^{-\alpha t}$$
+
+At $t = 0$, $e^{0} = 1$:
+
+$$\varepsilon = \left|-\frac{d\Phi}{dt}\right| = B_0 A\alpha = 2 \times 0.01 \times 1 = \mathbf{0.02\text{ V}}$$
+
+*(The EMF is largest at $t = 0$ and decays as the field decays.)*
+
+</details>
+
+---
 
 6. 🔴 A rectangular loop of dimensions $a \times b$ is placed in a region where the magnetic field varies as $B = B_0(1 + \alpha t)$ perpendicular to the loop. Find: (a) the induced EMF as a function of time, (b) the total charge that flows in time $T$ if the loop has resistance $R$.
 <details><summary><b>Answer</b></summary>
@@ -386,6 +424,26 @@ $\varepsilon(t) = N \cdot \frac{\Phi_0}{\tau} e^{-t/\tau}$
 At $t \to \infty$: $e^{-\infty} = 0$, so $\varepsilon \to 0$ (EMF decays exponentially)
 
 </details>
+
+**🌱 Noob-Mode Bridge 🟡** The induced EMF of a coil varies as $\varepsilon(t) = (t^2 - 4t + 3)\times10^{-2}$ V. Find the time at which the EMF is **minimum** and its magnitude. *(Previews Q7: to find an extremum of $\varepsilon$, set $d\varepsilon/dt = 0$ and check the second derivative — a brand-new step at the 🔴 level.)*
+
+<details><summary><b>Answer</b></summary>
+
+$\varepsilon(t) = (t^2 - 4t + 3)\times10^{-2}$ V
+
+$\frac{d\varepsilon}{dt} = (2t - 4)\times10^{-2}$
+
+Set to zero: $2t - 4 = 0 \Rightarrow t = 2$ s.
+
+Second derivative: $\frac{d^2\varepsilon}{dt^2} = 2\times10^{-2} > 0$ → minimum.
+
+$\varepsilon_{min} = (4 - 8 + 3)\times10^{-2} = -1\times10^{-2}$ V
+
+Magnitude: $|\varepsilon|_{min} = \mathbf{10\text{ mV at }t = 2\text{ s}}$.
+
+</details>
+
+---
 
 7. 🔴 The flux through a 5-turn coil is $\Phi = (2t^3 - 5t^2 + 4t - 1) \times 10^{-2}$ Wb. Find: (a) the time(s) at which EMF is minimum, (b) the minimum EMF value.
 <details><summary><b>Answer</b></summary>
@@ -532,6 +590,20 @@ $\varepsilon = 500 \times 0.02/0.02 = \mathbf{500 \text{ V}}$
 
 </details>
 
+**🌱 Noob-Mode Bridge 🟢** A straight conducting rod of length $L = 2$ m rotates about one end in a uniform vertical field $B = 1\times10^{-5}$ T, completing one full turn every $T = 1$ s. Find the average EMF induced between the centre and the tip over one revolution. *(Previews Q6: a rotating rod sweeps out the area of a circle, $A_{swept} = \pi L^2$, and $\varepsilon_{avg} = B A_{swept}/T$.)*
+
+<details><summary><b>Answer</b></summary>
+
+Area swept in one revolution: $A_{swept} = \pi L^2 = \pi (2)^2 = 4\pi$ m²
+
+Flux change in one revolution: $\Delta\Phi = B\cdot A_{swept} = 1\times10^{-5}\times 4\pi = 4\pi\times10^{-5}$ Wb
+
+$$\varepsilon_{avg} = \frac{\Delta\Phi}{T} = \frac{4\pi\times10^{-5}}{1} = \mathbf{4\pi\times10^{-5}\text{ V} \approx 1.26\times10^{-4}\text{ V}}$$
+
+</details>
+
+---
+
 6. 🔴 A helicopter has blades of length 5 m that rotate at 200 RPM. If the vertical component of Earth's field is $3 \times 10^{-5}$ T, find the average EMF induced between the tip and root of a blade in one complete revolution.
 <details><summary><b>Answer</b></summary>
 
@@ -645,6 +717,20 @@ $q = N\Delta\Phi/R = 200 \times 56/5 = \mathbf{2240 \text{ C}}$
 
 </details>
 
+**🌱 Noob-Mode Bridge 🟢** A flip coil of $N = 100$ turns and area $A = 10^{-3}$ m² has resistance $R_{coil} = 10$ Ω. It is connected to a ballistic galvanometer of resistance $R_g = 10$ Ω, and flipped $180^\circ$ in a field $B = 0.1$ T. Find the charge that flows. *(Previews Q5–Q6: when two resistances are **in series**, add them — $R_{total} = R_{coil} + R_g$ — and a $180^\circ$ flip makes $|\Delta\Phi| = 2BA$.)*
+
+<details><summary><b>Answer</b></summary>
+
+Total resistance: $R_{total} = 10 + 10 = 20$ Ω
+
+On a $180^\circ$ flip, the flux per turn reverses: $|\Delta\Phi| = 2BA = 2\times 0.1\times 10^{-3} = 2\times10^{-4}$ Wb
+
+$$q = \frac{N|\Delta\Phi|}{R_{total}} = \frac{100\times 2\times10^{-4}}{20} = \frac{2\times10^{-2}}{20} = \mathbf{1\times10^{-3}\text{ C} = 1\text{ mC}}$$
+
+</details>
+
+---
+
 5. 🔴 A flip coil of 1000 turns, area 2 cm², resistance 20 Ω is connected to a ballistic galvanometer of resistance 30 Ω. When the coil is flipped 180° in a field B, the charge is 6 mC. Find B.
 <details><summary><b>Answer</b></summary>
 
@@ -727,6 +813,22 @@ At $t = 2$: $d\Phi/dt = 8(2) + 2 = 18$ Wb/s
 $N = \varepsilon / (d\Phi/dt) = 400/18 \approx \mathbf{22.2 \approx 22 \text{ turns}}$
 
 </details>
+
+**🌱 Noob-Mode Bridge 🟢** A coil's flux changes by $\Delta\Phi = 0.02$ Wb in a time $\Delta t = 0.1$ s, inducing an average EMF of $\varepsilon = 4$ V and causing a charge $q = 0.1$ C to flow. Find the resistance $R$ of the circuit. *(Previews Q4: combine $\varepsilon = N\Delta\Phi/\Delta t$ and $q = N\Delta\Phi/R$ to eliminate $N\Delta\Phi$, giving $R = \varepsilon\Delta t/q$.)*
+
+<details><summary><b>Answer</b></summary>
+
+From $\varepsilon = \dfrac{N\Delta\Phi}{\Delta t}$ we get $N\Delta\Phi = \varepsilon\Delta t$.
+
+From $q = \dfrac{N\Delta\Phi}{R}$ we get $R = \dfrac{N\Delta\Phi}{q} = \dfrac{\varepsilon\Delta t}{q}$.
+
+$$R = \frac{4\times 0.1}{0.1} = \mathbf{4\ \Omega}$$
+
+*(The number of turns $N$ cancels out — you never need it!)*
+
+</details>
+
+---
 
 4. 🔴 A coil of 400 turns, area 50 cm² is connected to a galvanometer. When flux changes from 0 to maximum in 0.1 s, charge of 0.2 C flows. If the induced EMF is 10 V, find: (a) the resistance R, (b) maximum value of B.
 <details><summary><b>Answer</b></summary>
@@ -811,6 +913,20 @@ $= 200 \times 10^{-2} \times 50\pi = 100\pi \approx \mathbf{314 \text{ V}}$
 (b) $\varepsilon(t) = 100\pi \sin(50\pi t)$ V *(since $-d/dt[\cos] = +\sin$)*
 
 </details>
+
+**🌱 Noob-Mode Bridge 🟡** A coil of $N = 50$ turns, area $A = 0.02$ m², resistance $R = 10$ Ω sits in $B = 0.1$ T. Its flux is $\Phi(t) = NBA\cos(\omega t)$ with $\omega = 100$ rad/s. Write the expressions for (a) $\varepsilon(t)$ and (b) $I(t)$. *(Previews Q3: chain flux → differentiate → divide by R, just with friendlier numbers.)*
+
+<details><summary><b>Answer</b></summary>
+
+(a) $\Phi(t) = 50\times0.1\times0.02\cos(100t) = 0.1\cos(100t)$ Wb
+
+$$\varepsilon(t) = -\frac{d\Psi}{dt} = NBA\omega\sin(100t) = 50\times0.1\times0.02\times100\sin(100t) = \mathbf{10\sin(100t)\text{ V}}$$
+
+(b) $I(t) = \dfrac{\varepsilon}{R} = \dfrac{10\sin(100t)}{10} = \mathbf{\sin(100t)\text{ A}}$
+
+</details>
+
+---
 
 3. 🔴 A generator coil of $N = 100$ turns, area $A = 0.5$ m² rotates in a magnetic field $B = 0.2$ T at $\omega = 50\pi$ rad/s. Write the complete expression for: (a) flux $\Phi(t)$, (b) EMF $\varepsilon(t)$, (c) current if $R = 100$ Ω.
 <details><summary><b>Answer</b></summary>
@@ -1138,6 +1254,22 @@ $q = N\Delta\Phi/R = 200 \times 0.01/10 = \boxed{0.2 \text{ C}}$
 
 ---
 
+**🌱 Noob-Mode Bridge 🟡** A coil has flux $\Phi = \Phi_0\sin(\omega t)$ with $\Phi_0 = 10^{-3}$ Wb, $N = 1$, and total resistance $R = 5$ Ω. The time period is $T = 0.02$ s. Find the charge that flows from $t = 0$ to $t = T/4$. *(Previews 5.3(v): for a quarter-cycle, $\Phi$ goes from $0$ to its peak $\Phi_0$, so $q = N\Delta\Phi/R = N\Phi_0/R$.)*
+
+<details><summary><b>Answer</b></summary>
+
+At $t = 0$: $\Phi(0) = \Phi_0\sin 0 = 0$
+
+At $t = T/4$: $\omega T/4 = (2\pi/T)(T/4) = \pi/2$, so $\Phi(T/4) = \Phi_0\sin(\pi/2) = \Phi_0 = 10^{-3}$ Wb
+
+$\Delta\Phi = 10^{-3}$ Wb
+
+$$q = \frac{N\Delta\Phi}{R} = \frac{1\times10^{-3}}{5} = \mathbf{2\times10^{-4}\text{ C}}$$
+
+</details>
+
+---
+
 ### Problem 5.3 — Competency-Based Case Study 🔴
 
 > **Case Study: The Smart Power Grid Monitor**
@@ -1403,6 +1535,20 @@ $$I_{rms} = \varepsilon_{rms}/R = \frac{1000\pi\sqrt{2}}{10} = 100\pi\sqrt{2} \a
 ---
 
 ## 🚀 Stage 7: JEE Mains Arena
+
+**🌱 Noob-Mode Bridge 🟡** A rectangular loop of width $L = 0.1$ m and height $h = 0.05$ m lies in a field $\vec{B} = B_0(x/L)\hat{z}$ T (uniform in $y$, increasing linearly along $x$), with $B_0 = 2$ T. The left edge is at $x = 0$. Find the total magnetic flux through the loop. *(Previews Q1: when $B$ varies across the loop, integrate — $\Phi = \int B\,dA = h\int_0^L B_0(x/L)\,dx$. The spatial average of $B$ is just $B_0/2$.)*
+
+<details><summary><b>Answer</b></summary>
+
+$$\Phi = \int_0^L \int_0^h B_0\frac{x}{L}\,dy\,dx = B_0\frac{h}{L}\int_0^L x\,dx = B_0\frac{h}{L}\cdot\frac{L^2}{2} = \frac{B_0 h L}{2}$$
+
+Substitute values: $\Phi = \frac{2\times 0.05\times 0.1}{2} = 0.005$ Wb
+
+*(Equivalently: average $B = B_0/2 = 1$ T, so $\Phi = \bar B \times \text{area} = 1\times(0.1\times0.05) = 0.005$ Wb ✓)*
+
+</details>
+
+---
 
 ### JEE Q1 — Non-uniform Spatial B Field 🔴
 

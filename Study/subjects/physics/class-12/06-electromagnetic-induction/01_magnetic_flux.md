@@ -199,6 +199,44 @@ $$\theta = \cos^{-1}(0.5) = \boxed{60°}$$
 
 ---
 
+4b. 🌱 **Noob-Mode Bridge** 🟢 — *(Meet the "strip" method with a CONSTANT field first)*
+
+A uniform field B = 0.3 T points along the normal of a rectangle of length L = 0.5 m and width 0.1 m (running from x = 0 to x = 0.1 m). Slice the rectangle into thin vertical strips of width dx and length L. (i) Write the flux dΦ through one strip. (ii) Add up all the strips to find the total flux.
+
+<details><summary><b>Answer</b></summary>
+
+Each strip has area dA = L·dx and the field is perpendicular to it, so:
+
+$$d\Phi = B \cdot L \, dx$$
+
+Since B is constant, add (integrate) all strips from x = 0 to x = 0.1:
+
+$$\Phi = \int_0^{0.1} B L \, dx = BL\,[x]_0^{0.1} = 0.3 \times 0.5 \times 0.1 = \boxed{0.015 \text{ Wb}}$$
+
+Check: this equals BA = 0.3 × (0.5 × 0.1) = 0.015 Wb. The strip method gives the same answer as BA when B is constant — now we are ready to let B vary.
+
+</details>
+
+---
+
+4c. 🌱 **Noob-Mode Bridge** 🟡 — *(Now let B VARY — one new idea: keep B inside the integral)*
+
+A field along z varies as B(x) = 6x (T, x in metres). A rectangular region has length L = 2 m (along y) and runs from x = 0 to x = 1 m. Find the total flux.
+
+<details><summary><b>Answer</b></summary>
+
+Strip at position x, width dx, length L = 2 m:
+
+$$d\Phi = B(x)\cdot L\,dx = 6x \times 2 \, dx = 12x\,dx$$
+
+$$\Phi = \int_0^1 12x\,dx = 12\left[\frac{x^2}{2}\right]_0^1 = 12 \times \frac{1}{2} = \boxed{6 \text{ Wb}}$$
+
+Because B changes with x, it must stay INSIDE the integral. This is exactly the skill Q5 needs.
+
+</details>
+
+---
+
 5. (Hard) In a region, the magnetic field varies as B(x) = B0(1 + kx), where B0 = 0.2 T, k = 2 m^-1. A rectangular loop of width w = 0.1 m and length L = 0.5 m has one side at x = 0 and the other at x = 0.1 m. The loop lies in the x-y plane. Find the total flux through the loop.
 
 <details><summary><b>Answer</b></summary>
@@ -224,6 +262,24 @@ $$A_{coil} = \pi (0.02)^2 = 4\pi \times 10^{-4} \text{ m}^2$$
 $$\Phi = 0.8 \times 4\pi \times 10^{-4} = 3.2\pi \times 10^{-4} \approx \boxed{1.005 \times 10^{-3} \text{ Wb}}$$
 
 Use the **coil's** area, NOT the solenoid area.
+
+</details>
+
+---
+
+6b. 🌱 **Noob-Mode Bridge** 🟡 — *(A 1/r field and the ln integral — the exact tool for the wire problem)*
+
+A field varies as B(r) = 12/r (T, r in metres) and points along the normal of a strip. The strip has length a = 1 m and runs from r = 1 m to r = 2 m (width dr). Find the flux.
+
+<details><summary><b>Answer</b></summary>
+
+Strip at distance r, width dr, length a = 1 m:
+
+$$d\Phi = B(r)\cdot a\,dr = \frac{12}{r}\times 1 \, dr$$
+
+$$\Phi = 12\int_1^2 \frac{dr}{r} = 12\,[\ln r]_1^2 = 12(\ln 2 - \ln 1) = 12\ln 2 \approx 12 \times 0.693 = \boxed{8.32 \text{ Wb}}$$
+
+Key new tool: $\int \frac{dr}{r} = \ln r$. A wire's field ($B = \mu_0 I/2\pi r$) has exactly this 1/r shape, so its flux always contains a natural log — ready for Q7.
 
 </details>
 
@@ -475,6 +531,24 @@ Negative means the field passes through the surface opposite to the area normal 
 **y-z plane:** A2 = L^2 i-hat, Phi_2 = B0 x 2 x L^2 = 2B0L^2
 
 $$\frac{\Phi_1}{\Phi_2} = \frac{4B_0L^2}{2B_0L^2} = \boxed{2:1}$$
+
+</details>
+
+---
+
+5b. 🌱 **Noob-Mode Bridge** 🟡 — *(Strip integration in vector form — B along k-hat, varying with x)*
+
+B = 2x k-hat (T, x in metres) threads a square of side 2 m lying in the x-y plane, from x = 0 to x = 2 m. Find the flux.
+
+<details><summary><b>Answer</b></summary>
+
+The area vector is along k-hat, so only the k-hat component matters. Take a strip at x, width dx, length 2 m (along y): dA = 2 dx k-hat.
+
+$$d\Phi = \vec{B}\cdot d\vec{A} = (2x\hat{k})\cdot(2\,dx\,\hat{k}) = 4x\,dx$$
+
+$$\Phi = \int_0^2 4x\,dx = 4\left[\frac{x^2}{2}\right]_0^2 = 4 \times 2 = \boxed{8 \text{ Wb}}$$
+
+Same strip method as Type 1, now written with the dot product. Q6 is the identical idea with symbols instead of numbers.
 
 </details>
 
@@ -754,6 +828,24 @@ $$\Delta\Phi = 3\times10^{-3} - 0 = \boxed{3 \times 10^{-3} \text{ Wb}}$$
 $$\Delta\Phi_{linkage} = N(B_f - B_i)A = 100 \times (0.2 - 0.8) \times 50\times10^{-4}$$
 
 $$= 100 \times (-0.6) \times 5\times10^{-3} = \boxed{-0.3 \text{ Wb}}$$
+
+</details>
+
+---
+
+4b. 🌱 **Noob-Mode Bridge** 🟢 — *(Angles bigger than 90°: flux can go NEGATIVE)*
+
+A coil has NBA = 8 Wb. Find its flux linkage when the normal makes (i) θ = 60° with the field, and (ii) θ = 120° with the field. Then find the change ΔΦ from (i) to (ii).
+
+<details><summary><b>Answer</b></summary>
+
+(i) $\Phi_1 = NBA\cos 60° = 8 \times 0.5 = 4$ Wb
+
+(ii) $\cos 120° = -0.5$, so $\Phi_2 = NBA\cos 120° = 8 \times (-0.5) = -4$ Wb
+
+$$\Delta\Phi = \Phi_2 - \Phi_1 = -4 - 4 = \boxed{-8 \text{ Wb}}$$
+
+Flipping past 90° makes cos negative, so the flux reverses sign. Flipping a coil by 180° turns θ into 180° − θ — exactly the move Q5 asks for.
 
 </details>
 

@@ -196,11 +196,33 @@ They are named "eddy" currents because they resemble **eddies** — the swirling
 The eddy currents flow in **closed loops within the bulk of the disc** — swirling like water eddies in horizontal planes perpendicular to the magnetic field. Their immediate observable effect is that the disc **heats up** (Joule heating: $H = I^2Rt$) and the disc experiences a **retarding torque** that opposes its rotation (by Lenz's law). Sustained rotation requires continuous input of energy to overcome this drag.
 </details>
 
+7a. 🌱 Noob-Mode Bridge 🟡 A flat metal plate is slid sideways from a region where the magnetic field is zero into a region of stronger, uniform magnetic field. Does the magnetic flux through the plate change, and what will the induced eddy currents try to do according to Lenz's law?
+
+<details><summary><b>Answer</b></summary>
+
+Yes — as the plate enters the stronger-field region, the magnetic flux through it **increases with time**. By Faraday's law this induces eddy currents, and by **Lenz's law** those currents flow so as to **oppose the increase in flux**.
+
+Consequence: the eddy currents create a magnetic field directed opposite to the external field, which produces a force that **opposes the plate's motion** (a retarding/repulsive effect). This is the single new idea needed below — a conductor moving through a **non-uniform** field has its flux change, so eddy currents appear and fight the motion.
+
+</details>
+
 7. 🔴 A solid conducting sphere is moved rapidly through a non-uniform magnetic field. Describe qualitatively how eddy currents are set up and what happens to the sphere's kinetic energy.
 <details><summary><b>Answer</b></summary>
 As the sphere moves through the non-uniform field, different parts of the sphere experience different flux values, and the flux through any cross-section of the sphere changes continuously. By Faraday's law, EMFs are induced throughout the sphere, driving eddy currents in complex 3D closed loops within the conducting material.
 
 By Lenz's law, these currents create forces opposing the sphere's motion (electromagnetic drag). The sphere **slows down**. The kinetic energy of the sphere is converted into **heat** within the sphere through Joule heating ($H = I^2Rt$), effectively acting as a non-contact braking mechanism.
+</details>
+
+8a. 🌱 Noob-Mode Bridge 🟢 The eddy current power loss follows $P_{\text{eddy}} \propto \dfrac{B^2 f^2 t^2}{\rho}$. Suppose only the resistivity $\rho$ is doubled while $B, f,$ and $t$ are kept the same. By what factor does the loss change?
+
+<details><summary><b>Answer</b></summary>
+
+Since $P \propto 1/\rho$:
+
+$$\frac{P_{\text{new}}}{P_{\text{old}}} = \frac{\rho_{\text{old}}}{\rho_{\text{new}}} = \frac{\rho}{2\rho} = \frac{1}{2}$$
+
+The loss is **halved**. Lower resistivity means larger eddy currents and more heating — the exact idea used in Q8.
+
 </details>
 
 8. 🔴 Explain why eddy currents are larger in conductors with lower resistivity. Use the formula $P \propto B^2 f^2 t^2/\rho$ to justify.
@@ -329,6 +351,14 @@ Four applications of eddy currents:
 
 </details>
 
+7a. 🌱 Noob-Mode Bridge 🟡 An induction-type energy meter contains a **voltage coil** (carrying current ∝ voltage) and a **current coil** (carrying current ∝ load current). Both produce alternating magnetic fields in the aluminium disc between them. What do these fields induce in the disc, and what is the result?
+
+<details><summary><b>Answer</b></summary>
+
+The alternating fields from the two coils induce **eddy currents** in the aluminium disc (Faraday's law). The interaction between these eddy currents and the coil magnetic fields produces a **torque** that makes the disc rotate. That single idea — two coils → eddy currents in a disc → rotation — is exactly what Q7 extends to "rotation ∝ power consumed."
+
+</details>
+
 7. 🔴 An **energy meter** (kWh meter) at home uses eddy currents. Explain the role of eddy currents in making the aluminium disc rotate at a speed proportional to power consumed.
 <details><summary><b>Answer</b></summary>
 
@@ -341,6 +371,14 @@ Four applications of eddy currents:
 - This torque is proportional to the **product of voltage and current** → i.e., proportional to **power consumed**.
 - A **permanent magnet** provides braking torque so the disc speed is proportional to power (not just torque).
 - The disc **rotates continuously** as long as power is consumed, and the total rotations (counted by a gear mechanism) measure the **energy consumed (kWh)**.
+
+</details>
+
+8a. 🌱 Noob-Mode Bridge 🟢 A plastic bead and a metal bead of identical size are each dropped through a vertical solenoid that carries alternating current (AC). In which bead are eddy currents induced, and which one falls more slowly?
+
+<details><summary><b>Answer</b></summary>
+
+Eddy currents are induced only in the **metal bead** (a conductor). By Lenz's law they create a magnetic force opposing its downward motion, so the metal bead falls **more slowly** than in free fall. The **plastic bead** is an insulator — no eddy currents, no electromagnetic drag — so it falls freely and reaches the bottom first. This is the exact comparison Q8 asks about, with a solenoid instead of a plain magnet.
 
 </details>
 
@@ -450,6 +488,16 @@ Silicon steel is preferred because:
 A completely eddy-current-free core would require a non-conducting material, but then no useful magnetic flux would be carried efficiently (ferromagnetic metals are needed for their high permeability).
 </details>
 
+6a. 🌱 Noob-Mode Bridge 🟢 The eddy current power loss obeys $P \propto t^2$ (thickness squared). If the lamination thickness is made **one-third** of the original value, by what factor does the loss change?
+
+<details><summary><b>Answer</b></summary>
+
+$$\frac{P_{\text{new}}}{P_{\text{old}}} = \left(\frac{t_{\text{new}}}{t_{\text{old}}}\right)^2 = \left(\frac{1}{3}\right)^2 = \frac{1}{9}$$
+
+The loss drops to **one-ninth** of its original value. Same squaring rule, just with friendlier numbers — now try the halving case in Q6.
+
+</details>
+
 6. 🔴 The eddy current power loss in a transformer core is given by $P \propto B^2 f^2 t^2 / \rho$. A transformer currently uses laminations of thickness $t = 0.5$ mm. If the lamination thickness is halved to 0.25 mm, by what factor does the eddy current loss change?
 <details><summary><b>Answer</b></summary>
 
@@ -544,6 +592,14 @@ In a **plastic tube** (non-conductor), no eddy currents are induced, so the magn
 **Wood plate:** Wood is an electrical insulator. No eddy currents are induced regardless of the changing flux. No electromagnetic damping occurs. The plate continues to oscillate (energy dissipated only by air resistance and internal friction, much slower).
 </details>
 
+5a. 🌱 Noob-Mode Bridge 🟡 A magnet is moved toward a stationary conducting plate. By Lenz's law, what is the direction of the force on the plate, and how could a sustained version of this same repulsive effect be used to lift (levitate) the magnet?
+
+<details><summary><b>Answer</b></summary>
+
+As the magnet approaches, the changing flux induces eddy currents in the plate. By Lenz's law those currents create a magnetic field that **repels** the approaching magnet — so the force on the plate (and on the magnet) is **pushing them apart**. If the conductor and magnet keep moving relative to each other so the repulsion is continuously sustained, that upward repulsive force can balance the magnet's weight and **levitate** it. That is the levitation half of Q5; the braking half you already practised in Q3–Q4.
+
+</details>
+
 5. 🔴 Magnetic levitation (Maglev) trains use eddy currents for both **braking** and **levitation**. Explain both using Lenz's law.
 <details><summary><b>Answer</b></summary>
 
@@ -618,6 +674,18 @@ In high-precision analytical balances, the balance beam has a tendency to oscill
 - Eddy currents induced in the vane by the changing flux create Lenz-law forces opposing the oscillation.
 - The beam is **critically damped** — it settles quickly without overshooting.
 - The balance remains sensitive for small mass differences but settles rapidly after disturbance.
+</details>
+
+4a. 🌱 Noob-Mode Bridge 🟢 The eddy-current damping coefficient is proportional to the frame's electrical conductivity: $b \propto \sigma$. The coil frame is changed from aluminium (a good conductor) to paper (an insulator, $\sigma \approx 0$). What happens to $b$?
+
+<details><summary><b>Answer</b></summary>
+
+Since $b \propto \sigma$ and paper has $\sigma \approx 0$,
+
+$$b_{\text{paper}} \approx 0$$
+
+The electromagnetic damping essentially **vanishes**. (The full version in Q4 adds the factors $t^2$ and $B^2$ to give $b \propto \sigma t^2 B^2$, but the key point — no conductor, no damping — is already clear here.)
+
 </details>
 
 4. 🔴 A galvanometer coil wound on a metallic frame is replaced by one wound on a paper frame. How does the damping change? Would the galvanometer now be dead-beat? Justify quantitatively in terms of eddy currents.
@@ -779,11 +847,21 @@ At higher frequency, the rate of change of magnetic flux is much higher: $\mathc
 - The energy input to the system goes overwhelmingly into eddy-current heating of the silver (the primary load), not into the coil.
 </details>
 
+3a. 🌱 Noob-Mode Bridge 🟢 For eddy-current heating, $P_{\text{eddy}} \propto f^2$. If the operating frequency is doubled (say from 25 kHz to 50 kHz) with the same vessel and field amplitude, by what factor does the heating power increase?
+
+<details><summary><b>Answer</b></summary>
+
+$$\frac{P_B}{P_A} = \left(\frac{f_B}{f_A}\right)^2 = \left(\frac{50}{25}\right)^2 = 2^2 = 4$$
+
+The heating power becomes **4× larger**. Q3 asks the same comparison as a case study — just watch the "same input power" caveat there.
+
+</details>
+
 3. 🔴 **Case Study:** A company manufactures two models of induction cookers:
-   - Model A: operates at 25 kHz
-   - Model B: operates at 50 kHz, same power input
-   
-   Both use the same type of iron-base cooking vessel. A student claims Model B will heat the vessel faster. Is the student correct? Use $P_{\text{eddy}} \propto f^2$ to justify.
+    - Model A: operates at 25 kHz
+    - Model B: operates at 50 kHz, same power input
+    
+    Both use the same type of iron-base cooking vessel. A student claims Model B will heat the vessel faster. Is the student correct? Use $P_{\text{eddy}} \propto f^2$ to justify.
 <details><summary><b>Answer</b></summary>
 
 The student is **partially correct** for eddy current heating, but the full picture requires care.

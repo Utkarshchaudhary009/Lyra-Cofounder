@@ -296,6 +296,32 @@ When switch is opened: current in A decreases → flux through B decreases → i
 
 </details>
 
+5b. 🌱 Noob-Mode Bridge 🟢 A single-turn circular coil has a magnetic flux of $5 \times 10^{-3}$ Wb passing through it. The coil is rotated so that the flux through it becomes zero in 0.1 s. Find the magnitude of the average induced EMF.
+
+<details><summary><b>Answer</b></summary>
+
+Initial flux: $\Phi_i = 5 \times 10^{-3}$ Wb. Final flux: $\Phi_f = 0$.
+
+$$|\varepsilon_{avg}| = N\frac{|\Delta\Phi|}{\Delta t} = 1 \times \frac{5\times10^{-3}}{0.1} = \frac{5\times10^{-3}}{10^{-1}} = 5\times10^{-2} = \mathbf{0.05\ \text{V}}$$
+
+This builds the core micro-skill: when a coil rotates so its flux drops to zero, $|\varepsilon| = N|\Phi_i - 0|/\Delta t$. ✅
+
+</details>
+
+5c. 🌱 Noob-Mode Bridge 🟡 A coil of $N = 50$ turns has a flux of $4 \times 10^{-3}$ Wb through each turn. It is rotated so its plane becomes perpendicular to the original field direction (so the area vector is perpendicular to $\vec B$ — meaning $\cos 90^\circ = 0$ and the flux per turn becomes zero). If this takes 0.25 s, find the average induced EMF.
+
+<details><summary><b>Answer</b></summary>
+
+Final flux per turn: $\Phi_f = BA\cos 90^\circ = 0$.
+
+$$|\varepsilon_{avg}| = N\frac{|\Phi_i - \Phi_f|}{\Delta t} = 50 \times \frac{4\times10^{-3} - 0}{0.25} = 50 \times \frac{4\times10^{-3}}{0.25}$$
+
+$$= 50 \times 1.6\times10^{-2} = \mathbf{0.8\ \text{V}}$$
+
+Key new idea: rotating a coil until its axis is perpendicular to $\vec B$ makes the flux vanish because $\cos 90^\circ = 0$. ✅
+
+</details>
+
 6. 🔴 A bar magnet is placed along the axis of a solenoid (100 turns, area = 10 cm²). The magnet is rotated so that its axis becomes perpendicular to the solenoid axis. Given that the initial flux per turn was $2 \times 10^{-3}$ Wb and the rotation takes 0.2 s, find the average induced EMF.
 
 <details><summary><b>Answer</b></summary>
@@ -447,6 +473,19 @@ Lenz's Law applies only when there is a **change in flux**. A non-uniform but st
 
 </details>
 
+6b. 🌱 Noob-Mode Bridge 🟡 A circular loop of area $A = 2 \times 10^{-2}\ \text{m}^2$ sits in a uniform magnetic field $B = 0.5\ \text{T}$ directed out of the page. The loop is squeezed so its area shrinks to $1 \times 10^{-2}\ \text{m}^2$ in 0.5 s. Find (a) the average induced EMF and (b) the direction of the induced current.
+
+<details><summary><b>Answer</b></summary>
+
+(a) $\Phi_i = BA_i = 0.5 \times 2\times10^{-2} = 1\times10^{-2}$ Wb.
+$\Phi_f = BA_f = 0.5 \times 1\times10^{-2} = 5\times10^{-3}$ Wb.
+
+$$|\varepsilon| = \frac{|\Phi_f - \Phi_i|}{\Delta t} = \frac{|5\times10^{-3} - 1\times10^{-2}|}{0.5} = \frac{5\times10^{-3}}{0.5} = \mathbf{0.01\ \text{V}}$$
+
+(b) Area decreases → flux (out of the page) decreases → induced B points **out of the page** to maintain flux → current is **anticlockwise** (viewed from the front). ✅
+
+</details>
+
 7. 🔴 **(NCERT Exemplar concept)** A current-carrying circular loop is placed in a uniform magnetic field. It begins to contract (radius decreases). Using Lenz's Law, find the direction of induced current if B points out of the page.
 
 <details><summary><b>Answer</b></summary>
@@ -547,6 +586,20 @@ By Faraday's Law, **eddy currents** are induced in the disc. By Lenz's Law, thes
 The kinetic energy of rotation is continuously converted into **heat** by these eddy currents (Joule heating). Since energy is continuously being dissipated and no energy is being supplied, the disc **gradually slows down and eventually stops**.
 
 This is the principle of **electromagnetic damping**.
+
+</details>
+
+4b. 🌱 Noob-Mode Bridge 🟡 A conducting ring of very low (but non-zero) resistance is placed around a solenoid. The current in the solenoid is increased and then suddenly switched off. Briefly describe what happens in the ring during (i) the increase and (ii) the switch-off, and state whether any current persists after the field becomes steady.
+
+<details><summary><b>Answer</b></summary>
+
+(i) **During increase:** Flux through the ring increases → an induced current flows (by Lenz's Law) to oppose the increase.
+
+(ii) **During switch-off:** Flux through the ring decreases → the induced current reverses direction to try to maintain the flux.
+
+**After the field is steady:** Once flux stops changing ($\frac{d\Phi}{dt} = 0$), no EMF is induced, so the induced current in the low-resistance ring **dies away** (dissipated as Joule heat). No current persists indefinitely in an ordinary conductor. ✅
+
+*This sets up Q5: in a superconductor ($R = 0$), the current can persist forever and exactly cancel any external flux change.*
 
 </details>
 
@@ -670,6 +723,32 @@ New power = $F \times v = 1 \times 8 = 8$ W (was 2 W — quadrupled, since $P \p
 
 </details>
 
+3b. 🌱 Noob-Mode Bridge 🟢 A horizontal square loop (side $a = 0.1\ \text{m}$, resistance $R = 0.5\ \Omega$) falls at velocity $v = 2\ \text{m/s}$ through a uniform field $B = 1\ \text{T}$ (into the page) in a horizontal strip. Only the leading (top) edge of length $a$ is inside the field. Find the retarding magnetic force on the loop.
+
+<details><summary><b>Answer</b></summary>
+
+Induced EMF: $\varepsilon = Bav = 1 \times 0.1 \times 2 = 0.2\ \text{V}$
+
+Current: $I = \dfrac{\varepsilon}{R} = \dfrac{0.2}{0.5} = 0.4\ \text{A}$
+
+Retarding force: $F_{mag} = BIa = 1 \times 0.4 \times 0.1 = \mathbf{0.04\ \text{N}}$ (directed upward, opposing the motion). ✅
+
+</details>
+
+3c. 🌱 Noob-Mode Bridge 🟡 For the same falling loop, the magnetic retarding force is $F_{mag} = \dfrac{B^2 a^2 v}{R}$. Suppose the loop's weight is $mg = 0.08\ \text{N}$. At what velocity does the retarding force exactly balance the weight — i.e., what is the terminal velocity? Use $B = 1\ \text{T}$, $a = 0.1\ \text{m}$, $R = 0.5\ \Omega$.
+
+<details><summary><b>Answer</b></summary>
+
+Set $mg = \dfrac{B^2 a^2 v_T}{R}$:
+
+$$v_T = \frac{mgR}{B^2 a^2} = \frac{0.08 \times 0.5}{1^2 \times (0.1)^2} = \frac{0.04}{1 \times 0.01} = \frac{0.04}{0.01} = \mathbf{4\ \text{m/s}}$$
+
+At $v = 4\ \text{m/s}$ the upward magnetic force equals the downward weight, so the loop stops accelerating — this is the **terminal velocity**. ✅
+
+*This is exactly the structure of Q4; Q4 keeps the symbols general instead of using numbers.*
+
+</details>
+
 4. 🔴 A square loop (side $a$, resistance $R$) falls under gravity through a uniform horizontal field $B$ (into the page). The field exists only in a horizontal strip of height $h$. Show that the terminal velocity (if reached inside the strip) is $v_T = \dfrac{mgR}{B^2a^2}$.
 
 <details><summary><b>Answer</b></summary>
@@ -765,6 +844,21 @@ The peak during exit is **larger** than during entry (because magnet is faster d
 By Lenz's Law, the induced current in B will create a field opposing the increase — i.e., opposing the approach of A. The current in B will flow in the **opposite direction** to the current in A.
 
 Note: This is different from the case where A's current is changing — here, the current is constant but the *position* changes.
+
+</details>
+
+2b. 🌱 Noob-Mode Bridge 🟡 A square loop (area $A = 4 \times 10^{-3}\ \text{m}^2$, resistance $R = 2\ \Omega$) lies fully inside a uniform field $B = 0.5\ \text{T}$ (out of the page). It is pulled completely out of the field. Find the total charge that flows through the loop during the process.
+
+<details><summary><b>Answer</b></summary>
+
+Initial flux: $\Phi_i = BA = 0.5 \times 4\times10^{-3} = 2\times10^{-3}$ Wb.
+Final flux (fully out of field): $\Phi_f = 0$.
+
+The total charge that flows is independent of *how fast* the loop is pulled:
+
+$$q = \frac{|\Delta\Phi|}{R} = \frac{|\Phi_f - \Phi_i|}{R} = \frac{2\times10^{-3}}{2} = \mathbf{1\times10^{-3}\ \text{C}}$$
+
+This builds the key Q3 micro-skill: $q = \Delta\Phi/R$ for a changing flux, and that current flows only *during* the change. ✅
 
 </details>
 
@@ -869,6 +963,31 @@ This demonstrates that EMF can exist without current.
 Since the direction of current is determined by the direction of EMF (current flows from lower to higher potential inside the source), knowing the current direction implies knowing the EMF direction. So Lenz's Law does indirectly give the direction of EMF, but it is more fundamentally about the **current** direction.
 
 In an **open circuit**, Lenz's Law about current direction does not apply, but the EMF direction (polarity of the open terminals) still follows the same principle.
+
+</details>
+
+3b. 🌱 Noob-Mode Bridge 🟡 Coil A carries a steadily **increasing** current (anticlockwise as seen from above), producing an upward magnetic field along the axis. A second coaxial coil B is placed below A. What is the direction of the induced current in B?
+
+<details><summary><b>Answer</b></summary>
+
+Upward flux through B increases (because A's current increases). By Lenz's Law, B's induced current must create a **downward** field to oppose the increase. By the right-hand curl rule, a downward field inside B means current in B flows **clockwise** as seen from above. ✅
+
+*This is the first half of Q4's reasoning — the direction of induced current in the lower ring.*
+
+</details>
+
+3c. 🌱 Noob-Mode Bridge 🟡 Two coaxial rings both carry current **anticlockwise** as seen from above. What poles face each other in the gap between them, and is the force between them attractive or repulsive?
+
+<details><summary><b>Answer</b></summary>
+
+For a ring with anticlockwise current seen from above: right-hand thumb points **up**, so the **upper face is a North pole** and the **lower face is a South pole**.
+
+- Upper ring's lower face → South pole.
+- Lower ring's upper face → South pole.
+
+The **same poles (S–S) face each other** → the force is **repulsive**. ✅
+
+*This is the second half of Q4: once you know both rings' current directions, comparing the facing poles gives the force. In Q4 the lower ring's induced current is clockwise, so its upper face is South — same as the upper ring's lower face (South) → repulsive.*
 
 </details>
 

@@ -289,6 +289,22 @@ Heat in 5 s: $Q = P \times t = 3.375 \times 5 = \mathbf{16.875\ J}$
 
 </details>
 
+5b. 🌱 Noob-Mode Bridge 🟡 The velocity of a rod varies with time as $v = kt$, where $k = 2\ \text{m/s}^2$ (so the rod speeds up linearly). At $t = 3\ \text{s}$, find the power dissipated. Given $B = 1\ \text{T}$, $l = 1\ \text{m}$, $R = 1\ \Omega$.
+
+<details><summary><b>Answer</b></summary>
+
+At $t = 3\ \text{s}$: $v = 2 \times 3 = \mathbf{6\ m/s}$
+
+Power at that instant:
+
+$$P = \frac{B^2l^2v^2}{R} = \frac{(1)^2(1)^2(6)^2}{1} = \mathbf{36\ W}$$
+
+*Micro-skill:* first read the instantaneous velocity from the time-law, then plug it into the standard power formula. This is the step needed when velocity is itself a function of time.
+
+</details>
+
+---
+
 6. 🔴 A conducting rod moves on frictionless rails in a field B. The velocity is given by $v = v_0(1 - e^{-t})$ where $v_0 = 5\ \text{m/s}$. At $t = 0$, the power dissipated is zero. At $t \to \infty$, power $= 50\ \text{W}$. If $l = 1\ \text{m}$ and $B = 2\ \text{T}$, find R.
 
 <details><summary><b>Answer</b></summary>
@@ -439,6 +455,24 @@ $F' = \frac{(2B)^2l^2v}{R/2} = \frac{4B^2l^2v \times 2}{R} = \frac{8B^2l^2v}{R} 
 $\boxed{F_{\text{new}} = 8F_{\text{old}}}$ — the force increases by a factor of **8**.
 
 </details>
+
+5b. 🌱 Noob-Mode Bridge 🟡 A rod moves with velocity $v = 2t$ (in m/s, $t$ in s). At $t = 1\ \text{s}$, find (i) the power dissipated and (ii) the retarding force. Given $B = 1\ \text{T}$, $l = 1\ \text{m}$, $R = 1\ \Omega$.
+
+<details><summary><b>Answer</b></summary>
+
+At $t = 1\ \text{s}$: $v = 2 \times 1 = \mathbf{2\ m/s}$
+
+**(i) Power:**
+$$P = \frac{B^2l^2v^2}{R} = \frac{1 \times 1 \times (2)^2}{1} = \mathbf{4\ W}$$
+
+**(ii) Retarding force:**
+$$F_{\text{ret}} = \frac{B^2l^2v}{R} = \frac{1 \times 1 \times 2}{1} = \mathbf{2\ N}$$
+
+*Micro-skill:* read the instantaneous velocity from the $v(t)$ law first, then run the usual Type-2 chain ($\varepsilon \to I \to F_{\text{ret}} \to P$).
+
+</details>
+
+---
 
 6. 🔴 A conducting rod slides along rails with velocity $v = 4 + 3t$ (in m/s). At $t = 2\ \text{s}$, find the power being supplied. Given: $B = 1\ \text{T}$, $l = 0.5\ \text{m}$, $R = 0.5\ \Omega$. Also find the retarding force at this instant.
 
@@ -679,6 +713,36 @@ Tripling R triples the time constant — the rod decelerates more slowly (takes 
 
 </details>
 
+4b. 🌱 Noob-Mode Bridge 🟢 A rod ($m = 0.1\ \text{kg}$, $l = 1\ \text{m}$, $B = 1\ \text{T}$, $R = 1\ \Omega$) is released with $v_0 = 10\ \text{m/s}$ on frictionless rails. Write the velocity law and find the power dissipated at $t = 0$.
+
+<details><summary><b>Answer</b></summary>
+
+Time constant: $\tau = \frac{mR}{B^2l^2} = \frac{0.1 \times 1}{1 \times 1} = 0.1\ \text{s}$, so $v(t) = v_0 e^{-t/\tau} = 10\,e^{-t/0.1}$.
+
+At $t = 0$: $v(0) = 10\ \text{m/s}$.
+
+$$P(0) = \frac{B^2l^2v_0^2}{R} = \frac{1 \times 1 \times 100}{1} = \mathbf{100\ W}$$
+
+At $t = 0$ the velocity is simply $v_0$, so we just use the basic power formula. This is the starting point for the time-dependent power questions below.
+
+</details>
+
+---
+
+4c. 🌱 Noob-Mode Bridge 🟡 For the same rod, find the retarding force and the power dissipated at the instant the velocity has fallen to half its initial value, $v = 5\ \text{m/s}$.
+
+<details><summary><b>Answer</b></summary>
+
+Retarding force: $F_{\text{ret}} = \frac{B^2l^2v}{R} = \frac{1 \times 1 \times 5}{1} = \mathbf{5\ N}$
+
+Power: $P = \frac{B^2l^2v^2}{R} = \frac{1 \times 1 \times 25}{1} = \mathbf{25\ W}$
+
+Because $P \propto v^2$, halving the velocity quarters the power ($100 \to 25\ \text{W}$). This is exactly the substitution used when $v(t) \ne v_0$.
+
+</details>
+
+---
+
 5. 🔴 A rod ($m = 0.1\ \text{kg}$, $l = 1\ \text{m}$, $B = 1\ \text{T}$, $R = 1\ \Omega$) is given $v_0 = 10\ \text{m/s}$. Find the power dissipated at (a) $t = 0$, (b) $t = \tau$, (c) $t = 2\tau$.
 
 <details><summary><b>Answer</b></summary>
@@ -787,6 +851,22 @@ $P_{\text{elec}} = B^2l^2v^2/R = (4)(0.25)(16)/1 = 16\ \text{W}$
 
 </details>
 
+3b. 🌱 Noob-Mode Bridge 🟢 A rod on a smooth incline (angle θ) reaches **terminal velocity** when the downhill pull of gravity equals the magnetic retarding force: $mg\sin\theta = \dfrac{B^2l^2v_T}{R}$. Given $m = 0.2\ \text{kg}$, $g = 10\ \text{m/s}^2$, $\theta = 30^\circ$, $B = 2\ \text{T}$, $l = 0.5\ \text{m}$, $R = 1\ \Omega$, find the terminal velocity $v_T$.
+
+<details><summary><b>Answer</b></summary>
+
+Downhill gravity component: $mg\sin\theta = 0.2 \times 10 \times \sin 30^\circ = 2 \times 0.5 = \mathbf{1\ N}$
+
+At terminal velocity, $mg\sin\theta = \dfrac{B^2l^2v_T}{R}$:
+
+$$v_T = \frac{mgR\sin\theta}{B^2l^2} = \frac{1 \times 1}{(2)^2(0.5)^2} = \frac{1}{4 \times 0.25} = \frac{1}{1} = \mathbf{1\ m/s}$$
+
+*(This is the exact balance that the harder incline problems use — here with a single clean computation.)*
+
+</details>
+
+---
+
 4. 🔴 A rod on inclined rails (θ = 30°, frictionless) slides down under gravity and magnetic braking. B = 1 T, l = 1 m, R = 5 Ω, m = 0.1 kg. Find terminal velocity. *(g = 10 m/s²)*
 
 <details><summary><b>Answer</b></summary>
@@ -880,6 +960,27 @@ $P_1 = \varepsilon^2/R_1$ — depends only on $\varepsilon$ and $R_1$, **not on*
 Therefore, **increasing $R_2$ does not affect power in $R_1$**. Each resistor in parallel independently dissipates $\varepsilon^2/R$.
 
 </details>
+
+2b. 🌱 Noob-Mode Bridge 🟡 A rod ($l = 1\ \text{m}$, $B = 1\ \text{T}$, $v = 2\ \text{m/s}$) drives current into two parallel resistors $R_1 = 2\ \Omega$ and $R_2 = 2\ \Omega$ connected across the rails. Find (i) effective resistance, (ii) total current through the rod, (iii) retarding force on the rod.
+
+<details><summary><b>Answer</b></summary>
+
+**(i) Effective resistance (parallel):**
+$$R_{\text{eff}} = \frac{R_1R_2}{R_1+R_2} = \frac{2 \times 2}{2+2} = \frac{4}{4} = \mathbf{1\ \Omega}$$
+
+**(ii) EMF and total current:**
+$\varepsilon = Blv = 1 \times 1 \times 2 = 2\ \text{V}$
+
+$I_{\text{total}} = \frac{\varepsilon}{R_{\text{eff}}} = \frac{2}{1} = \mathbf{2\ A}$ (this is the current through the rod)
+
+**(iii) Retarding force:**
+$$F_{\text{ret}} = B I_{\text{total}} l = 1 \times 2 \times 1 = \mathbf{2\ N}$$
+
+*Key point:* the retarding force uses the **total** current from the rod, found after combining the parallel resistors.
+
+</details>
+
+---
 
 3. 🔴 Two rails are connected by $R_1 = 3\ \Omega$ (at left) and $R_2 = 6\ \Omega$ (at right). Rod ($l = 1\ \text{m}$, $B = 1\ \text{T}$, $v = 3\ \text{m/s}$) moves right. Find the retarding force on the rod.
 

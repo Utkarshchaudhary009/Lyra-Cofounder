@@ -266,6 +266,16 @@ $\varepsilon = B_v \times l \times v = 3.46\times10^{-5} \times 1.5 \times 20 \a
 
 </details>
 
+7b. 🌱 Noob-Mode Bridge 🟢 A rod of length $l = 1$ m moves with velocity $v = 2$ m/s in a magnetic field that varies with position as $B(x) = 3x$ T (where $x$ is in metres). At the instant the rod is at $x = 2$ m, find the motional EMF.
+
+<details><summary><b>Answer</b></summary>
+
+At $x = 2$ m the field is $B = 3(2) = 6$ T. At any instant the field is uniform *along the rod* (it only varies with $x$, the rod is along $y$), so we just evaluate $B$ at the rod's position:
+
+$\varepsilon = Blv = 6 \times 1 \times 2 = \mathbf{12 \text{ V}}$
+
+</details>
+
 7. 🔴 A rod $PQ$ of length $l$ moves in the x-direction with velocity $\vec{v} = v\hat{x}$. Magnetic field $\vec{B} = B_0(x\hat{z})$ (non-uniform, increases with $x$). At a given instant the rod is at $x = a$. Find the motional EMF at that instant.
 
 <details><summary><b>Answer</b></summary>
@@ -382,6 +392,16 @@ The velocity then decays as $v(t) = v_0 e^{-t/\tau}$ where $\tau = mR/(B^2l^2) =
 
 </details>
 
+6b. 🌱 Noob-Mode Bridge 🟢 A rod moving on rails produces an EMF $\varepsilon = 2$ V. Instead of a resistor, the rails are connected at one end by a capacitor $C = 50\ \mu$F. In steady state (capacitor fully charged, so no current flows), what charge does the capacitor hold?
+
+<details><summary><b>Answer</b></summary>
+
+In steady state no current flows, so the capacitor voltage equals the rod's EMF: $V = \varepsilon = 2$ V.
+
+$Q = C\varepsilon = 50 \times 10^{-6} \times 2 = \mathbf{1 \times 10^{-4} \text{ C}} = 100\ \mu\text{C}$
+
+</details>
+
 6. 🔴 Two parallel rails (separation $l = 0.5$ m) are connected at one end by a capacitor $C = 100\ \mu$F (instead of a resistor). A rod moves at constant velocity $v = 2$ m/s in $B = 1$ T. Find the charge on the capacitor in steady state.
 
 <details><summary><b>Answer</b></summary>
@@ -393,6 +413,18 @@ $\varepsilon = Blv = 1 \times 0.5 \times 2 = 1$ V
 $Q = C \times \varepsilon = 100 \times 10^{-6} \times 1 = \mathbf{1 \times 10^{-4} \text{ C}} = 100\ \mu\text{C}$
 
 Note: Since no current flows in steady state, no force opposes the rod, and the rod truly maintains constant $v$ with zero external force!
+
+</details>
+
+7b. 🌱 Noob-Mode Bridge 🟡 Two identical rods on the same rails move in the same direction at $v_1 = 3$ m/s and $v_2 = 1$ m/s. The rail separation is $l = 0.5$ m in field $B = 1$ T. What EMF actually drives current between the two rods?
+
+<details><summary><b>Answer</b></summary>
+
+Only the *relative* velocity matters — the rod "ahead" sees the other cutting field lines at the difference in speed:
+
+$v_{rel} = v_1 - v_2 = 3 - 1 = 2$ m/s
+
+$\varepsilon = Blv_{rel} = 1 \times 0.5 \times 2 = \mathbf{1 \text{ V}}$
 
 </details>
 
@@ -492,6 +524,18 @@ The centre is the highest potential point; both ends are at equal lower potentia
 $\omega = 2\pi n$
 
 $\varepsilon = \frac{1}{2}B\omega l^2 = \frac{1}{2}B(2\pi n)l^2 = \mathbf{\pi B n l^2}$
+
+</details>
+
+6b. 🌱 Noob-Mode Bridge 🟢 A rod of length $l = 0.8$ m rotates about one end at $\omega = 10$ rad/s in $B = 0.5$ T. Find the EMF between the pivot and the point halfway along the rod (distance $d = 0.4$ m from the pivot).
+
+<details><summary><b>Answer</b></summary>
+
+Treat the half-rod (length $d = 0.4$ m) as its own rotating rod pivoting at the centre:
+
+$\varepsilon = \frac{1}{2}B\omega d^2 = \frac{1}{2} \times 0.5 \times 10 \times (0.4)^2 = \frac{1}{2} \times 0.5 \times 10 \times 0.16 = \mathbf{0.4 \text{ V}}$
+
+(Key idea: the EMF between *any two points* along the rod is found using the distance between them as the "rod length".)
 
 </details>
 
@@ -610,6 +654,20 @@ Fully inside: $P = 0$ (no EMF, no current)
 
 </details>
 
+4b. 🌱 Noob-Mode Bridge 🟢 A square loop of side $a = 0.2$ m enters a uniform field $B = 0.5$ T at $v = 1$ m/s. State (with numbers) the EMF while (i) entering, (ii) fully inside, (iii) exiting.
+
+<details><summary><b>Answer</b></summary>
+
+(i) Entering: $\varepsilon = Bav = 0.5 \times 0.2 \times 1 = \mathbf{0.1 \text{ V}}$
+
+(ii) Fully inside (uniform field, flux constant): $\varepsilon = \mathbf{0}$
+
+(iii) Exiting: $\varepsilon = \mathbf{0.1 \text{ V}}$
+
+(The full graph in Q4 is just these three level segments placed on the time axis.)
+
+</details>
+
 4. 🔴 A rectangular loop $l \times w$ moves with constant velocity $v$ from outside to inside a uniform field region of width $d$ (where $d > l$). Sketch the EMF vs time graph, labelling all segments.
 
 <details><summary><b>Answer</b></summary>
@@ -623,6 +681,20 @@ Fully inside: $P = 0$ (no EMF, no current)
 The graph is a rectangular pulse: +Blv for time $w/v$, then 0, then $-Blv$ for time $w/v$.
 
 (Magnitude $|EMF| = Blv$ during entry and exit; 0 when fully inside.)
+
+</details>
+
+5b. 🌱 Noob-Mode Bridge 🟡 A loop of width $w = 0.1$ m enters a field region where $B$ increases linearly from $0$ at the boundary to $B_0 = 0.4$ T over a width of $0.2$ m. Suppose the leading edge has penetrated a distance $x = 0.1$ m (still entering; trailing edge still outside). Find the EMF if $v = 2$ m/s.
+
+<details><summary><b>Answer</b></summary>
+
+Field at the leading edge: $B_{lead} = B_0\,\frac{x}{0.2} = 0.4 \times \frac{0.1}{0.2} = 0.2$ T.
+
+The trailing edge is still outside ($B = 0$), so only the leading edge contributes:
+
+$\varepsilon = B_{lead}\cdot w \cdot v = 0.2 \times 0.1 \times 2 = \mathbf{0.04 \text{ V}}$
+
+(Key idea: for a non-uniform field, use the field value at the *entering* edge, not a single constant $B$.)
 
 </details>
 
@@ -730,6 +802,20 @@ The zigzag shape doesn't matter — same EMF as a straight rod of length $d$.
 
 </details>
 
+4b. 🌱 Noob-Mode Bridge 🟢 A conductor has two straight parts in series: a horizontal segment of length $l = 1$ m (parallel to the velocity $\vec{v}$) and a vertical segment of length $h = 0.5$ m (perpendicular to $\vec{v}$). It moves at $v = 3$ m/s in a field $B = 2$ T (perpendicular to the plane). Find the total motional EMF.
+
+<details><summary><b>Answer</b></summary>
+
+The horizontal segment is parallel to $\vec{v}$, so $\vec{v}\times\vec{B}$ is perpendicular to it → it contributes **0** EMF.
+
+Only the vertical segment contributes, with effective length $h = 0.5$ m:
+
+$\varepsilon = Bhv = 2 \times 0.5 \times 3 = \mathbf{3 \text{ V}}$
+
+(For any conductor, only the part whose length has a component perpendicular to $\vec{v}$ matters — that component is the effective length.)
+
+</details>
+
 4. 🔴 Three conductors form a triangle: an equilateral triangle of side $a$. The triangle moves with velocity $v$ (perpendicular to one side). The base is parallel to the velocity direction. Find EMF across the base.
 
 <details><summary><b>Answer</b></summary>
@@ -829,6 +915,20 @@ EMF$_{rod} = \frac{1}{2}B\omega l^2 = \frac{1}{2} \times 2 \times 20\pi \times (
 
 </details>
 
+4b. 🌱 Noob-Mode Bridge 🟢 Re-derive the Faraday disc EMF for a *uniform* field $B = 0.1$ T, radius $R = 0.5$ m, $\omega = 40$ rad/s by integrating over a thin radial element $dr$: $d\varepsilon = B\,v(r)\,dr$, with $v(r) = \omega r$. Confirm it matches $\frac{1}{2}B\omega R^2$.
+
+<details><summary><b>Answer</b></summary>
+
+For an element $dr$ at radius $r$: $v(r) = \omega r$, so $d\varepsilon = B(\omega r)\,dr$.
+
+$\varepsilon = \int_0^R B\omega r\,dr = B\omega\left[\frac{r^2}{2}\right]_0^R = \frac{1}{2}B\omega R^2$
+
+Substitute: $\varepsilon = \frac{1}{2} \times 0.1 \times 40 \times (0.5)^2 = \frac{1}{2}\times 0.1\times 40\times 0.25 = \mathbf{0.5 \text{ V}}$, matching the formula.
+
+(In Q4 the only change is that $B$ itself becomes a function of $r$: just put $B(r)$ inside the integrand.)
+
+</details>
+
 4. 🔴 A conducting disc of radius $R$ rotates in a non-uniform field $B(r) = B_0(r/R)$ (field increases linearly with radius). Find EMF between centre and rim.
 
 <details><summary><b>Answer</b></summary>
@@ -912,6 +1012,18 @@ $l = \sqrt{0.05} \approx \mathbf{0.224 \text{ m}}$
 $\varepsilon = IR = 2 \times 0.5 = 1$ V
 
 $v = \varepsilon/(Bl) = 1/(0.4 \times 0.5) = \mathbf{5 \text{ m/s}}$
+
+</details>
+
+5b. 🌱 Noob-Mode Bridge 🟡 A rod on rails (separation $l = 0.5$ m) in $B = 0.4$ T, total resistance $R = 0.5\ \Omega$, is pushed by a constant external force $F = 0.08$ N to maintain steady speed. Find that terminal velocity.
+
+<details><summary><b>Answer</b></summary>
+
+At steady (terminal) speed the push just balances the magnetic retarding force: $F_{ext} = F_{ret} = \dfrac{B^2l^2v}{R}$.
+
+$0.08 = \frac{(0.4)^2(0.5)^2 v}{0.5} = \frac{0.16 \times 0.25 \times v}{0.5} = \frac{0.04v}{0.5} = 0.08v$
+
+$v = \frac{0.08}{0.08} = \mathbf{1 \text{ m/s}}$
 
 </details>
 
@@ -1035,6 +1147,21 @@ $F = \frac{B^2l^2v}{R}$ — force is directly proportional to $v$. The power, ho
 
 ---
 
+**7b. 🌱 Noob-Mode Bridge 🟢** Motional EMF and transformer EMF — which statement is correct?
+
+(a) Both require a moving conductor  
+(b) Motional EMF needs a changing $B$; transformer EMF needs a moving conductor  
+(c) Motional EMF arises from the Lorentz force on charges in a moving conductor; transformer EMF arises from a time-varying magnetic field  
+(d) They are physically identical
+
+<details><summary><b>Answer & Explanation</b></summary>
+
+**Answer: (c)** — This is exactly the distinction (review Stage 1) tested in the assertion-reason question below.
+
+</details>
+
+---
+
 **7. (Assertion-Reason)** 🔴
 
 **Assertion (A):** Motional EMF and transformer EMF are physically different phenomena.
@@ -1145,6 +1272,20 @@ $\vec{v} \times \vec{B} = v\hat{x} \times (-B\hat{z}) = -vB(\hat{x}\times\hat{z}
 Force on positive charges: $\vec{F} = q\vec{v}\times\vec{B}$ is in $+\hat{y}$ direction (upward in the rod — from bottom to top).
 
 Conventional current flows upward in the rod (bottom to top), and then returns through the external circuit (from top rail, through external resistor, to bottom rail). This is counterclockwise when viewed from above with field into page — consistent with Lenz's law (opposing the increasing flux).
+
+</details>
+
+---
+
+**12b. 🌱 Noob-Mode Bridge 🟢** A rod of length $l = 1$ m is held at $30°$ to the direction of motion $\vec{v}$ (with $B$ perpendicular to both). Find the effective length perpendicular to $\vec{v}$ and the EMF for $v = 4$ m/s, $B = 0.5$ T.
+
+<details><summary><b>Answer & Explanation</b></summary>
+
+Effective length perpendicular to velocity = $l\sin\theta = 1\times\sin 30° = 0.5$ m.
+
+$\varepsilon = B(l\sin\theta)v = 0.5 \times 0.5 \times 4 = \mathbf{1 \text{ V}}$
+
+(When the rod is perpendicular to motion, $\theta = 90°$, $\varepsilon = Blv$ is maximum; when parallel to motion, $\theta = 0°$, $\varepsilon = 0$.)
 
 </details>
 
@@ -1453,6 +1594,24 @@ $$\boxed{\varepsilon = \frac{1}{2}B\omega L^2}$$
 ---
 
 ## 🚀 Stage 7: JEE Mains Arena
+
+🌱 Noob-Mode Bridge 🟡 A rod of mass $m = 0.2$ kg and length $l = 0.5$ m slides on frictionless rails in $B = 2$ T. It is given initial velocity $v_0 = 4$ m/s and released (no external force). Use impulse: $\int BIl\,dt = \Delta(mv)$ to show the total charge $q$ that flows is $q = \dfrac{mv_0}{Bl}$ (independent of $R$), and compute its value.
+
+<details><summary><b>Answer</b></summary>
+
+Retarding force on rod = $BIl$. Impulse over the whole motion:
+
+$\int F_{ret}\,dt = \int BIl\,dt = Bl\int I\,dt = Bl\,q$
+
+Change in momentum: $0 - mv_0 = -mv_0$. So $Bl\,q = mv_0 \implies q = \dfrac{mv_0}{Bl}$.
+
+Value: $q = \dfrac{0.2 \times 4}{2 \times 0.5} = \dfrac{0.8}{1} = \mathbf{0.8 \text{ C}}$.
+
+(Notice $R$ does not appear — the total charge depends only on the initial momentum. This is the key trick in Problem 1 below.)
+
+</details>
+
+---
 
 ### Problem 1 🔴
 
