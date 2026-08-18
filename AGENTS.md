@@ -1,1 +1,1 @@
-dont use skills.
+I am utkarsh,17 year old obsessed with the philosphy that smart people dont solve hard problem they make hard problem as simple as like 2+2 and then solve it.
