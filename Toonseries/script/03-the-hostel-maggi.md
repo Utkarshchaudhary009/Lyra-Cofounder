@@ -2,147 +2,118 @@
 
 **Type:** Reel
 **Format:** YouTube Short / Animated Reel
-**Estimated Duration:** 50–60 seconds
+**Duration:** 40 seconds
+**Structure:** 4 scenes × 10 seconds
 **Series:** Toonseries
 
 ## Premise
 
-At night in the hostel, a simple Maggi craving turns into a full-scale operation when the boys discover the warden is doing rounds.
+A late-night hostel Maggi mission becomes an elaborate operation when the boys think the warden is nearby.
 
-## Script
+## Scene 1 — 0:00–0:10 — Emergency Fund
 
-### Scene 1 — Hostel Room — 10:47 PM
-
-Dev opens his cupboard and stares inside.
-
-Empty.
-
-He closes it.
+Hostel room, 10:47 PM. Dev closes a cupboard, opens another, checks under his pillow, then looks at the other boys.
 
 **DEV:**  
-Bhai… Maggi hai kisi ke paas?
+Bhai... Maggi hai kisi ke paas?
 
-Kabir immediately sits up from his bed.
+Kabir instantly sits up, reaches under his mattress, pulls out a textbook, opens it, and reveals two hidden Maggi packets.
 
 **KABIR:**  
 Two packets.
 
-Aarav looks at him.
+Aarav stares at him while Dev takes one packet.
 
 **AARAV:**  
-Tu Maggi chhupa ke rakhta hai?
+Tu Maggi textbook mein chhupa ke rakhta hai?
 
-Kabir proudly pulls two packets from inside a textbook.
+Kabir proudly closes the textbook.
 
 **KABIR:**  
 Emergency fund.
 
----
+Dev grabs the kettle. Kabir stuffs the packets into his hoodie pocket. Aarav reluctantly follows.
 
-### Scene 2 — Hostel Corridor
+## Scene 2 — 0:10–0:20 — The Mission
 
-The boys quietly walk toward the common pantry.
-
-Dev carries the kettle.
-
-Kabir carries the Maggi.
-
-Aarav carries absolutely nothing.
+The three sneak through the hostel corridor toward the common pantry. Dev leads with the kettle, Kabir walks on tiptoe while protecting the Maggi, and Aarav keeps looking over his shoulder. A tube light flickers as they pass. Dev pushes the pantry door open slowly.
 
 **AARAV:**  
-Main kya kar raha hoon?
+Hum literally Maggi chura rahe hain.
 
 **DEV:**  
-Moral support.
+Chura nahi rahe. Bana rahe hain.
 
-They reach the pantry.
+Kabir pulls out the packets and raises one like a trophy. They enter. Dev fills the kettle, Kabir starts tearing the packet open, and Aarav notices a distant pair of footsteps.
 
-Suddenly—
+## Scene 3 — 0:20–0:30 — False Alarm
 
-**FOOTSTEPS.**
-
-Everyone freezes.
-
----
-
-### Scene 3 — PANIC
-
-Dev switches off the light.
-
-Kabir hides the Maggi behind his back.
-
-Aarav whispers:
-
-**AARAV:**  
-Kaun hai?
-
-Vihaan appears from the darkness.
+The footsteps grow louder. Dev immediately kills the pantry light. Kabir freezes with an open Maggi packet in his hands. Aarav crouches beside the counter and peers through the doorway. Vihaan suddenly appears from the dark corridor.
 
 **VIHAAN:**  
 Warden.
 
-Everyone's eyes widen.
+Everyone panics. Dev hides the kettle behind his leg. Kabir stuffs the Maggi behind his back.
 
 **KABIR:**  
 Kahan?
 
-Vihaan points toward the corridor.
+Vihaan points upstairs.
 
 **VIHAAN:**  
 Second floor.
 
-Beat.
-
-**VIHAAN:**  
-Aur tum log first floor pe ho.
-
-Everyone stares at him.
+The boys stare at him.
 
 **DEV:**  
-Toh pehle kyun dara raha hai?
+Hum first floor pe hain!
+
+Vihaan grins.
 
 **VIHAAN:**  
-Entertainment.
+Pata hai.
 
----
+Aarav realizes the prank and shakes his head.
 
-### Scene 4 — THE REAL PROBLEM
+**AARAV:**  
+Tu pagal hai.
 
-They finally start cooking.
+Vihaan walks away laughing.
 
-The smell fills the corridor.
+## Scene 4 — 0:30–0:40 — The Real Warden
 
-Everyone smiles.
+The boys finally start cooking. Water boils, noodles drop into the kettle, seasoning is poured, and steam fills the tiny pantry. Kabir stirs rapidly while Dev watches the corridor. Everyone relaxes and smiles at the smell.
 
-Then a voice comes from behind them.
+Then a voice comes directly behind them.
 
-**SHARMA SIR / WARDEN:**  
+**WARDEN:**  
 Kya bana rahe ho?
 
-The boys slowly turn around.
+All three slowly turn. Kabir is holding the spoon mid-air. Dev is frozen beside the kettle. Aarav closes his eyes for a second.
 
-Kabir is still holding the empty Maggi packet.
+The warden looks at the noodles, then at the boys.
 
-Silence.
-
-The warden looks at the noodles.
-
-Then at the boys.
+Long beat.
 
 **WARDEN:**  
 Mere liye bhi bana do.
 
-Everyone looks at each other.
-
-Kabir smiles.
+The tension breaks. Kabir immediately reaches into his hoodie.
 
 **KABIR:**  
 Do packet aur hain.
+
+The warden raises an eyebrow.
+
+**WARDEN:**  
+Mujhe pata tha.
+
+Everyone laughs.
 
 **CUT TO BLACK.**
 
 ### End Card
 
-> Hostel mein rules todne se zyada important hota hai...
+> Hostel mein rules todna easy hai.
 >
-> **kis ke saath tod rahe ho.**
+> **Sahi logon ke saath todna important hai.**
