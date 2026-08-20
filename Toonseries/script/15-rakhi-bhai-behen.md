@@ -9,7 +9,7 @@
 
 ## Premise
 
-At home on Rakhi morning, a brother and sister do what they always do—fight over everything, steal each other's food, and act like they don't care. Then one tiny Rakhi moment brings back all the childhood memories.
+At home on Rakhi morning, Aarav and his older sister Nandini do what they always do—fight over everything, steal each other's food, and act like they don't care. Then one tiny Rakhi moment brings back all the childhood memories.
 
 ---
 
@@ -19,11 +19,9 @@ At home on Rakhi morning, a brother and sister do what they always do—fight ov
 
 Aarav is sleeping with the blanket over his head.
 
-His sister Meera walks in carrying a Rakhi plate and a small gift.
+Nandini walks in carrying a Rakhi plate and a small gift. She pulls the blanket away.
 
-She pulls the blanket away.
-
-**MEERA:**  
+**NANDINI:**  
 Uth ja nalayak. Rakhi hai.
 
 Aarav turns away and grabs the blanket back.
@@ -31,120 +29,118 @@ Aarav turns away and grabs the blanket back.
 **AARAV:**  
 Abhi toh subah hui hai.
 
-Meera pulls his pillow.
+Nandini pulls his pillow.
 
-**MEERA:**  
+**NANDINI:**  
 10 baj gaye, mahaan aadmi.
 
-Aarav sits up with messy hair.
+Aarav sits up with messy hair and throws the pillow toward her.
 
 **AARAV:**  
 Rakhi ke naam pe torture karti hai tu.
 
-Meera smiles.
+Nandini catches the pillow and grins.
 
-**MEERA:**  
+**NANDINI:**  
 Pehle naha. Smell aa rahi hai.
 
-Aarav throws the pillow at her.
-
-She runs out laughing.
+Aarav grabs another pillow. Nandini runs out laughing and shuts the door before he can throw it.
 
 ---
 
 ## Scene 2 — 0:10–0:20 — Same Old Fight
 
-In the living room, Meera is arranging the Rakhi plate.
+In the living room, Nandini arranges the Rakhi plate while Aarav sneaks toward the sweets tray.
 
-Aarav quietly steals a kaju from the sweets tray.
+He steals a kaju.
 
-Meera slaps his hand away.
+Nandini slaps his hand away.
 
-**MEERA:**  
+**NANDINI:**  
 Haath hata!
 
-Aarav grabs another one from the other side.
+Aarav immediately grabs another one from the other side.
 
 **AARAV:**  
 Mera ghar hai.
 
-**MEERA:**  
+**NANDINI:**  
 Mummy ka hai. Tera kuch nahi hai.
 
 Aarav reaches for the biggest sweet.
 
-Meera quickly takes it first.
+Nandini gets there first and pulls it away.
 
 **AARAV:**  
 Abe ye mera tha!
 
-**MEERA:**  
+**NANDINI:**  
 Ab nahi hai.
 
-They both pull at the same sweet.
+They both pull the same sweet from opposite sides.
 
-Maa's voice comes from another room.
+Maa shouts from the kitchen.
 
 **MAA:**  
 Dono chup! Subah-subah shuru ho gaye?
 
-They immediately let go.
+They instantly let go.
 
-The sweet lands on Aarav's plate.
+The sweet drops onto the plate.
 
-They look at each other and start laughing.
+They look at each other for one second and burst out laughing.
 
 ---
 
 ## Scene 3 — 0:20–0:30 — Old Memories
 
-Meera sits down and opens the Rakhi box.
+Nandini sits down and opens the Rakhi box.
 
 Inside are old school photos from different Rakhi years.
 
-She pulls one out: tiny Aarav is crying while Meera ties his Rakhi.
+She pulls out one: tiny Aarav is crying while Nandini ties his Rakhi.
 
-Aarav laughs and takes the photo.
+Aarav grabs the photo and laughs.
 
 **AARAV:**  
 Tu mujhe har saal pakad ke baithati thi.
 
-**MEERA:**  
+**NANDINI:**  
 Aur tu har saal bhaagta tha.
 
 She pulls out another photo: both of them are covered in cake after a birthday fight.
 
-Aarav laughs harder.
+Aarav laughs harder and points at the picture.
 
 **AARAV:**  
 Isme cake kisne pheka tha?
 
-Meera points at him.
+Nandini points straight at him.
 
-**MEERA:**  
+**NANDINI:**  
 Tu.
 
 **AARAV:**  
 Proof?
 
-She immediately pulls out another photo.
+Nandini instantly pulls out another photo of Aarav holding the cake bowl.
 
-Aarav goes silent.
+Aarav looks at it, goes silent for one second, then laughs.
 
 **AARAV:**  
-Oh.
+Oh. Bahut ghatiya evidence hai.
 
-They both laugh.
+Nandini starts laughing too.
 
 ---
 
 ## Scene 4 — 0:30–0:40 — The Moment
 
-Meera ties the Rakhi on Aarav's wrist.
+Nandini ties the Rakhi on Aarav's wrist.
 
 Aarav stops joking for a moment and looks at it.
 
-Meera quietly gives him a small gift.
+Nandini quietly gives him a small gift.
 
 He opens it and finds something simple he had wanted for a long time.
 
@@ -153,29 +149,29 @@ He looks at her.
 **AARAV:**  
 Paagal hai kya? Itna mehenga kyun liya?
 
-Meera shrugs.
+Nandini shrugs.
 
-**MEERA:**  
+**NANDINI:**  
 Tu khush ho ja, bas.
 
-Aarav smiles and lightly pulls her hair.
+Aarav smiles, then lightly pulls her hair.
 
 **AARAV:**  
 Zyada emotional mat ho.
 
-Meera immediately hits his arm.
+Nandini immediately smacks his arm.
 
-**MEERA:**  
+**NANDINI:**  
 Gift wapas le lungi.
 
-Aarav hugs the gift box protectively.
+Aarav protects the gift box with both hands.
 
 **AARAV:**  
 Nahi nahi. Rakhi successful hai.
 
-They laugh as the sound of family talking fills the room.
+They laugh as family voices fill the room.
 
-Camera slowly pulls back from the living room, with old photos and the Rakhi plate visible on the table.
+Camera slowly pulls back, leaving the Rakhi plate and old childhood photos in the foreground.
 
 **CUT TO BLACK.**
 
