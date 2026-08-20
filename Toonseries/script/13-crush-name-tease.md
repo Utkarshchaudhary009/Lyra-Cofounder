@@ -9,95 +9,97 @@
 
 ## Premise
 
-Kabir discovers that Aarav's weakness is simply hearing Anaya's name. So obviously he spends the entire school day saying it at the worst possible moments.
+Kabir discovers that Aarav's weakness is simply hearing Shradha Pandey's name. So obviously he spends the entire school day saying it at the worst possible moments.
 
 ---
 
 ## Scene 1 — 0:00–0:10 — Discovery
 
-Morning class. Aarav is copying homework from Raghav while Kabir looks over his shoulder.
+Morning class. Aarav is copying homework from Raghav while Kabir looks over his shoulder. Around them, students settle bags, drag chairs, trade pens and argue over whose notebook is missing.
 
-Anaya walks past their bench and drops a pencil.
+Shradha walks past their bench carrying two notebooks and drops a pencil.
 
-Aarav immediately picks it up and hands it to her.
+Aarav immediately picks it up, dusts it against his sleeve and hands it to her.
 
-**ANAYA:**  
+**SHRADHA:**  
 Thanks.
 
-She walks away.
+She walks away toward Meera's desk.
 
 Kabir watches Aarav's face change.
 
-He slowly smiles.
+He slowly leans closer with the biggest grin.
 
 **KABIR:**  
-Aaa-naa-yaa.
+S-h-r-a-d-h-a-a-a.
 
-Aarav looks at him.
+Aarav keeps writing.
 
 **AARAV:**  
 Chup.
 
-Kabir grins wider.
+Kabir grins wider and taps Aarav's shoulder.
 
 **KABIR:**  
-Aaa-naa-yaa.
+Shradha Pandey.
 
 Aarav throws an eraser at him.
+
+Kabir catches it and starts laughing.
 
 ---
 
 ## Scene 2 — 0:10–0:20 — Full Timepass
 
-Teacher starts writing on the board.
+Sharma Sir starts writing a long question on the board.
 
-Kabir keeps whispering the name in different voices while pretending to take notes.
+Kabir pretends to take notes while quietly saying Shradha's name in different voices: serious voice, whisper voice, fake romantic voice.
 
 **KABIR:**  
-Anaya.
+Shradha.
 
-Aarav ignores him.
+Aarav stares at his notebook.
 
 Kabir leans closer.
 
 **KABIR:**  
-Anaya ji.
+Shradha ji.
 
 Aarav bites his cheek trying not to laugh.
 
 Kabir taps his pen like a drum.
 
 **KABIR:**  
-Anaya madam.
+Shradha madam.
 
-Aarav kicks his shoe under the desk.
+Aarav kicks Kabir's shoe under the desk.
 
-Kabir jumps but keeps grinning.
+Kabir jumps, bumps the desk, and almost knocks over the water bottle.
 
-Raghav looks over.
+Raghav catches it.
 
 **RAGHAV:**  
 Tum dono ko koi kaam nahi hai?
 
-Kabir whispers:
+Kabir straightens up like a scientist.
 
 **KABIR:**  
 Bahut important research hai.
+
+Raghav shakes his head and goes back to writing.
 
 ---
 
 ## Scene 3 — 0:20–0:30 — Caught
 
-The teacher turns around suddenly.
+Sharma Sir suddenly turns around.
 
 **SHARMA SIR:**  
 Kabir, kya research chal rahi hai?
 
-Kabir freezes.
+Kabir freezes. Aarav immediately looks down, hiding a smile.
 
-Aarav looks down, trying not to laugh.
-
-Sharma Sir walks toward the back bench.
+Sharma Sir walks toward the back bench while the class watches.
 
 Kabir points at Aarav.
 
@@ -109,66 +111,68 @@ Aarav looks up in shock.
 **AARAV:**  
 Sir isko kuch kaam nahi hai.
 
-Kabir quickly says:
+Kabir opens his mouth without thinking.
 
 **KABIR:**  
-Anaya—
+Shradha—
 
-He stops himself mid-word.
+He stops himself.
 
-The entire back bench starts laughing.
+The back bench starts laughing.
 
-Sharma Sir looks at Kabir suspiciously.
+Sharma Sir looks directly at him.
 
 **SHARMA SIR:**  
 Naam poora bol.
 
-Kabir panics.
+Kabir panics, looks at the board, then at Aarav.
 
 **KABIR:**  
-...Anaya ka homework, sir!
+Shradha ka homework, sir!
 
 Aarav covers his face.
+
+Shradha, sitting two rows ahead, turns around after hearing her name and raises one eyebrow.
+
+Kabir immediately pretends to read his notebook.
 
 ---
 
 ## Scene 4 — 0:30–0:40 — Revenge
 
-After class, Aarav catches Kabir in the corridor and starts chasing him.
+The bell rings. Chairs scrape and students rush into the corridor.
 
-Kabir runs between students, laughing.
+Aarav catches Kabir outside and starts chasing him between groups of students.
 
 **KABIR:**  
-Anaya! Anaya! Anaya!
+Shradha! Shradha! Shradha!
 
-Aarav grabs a notebook and throws it near him.
+Aarav grabs a rolled notebook and throws it near him.
 
 Kabir ducks and keeps running.
 
-Then Anaya steps out from the next classroom.
+Shradha steps out of the classroom with Meera.
 
-Kabir suddenly stops.
-
-Anaya looks between the two boys.
-
-**ANAYA:**  
-Kya ho raha hai?
-
-Kabir points at Aarav with a straight face.
+Kabir suddenly stops and points at Aarav.
 
 **KABIR:**  
 Aapko bula raha tha.
 
-Aarav stares at him in horror.
+Aarav freezes.
 
-Anaya starts laughing.
+Shradha looks between them, then smiles.
 
-Aarav closes his eyes and shakes his head.
+**SHRADHA:**  
+Achha? Mujhe hi?
 
-Kabir runs away again.
+Aarav has no answer.
+
+Kabir starts laughing and runs away again.
 
 **KABIR:**  
 Mission successful!
+
+Aarav chases him down the corridor while Shradha and Meera laugh.
 
 **CUT TO BLACK.**
 
