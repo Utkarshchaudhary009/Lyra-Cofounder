@@ -2,149 +2,103 @@
 
 **Type:** Reel
 **Format:** YouTube Short / Animated Reel
-**Estimated Duration:** 45–50 seconds
+**Duration:** 40 seconds
+**Structure:** 4 scenes × 10 seconds
 **Series:** Toonseries
 
 ## Premise
 
-The teacher leaves the classroom for two minutes, and an entire class instantly forgets how to behave normally.
+Sharma Sir leaves the classroom for two minutes, and the entire class instantly forgets how to behave normally.
 
-## Script
+## Scene 1 — 0:00–0:10 — The Countdown
 
-### Scene 1 — Classroom — Afternoon
-
-Sharma Sir is writing a long equation on the blackboard.
-
-Kabir is half-asleep at his desk. Aarav quietly looks at the clock.
+Sharma Sir writes a long equation across the blackboard. Fans turn overhead while students copy furiously. Kabir watches the wall clock, taps his pencil faster and faster, then quietly leans toward Aarav.
 
 **KABIR:**  
-Kitne minute bache?
+Kitne minute?
+
+Aarav checks the clock without stopping his writing.
 
 **AARAV:**  
 Twenty-three.
 
-Kabir looks devastated.
-
-Sharma Sir suddenly puts the chalk down.
+Kabir drops his forehead onto the desk dramatically. Sharma Sir finishes the equation, turns around, and points toward the classroom door.
 
 **SHARMA SIR:**  
 I'll be back in two minutes. Nobody leaves their seat.
 
-He walks out.
+He walks out and closes the door.
 
-The door closes.
+## Scene 2 — 0:10–0:20 — Instant Chaos
 
-Silence.
-
-One second.
-
-Two seconds.
-
-Kabir slowly stands up.
-
-**KABIR:**  
-Free period.
-
-### Scene 2 — Chaos Begins
-
-Instantly, the classroom explodes with noise.
-
-Students start talking. Someone throws a paper ball. Vihaan turns around to talk to three different groups at once.
-
-Ishaan starts drawing on the blackboard.
-
-Raghav keeps writing in his notebook.
-
-Kabir walks toward Aarav's desk.
+The second the latch clicks, the room explodes. Kabir jumps up and turns around to talk to three students at once. Vihaan spins his chair backward. Someone throws a paper ball. Ishaan grabs chalk and starts drawing a ridiculous moustache on the blackboard diagram. Anaya turns around and catches Kabir stealing a snack from another desk.
 
 **KABIR:**  
 Aaj padhai nahi hogi.
 
+Aarav points at the closed door.
+
 **AARAV:**  
-Sir literally just said two minutes.
+Sir literally said two minutes.
+
+Kabir waves toward the whole chaotic classroom.
 
 **KABIR:**  
-Exactly. Two minutes is a lifetime.
+Two minutes is a lifetime.
 
-Anaya looks over from her desk.
+Anaya shakes her head while Meera watches the door.
 
-**ANAYA:**  
-Tum dono ko kabhi normal rehna aata hai?
+## Scene 3 — 0:20–0:30 — The Warning
 
-Kabir points at the entire classroom.
-
-**KABIR:**  
-Normal kaun hai yahan?
-
-### Scene 3 — The Warning
-
-Meera suddenly looks toward the door.
-
-Her expression changes.
+Meera suddenly notices a shadow pass the glass panel of the door. She raises a hand.
 
 **MEERA:**  
 Guys...
 
-Nobody listens.
-
-She looks again.
+Nobody stops. Kabir is now standing beside a desk explaining something dramatically. Vihaan is laughing. Ishaan adds another ridiculous drawing. Meera points harder toward the door.
 
 **MEERA:**  
 Guys.
 
-Still nothing.
-
-She whispers:
+Still nothing. She leans forward and whispers one word.
 
 **MEERA:**  
 Sir.
 
-Everything stops.
+The laughter dies instantly. Kabir freezes mid-gesture. Ishaan's chalk stops in the air. Everyone turns toward the door.
 
-### Scene 4 — The Door
+The handle begins to move.
 
-The classroom door slowly opens.
+## Scene 4 — 0:30–0:40 — Caught
 
-Sharma Sir is standing there.
+The door opens slowly. Sharma Sir stands there, completely expressionless. Kabir is still standing beside a desk, Ishaan has chalk on his fingers, Vihaan is halfway turned around, and someone is holding the paper ball behind their back. Raghav is the only student still sitting properly and writing.
 
-Everyone freezes exactly where they are.
+Sharma Sir looks at each student one by one. Kabir slowly sits. Ishaan hides the chalk. Vihaan faces forward.
 
-Kabir is standing on the edge of someone's desk.
-
-Ishaan has chalk in his hand.
-
-Vihaan is halfway through turning around.
-
-Raghav is still writing.
-
-Sharma Sir looks around the room.
-
-Long silence.
+Long beat.
 
 **SHARMA SIR:**  
 Interesting.
 
-Beat.
+He walks to the board, sees Ishaan's drawing, then calmly wipes it off and picks up the chalk.
 
 **SHARMA SIR:**  
 Continue.
 
-He walks back to his desk.
+Everyone immediately starts writing.
 
-Everyone slowly sits down.
-
-Kabir looks at Aarav and whispers:
+Kabir leans toward Aarav without looking at him.
 
 **KABIR:**  
 He saw nothing.
 
-Aarav looks at him.
+Aarav keeps writing.
 
 **AARAV:**  
 He saw everything.
 
-CUT TO BLACK.
+**CUT TO BLACK.**
 
 ### End Card
 
-> **Every class has that one "free period" that lasts exactly 90 seconds.**
+> Every class has that one "free period" that lasts exactly 90 seconds.
