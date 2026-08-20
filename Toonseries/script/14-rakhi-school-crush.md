@@ -9,142 +9,155 @@
 
 ## Premise
 
-Rakhi day at school. Aarav finally gets a chance to talk to his crush, but Kabir is already planning how to destroy the moment for maximum entertainment.
+Rakhi day at school. Aarav gets a chance to talk to his crush, Shradha Pandey, but Kabir is already planning how to destroy the moment for maximum entertainment.
 
 ---
 
 ## Scene 1 — 0:00–0:10 — Rakhi Day
 
-The classroom is colorful with rakhi decorations. Girls are tying rakhis on brothers and friends are showing sweets.
+The classroom is colorful with rakhi decorations. Girls are tying rakhis, boys are showing sweets, and someone is fixing a paper decoration that keeps falling from the wall.
 
-Aarav enters holding a small gift box and immediately spots Anaya near the window.
+Aarav enters holding a small gift box and spots Shradha near the window, laughing with Meera while arranging a rakhi plate.
 
-He stops walking.
+Aarav stops walking.
 
 Kabir walks straight into him from behind.
 
 **KABIR:**  
 Abe brake kyun maara?
 
-Aarav quietly points toward Anaya.
+Aarav quietly points toward Shradha.
 
 Kabir looks at her, then at Aarav.
 
 A huge grin appears.
 
 **KABIR:**  
-Ohooo... Rakhi hai, shaadi nahi.
+Ohooo... Shradha Pandey. Aaj bada saj-dhaj ke aaya hai.
 
 Aarav grabs his arm.
 
 **AARAV:**  
 Chup reh na saale.
 
-Kabir loudly clears his throat and starts fixing Aarav's hair with his hand.
+Kabir starts fixing Aarav's hair with both hands.
 
 **KABIR:**  
-Bhai hero lagna chahiye.
+Bhai hero lagna chahiye. Baal aise kyun hai? Pankha kha gaya kya?
 
 Aarav pushes him away.
+
+Shradha notices the two of them fighting and laughs.
 
 ---
 
 ## Scene 2 — 0:10–0:20 — The Setup
 
-Anaya walks toward them with a rakhi plate.
+Shradha walks toward them with the rakhi plate.
 
 Aarav straightens his shirt and hides the gift behind his back.
 
-Kabir notices and casually steps beside him.
+Kabir notices and casually steps beside him, trying not to laugh.
 
-**ANAYA:**  
-Aarav, tumhara ye box kisliye hai?
+**SHRADHA:**  
+Aarav, ye box kisliye chhupa raha hai?
 
 Aarav opens his mouth but no words come out.
 
 Kabir jumps in.
 
 **KABIR:**  
-Secret hai. Bahut bada secret.
+Secret hai. Bahut bada secret. NASA level ka.
 
 Aarav quickly covers Kabir's mouth.
 
 **AARAV:**  
-Isko ignore karo. Iska dimaag kharab hai.
+Isko ignore karo. Iska dimaag chhutti pe hai.
 
-Anaya laughs.
+Shradha pulls Kabir's hand away and looks at Aarav with a teasing smile.
 
-She takes the gift box.
+**SHRADHA:**  
+Mere liye hai kya?
 
-**ANAYA:**  
-Mere liye?
+Aarav turns red.
 
-Aarav goes completely red.
-
-Kabir looks at the camera-like direction with a smug face.
+Kabir whispers from beside him.
 
 **KABIR:**  
-Maal pakda gaya.
+Ab bol bhi de, hero.
+
+Shradha starts laughing.
 
 ---
 
 ## Scene 3 — 0:20–0:30 — Harami Dost Activated
 
-Anaya opens the box.
+Shradha opens the box.
 
 Inside is a simple school stationery gift.
 
-She smiles.
+She smiles and turns the pen in her fingers.
 
-**ANAYA:**  
-Nice hai. Thank you.
+**SHRADHA:**  
+Achha hai. Thank you.
 
 Aarav relaxes.
 
-Kabir suddenly grabs a classmate and whispers loudly enough for everyone to hear.
+Kabir suddenly grabs a classmate and announces loudly:
 
 **KABIR:**  
-Bhai, congratulations. First gift accepted.
+Bhai, gift accepted! History ban gayi!
 
-Two other boys start teasing Aarav.
+Two boys immediately start teasing Aarav.
 
 **STUDENT:**  
 Aarav ki toh setting ho gayi!
 
+**KABIR:**  
+Setting nahi bhai, connection ban raha hai!
+
 Aarav chases Kabir around the desks.
 
-Kabir runs, laughing, while Anaya steps aside with the gift box in her hand.
+Kabir runs laughing, knocking a paper decoration loose as he passes.
 
 **KABIR:**  
-Arey maarna mat! Public hai!
+Arey maarna mat! Rakhi hai, aaj toh daya kar!
 
-Aarav almost catches him, slips on a wrapper, and grabs the desk instead.
+Shradha steps aside holding the gift, laughing while everyone watches the chase.
 
-Everyone bursts out laughing.
+Aarav almost catches Kabir, slips on a wrapper, grabs a desk, and Kabir escapes.
 
 ---
 
 ## Scene 4 — 0:30–0:40 — One Small Moment
 
-The class settles as the bell rings.
+The bell rings. Students start packing up.
 
-Anaya quietly walks past Aarav and places a small wrapped chocolate on his desk.
+Shradha quietly walks past Aarav and places a small wrapped chocolate on his desk.
 
 Aarav looks up, surprised.
 
-**ANAYA:**  
-Rakhi ka return gift.
+**SHRADHA:**  
+Return gift.
 
-She walks away smiling.
+Aarav smiles.
 
-Aarav watches her go.
+**AARAV:**  
+Ye kyun?
+
+Shradha shrugs.
+
+**SHRADHA:**  
+Bas. Accha tha.
+
+She walks away.
 
 Kabir slowly appears from behind Aarav's shoulder.
 
 He looks at the chocolate, then at Aarav.
 
 **KABIR:**  
-Bhai... return gift mil gaya.
+Bhai... progress ho rahi hai.
 
 Aarav tries to hide the chocolate.
 
@@ -153,7 +166,9 @@ Kabir snatches it and runs.
 **AARAV:**  
 ABE KABIR!
 
-Kabir runs through the classroom, laughing.
+Kabir tears down the corridor laughing while Aarav chases him.
+
+Shradha looks back at the chaos and smiles.
 
 **CUT TO BLACK.**
 
