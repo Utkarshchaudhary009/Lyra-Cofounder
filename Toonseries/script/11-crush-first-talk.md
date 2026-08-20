@@ -9,111 +9,126 @@
 
 ## Premise
 
-Aarav has liked Anaya for weeks but has never properly talked to her. Kabir decides to "help" and turns one simple classroom question into a full public tamasha.
+Aarav has liked Shradha Pandey for weeks but has never properly talked to her. Kabir decides to "help" and turns one simple classroom question into a full public tamasha.
 
 ---
 
 ## Scene 1 — 0:00–0:10 — The Plan
 
-Lunch break. Aarav sits at his desk pretending to read while repeatedly glancing toward Anaya, who is arranging her notebooks.
+Lunch break. Aarav sits at his desk pretending to read while repeatedly glancing toward Shradha, who is sharing a packet of chips with Meera and casually checking a math answer in her notebook.
 
-Kabir notices. He leans across the desk and follows Aarav's gaze.
+Shradha laughs at something Meera says, then closes the notebook like the difficult question was nothing.
+
+Kabir notices Aarav staring. He leans across the desk and follows his gaze.
 
 **KABIR:**  
-Acha... toh idhar class nahi, Anaya chal rahi hai?
+Acha... toh idhar class nahi, Shradha Pandey chal rahi hai?
 
 Aarav quickly closes his notebook.
 
 **AARAV:**  
 Chup kar, pagal.
 
-Kabir grins and pulls Aarav's chair closer.
+Kabir pulls Aarav's chair closer.
 
 **KABIR:**  
 Baat karega ki lifetime silent mode pe rahega?
 
-Aarav looks nervous and adjusts his glasses.
+Aarav adjusts his glasses, nervous.
 
 **AARAV:**  
 Kya bolu?
 
-Kabir points at Anaya's notebook.
+Kabir points toward Shradha's desk.
 
 **KABIR:**  
 Kuch bhi. Homework pooch. Weather pooch. Desh ka haal pooch.
+
+Shradha suddenly looks over. Aarav instantly pretends to be deeply interested in his own notebook.
+
+Kabir starts laughing silently.
 
 ---
 
 ## Scene 2 — 0:10–0:20 — Operation Homework
 
-Aarav picks up his notebook and walks toward Anaya.
+Aarav picks up his notebook and walks toward Shradha.
 
 Halfway there he stops, turns back, and walks to Kabir.
 
 **AARAV:**  
 Nahi hoga.
 
-Kabir pushes him forward by the shoulder.
+Kabir gives him a gentle push toward the desk.
 
 **KABIR:**  
 Abey jaa na. Main yahin hoon.
 
-Aarav finally reaches Anaya's desk.
+Aarav finally reaches Shradha's desk.
 
-He points at her notebook.
+Shradha is already looking at him with a small knowing smile.
 
-**AARAV:**  
-Anaya... woh... kal ka homework kiya?
-
-Anaya looks up, slightly amused.
-
-**ANAYA:**  
-Haan. Kyun?
-
-Aarav freezes for one second.
+Aarav points at her notebook.
 
 **AARAV:**  
-Aise hi.
+Shradha... woh... kal ka homework kiya?
 
-Behind him, Kabir silently facepalms.
+Shradha raises an eyebrow.
+
+**SHRADHA:**  
+Haan. Tumne nahi kiya?
+
+Aarav freezes.
+
+**AARAV:**  
+Kiyaa tha... matlab... thoda.
+
+Shradha laughs.
+
+**SHRADHA:**  
+Achha. 'Thoda' kaunsi chapter mein hota hai?
+
+Behind Aarav, Kabir silently bends over the desk laughing.
 
 ---
 
-## Scene 3 — 0:20–0:30 — Kabir Makes It Worse
+## Scene 3 — 0:20–0:30 — Shradha Makes It Worse
 
-Anaya flips through her notebook and hands Aarav a page.
+Shradha flips through her notebook, finds a difficult question, and slides it toward Aarav.
 
-**ANAYA:**  
-Ye wala question nahi hua. Tu samjha dega?
+**SHRADHA:**  
+Ye wala nahi hua. Tu samjha dega?
 
-Aarav's face lights up.
+Aarav's nervous face instantly becomes serious.
 
 **AARAV:**  
-Haan, haan.
+Haan, ye toh easy hai.
 
-He pulls a chair over and sits beside her.
+He pulls a chair over and starts explaining with a pen, drawing quick steps on the page.
 
-Before he can explain, Kabir walks over and loudly taps the desk.
+Shradha leans closer, follows the solution, and then looks at him.
+
+**SHRADHA:**  
+Oho... dimaag bhi hai tumhare paas.
+
+Aarav smiles.
+
+Before he can answer, Kabir loudly taps the desk.
 
 **KABIR:**  
 Oho! Private tuition chal raha hai kya?
 
-Aarav looks horrified.
+Aarav turns red.
 
-Anaya laughs.
+Shradha laughs openly.
 
-**ANAYA:**  
-Isko chup karao pehle.
+**SHRADHA:**  
+Isko pehle class se bahar karo.
 
-Aarav points at Kabir.
-
-**AARAV:**  
-Bhai, please.
-
-Kabir backs away with both hands raised.
+Kabir backs away, hands raised.
 
 **KABIR:**  
-Hum toh bas society ki seva kar rahe the.
+Hum toh bas desh ki seva kar rahe the.
 
 Nearby students start laughing.
 
@@ -121,33 +136,35 @@ Nearby students start laughing.
 
 ## Scene 4 — 0:30–0:40 — Unexpected Win
 
-Sharma Sir enters carrying books.
+Sharma Sir enters carrying books. Kabir jumps back to his seat.
 
-Kabir rushes back to his seat. Aarav quickly points at the notebook and explains the question to Anaya while Sharma Sir starts writing on the board.
+Aarav quickly finishes explaining the question while Sharma Sir starts writing on the board.
 
-Anaya nods.
+Shradha looks at the page, then at Aarav.
 
-**ANAYA:**  
+**SHRADHA:**  
 Accha samjha deta hai tu.
 
-Aarav tries to stay calm.
+Aarav tries to stay normal.
 
 **AARAV:**  
 Haan... thoda.
 
-Anaya smiles and taps his notebook.
+Shradha taps his notebook with her pen.
 
-**ANAYA:**  
-Kal bhi samjha dena.
+**SHRADHA:**  
+Kal bhi samjha dena. Ek aur question hai.
 
 Aarav's eyes widen.
 
 From the back, Kabir silently gives him a huge thumbs-up.
 
-Aarav tries not to smile.
+Shradha catches Kabir's signal, looks at Aarav, and smiles knowingly.
+
+Aarav hides his face behind the notebook.
 
 **CUT TO BLACK.**
 
 ### End Card
 
-> **Padhai humesha nahi hoti thi... bahane bahut hote the.**
+> **Padhai ka bahana tha... baat karni thi.**
