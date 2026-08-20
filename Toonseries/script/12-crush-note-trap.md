@@ -9,13 +9,15 @@
 
 ## Premise
 
-Aarav writes a harmless note for Anaya. Kabir promises to deliver it quietly. Obviously, he does the exact opposite.
+Aarav writes a harmless note for Shradha Pandey. Kabir promises to deliver it quietly. Obviously, he does the exact opposite.
 
 ---
 
 ## Scene 1 — 0:00–0:10 — The Note
 
-Class is quiet during a boring lesson. Aarav writes on a tiny folded paper while checking the teacher and Anaya every few seconds.
+Class is quiet during a boring lesson. Aarav writes on a tiny folded paper while checking the teacher and Shradha every few seconds.
+
+Shradha is solving a math question, then turns the pen around and quietly taps it on her desk while thinking.
 
 Kabir bends over.
 
@@ -42,17 +44,19 @@ Kabir reads the first line, grins, and nods like a serious man.
 **KABIR:**  
 Chinta mat kar. Main hoon na.
 
+Shradha looks up from the front row for a second. Aarav instantly looks away.
+
 ---
 
 ## Scene 2 — 0:10–0:20 — The Wrong Delivery
 
 The teacher turns to write on the board.
 
-Kabir slides the folded note across one desk, then another, acting like a professional delivery guy.
+Kabir slides the folded note across one desk, then another, acting like a professional delivery guy while ducking whenever the teacher turns.
 
-It misses Anaya and lands on Raghav's desk.
+The note misses Shradha and lands on Raghav's desk.
 
-Raghav picks it up, looks around, then opens it.
+Raghav picks it up, adjusts his glasses, looks around, then opens it.
 
 Aarav sees it from the back and goes pale.
 
@@ -71,17 +75,19 @@ Forward kar de bhai.
 
 Raghav calmly pushes it onward.
 
+Shradha notices the paper moving toward her and watches the whole operation with a tiny smile.
+
 ---
 
 ## Scene 3 — 0:20–0:30 — Public Tamasha
 
-The note finally reaches Anaya.
+The note reaches Shradha.
 
 She opens it while Aarav watches nervously.
 
-Anaya reads, smiles, then looks toward Kabir.
+Shradha reads, smiles, folds it neatly, and looks straight toward Kabir.
 
-Kabir points at Aarav immediately.
+Kabir instantly points at Aarav.
 
 **KABIR:**  
 Main toh sirf courier hoon.
@@ -91,19 +97,24 @@ Aarav grabs Kabir's collar and pulls him down behind the desk.
 **AARAV:**  
 Tu marwaayega mujhe!
 
-Anaya starts laughing quietly.
+Shradha starts laughing quietly.
 
-Meera notices and looks over.
+Meera leans toward her.
 
 **MEERA:**  
-Kya hua?
+Kya likha hai?
 
-Anaya folds the note and taps it against her notebook.
+Shradha folds the note and taps it on her notebook.
 
-**ANAYA:**  
-Kuch nahi. Bahut bada poet hai koi.
+**SHRADHA:**  
+Kuch nahi. Koi bada poet nikla hai.
 
-Aarav covers his face with both hands.
+Kabir pops his head back up.
+
+**KABIR:**  
+Poet nahi, bechara patient hai.
+
+Shradha laughs again. Aarav covers his face.
 
 ---
 
@@ -115,13 +126,15 @@ Aarav finds the folded note back on his desk.
 
 He opens it.
 
-There is one extra line written underneath his original note.
+Under his original line, Shradha has written:
 
-**"Kal canteen mein milna. — Anaya"**
+**"Kal canteen mein milna. — Shradha"**
 
-Aarav stares at it.
+Aarav stares at it in complete shock.
 
-Kabir appears over his shoulder and screams without warning.
+Kabir appears over his shoulder.
+
+His eyes widen.
 
 **KABIR:**  
 OHHHH BHAI!
@@ -131,14 +144,14 @@ Aarav instantly shoves the note into his pocket.
 **AARAV:**  
 Chilla kyun raha hai, pagal!
 
-Kabir runs down the corridor laughing.
+Kabir runs into the corridor laughing.
 
 **KABIR:**  
 Bhai ka scene set ho gaya!
 
-Aarav chases him.
+Aarav chases him down the corridor.
 
-Anaya watches them go, smiling and shaking her head.
+Shradha watches them go, shakes her head, and smiles.
 
 **CUT TO BLACK.**
 
