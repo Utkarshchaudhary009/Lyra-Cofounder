@@ -1,73 +1,124 @@
 # The Surprise Test
 
-**Type:** Reel
-**Format:** YouTube Short / Animated Reel
-**Duration:** 40 seconds
-**Structure:** 4 scenes × 10 seconds
+**Type:** Reel  
+**Format:** YouTube Short / Animated Reel  
+**Duration:** 40 seconds  
+**Structure:** 4 scenes × 10 seconds  
+**Language:** Natural UP/Bihar school Hinglish  
 **Series:** Toonseries
 
 ## Premise
 
-A normal afternoon class turns into instant panic when Sharma Sir announces a surprise test. Each scene is packed with continuous action for AI video generation.
+A normal afternoon class. Bachchon ka dimaag homework se door hai. Then Sharma Sir says the one line that makes the whole class remember every god they know: surprise test.
 
-## Scene 1 — 0:00–0:10 — The Setup
+## Scene 1 — 0:00–0:10 — Homework Ka Sach
 
-The classroom is noisy and alive: students whisper, exchange notebooks, tap pens, and pass a folded paper behind the desks. Aarav doodles while checking the wall clock. Kabir leans across the aisle, steals Aarav's eraser, points at Aarav's unfinished homework, and shakes his head dramatically.
+The classroom is full of little movements: fans turning, benches squeaking, someone tapping a pen, two boys sharing a notebook, a paper ball rolling under a desk. Aarav is drawing in his notebook instead of finishing homework. Kabir slides his chair closer, steals Aarav's eraser, checks the notebook and starts laughing. Aarav grabs the eraser back while still drawing. Kabir points at the unfinished page.
 
 **KABIR:**  
-Bro... homework kiya?
-
-Aarav snatches the eraser back.
+Oye... homework kiya?
 
 **AARAV:**  
-Which homework?
+Haan.
 
-Kabir points at the exact unfinished page, grins, and starts laughing. The classroom door suddenly opens behind them.
-
-## Scene 2 — 0:10–0:20 — The Sentence
-
-Sharma Sir enters carrying a thick stack of papers. The class noise dies in waves: a paper ball is caught, a notebook shuts, two students straighten up, and someone hides a phone. Sharma Sir places the stack on the desk, taps it into alignment, scans the room, then turns toward the students.
-
-**SHARMA SIR:**  
-Take out a sheet of paper.
-
-A pen drops. Kabir's smile disappears. Aarav slowly turns toward him. Kabir mouths, "No." A student in the back whispers while Sharma Sir starts walking between the desks with the papers.
-
-**STUDENT:**  
-Bhai...
-
-## Scene 3 — 0:20–0:30 — Panic
-
-Aarav rapidly empties his backpack onto the desk: notebook, pencil box, water bottle, old worksheet—no loose paper. Kabir does the same, checks inside a textbook, under the desk, and in his side pocket. Across the aisle, Raghav calmly opens his perfectly organized folder and pulls out a clean sheet before neatly placing his ruler and pen beside it.
-
-Kabir stares at him.
+Kabir looks at the blank page.
 
 **KABIR:**  
-Tu insaan hai?
+Kahan kiya hai, hawa mein?
+
+Aarav shuts the notebook fast.
+
+**AARAV:**  
+Bas last mein hai.
+
+Kabir opens it again.
+
+**KABIR:**  
+Tere last mein kabhi kuch hota bhi hai?
+
+Aarav smirks. Both try not to laugh as footsteps approach.
+
+## Scene 2 — 0:10–0:20 — Woh Line
+
+Sharma Sir enters with a thick stack of papers. The room changes instantly. One student hides his phone, another straightens his shirt, someone kicks a paper ball under the bench. Sharma Sir puts the papers down, cleans a little space on the desk, checks the clock and looks across the room. Kabir whispers to Aarav while still smiling.
+
+**KABIR:**  
+Aaj mood theek lag raha hai sir ka.
+
+Sharma Sir looks directly at Kabir.
+
+Kabir immediately sits straight.
+
+Sharma Sir picks up the papers.
+
+**SHARMA SIR:**  
+Sab log... ek sheet nikaalo.
+
+The whole class freezes. A pen falls. Someone at the back quietly says:
+
+**STUDENT:**  
+Gaya be...
+
+Kabir slowly looks at Aarav like his life is over.
+
+## Scene 3 — 0:20–0:30 — Kagaz Ka Jugaad
+
+Everyone starts searching. Aarav dumps his bag on the desk: books, rough copy, pencil box, old biscuit wrapper, water bottle—no loose sheet. Kabir checks his own bag, then under the desk, then inside his Hindi notebook. Raghav calmly opens a clean folder and takes out one perfect white sheet. Kabir stops searching and stares at him.
+
+**KABIR:**  
+Abe tu school aata hai ya tayari karke aata hai?
+
+Raghav keeps his eyes on the desk.
 
 **RAGHAV:**  
 Preparation.
 
-Raghav starts writing his name while Sharma Sir's footsteps move closer. Aarav finally tears a blank page from the back of his notebook and slides half of it toward Kabir.
-
-## Scene 4 — 0:30–0:40 — The Payoff
-
-Sharma Sir places the question papers on the desks. Kabir flips his paper over, counts the visible questions with his finger, and relaxes.
+Kabir looks at his own mess.
 
 **KABIR:**  
-Question kitne hain?
+Hum bhi prepared hain... bas paper nahi hai.
 
-Aarav scans his paper, flips it over, then checks the back page.
+Aarav tears a clean page from the back of his rough notebook and passes half of it to Kabir.
+
+**KABIR:**  
+Bhai tu devta hai.
+
+Aarav:**  
+Bas chup reh.
+
+Sharma Sir's footsteps come closer.
+
+## Scene 4 — 0:30–0:40 — Aukat Samne Aa Gayi
+
+Sharma Sir places papers on the desks one by one. Kabir flips his paper around, counts the questions with his finger and smiles.
+
+**KABIR:**  
+Bas paanch?
+
+Aarav looks at him suspiciously.
 
 **AARAV:**  
-...Five.
+Page palat.
 
-Kabir exhales in relief.
+Kabir turns the page.
+
+Then another.
+
+Then another.
+
+His smile slowly dies.
 
 **KABIR:**  
-Bas?
+Ye kya be... question hai ya kitab?
 
-Aarav silently holds up the full stack—five pages. Kabir's face drops. Raghav is already writing. Sharma Sir notices Kabir's expression, pauses for half a second, then walks away without saying anything.
+Raghav is already writing. Sharma Sir walks past and gives Kabir one look.
+
+Kabir whispers to Aarav:
+
+**KABIR:**  
+Bhai, aaj ghar phone karke bol dena... humse galti ho gayi.
+
+Aarav tries not to laugh.
 
 **CUT TO BLACK.**
 
@@ -75,4 +126,4 @@ Aarav silently holds up the full stack—five pages. Kabir's face drops. Raghav 
 
 > School ka sabse dangerous sentence:
 >
-> **"Take out a sheet of paper."**
+> **"Ek sheet nikaalo."**
