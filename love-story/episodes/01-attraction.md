@@ -630,6 +630,156 @@ There is no greater factory of fiction than a person who wants certainty.
 
 ---
 
+A few days later, Arjun and Mira sat in the university café after an argument neither of them remembered starting.
+
+They had been discussing the festival's photographs. Mira wanted to upload them as a single album. Arjun thought the photos needed context and wanted a longer post.
+
+"Not everything needs your optimization," Mira said.
+
+"Not everything needs your aesthetic suffering."
+
+"Aesthetic suffering?"
+
+"You know what I mean."
+
+"No, actually."
+
+He laughed.
+
+She did not.
+
+The laughter disappeared between them.
+
+"Sometimes," she said, "you turn every conversation into a contest you have to win."
+
+He leaned back.
+
+"And sometimes you make every conversation ambiguous so you can never be wrong."
+
+She stared at him.
+
+The sentence had landed harder than the argument deserved.
+
+"That's unfair."
+
+"Probably."
+
+"You do know you can say sorry, right?"
+
+He looked at her.
+
+He wanted to say sorry.
+
+He also wanted her to understand that he had been hurt.
+
+Both could be true, but his mind wanted one winner.
+
+"Sorry," he said.
+
+She looked down at her tea.
+
+"Okay."
+
+The argument ended.
+
+Nothing was solved.
+
+They stayed another twenty minutes anyway.
+
+Arjun noticed something that unsettled him: the day had become less pleasant while they were angry.
+
+His first definition suddenly seemed like more than a harmless romantic sentence.
+
+If someone improved your ordinary day, what happened when they didn't?
+
+Did love weaken?
+
+Did it become a bad day?
+
+Or had he simply confused the effect someone had on his mood with the responsibility he imagined the relationship carried?
+
+He didn't know.
+
+He didn't write the question down.
+
+---
+
+That night, Arjun met Sameer outside the hostel gate.
+
+Sameer was sitting on the low boundary wall, scrolling through messages.
+
+"You look like you've lost an argument," Sameer said.
+
+"I haven't."
+
+"Then you've lost something else."
+
+Arjun sat beside him.
+
+After a minute he said, "How do you know when you love someone?"
+
+Sameer looked at him, amused.
+
+"That's what happened?"
+
+"What?"
+
+"You lost an argument and decided to interrogate the universe."
+
+Arjun smiled.
+
+"Seriously."
+
+Sameer put his phone away.
+
+"I don't know."
+
+"That's your answer?"
+
+"That's my answer."
+
+"You've been in a relationship for two years."
+
+"Exactly."
+
+He looked toward the gate where students moved in and out.
+
+"At twenty-two, I used to think certainty was proof. Then I thought uncertainty was proof. Then I thought commitment was proof. Now I think the word proof is the problem."
+
+Arjun was quiet.
+
+"So what is it?"
+
+Sameer shrugged.
+
+"Ask me in ten years."
+
+"That's useless."
+
+"Probably."
+
+They sat quietly.
+
+A scooter passed.
+
+Someone shouted from a balcony.
+
+The city kept being itself.
+
+Finally Sameer said, "Whatever your answer is, remember that another person is not a laboratory designed to confirm it."
+
+Arjun frowned.
+
+"What does that mean?"
+
+"You'll understand later."
+
+Arjun hated that sentence.
+
+He hated it because it sounded like a warning without instructions.
+
+---
+
 That night, Arjun opened a blank document on his laptop.
 
 He wrote a title.
@@ -649,6 +799,20 @@ Finally he took a sheet of paper and wrote one sentence:
 He stared at it.
 
 The sentence felt both embarrassingly simple and strangely enormous.
+
+He added another line:
+
+**I like how I feel when I'm with her.**
+
+Then, underneath it, he stopped.
+
+Was that the same sentence?
+
+It looked similar.
+
+It was not obviously the same.
+
+He crossed out the second line.
 
 He did not know what would happen.
 
